@@ -1,0 +1,12 @@
+#INDENT#/** 
+ * <#one-line description#>.
+ * <p>
+ * <#detailed description#>.
+ *
+ * @param <#name#>  <#description#>
+ * @return          <#description#>
+ */
+public <#return type#> <#method name#>(<#parameters#>) {
+	<#code#>
+	return true;
+}
