@@ -1,0 +1,3 @@
+<jsp:include page="#INSERTION#" flush="true">
+	<jsp:param name="#INSERTION#" value="#INSERTION#"/>
+</jsp:include>

@@ -1,0 +1,5 @@
+<jsp:useBean id="#INSERTION#" class="#INSERTION#" scope="session|application|page|request">
+
+	<!-- put code here to execute when the bean is instantiated -->
+
+</jsp:useBean>

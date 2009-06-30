@@ -1,0 +1,1 @@
+<jsp:useBean id="#INSERTION#" class="#INSERTION#" scope="session|application|page|request"/>

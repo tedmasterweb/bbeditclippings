@@ -1,0 +1,1 @@
+<jsp:getProperty name="#INSERTION#" property="#INSERTION#"/>#INLINE#
