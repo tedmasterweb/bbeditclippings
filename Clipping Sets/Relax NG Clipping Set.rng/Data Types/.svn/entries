@@ -1,0 +1,72 @@
+8
+
+dir
+0
+svn+ssh://www.entropy.ch/Users/liyanage/documents/svnroot/trunk/bbedit-glossaries/relax-ng/Data%20Types
+
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+regex string
+file
+
+
+
+add
+
+Facets
+dir
+
+
+
+add
+
+float
+file
+
+
+
+add
+
+string
+file
+
+
+
+add
+
+data
+file
+
+
+
+add
+
+dateTime
+file
+
+
+
+add
+
+integer
+file
+
+
+
+add
+
+time
+file
+
+
+
+add
+

@@ -1,0 +1,44 @@
+8
+
+dir
+0
+svn+ssh://www.entropy.ch/Users/liyanage/documents/svnroot/trunk/bbedit-glossaries/relax-ng/Compositions
+
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+oneOrMore
+file
+
+
+
+add
+
+optional
+file
+
+
+
+add
+
+choice
+file
+
+
+
+add
+
+interleave
+file
+
+
+
+add
+

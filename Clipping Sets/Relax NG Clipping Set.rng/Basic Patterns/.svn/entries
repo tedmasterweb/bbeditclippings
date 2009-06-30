@@ -1,0 +1,51 @@
+8
+
+dir
+0
+svn+ssh://www.entropy.ch/Users/liyanage/documents/svnroot/trunk/bbedit-glossaries/relax-ng/Basic%20Patterns
+
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+attribute
+file
+
+
+
+add
+
+text
+file
+
+
+
+add
+
+element
+file
+
+
+
+add
+
+value
+file
+
+
+
+add
+
+empty
+file
+
+
+
+add
+
