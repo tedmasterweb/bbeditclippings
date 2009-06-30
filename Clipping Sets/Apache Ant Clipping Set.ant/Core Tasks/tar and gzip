@@ -1,0 +1,2 @@
+#INDENT#<tar tarfile="${dist}/#¥#.tar" basedir="#¥#"/>
+<gzip zipfile="${dist}/#¥#.tar.gz" src="${dist}/#¥#.tar"/> 

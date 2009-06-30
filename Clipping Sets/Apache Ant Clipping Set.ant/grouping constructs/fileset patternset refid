@@ -1,0 +1,3 @@
+#INDENT#<fileset dir="#¥#" casesensitive="yes">
+	<patternset refid="#¥#"/> 
+</fileset> 

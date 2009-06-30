@@ -1,0 +1,6 @@
+#INDENT#<move todir="#¥#">
+	<fileset dir="#¥#">
+		<include name="#¥#"/>
+		<exclude name="#¥#"/>
+	</fileset>
+</move> 

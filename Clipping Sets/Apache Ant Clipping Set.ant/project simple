@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project name="<#project name#>" default="compile" basedir=".">
+
+	<description><#project description#></description>
+	
+	
+	<!-- ============ Global properties section ============ -->
+	<property name="version" value="<#version#>"/>
+	<property name="fullname" value="${ant.project.name}-${version}"/>
+	<property name="jarfile" value="${fullname}.jar"/>
+
+	<property name="src" location="src"/>
+	<property name="lib" location="lib"/>
+	
+	<property name="build" location="build"/>
+	<property name="classes" location="${build}/classes"/>
+	<property name="dist" location="dist"/>
+	
+	<path id="project.class.path">
+		<fileset dir="${lib}">
+			<include name="**/*.jar"/>
+		</fileset>
+	</path>
+	
+
+	<!-- ============ Target section ============ -->
+	<target name="init" description="Prepare packge for compilation">
+		<mkdir dir="${classes}"/>
+		<mkdir dir="${dist}"/>
+		<mkdir dir="${webapp}"/>
+	</target>
+	
+	
+	<target name="compile" depends="init" description="Compile from sources">
+		<!-- Compile the java code from ${src} into ${build} -->
+		<javac srcdir="${src}" destdir="${classes}" classpathref="project.class.path"/>
+	</target>
+
+
+	<target name="jar" depends="compile" description="Package up classes">
+		<jar jarfile="${dist}/${jarfile}" basedir="${classes}"/>
+	</target>	
+
+	<target name="clean" description="clean up" >
+		<delete dir="${build}"/>
+		<delete dir="${dist}"/>
+	</target>
+
+
+</project>
+
+
+
+

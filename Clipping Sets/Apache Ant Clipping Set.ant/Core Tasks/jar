@@ -1,0 +1,10 @@
+#INDENT#<jar destfile="#¥#" basedir="#¥#">
+	<include name="#¥#"/>
+	<manifest>
+		<attribute name="Built-By" value="${user.name}"/>
+		<attribute name="Main-Class " value="#¥#"/>
+		<section name="#¥#">
+		<attribute name="#¥#" value="#¥#"/>
+		</section>
+	</manifest>
+</jar> 

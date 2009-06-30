@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project name="#¥#" default="compile" basedir=".">
+
+	<description>#¥#</description>
+	
+	
+	<!-- ============ Global properties section ============ -->
+	<property name="version" value="#¥#"/>
+	<property name="fullname" value="${ant.project.name}-${version}"/>
+	<property name="jarfile" value="${fullname}.jar"/>
+	<property name="warfile" value="${fullname}.war"/>
+	<property name="deployment-path" value="/java"/>
+
+	<property file="${user.home}/.ant-${ant.project.name}.properties"/>
+	<property file="${user.home}/.ant-global.properties"/>
+	
+	<property name="src" location="src"/>
+	<property name="src.metadata" location="${src}/metadata"/>
+	<property name="src.web" location="${src}/web"/>
+	<property name="src.xslt" location="${src}/xslt"/>
+	<property name="src.java" location="${src}/java"/>
+	<property name="doc" location="doc"/>
+	<property name="lib" location="lib"/>
+	
+	<property name="build" location="build"/>
+	<property name="classes" location="${build}/classes"/>
+	<property name="webapp" location="${build}/webapp"/>
+	<property name="dist" location="dist"/>
+	
+	<path id="project.class.path">
+		<fileset dir="${lib}">
+			<include name="**/*.jar"/>
+		</fileset>
+		<pathelement location="/Developer/Java/J2EE/jakarta-servletapi-4/lib/servlet.jar"/>
+	</path>
+	
+	<filterset id="replace-version" begintoken="@" endtoken="@"> 
+		<filter token="VERSION" value="${version}"/>
+	</filterset> 
+
+
+
+	<!-- ============ Target section ============ -->
+
+	<target name="init" description="Prepare packge for compilation">
+		<!-- Create the time stamp -->
+		<tstamp/>
+		<mkdir dir="${classes}"/>
+		<mkdir dir="${dist}"/>
+		<mkdir dir="${webapp}"/>
+	</target>
+	
+	
+	<target name="compile" depends="init" description="Compile from sources">
+		<!-- Compile the java code from ${src} into ${build} -->
+		<javac srcdir="${src.java}" destdir="${classes}" classpathref="project.class.path"/>
+	</target>
+
+
+	<target name="jar" depends="compile" description="Package up classes">
+		<jar jarfile="${build}/${jarfile}" basedir="${classes}"/>
+	</target>
+	
+	
+	<target name="webapp" depends="jar" description="Assemble the webapp directory">
+
+		<copy todir="${webapp}/WEB-INF">
+			<fileset dir="${src.metadata}/WEB-INF" casesensitive="yes">
+				<include name="**"/>
+			</fileset> 
+			<filterset refid="replace-version"/>
+		</copy>
+		
+		<copy todir="${webapp}/WEB-INF">
+			<fileset dir="${src.metadata}/WEB-INF"/>
+			<filterset refid="replace-version"/>
+		</copy>
+		
+		<copy todir="${webapp}/WEB-INF/lib">
+			<fileset dir="${lib}"/>
+			<fileset dir="${build}">
+				<include name="*.jar"/>
+			</fileset> 
+		</copy>
+		
+		<copy todir="${webapp}/xslt">
+			<fileset dir="${src.xslt}"/>
+		</copy>
+		
+	</target>
+
+
+	<target name="war" depends="clean, webapp" description="Package up distribution in .war file">
+		<!-- Put everything in ${build} into the ${jarfile} file -->
+		<jar jarfile="${dist}/${warfile}" basedir="${webapp}"/>
+	</target>
+	
+
+	<target name="dist" depends="war" description="Package up distribution .tar.gz file">
+
+		<mkdir dir="${dist}/${fullname}"/>
+		<copy todir="${dist}/${fullname}">
+			<fileset dir="${dist}" casesensitive="yes">
+				<include name="${warfile}"/>
+			</fileset> 
+		</copy>
+		
+		<copy file="${doc}/README" tofile="${dist}/${fullname}/README">
+			<filterset refid="replace-version"/>
+		</copy>
+		
+		<!-- Put everything in ${build} into the ${jarfile} file -->
+		
+		<tar tarfile="${dist}/${fullname}.tar" basedir="${dist}/${fullname}"/>
+		<gzip zipfile="${dist}/${fullname}.tar.gz" src="${dist}/${fullname}.tar"/> 
+
+	</target>
+	
+
+	<target name="clean" description="clean up" >
+		<delete dir="${build}"/>
+		<delete dir="${dist}"/>
+	</target>
+
+
+
+
+	<!-- tomcat reload support -->
+	<!-- the tomcat.* properties are expected to be defined in your ~/.ant-global.properties file -->
+	
+	<taskdef name="reload" classname="org.apache.catalina.ant.ReloadTask">
+		<classpath path="${tomcat.ant-jar.classpath}"/> 
+	</taskdef>
+
+	<target name="tomcat-reload" depends="webapp" description="Reload webapp in tomcat container">
+		<reload url="${tomcat.url}" username="${tomcat.username}" password="${tomcat.password}" path="${deployment-path}"/>
+	</target>
+
+</project>
+
+
+
+

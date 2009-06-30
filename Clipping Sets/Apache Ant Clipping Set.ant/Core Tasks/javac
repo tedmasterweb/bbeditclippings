@@ -1,0 +1,4 @@
+#INDENT#<javac srcdir="${src}"
+	destdir="${classes}"
+	classpathref="${project.class.path}"
+/> 

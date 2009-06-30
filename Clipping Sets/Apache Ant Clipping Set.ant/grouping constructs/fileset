@@ -1,0 +1,8 @@
+#INDENT#<fileset dir="#¥#" casesensitive="yes">
+	<include name="#¥#"/>
+	<exclude name="#¥#"/>
+	<filename name="#¥#"/>
+	<not>
+		<filename name="#¥#"/>
+	</not>
+</fileset> 

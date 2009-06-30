@@ -1,0 +1,10 @@
+#INDENT#<classpath>
+	<pathelement location="<##>"/>
+	<fileset dir="lib">
+		<include name="**/*.jar"/>
+	</fileset>
+	<dirset dir="<##>">
+		<include name="<##>"/>
+		<exclude name="<##>"/>
+	</dirset>
+</classpath> 

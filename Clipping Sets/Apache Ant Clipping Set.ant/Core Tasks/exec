@@ -1,0 +1,4 @@
+#INDENT#<exec dir="#¥#" executable="#¥#" output="#¥#">
+	<arg value="#¥#"/> 
+	<env key="#¥#" value="#¥#"/>
+</exec>

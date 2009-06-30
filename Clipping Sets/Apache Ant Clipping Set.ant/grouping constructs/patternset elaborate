@@ -1,0 +1,15 @@
+#INDENT#<patternset id="">
+	<include name="#¥#"/>
+	<include name="#¥#" if="#¥#"/>
+	<include name="#¥#" unless="#¥#"/>
+	<exclude name="#¥#"/>
+
+	<includesfile name="#¥#"/>
+	<excludesfile name="#¥#"/>
+	<includesfile name="#¥#" if="#¥#"/>
+	<includesfile name="#¥#" unless="#¥#"/>
+	
+	<patternset id="#¥#">
+		...
+	</patternset>
+</patternset> 

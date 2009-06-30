@@ -1,0 +1,4 @@
+#INDENT#<patternset id="#¥#">
+	<include name="#¥#**/*.java"/>
+	<exclude name="#¥#"/>
+</patternset> 
