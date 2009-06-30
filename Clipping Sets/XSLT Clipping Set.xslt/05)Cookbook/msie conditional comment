@@ -1,0 +1,16 @@
+<xsl:call-template name="conditionalComment">
+   <xsl:with-param name="qualifier" select="'lt IE 7'"/>
+   <xsl:with-param name="contentRTF">
+		  &lt;element ...> ... &lt;/script>
+   </xsl:with-param>
+</xsl:call-template>
+
+
+<!-- from http://www.nickfitz.co.uk/2005/10/27/ie-conditional-comments-in-xslt-10 -->
+<xsl:template name="conditionalComment">
+   <xsl:param name="qualifier" select="'lt IE 7'"/>
+   <xsl:param name="contentRTF" select="''" />
+   <xsl:comment>[if <xsl:value-of select="$qualifier"/>]<![CDATA[>]]>
+      <xsl:copy-of select="$contentRTF" />
+   <![CDATA[<![endif]]]></xsl:comment>
+</xsl:template>
