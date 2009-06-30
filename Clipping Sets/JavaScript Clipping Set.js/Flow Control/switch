@@ -1,0 +1,12 @@
+#indent#switch (<#value#>) {
+
+	case <#value#>:
+    	<#code#>
+    	break;
+
+	default:
+    	alert("Sie sind sehr bescheiden");
+    	<#code#>
+    	break;
+
+}

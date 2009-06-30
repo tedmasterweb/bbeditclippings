@@ -1,0 +1,23 @@
+#indent#var request = createXMLHttpRequest();
+
+function sendRequest(url) {
+
+	request.onreadystatechange = requestStateCallback;
+	request.open("<#method#>", url, false, <#userName#>, <#password#>);
+	request.send();
+	
+}
+
+function requestStateCallback() {
+
+    if (req.readyState != 4) return;
+    
+	if (req.status == 200) {
+		<#result processing#>
+		// useful: request.responseText, request.responseXML
+	} else {
+		<#error handling#>
+		// useful: request.statusText
+	}
+
+}

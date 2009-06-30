@@ -1,0 +1,3 @@
+#indent#function createXMLHttpRequest() {
+	isMsie() ? new ActiveXObject("Microsoft.XMLHTTP") : new XMLHttpRequest();
+}

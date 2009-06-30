@@ -1,0 +1,16 @@
+var globalWidgetVersion = 0;
+#indent#function findWidgetVersion() {
+	var cmd = "echo \"<xsl:stylesheet version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform'><xsl:output omit-xml-declaration='yes'/><xsl:template match='/*'><xsl:value-of select='//string[preceding-sibling::key[1] = &quot;CFBundleVersion&quot;]'/></xsl:template></xsl:stylesheet>\" | xsltproc - Info.plist";
+	globalWidgetVersion = widget.system(cmd, findWidgetVersionHandler);
+}
+
+function findWidgetVersionHandler() {
+	if (globalWidgetVersion.status) {
+	    alert("widget.system() failed. " + globalWidgetVersion.errorString);
+	    return;
+	}
+	var version = globalWidgetVersion.outputString;
+	<#do something#>
+}
+
+

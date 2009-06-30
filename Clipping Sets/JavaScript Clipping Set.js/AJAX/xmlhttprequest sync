@@ -1,0 +1,8 @@
+#indent#function sendRequest(url) {
+	var request = createXMLHttpRequest();
+	request.open("<#method#>", url, false, <#userName#>, <#password#>);
+	request.send();
+	if (request.status == 200) return request.responseText
+	<#error handling#>
+	return false;
+}

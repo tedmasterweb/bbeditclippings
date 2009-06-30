@@ -1,0 +1,3 @@
+#indent#$H(<#expression#>).each(function(pair) {
+	<# do something with pair.key and pair.value #>
+});

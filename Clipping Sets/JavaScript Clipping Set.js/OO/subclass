@@ -1,0 +1,8 @@
+#indent#function <#subclass name#>(<#constructor args#>) {
+
+	this.<#method name#> = function(<#method args#>) {
+		<#code involving this references#>
+	};
+
+}
+<#subclass name#>.prototype = new <#superclass name#>();

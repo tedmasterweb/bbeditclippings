@@ -1,0 +1,6 @@
+#indent#var childs = <#nodelist expression #>;
+var i = childs.length;
+for (var i = 0; i < childs.length; i++) {
+	var e = childs.item(i);
+	<#code#>
+}

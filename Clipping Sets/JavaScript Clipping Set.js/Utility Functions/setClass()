@@ -1,0 +1,4 @@
+#indent#function setClass(element, classname) {
+	var classAttribute = isMsie() ? 'className' : 'class';
+	element.setAttribute(classAttribute, classname);
+}

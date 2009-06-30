@@ -1,0 +1,11 @@
+#indent#var callback = function (systemCall) {
+	if (systemCall.status) {
+	    alert("widget.system() failed. " + systemCall.errorString);
+	    return;
+	}
+	var output = systemCall.outputString;
+	alert('widget result: ' + output);
+}
+
+var systemCall = widget.system("<#command#>", callback);
+

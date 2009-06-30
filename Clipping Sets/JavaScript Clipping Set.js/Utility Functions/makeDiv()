@@ -1,0 +1,6 @@
+#indent#function makeDiv(parent, classname) {
+	var div = document.createElement('div');
+	setClass(div, classname);
+	parent.appendChild(div);
+	return div;
+}

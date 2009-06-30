@@ -1,0 +1,3 @@
+#indent#function isMsie() {
+	return navigator.userAgent.toLowerCase().indexOf("msie") != -1; 
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<title>JavaScript Playground</title>
+
+	<script type="text/javascript">
+	
+		function doSomething() {
+
+			var val = document.getElementById('input_text').value;		
+			alert("Hello World " + val);
+		
+		}
+		
+		
+	</script>
+
+</head>
+<body>
+
+	<input id="input_text" type="text"><br>
+	<a href="javascript:doSomething()">Do it!</a>
+
+</body>
+</html>

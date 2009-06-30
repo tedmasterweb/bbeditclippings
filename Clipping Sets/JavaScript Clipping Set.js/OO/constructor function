@@ -1,0 +1,9 @@
+#indent#function <#object/constructor name#>(<#constructor args#>) {
+
+	this.<#property name#> = <#value from constructor args#>;
+	
+	this.<#method name#> = function(<#method args#>) {
+		<#code involving this references#>
+	};
+
+}

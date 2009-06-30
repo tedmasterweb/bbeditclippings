@@ -1,0 +1,2 @@
+#indent#var match = <#string#>.match(/<#regex literal#>/<#flags#>);
+<#use boolean match, match.length and match[n]#>

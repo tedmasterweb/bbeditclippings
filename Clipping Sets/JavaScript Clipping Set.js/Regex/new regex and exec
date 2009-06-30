@@ -1,0 +1,3 @@
+#indent#var re = new RegExp('<#regex string#>', '<#regex flags#>');
+var match = re.exec(<#target#>);
+<#use boolean match, match.length and match[n]#>

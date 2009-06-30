@@ -1,0 +1,3 @@
+#indent#function elementNamed(name) {
+	return document.getElementsByTagName(name).item(0);
+}

@@ -1,0 +1,1 @@
+#indent#var replaced = <#string#>.replace(/<#regex literal#>/<#flags#>, '<#replacement#>');

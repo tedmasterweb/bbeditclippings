@@ -1,0 +1,7 @@
+#indent#try {
+	<#code#>
+} catch(error) {
+	<#code#>
+} finally {
+	<#code#>
+}
