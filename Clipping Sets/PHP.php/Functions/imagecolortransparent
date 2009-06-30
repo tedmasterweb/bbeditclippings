@@ -1,0 +1,2 @@
+#indent#
+imagecolortransparent(#placeholderstart# resource image #placeholderend##placeholderstart#[, int color ]#placeholderend#)#placeholderstart# ; #placeholderend#

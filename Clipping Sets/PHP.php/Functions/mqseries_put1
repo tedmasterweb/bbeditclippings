@@ -1,0 +1,2 @@
+#indent#
+mqseries_put1(#placeholderstart# resource hconn #placeholderend##placeholderstart#, resource objDesc #placeholderend##placeholderstart#, resource msgDesc #placeholderend##placeholderstart#, resource pmo #placeholderend##placeholderstart#, string buffer #placeholderend##placeholderstart#, resource compCode #placeholderend##placeholderstart#, resource reason #placeholderend#)#placeholderstart# ; #placeholderend#

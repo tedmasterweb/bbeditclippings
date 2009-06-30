@@ -1,0 +1,2 @@
+#indent#
+newt_grid_add_components_to_form(#placeholderstart# resource grid #placeholderend##placeholderstart#, resource form #placeholderend##placeholderstart#, bool recurse #placeholderend#)#placeholderstart# ; #placeholderend#

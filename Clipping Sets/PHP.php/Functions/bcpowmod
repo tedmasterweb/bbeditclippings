@@ -1,0 +1,2 @@
+#indent#
+bcpowmod(#placeholderstart# string left_operand #placeholderend##placeholderstart#, string right_operand #placeholderend##placeholderstart#, string modulus #placeholderend##placeholderstart#[, int scale ]#placeholderend#)#placeholderstart# ; #placeholderend#

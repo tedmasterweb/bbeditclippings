@@ -1,0 +1,2 @@
+#indent#
+openal_buffer_get(#placeholderstart# resource buffer #placeholderend##placeholderstart#, int property #placeholderend#)#placeholderstart# ; #placeholderend#

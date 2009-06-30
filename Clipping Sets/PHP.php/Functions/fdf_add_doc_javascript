@@ -1,0 +1,2 @@
+#indent#
+fdf_add_doc_javascript(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string script_name #placeholderend##placeholderstart#, string script_code #placeholderend#)#placeholderstart# ; #placeholderend#

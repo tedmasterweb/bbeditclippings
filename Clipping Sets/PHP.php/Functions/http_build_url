@@ -1,0 +1,2 @@
+#indent#
+http_build_url(#placeholderstart#[ mixed url ]#placeholderend##placeholderstart#[, mixed parts ]#placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, array new_url ]#placeholderend#)#placeholderstart# ; #placeholderend#

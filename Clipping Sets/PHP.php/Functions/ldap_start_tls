@@ -1,0 +1,2 @@
+#indent#
+ldap_start_tls(#placeholderstart# resource link #placeholderend#)#placeholderstart# ; #placeholderend#

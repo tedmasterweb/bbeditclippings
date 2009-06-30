@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMText #placeholderend#->substringData(#placeholderstart# int offset #placeholderend##placeholderstart#, int count #placeholderend#)#placeholderstart# ; #placeholderend#

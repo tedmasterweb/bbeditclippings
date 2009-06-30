@@ -1,0 +1,2 @@
+#indent#
+set_magic_quotes_runtime(#placeholderstart# bool new_setting #placeholderend#)#placeholderstart# ; #placeholderend#

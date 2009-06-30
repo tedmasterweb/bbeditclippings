@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->createEntityReference(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

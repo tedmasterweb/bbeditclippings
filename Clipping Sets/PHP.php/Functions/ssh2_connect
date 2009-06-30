@@ -1,0 +1,2 @@
+#indent#
+ssh2_connect(#placeholderstart# string host #placeholderend##placeholderstart#[, int port ]#placeholderend##placeholderstart#[, array methods ]#placeholderend##placeholderstart#[, array callbacks ]#placeholderend#)#placeholderstart# ; #placeholderend#

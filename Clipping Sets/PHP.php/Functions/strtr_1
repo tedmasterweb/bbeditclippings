@@ -1,0 +1,2 @@
+#indent#
+strtr(#placeholderstart# string str #placeholderend##placeholderstart#, string from #placeholderend##placeholderstart#, string to #placeholderend#)#placeholderstart# ; #placeholderend#

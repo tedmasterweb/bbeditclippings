@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->posterizeImage(#placeholderstart# int levels #placeholderend##placeholderstart#, bool dither #placeholderend#)#placeholderstart# ; #placeholderend#

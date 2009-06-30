@@ -1,0 +1,2 @@
+#indent#
+udm_close_stored(#placeholderstart# resource agent #placeholderend##placeholderstart#, int link #placeholderend#)#placeholderstart# ; #placeholderend#

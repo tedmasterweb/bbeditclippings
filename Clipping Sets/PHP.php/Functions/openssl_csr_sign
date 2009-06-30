@@ -1,0 +1,2 @@
+#indent#
+openssl_csr_sign(#placeholderstart# mixed csr #placeholderend##placeholderstart#, mixed cacert #placeholderend##placeholderstart#, mixed priv_key #placeholderend##placeholderstart#, int days #placeholderend##placeholderstart#[, array configargs ]#placeholderend##placeholderstart#[, int serial ]#placeholderend#)#placeholderstart# ; #placeholderend#

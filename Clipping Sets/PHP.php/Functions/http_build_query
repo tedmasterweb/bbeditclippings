@@ -1,0 +1,2 @@
+#indent#
+http_build_query(#placeholderstart# array formdata #placeholderend##placeholderstart#[, string numeric_prefix ]#placeholderend##placeholderstart#[, string arg_separator ]#placeholderend#)#placeholderstart# ; #placeholderend#

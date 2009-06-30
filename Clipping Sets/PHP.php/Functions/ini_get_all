@@ -1,0 +1,2 @@
+#indent#
+ini_get_all(#placeholderstart#[ string extension ]#placeholderend##placeholderstart#[, bool details ]#placeholderend#)#placeholderstart# ; #placeholderend#

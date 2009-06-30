@@ -1,0 +1,2 @@
+#indent#
+libxml_use_internal_errors(#placeholderstart#[ bool use_errors ]#placeholderend#)#placeholderstart# ; #placeholderend#

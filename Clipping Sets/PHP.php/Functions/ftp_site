@@ -1,0 +1,2 @@
+#indent#
+ftp_site(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, string command #placeholderend#)#placeholderstart# ; #placeholderend#

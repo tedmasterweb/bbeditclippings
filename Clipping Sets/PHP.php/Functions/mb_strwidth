@@ -1,0 +1,2 @@
+#indent#
+mb_strwidth(#placeholderstart# string str #placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

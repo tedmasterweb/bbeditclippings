@@ -1,0 +1,2 @@
+#indent#
+inotify_rm_watch(#placeholderstart# resource inotify_instance #placeholderend##placeholderstart#, int watch_descriptor #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->getStrokeColor(#placeholderstart# ImagickPixel stroke_color #placeholderend#)#placeholderstart# ; #placeholderend#

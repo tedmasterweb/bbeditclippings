@@ -1,0 +1,2 @@
+#indent#
+gnupg_decryptverify(#placeholderstart# resource identifier #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, string plaintext #placeholderend#)#placeholderstart# ; #placeholderend#

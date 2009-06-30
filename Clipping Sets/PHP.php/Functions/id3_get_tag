@@ -1,0 +1,2 @@
+#indent#
+id3_get_tag(#placeholderstart# string filename #placeholderend##placeholderstart#[, int version ]#placeholderend#)#placeholderstart# ; #placeholderend#

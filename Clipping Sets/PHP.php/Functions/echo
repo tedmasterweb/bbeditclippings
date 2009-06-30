@@ -1,0 +1,2 @@
+#indent#
+echo(#placeholderstart# string arg1 #placeholderend##placeholderstart#[, string ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

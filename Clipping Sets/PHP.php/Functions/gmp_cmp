@@ -1,0 +1,2 @@
+#indent#
+gmp_cmp(#placeholderstart# resource a #placeholderend##placeholderstart#, resource b #placeholderend#)#placeholderstart# ; #placeholderend#

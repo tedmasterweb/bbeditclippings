@@ -1,0 +1,2 @@
+#indent#
+array_walk_recursive(#placeholderstart# array input #placeholderend##placeholderstart#, callback funcname #placeholderend##placeholderstart#[, mixed userdata ]#placeholderend#)#placeholderstart# ; #placeholderend#

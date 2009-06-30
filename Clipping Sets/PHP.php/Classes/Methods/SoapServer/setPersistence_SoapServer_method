@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapServer #placeholderend#->setPersistence(#placeholderstart# string mode #placeholderend#)#placeholderstart# ; #placeholderend#

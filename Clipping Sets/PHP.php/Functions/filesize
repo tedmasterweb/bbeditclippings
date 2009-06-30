@@ -1,0 +1,2 @@
+#indent#
+filesize(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

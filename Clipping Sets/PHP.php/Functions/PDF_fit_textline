@@ -1,0 +1,2 @@
+#indent#
+PDF_fit_textline(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

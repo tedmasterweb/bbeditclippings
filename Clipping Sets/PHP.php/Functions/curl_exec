@@ -1,0 +1,2 @@
+#indent#
+curl_exec(#placeholderstart# resource ch #placeholderend#)#placeholderstart# ; #placeholderend#

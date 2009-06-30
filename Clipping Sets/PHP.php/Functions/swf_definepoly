@@ -1,0 +1,2 @@
+#indent#
+swf_definepoly(#placeholderstart# int objid #placeholderend##placeholderstart#, array coords #placeholderend##placeholderstart#, int npoints #placeholderend##placeholderstart#, float width #placeholderend#)#placeholderstart# ; #placeholderend#

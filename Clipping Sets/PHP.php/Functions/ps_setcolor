@@ -1,0 +1,2 @@
+#indent#
+ps_setcolor(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string type #placeholderend##placeholderstart#, string colorspace #placeholderend##placeholderstart#, float c1 #placeholderend##placeholderstart#, float c2 #placeholderend##placeholderstart#, float c3 #placeholderend##placeholderstart#, float c4 #placeholderend#)#placeholderstart# ; #placeholderend#

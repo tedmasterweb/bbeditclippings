@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageColorspace(#placeholderstart# int colorspace #placeholderend#)#placeholderstart# ; #placeholderend#

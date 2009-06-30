@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setStrokeLineJoin(#placeholderstart# int linejoin #placeholderend#)#placeholderstart# ; #placeholderend#

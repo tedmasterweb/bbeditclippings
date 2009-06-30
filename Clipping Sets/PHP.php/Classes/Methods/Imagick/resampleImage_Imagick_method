@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->resampleImage(#placeholderstart# float x_resolution #placeholderend##placeholderstart#, float y_resolution #placeholderend##placeholderstart#, int filter #placeholderend##placeholderstart#, float blur #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->getDelayed(#placeholderstart# array keys #placeholderend##placeholderstart#[, bool with_cas ]#placeholderend##placeholderstart#[, callback value_cb ]#placeholderend#)#placeholderstart# ; #placeholderend#

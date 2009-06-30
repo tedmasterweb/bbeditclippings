@@ -1,0 +1,2 @@
+#indent#
+hw_document_bodytag(#placeholderstart# int hw_document #placeholderend##placeholderstart#[, string prefix ]#placeholderend#)#placeholderstart# ; #placeholderend#

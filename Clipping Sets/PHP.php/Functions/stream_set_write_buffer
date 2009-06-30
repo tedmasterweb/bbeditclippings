@@ -1,0 +1,2 @@
+#indent#
+stream_set_write_buffer(#placeholderstart# resource stream #placeholderend##placeholderstart#, int buffer #placeholderend#)#placeholderstart# ; #placeholderend#

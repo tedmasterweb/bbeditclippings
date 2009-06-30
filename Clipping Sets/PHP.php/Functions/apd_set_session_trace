@@ -1,0 +1,2 @@
+#indent#
+apd_set_session_trace(#placeholderstart# int debug_level #placeholderend##placeholderstart#[, string dump_directory ]#placeholderend#)#placeholderstart# ; #placeholderend#

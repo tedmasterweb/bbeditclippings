@@ -1,0 +1,2 @@
+#indent#
+session_set_save_handler(#placeholderstart# callback open #placeholderend##placeholderstart#, callback close #placeholderend##placeholderstart#, callback read #placeholderend##placeholderstart#, callback write #placeholderend##placeholderstart#, callback destroy #placeholderend##placeholderstart#, callback gc #placeholderend#)#placeholderstart# ; #placeholderend#

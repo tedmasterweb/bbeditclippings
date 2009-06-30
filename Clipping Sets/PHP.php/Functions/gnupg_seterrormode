@@ -1,0 +1,2 @@
+#indent#
+gnupg_seterrormode(#placeholderstart# resource identifier #placeholderend##placeholderstart#, int errormode #placeholderend#)#placeholderstart# ; #placeholderend#

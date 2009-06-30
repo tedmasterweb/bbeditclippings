@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").removeClass( #placeholderstart#[String ''(optional)'' class]#placeholderend# )

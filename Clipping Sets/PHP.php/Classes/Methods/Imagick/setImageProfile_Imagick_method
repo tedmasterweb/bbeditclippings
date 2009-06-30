@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageProfile(#placeholderstart# string name #placeholderend##placeholderstart#, string profile #placeholderend#)#placeholderstart# ; #placeholderend#

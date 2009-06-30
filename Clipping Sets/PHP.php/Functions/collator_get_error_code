@@ -1,0 +1,2 @@
+#indent#
+collator_get_error_code(#placeholderstart# Collator coll #placeholderend#)#placeholderstart# ; #placeholderend#

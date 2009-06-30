@@ -1,0 +1,2 @@
+#indent#
+shm_attach(#placeholderstart# int key #placeholderend##placeholderstart#[, int memsize ]#placeholderend##placeholderstart#[, int perm ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ncurses_mouseinterval(#placeholderstart# int milliseconds #placeholderend#)#placeholderstart# ; #placeholderend#

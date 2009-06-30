@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# streamWrapper #placeholderend#->dir_opendir(#placeholderstart# string path #placeholderend##placeholderstart#, int options #placeholderend#)#placeholderstart# ; #placeholderend#

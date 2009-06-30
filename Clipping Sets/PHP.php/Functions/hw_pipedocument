@@ -1,0 +1,2 @@
+#indent#
+hw_pipedocument(#placeholderstart# int connection #placeholderend##placeholderstart#, int objectID #placeholderend##placeholderstart#[, array url_prefixes ]#placeholderend#)#placeholderstart# ; #placeholderend#

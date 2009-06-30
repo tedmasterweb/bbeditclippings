@@ -1,0 +1,2 @@
+#indent#
+fseek(#placeholderstart# resource handle #placeholderend##placeholderstart#, int offset #placeholderend##placeholderstart#[, int whence ]#placeholderend#)#placeholderstart# ; #placeholderend#

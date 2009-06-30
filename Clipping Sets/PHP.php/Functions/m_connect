@@ -1,0 +1,2 @@
+#indent#
+m_connect(#placeholderstart# resource conn #placeholderend#)#placeholderstart# ; #placeholderend#

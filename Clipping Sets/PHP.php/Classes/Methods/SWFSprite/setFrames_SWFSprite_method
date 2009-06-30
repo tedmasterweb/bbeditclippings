@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFSprite #placeholderend#->setFrames(#placeholderstart# int number #placeholderend#)#placeholderstart# ; #placeholderend#

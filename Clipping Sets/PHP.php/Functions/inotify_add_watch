@@ -1,0 +1,2 @@
+#indent#
+inotify_add_watch(#placeholderstart# resource inotify_instance #placeholderend##placeholderstart#, string pathname #placeholderend##placeholderstart#, int mask #placeholderend#)#placeholderstart# ; #placeholderend#

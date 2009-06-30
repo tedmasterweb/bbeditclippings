@@ -1,0 +1,2 @@
+#indent#
+intval(#placeholderstart# mixed var #placeholderend##placeholderstart#[, int base ]#placeholderend#)#placeholderstart# ; #placeholderend#

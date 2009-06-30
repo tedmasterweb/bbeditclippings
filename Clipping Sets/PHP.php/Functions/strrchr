@@ -1,0 +1,2 @@
+#indent#
+strrchr(#placeholderstart# string haystack #placeholderend##placeholderstart#, mixed needle #placeholderend#)#placeholderstart# ; #placeholderend#

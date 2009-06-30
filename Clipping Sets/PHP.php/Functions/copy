@@ -1,0 +1,2 @@
+#indent#
+copy(#placeholderstart# string source #placeholderend##placeholderstart#, string dest #placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

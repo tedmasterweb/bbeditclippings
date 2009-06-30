@@ -1,0 +1,2 @@
+#indent#
+fdf_error(#placeholderstart#[ int error_code ]#placeholderend#)#placeholderstart# ; #placeholderend#

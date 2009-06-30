@@ -1,0 +1,2 @@
+#indent#
+fnmatch(#placeholderstart# string pattern #placeholderend##placeholderstart#, string string #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

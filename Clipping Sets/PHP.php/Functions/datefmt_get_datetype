@@ -1,0 +1,2 @@
+#indent#
+datefmt_get_datetype(#placeholderstart# IntlDateFormatter fmt #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageBorderColor(#placeholderstart# mixed border #placeholderend#)#placeholderstart# ; #placeholderend#

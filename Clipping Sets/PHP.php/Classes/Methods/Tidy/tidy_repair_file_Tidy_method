@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Tidy #placeholderend#->tidy_repair_file(#placeholderstart# string filename #placeholderend##placeholderstart#[, mixed config ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend##placeholderstart#[, bool use_include_path ]#placeholderend#)#placeholderstart# ; #placeholderend#

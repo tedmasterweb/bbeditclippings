@@ -1,0 +1,2 @@
+#indent#
+xmlwriter_flush(#placeholderstart# resource xmlwriter #placeholderend##placeholderstart#[, bool empty ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+iconv(#placeholderstart# string in_charset #placeholderend##placeholderstart#, string out_charset #placeholderend##placeholderstart#, string str #placeholderend#)#placeholderstart# ; #placeholderend#

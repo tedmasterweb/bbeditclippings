@@ -1,0 +1,2 @@
+#indent#
+apache_note(#placeholderstart# string note_name #placeholderend##placeholderstart#[, string note_value ]#placeholderend#)#placeholderstart# ; #placeholderend#

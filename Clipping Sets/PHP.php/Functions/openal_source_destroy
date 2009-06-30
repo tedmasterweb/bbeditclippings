@@ -1,0 +1,2 @@
+#indent#
+openal_source_destroy(#placeholderstart# resource source #placeholderend#)#placeholderstart# ; #placeholderend#

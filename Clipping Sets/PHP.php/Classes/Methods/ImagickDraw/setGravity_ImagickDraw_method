@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setGravity(#placeholderstart# int gravity #placeholderend#)#placeholderstart# ; #placeholderend#

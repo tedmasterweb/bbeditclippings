@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# streamWrapper #placeholderend#->stream_seek(#placeholderstart# int offset #placeholderend##placeholderstart#, int whence #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+eregi_replace(#placeholderstart# string pattern #placeholderend##placeholderstart#, string replacement #placeholderend##placeholderstart#, string string #placeholderend#)#placeholderstart# ; #placeholderend#

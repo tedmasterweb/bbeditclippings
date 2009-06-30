@@ -1,0 +1,2 @@
+#indent#
+udm_add_search_limit(#placeholderstart# resource agent #placeholderend##placeholderstart#, int var #placeholderend##placeholderstart#, string val #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setGeoAnchor(#placeholderstart# string attrlat #placeholderend##placeholderstart#, string attrlong #placeholderend##placeholderstart#, float latitude #placeholderend##placeholderstart#, float longitude #placeholderend#)#placeholderstart# ; #placeholderend#

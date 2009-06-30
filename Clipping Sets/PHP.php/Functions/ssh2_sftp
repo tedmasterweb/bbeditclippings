@@ -1,0 +1,2 @@
+#indent#
+ssh2_sftp(#placeholderstart# resource session #placeholderend#)#placeholderstart# ; #placeholderend#

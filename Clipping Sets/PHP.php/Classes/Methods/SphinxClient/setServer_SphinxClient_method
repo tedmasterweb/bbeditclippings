@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setServer(#placeholderstart# string server #placeholderend##placeholderstart#, int port #placeholderend#)#placeholderstart# ; #placeholderend#

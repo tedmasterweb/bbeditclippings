@@ -1,0 +1,2 @@
+#indent#
+id3_get_frame_short_name(#placeholderstart# string frameId #placeholderend#)#placeholderstart# ; #placeholderend#

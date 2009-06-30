@@ -1,0 +1,2 @@
+#indent#
+ncurses_addnstr(#placeholderstart# string s #placeholderend##placeholderstart#, int n #placeholderend#)#placeholderstart# ; #placeholderend#

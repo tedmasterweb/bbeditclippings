@@ -1,0 +1,2 @@
+#indent#
+openssl_x509_free(#placeholderstart# resource x509cert #placeholderend#)#placeholderstart# ; #placeholderend#

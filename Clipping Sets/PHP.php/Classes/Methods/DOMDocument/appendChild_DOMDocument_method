@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->appendChild(#placeholderstart# DOMNode newnode #placeholderend#)#placeholderstart# ; #placeholderend#

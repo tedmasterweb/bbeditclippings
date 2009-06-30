@@ -1,0 +1,2 @@
+#indent#
+mb_convert_variables(#placeholderstart# string to_encoding #placeholderend##placeholderstart#, mixed from_encoding #placeholderend##placeholderstart#, mixed vars #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

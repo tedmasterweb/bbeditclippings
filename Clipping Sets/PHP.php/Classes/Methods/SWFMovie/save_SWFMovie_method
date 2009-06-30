@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFMovie #placeholderend#->save(#placeholderstart# string filename #placeholderend##placeholderstart#[, int compression ]#placeholderend#)#placeholderstart# ; #placeholderend#

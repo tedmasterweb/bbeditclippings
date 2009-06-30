@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->isValidPharFilename(#placeholderstart# string filename #placeholderend##placeholderstart#[, bool executable ]#placeholderend#)#placeholderstart# ; #placeholderend#

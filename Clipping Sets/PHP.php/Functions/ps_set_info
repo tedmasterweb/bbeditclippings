@@ -1,0 +1,2 @@
+#indent#
+ps_set_info(#placeholderstart# resource p #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#, string val #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+chmod(#placeholderstart# string filename #placeholderend##placeholderstart#, int mode #placeholderend#)#placeholderstart# ; #placeholderend#

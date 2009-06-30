@@ -1,0 +1,2 @@
+#indent#
+ssh2_fingerprint(#placeholderstart# resource session #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageCompressionQuality(#placeholderstart# int quality #placeholderend#)#placeholderstart# ; #placeholderend#

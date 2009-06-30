@@ -1,0 +1,2 @@
+#indent#
+ps_setlinewidth(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float width #placeholderend#)#placeholderstart# ; #placeholderend#

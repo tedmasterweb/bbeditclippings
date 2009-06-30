@@ -1,0 +1,2 @@
+#indent#
+mktime(#placeholderstart#[ int hour ]#placeholderend##placeholderstart#[, int minute ]#placeholderend##placeholderstart#[, int second ]#placeholderend##placeholderstart#[, int month ]#placeholderend##placeholderstart#[, int day ]#placeholderend##placeholderstart#[, int year ]#placeholderend##placeholderstart#[, int is_dst ]#placeholderend#)#placeholderstart# ; #placeholderend#

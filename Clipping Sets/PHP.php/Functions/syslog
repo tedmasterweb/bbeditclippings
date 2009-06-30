@@ -1,0 +1,2 @@
+#indent#
+syslog(#placeholderstart# int priority #placeholderend##placeholderstart#, string message #placeholderend#)#placeholderstart# ; #placeholderend#

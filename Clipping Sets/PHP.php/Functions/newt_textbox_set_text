@@ -1,0 +1,2 @@
+#indent#
+newt_textbox_set_text(#placeholderstart# resource textbox #placeholderend##placeholderstart#, string text #placeholderend#)#placeholderstart# ; #placeholderend#

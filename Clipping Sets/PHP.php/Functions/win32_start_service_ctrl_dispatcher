@@ -1,0 +1,2 @@
+#indent#
+win32_start_service_ctrl_dispatcher(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ps_setlinecap(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int type #placeholderend#)#placeholderstart# ; #placeholderend#

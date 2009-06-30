@@ -1,0 +1,2 @@
+#indent#
+openssl_csr_export_to_file(#placeholderstart# resource csr #placeholderend##placeholderstart#, string outfilename #placeholderend##placeholderstart#[, bool notext ]#placeholderend#)#placeholderstart# ; #placeholderend#

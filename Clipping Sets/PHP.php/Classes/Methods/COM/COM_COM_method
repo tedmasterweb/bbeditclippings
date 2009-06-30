@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# COM #placeholderend#->COM(#placeholderstart# string module_name #placeholderend##placeholderstart#[, mixed server_name ]#placeholderend##placeholderstart#[, int codepage ]#placeholderend##placeholderstart#[, string typelib ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->evaluateImage(#placeholderstart# int op #placeholderend##placeholderstart#, float constant #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

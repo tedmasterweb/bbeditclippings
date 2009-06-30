@@ -1,0 +1,2 @@
+#indent#
+fam_monitor_collection(#placeholderstart# resource fam #placeholderend##placeholderstart#, string dirname #placeholderend##placeholderstart#, int depth #placeholderend##placeholderstart#, string mask #placeholderend#)#placeholderstart# ; #placeholderend#

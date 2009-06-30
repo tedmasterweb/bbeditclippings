@@ -1,0 +1,2 @@
+#indent#
+xslt_set_encoding(#placeholderstart# resource xh #placeholderend##placeholderstart#, string encoding #placeholderend#)#placeholderstart# ; #placeholderend#

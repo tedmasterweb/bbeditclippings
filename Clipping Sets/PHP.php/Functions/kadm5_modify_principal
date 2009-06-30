@@ -1,0 +1,2 @@
+#indent#
+kadm5_modify_principal(#placeholderstart# resource handle #placeholderend##placeholderstart#, string principal #placeholderend##placeholderstart#, array options #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+m_setip(#placeholderstart# resource conn #placeholderend##placeholderstart#, string host #placeholderend##placeholderstart#, int port #placeholderend#)#placeholderstart# ; #placeholderend#

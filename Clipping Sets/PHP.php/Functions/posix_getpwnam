@@ -1,0 +1,2 @@
+#indent#
+posix_getpwnam(#placeholderstart# string username #placeholderend#)#placeholderstart# ; #placeholderend#

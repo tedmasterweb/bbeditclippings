@@ -1,0 +1,2 @@
+#indent#
+ncurses_use_env(#placeholderstart# bool flag #placeholderend#)#placeholderstart# ; #placeholderend#

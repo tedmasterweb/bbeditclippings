@@ -1,0 +1,2 @@
+#indent#
+m_maxconntimeout(#placeholderstart# resource conn #placeholderend##placeholderstart#, int secs #placeholderend#)#placeholderstart# ; #placeholderend#

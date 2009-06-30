@@ -1,0 +1,2 @@
+#indent#
+openssl_public_encrypt(#placeholderstart# string data #placeholderend##placeholderstart#, string crypted #placeholderend##placeholderstart#, mixed key #placeholderend##placeholderstart#[, int padding ]#placeholderend#)#placeholderstart# ; #placeholderend#

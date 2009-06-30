@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->convertToData(#placeholderstart#[ int format ]#placeholderend##placeholderstart#[, int compression ]#placeholderend##placeholderstart#[, string extension ]#placeholderend#)#placeholderstart# ; #placeholderend#

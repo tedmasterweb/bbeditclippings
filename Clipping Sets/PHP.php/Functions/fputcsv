@@ -1,0 +1,2 @@
+#indent#
+fputcsv(#placeholderstart# resource handle #placeholderend##placeholderstart#, array fields #placeholderend##placeholderstart#[, string delimiter ]#placeholderend##placeholderstart#[, string enclosure ]#placeholderend#)#placeholderstart# ; #placeholderend#

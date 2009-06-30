@@ -1,0 +1,2 @@
+#indent#
+sqrt(#placeholderstart# float arg #placeholderend#)#placeholderstart# ; #placeholderend#

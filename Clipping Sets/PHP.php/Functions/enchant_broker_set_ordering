@@ -1,0 +1,2 @@
+#indent#
+enchant_broker_set_ordering(#placeholderstart# resource broker #placeholderend##placeholderstart#, string tag #placeholderend##placeholderstart#, string ordering #placeholderend#)#placeholderstart# ; #placeholderend#

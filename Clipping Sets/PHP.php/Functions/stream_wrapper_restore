@@ -1,0 +1,2 @@
+#indent#
+stream_wrapper_restore(#placeholderstart# string protocol #placeholderend#)#placeholderstart# ; #placeholderend#

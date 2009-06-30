@@ -1,0 +1,2 @@
+#indent#
+tidy_setopt(#placeholderstart# string option #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

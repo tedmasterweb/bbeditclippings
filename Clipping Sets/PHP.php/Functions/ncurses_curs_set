@@ -1,0 +1,2 @@
+#indent#
+ncurses_curs_set(#placeholderstart# int visibility #placeholderend#)#placeholderstart# ; #placeholderend#

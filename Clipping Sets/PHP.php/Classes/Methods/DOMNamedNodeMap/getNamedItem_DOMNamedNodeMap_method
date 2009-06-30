@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMNamedNodeMap #placeholderend#->getNamedItem(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

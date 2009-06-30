@@ -1,0 +1,2 @@
+#indent#
+runkit_method_remove(#placeholderstart# string classname #placeholderend##placeholderstart#, string methodname #placeholderend#)#placeholderstart# ; #placeholderend#

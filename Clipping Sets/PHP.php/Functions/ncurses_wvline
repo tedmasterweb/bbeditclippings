@@ -1,0 +1,2 @@
+#indent#
+ncurses_wvline(#placeholderstart# resource window #placeholderend##placeholderstart#, int charattr #placeholderend##placeholderstart#, int n #placeholderend#)#placeholderstart# ; #placeholderend#

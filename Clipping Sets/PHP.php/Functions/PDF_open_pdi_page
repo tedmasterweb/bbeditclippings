@@ -1,0 +1,2 @@
+#indent#
+PDF_open_pdi_page(#placeholderstart# resource p #placeholderend##placeholderstart#, int doc #placeholderend##placeholderstart#, int pagenumber #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

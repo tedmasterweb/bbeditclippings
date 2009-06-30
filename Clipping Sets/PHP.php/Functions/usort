@@ -1,0 +1,2 @@
+#indent#
+usort(#placeholderstart# array array #placeholderend##placeholderstart#, callback cmp_function #placeholderend#)#placeholderstart# ; #placeholderend#

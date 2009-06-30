@@ -1,0 +1,2 @@
+#indent#
+printer_delete_brush(#placeholderstart# resource brush_handle #placeholderend#)#placeholderstart# ; #placeholderend#

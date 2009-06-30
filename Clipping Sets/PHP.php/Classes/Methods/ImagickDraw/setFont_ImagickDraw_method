@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setFont(#placeholderstart# string font_name #placeholderend#)#placeholderstart# ; #placeholderend#

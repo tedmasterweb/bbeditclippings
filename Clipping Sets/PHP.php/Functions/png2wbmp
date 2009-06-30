@@ -1,0 +1,2 @@
+#indent#
+png2wbmp(#placeholderstart# string pngname #placeholderend##placeholderstart#, string wbmpname #placeholderend##placeholderstart#, int dest_height #placeholderend##placeholderstart#, int dest_width #placeholderend##placeholderstart#, int threshold #placeholderend#)#placeholderstart# ; #placeholderend#

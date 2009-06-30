@@ -1,0 +1,2 @@
+#indent#
+printer_select_font(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, resource font_handle #placeholderend#)#placeholderstart# ; #placeholderend#

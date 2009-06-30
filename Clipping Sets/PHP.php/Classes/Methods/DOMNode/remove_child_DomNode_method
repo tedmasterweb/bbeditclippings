@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomNode #placeholderend#->remove_child(#placeholderstart# domtext oldchild #placeholderend#)#placeholderstart# ; #placeholderend#

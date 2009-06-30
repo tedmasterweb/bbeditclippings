@@ -1,0 +1,2 @@
+#indent#
+hw_errormsg(#placeholderstart# int connection #placeholderend#)#placeholderstart# ; #placeholderend#

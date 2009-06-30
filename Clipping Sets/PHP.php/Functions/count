@@ -1,0 +1,2 @@
+#indent#
+count(#placeholderstart# mixed var #placeholderend##placeholderstart#[, int mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

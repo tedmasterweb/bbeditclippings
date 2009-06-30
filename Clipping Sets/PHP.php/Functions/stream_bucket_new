@@ -1,0 +1,2 @@
+#indent#
+stream_bucket_new(#placeholderstart# resource stream #placeholderend##placeholderstart#, string buffer #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+imap_headerinfo(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, int msg_number #placeholderend##placeholderstart#[, int fromlength ]#placeholderend##placeholderstart#[, int subjectlength ]#placeholderend##placeholderstart#[, string defaulthost ]#placeholderend#)#placeholderstart# ; #placeholderend#

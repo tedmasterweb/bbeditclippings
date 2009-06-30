@@ -1,0 +1,2 @@
+#indent#
+xml_set_end_namespace_decl_handler(#placeholderstart# resource parser #placeholderend##placeholderstart#, callback handler #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomNode #placeholderend#->insert_before(#placeholderstart# domelement newnode #placeholderend##placeholderstart#, domelement refnode #placeholderend#)#placeholderstart# ; #placeholderend#

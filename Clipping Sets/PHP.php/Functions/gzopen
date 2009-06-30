@@ -1,0 +1,2 @@
+#indent#
+gzopen(#placeholderstart# string filename #placeholderend##placeholderstart#, string mode #placeholderend##placeholderstart#[, int use_include_path ]#placeholderend#)#placeholderstart# ; #placeholderend#

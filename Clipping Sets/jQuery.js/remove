@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").remove( #placeholderstart#String expr#placeholderend# )

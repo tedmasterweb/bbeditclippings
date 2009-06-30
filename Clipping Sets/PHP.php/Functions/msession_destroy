@@ -1,0 +1,2 @@
+#indent#
+msession_destroy(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

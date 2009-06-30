@@ -1,0 +1,2 @@
+#indent#
+gnupg_addsignkey(#placeholderstart# resource identifier #placeholderend##placeholderstart#, string fingerprint #placeholderend##placeholderstart#[, string passphrase ]#placeholderend#)#placeholderstart# ; #placeholderend#

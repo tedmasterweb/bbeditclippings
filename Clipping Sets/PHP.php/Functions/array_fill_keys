@@ -1,0 +1,2 @@
+#indent#
+array_fill_keys(#placeholderstart# array keys #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

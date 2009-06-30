@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").text( #placeholderstart#String val#placeholderend# )

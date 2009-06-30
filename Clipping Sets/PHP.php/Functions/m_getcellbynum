@@ -1,0 +1,2 @@
+#indent#
+m_getcellbynum(#placeholderstart# resource conn #placeholderend##placeholderstart#, int identifier #placeholderend##placeholderstart#, int column #placeholderend##placeholderstart#, int row #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# NumberFormatter #placeholderend#->setSymbol(#placeholderstart# int attr #placeholderend##placeholderstart#, string value #placeholderend#)#placeholderstart# ; #placeholderend#

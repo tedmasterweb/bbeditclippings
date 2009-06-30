@@ -1,0 +1,2 @@
+#indent#
+imagefilledarc(#placeholderstart# resource image #placeholderend##placeholderstart#, int cx #placeholderend##placeholderstart#, int cy #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#, int start #placeholderend##placeholderstart#, int end #placeholderend##placeholderstart#, int color #placeholderend##placeholderstart#, int style #placeholderend#)#placeholderstart# ; #placeholderend#

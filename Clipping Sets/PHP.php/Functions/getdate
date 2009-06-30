@@ -1,0 +1,2 @@
+#indent#
+getdate(#placeholderstart#[ int timestamp ]#placeholderend#)#placeholderstart# ; #placeholderend#

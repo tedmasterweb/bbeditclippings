@@ -1,0 +1,2 @@
+#indent#
+xmlwriter_set_indent(#placeholderstart# resource xmlwriter #placeholderend##placeholderstart#, bool indent #placeholderend#)#placeholderstart# ; #placeholderend#

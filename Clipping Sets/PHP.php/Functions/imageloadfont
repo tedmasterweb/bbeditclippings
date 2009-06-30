@@ -1,0 +1,2 @@
+#indent#
+imageloadfont(#placeholderstart# string file #placeholderend#)#placeholderstart# ; #placeholderend#

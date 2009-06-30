@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").wrapAll( #placeholderstart#Element elem#placeholderend# )

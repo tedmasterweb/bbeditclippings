@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->annotation(#placeholderstart# float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, string text #placeholderend#)#placeholderstart# ; #placeholderend#

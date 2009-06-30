@@ -1,0 +1,2 @@
+#indent#
+gmp_setbit(#placeholderstart# resource a #placeholderend##placeholderstart#, int index #placeholderend##placeholderstart#[, bool set_clear ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+lzf_decompress(#placeholderstart# string data #placeholderend#)#placeholderstart# ; #placeholderend#

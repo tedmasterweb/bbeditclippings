@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFDisplayItem #placeholderend#->setMatrix(#placeholderstart# float a #placeholderend##placeholderstart#, float b #placeholderend##placeholderstart#, float c #placeholderend##placeholderstart#, float d #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

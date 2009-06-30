@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XSLTProcessor #placeholderend#->removeParameter(#placeholderstart# string namespaceURI #placeholderend##placeholderstart#, string localName #placeholderend#)#placeholderstart# ; #placeholderend#

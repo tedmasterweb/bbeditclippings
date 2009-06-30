@@ -1,0 +1,2 @@
+#indent#
+chdir(#placeholderstart# string directory #placeholderend#)#placeholderstart# ; #placeholderend#

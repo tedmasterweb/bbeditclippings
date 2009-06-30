@@ -1,0 +1,2 @@
+#indent#
+str_replace(#placeholderstart# mixed search #placeholderend##placeholderstart#, mixed replace #placeholderend##placeholderstart#, mixed subject #placeholderend##placeholderstart#[, int count ]#placeholderend#)#placeholderstart# ; #placeholderend#

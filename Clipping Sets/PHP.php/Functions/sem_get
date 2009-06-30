@@ -1,0 +1,2 @@
+#indent#
+sem_get(#placeholderstart# int key #placeholderend##placeholderstart#[, int max_acquire ]#placeholderend##placeholderstart#[, int perm ]#placeholderend##placeholderstart#[, int auto_release ]#placeholderend#)#placeholderstart# ; #placeholderend#

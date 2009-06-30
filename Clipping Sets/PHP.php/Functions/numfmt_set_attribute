@@ -1,0 +1,2 @@
+#indent#
+numfmt_set_attribute(#placeholderstart# NumberFormatter fmt #placeholderend##placeholderstart#, int attr #placeholderend##placeholderstart#, int value #placeholderend#)#placeholderstart# ; #placeholderend#

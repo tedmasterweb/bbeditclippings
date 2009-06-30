@@ -1,0 +1,2 @@
+#indent#
+bbcode_create(#placeholderstart#[ array bbcode_initial_tags ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_add_launchlink(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float llx #placeholderend##placeholderstart#, float lly #placeholderend##placeholderstart#, float urx #placeholderend##placeholderstart#, float ury #placeholderend##placeholderstart#, string filename #placeholderend#)#placeholderstart# ; #placeholderend#

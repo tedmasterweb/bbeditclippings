@@ -1,0 +1,2 @@
+#indent#
+list(#placeholderstart# mixed varname #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

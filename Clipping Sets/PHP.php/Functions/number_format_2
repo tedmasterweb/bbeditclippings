@@ -1,0 +1,2 @@
+#indent#
+number_format(#placeholderstart# float number #placeholderend##placeholderstart#, int decimals #placeholderend##placeholderstart#, string dec_point #placeholderend##placeholderstart#, string thousands_sep #placeholderend#)#placeholderstart# ; #placeholderend#

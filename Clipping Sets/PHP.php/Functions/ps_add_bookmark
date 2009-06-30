@@ -1,0 +1,2 @@
+#indent#
+ps_add_bookmark(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#[, int parent ]#placeholderend##placeholderstart#[, int open ]#placeholderend#)#placeholderstart# ; #placeholderend#

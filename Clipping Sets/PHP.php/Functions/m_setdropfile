@@ -1,0 +1,2 @@
+#indent#
+m_setdropfile(#placeholderstart# resource conn #placeholderend##placeholderstart#, string directory #placeholderend#)#placeholderstart# ; #placeholderend#

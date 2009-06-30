@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMText #placeholderend#->isSameNode(#placeholderstart# DOMNode node #placeholderend#)#placeholderstart# ; #placeholderend#

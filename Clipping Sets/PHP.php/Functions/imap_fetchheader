@@ -1,0 +1,2 @@
+#indent#
+imap_fetchheader(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, int msg_number #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Locale #placeholderend#->getDisplayScript(#placeholderstart# string locale #placeholderend##placeholderstart#[, string in_locale ]#placeholderend#)#placeholderstart# ; #placeholderend#

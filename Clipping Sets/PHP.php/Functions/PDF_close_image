@@ -1,0 +1,2 @@
+#indent#
+PDF_close_image(#placeholderstart# resource p #placeholderend##placeholderstart#, int image #placeholderend#)#placeholderstart# ; #placeholderend#

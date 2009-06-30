@@ -1,0 +1,2 @@
+#indent#
+hw_pconnect(#placeholderstart# string host #placeholderend##placeholderstart#, int port #placeholderend##placeholderstart#[, string username ]#placeholderend##placeholderstart#, string password #placeholderend#)#placeholderstart# ; #placeholderend#

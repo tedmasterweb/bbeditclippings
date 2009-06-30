@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setFormat(#placeholderstart# string format #placeholderend#)#placeholderstart# ; #placeholderend#

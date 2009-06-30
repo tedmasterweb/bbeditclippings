@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# OAuth #placeholderend#->getRequestToken(#placeholderstart# string request_token_url #placeholderend##placeholderstart#, string callback_url #placeholderend#)#placeholderstart# ; #placeholderend#

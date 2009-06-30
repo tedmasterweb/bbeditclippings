@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DatePeriod #placeholderend#->__construct(#placeholderstart# string isostr #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

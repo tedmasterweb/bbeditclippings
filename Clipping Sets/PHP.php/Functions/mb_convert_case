@@ -1,0 +1,2 @@
+#indent#
+mb_convert_case(#placeholderstart# string str #placeholderend##placeholderstart#, int mode #placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

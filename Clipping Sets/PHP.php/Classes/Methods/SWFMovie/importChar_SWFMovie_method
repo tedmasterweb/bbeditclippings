@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFMovie #placeholderend#->importChar(#placeholderstart# string libswf #placeholderend##placeholderstart#, string name #placeholderend#)#placeholderstart# ; #placeholderend#

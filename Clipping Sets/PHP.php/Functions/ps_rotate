@@ -1,0 +1,2 @@
+#indent#
+ps_rotate(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float rot #placeholderend#)#placeholderstart# ; #placeholderend#

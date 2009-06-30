@@ -1,0 +1,2 @@
+#indent#
+yaz_scan(#placeholderstart# resource id #placeholderend##placeholderstart#, string type #placeholderend##placeholderstart#, string startterm #placeholderend##placeholderstart#[, array flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_entry_set_filter(#placeholderstart# resource entry #placeholderend##placeholderstart#, callback filter #placeholderend##placeholderstart#, mixed data #placeholderend#)#placeholderstart# ; #placeholderend#

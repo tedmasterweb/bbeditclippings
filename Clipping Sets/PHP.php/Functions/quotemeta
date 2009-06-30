@@ -1,0 +1,2 @@
+#indent#
+quotemeta(#placeholderstart# string str #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_grid_get_size(#placeholderstart# resouce grid #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend#)#placeholderstart# ; #placeholderend#

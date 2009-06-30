@@ -1,0 +1,2 @@
+#indent#
+imagecopyresampled(#placeholderstart# resource dst_image #placeholderend##placeholderstart#, resource src_image #placeholderend##placeholderstart#, int dst_x #placeholderend##placeholderstart#, int dst_y #placeholderend##placeholderstart#, int src_x #placeholderend##placeholderstart#, int src_y #placeholderend##placeholderstart#, int dst_w #placeholderend##placeholderstart#, int dst_h #placeholderend##placeholderstart#, int src_w #placeholderend##placeholderstart#, int src_h #placeholderend#)#placeholderstart# ; #placeholderend#

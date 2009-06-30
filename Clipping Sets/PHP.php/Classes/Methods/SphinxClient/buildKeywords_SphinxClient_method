@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->buildKeywords(#placeholderstart# string query #placeholderend##placeholderstart#, string index #placeholderend##placeholderstart#, bool hits #placeholderend#)#placeholderstart# ; #placeholderend#

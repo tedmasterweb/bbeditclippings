@@ -1,0 +1,2 @@
+#indent#
+sem_release(#placeholderstart# resource sem_identifier #placeholderend#)#placeholderstart# ; #placeholderend#

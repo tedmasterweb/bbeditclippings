@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->addFile(#placeholderstart# string file #placeholderend##placeholderstart#[, string localname ]#placeholderend#)#placeholderstart# ; #placeholderend#

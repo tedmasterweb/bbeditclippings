@@ -1,0 +1,2 @@
+#indent#
+imagepsencodefont(#placeholderstart# resource font_index #placeholderend##placeholderstart#, string encodingfile #placeholderend#)#placeholderstart# ; #placeholderend#

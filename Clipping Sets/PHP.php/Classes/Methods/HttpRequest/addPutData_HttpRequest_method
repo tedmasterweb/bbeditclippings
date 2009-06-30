@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequest #placeholderend#->addPutData(#placeholderstart# string put_data #placeholderend#)#placeholderstart# ; #placeholderend#

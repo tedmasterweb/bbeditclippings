@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->lineTo(#placeholderstart# float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

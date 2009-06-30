@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMText #placeholderend#->splitText(#placeholderstart# int offset #placeholderend#)#placeholderstart# ; #placeholderend#

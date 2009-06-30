@@ -1,0 +1,2 @@
+#indent#
+md5(#placeholderstart# string str #placeholderend##placeholderstart#[, bool raw_output ]#placeholderend#)#placeholderstart# ; #placeholderend#

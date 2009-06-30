@@ -1,0 +1,2 @@
+#indent#
+vpopmail_add_user(#placeholderstart# string user #placeholderend##placeholderstart#, string domain #placeholderend##placeholderstart#, string password #placeholderend##placeholderstart#[, string gecos ]#placeholderend##placeholderstart#[, bool apop ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+xml_parser_create_ns(#placeholderstart#[ string encoding ]#placeholderend##placeholderstart#[, string separator ]#placeholderend#)#placeholderstart# ; #placeholderend#

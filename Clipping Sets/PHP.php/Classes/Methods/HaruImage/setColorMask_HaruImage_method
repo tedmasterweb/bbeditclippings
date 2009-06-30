@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruImage #placeholderend#->setColorMask(#placeholderstart# int rmin #placeholderend##placeholderstart#, int rmax #placeholderend##placeholderstart#, int gmin #placeholderend##placeholderstart#, int gmax #placeholderend##placeholderstart#, int bmin #placeholderend##placeholderstart#, int bmax #placeholderend#)#placeholderstart# ; #placeholderend#

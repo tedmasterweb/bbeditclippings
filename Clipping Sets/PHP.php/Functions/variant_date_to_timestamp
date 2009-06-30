@@ -1,0 +1,2 @@
+#indent#
+variant_date_to_timestamp(#placeholderstart# variant variant #placeholderend#)#placeholderstart# ; #placeholderend#

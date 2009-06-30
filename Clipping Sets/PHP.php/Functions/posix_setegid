@@ -1,0 +1,2 @@
+#indent#
+posix_setegid(#placeholderstart# int gid #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ps_findfont(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string fontname #placeholderend##placeholderstart#, string encoding #placeholderend##placeholderstart#[, bool embed ]#placeholderend#)#placeholderstart# ; #placeholderend#

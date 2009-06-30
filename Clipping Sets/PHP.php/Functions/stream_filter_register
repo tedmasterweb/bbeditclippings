@@ -1,0 +1,2 @@
+#indent#
+stream_filter_register(#placeholderstart# string filtername #placeholderend##placeholderstart#, string classname #placeholderend#)#placeholderstart# ; #placeholderend#

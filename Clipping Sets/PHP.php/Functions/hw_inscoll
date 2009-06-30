@@ -1,0 +1,2 @@
+#indent#
+hw_inscoll(#placeholderstart# int connection #placeholderend##placeholderstart#, int objectID #placeholderend##placeholderstart#, array object_array #placeholderend#)#placeholderstart# ; #placeholderend#

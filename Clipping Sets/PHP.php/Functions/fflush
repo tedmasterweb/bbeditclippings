@@ -1,0 +1,2 @@
+#indent#
+fflush(#placeholderstart# resource handle #placeholderend#)#placeholderstart# ; #placeholderend#

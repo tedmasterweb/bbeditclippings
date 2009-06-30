@@ -1,0 +1,2 @@
+#indent#
+kadm5_get_policies(#placeholderstart# resource handle #placeholderend#)#placeholderstart# ; #placeholderend#

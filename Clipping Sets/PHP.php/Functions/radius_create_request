@@ -1,0 +1,2 @@
+#indent#
+radius_create_request(#placeholderstart# resource radius_handle #placeholderend##placeholderstart#, int type #placeholderend#)#placeholderstart# ; #placeholderend#

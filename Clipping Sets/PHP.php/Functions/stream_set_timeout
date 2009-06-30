@@ -1,0 +1,2 @@
+#indent#
+stream_set_timeout(#placeholderstart# resource stream #placeholderend##placeholderstart#, int seconds #placeholderend##placeholderstart#[, int microseconds ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+apd_echo(#placeholderstart# string output #placeholderend#)#placeholderstart# ; #placeholderend#

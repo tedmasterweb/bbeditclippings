@@ -1,0 +1,2 @@
+#indent#
+html_entity_decode(#placeholderstart# string string #placeholderend##placeholderstart#[, int quote_style ]#placeholderend##placeholderstart#[, string charset ]#placeholderend#)#placeholderstart# ; #placeholderend#

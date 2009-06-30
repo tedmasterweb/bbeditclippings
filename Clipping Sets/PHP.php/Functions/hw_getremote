@@ -1,0 +1,2 @@
+#indent#
+hw_getremote(#placeholderstart# int connection #placeholderend##placeholderstart#, int objectID #placeholderend#)#placeholderstart# ; #placeholderend#

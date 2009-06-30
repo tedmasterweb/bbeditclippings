@@ -1,0 +1,2 @@
+#indent#
+numfmt_set_pattern(#placeholderstart# NumberFormatter fmt #placeholderend##placeholderstart#, string pattern #placeholderend#)#placeholderstart# ; #placeholderend#

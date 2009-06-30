@@ -1,0 +1,2 @@
+#indent#
+openal_context_suspend(#placeholderstart# resource context #placeholderend#)#placeholderstart# ; #placeholderend#

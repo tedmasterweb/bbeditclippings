@@ -1,0 +1,2 @@
+#indent#
+dotnet_load(#placeholderstart# string assembly_name #placeholderend##placeholderstart#[, string datatype_name ]#placeholderend##placeholderstart#[, int codepage ]#placeholderend#)#placeholderstart# ; #placeholderend#

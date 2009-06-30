@@ -1,0 +1,2 @@
+#indent#
+svn_fs_txn_root(#placeholderstart# resource txn #placeholderend#)#placeholderstart# ; #placeholderend#

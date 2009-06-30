@@ -1,0 +1,2 @@
+#indent#
+newt_form_destroy(#placeholderstart# resource form #placeholderend#)#placeholderstart# ; #placeholderend#

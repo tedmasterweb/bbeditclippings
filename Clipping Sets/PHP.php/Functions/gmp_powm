@@ -1,0 +1,2 @@
+#indent#
+gmp_powm(#placeholderstart# resource base #placeholderend##placeholderstart#, resource exp #placeholderend##placeholderstart#, resource mod #placeholderend#)#placeholderstart# ; #placeholderend#

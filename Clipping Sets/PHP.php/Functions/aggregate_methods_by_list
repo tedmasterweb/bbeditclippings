@@ -1,0 +1,2 @@
+#indent#
+aggregate_methods_by_list(#placeholderstart# object object #placeholderend##placeholderstart#, string class_name #placeholderend##placeholderstart#, array methods_list #placeholderend##placeholderstart#[, bool exclude ]#placeholderend#)#placeholderstart# ; #placeholderend#

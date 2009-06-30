@@ -1,0 +1,2 @@
+#indent#
+mqseries_open(#placeholderstart# resource hconn #placeholderend##placeholderstart#, array objDesc #placeholderend##placeholderstart#, int option #placeholderend##placeholderstart#, resource hobj #placeholderend##placeholderstart#, resource compCode #placeholderend##placeholderstart#, resource reason #placeholderend#)#placeholderstart# ; #placeholderend#

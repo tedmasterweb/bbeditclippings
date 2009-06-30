@@ -1,0 +1,2 @@
+#indent#
+is_callable(#placeholderstart# callback name #placeholderend##placeholderstart#[, bool syntax_only ]#placeholderend##placeholderstart#[, string callable_name ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+filter_var_array(#placeholderstart# array data #placeholderend##placeholderstart#[, mixed definition ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+udm_get_res_field(#placeholderstart# resource res #placeholderend##placeholderstart#, int row #placeholderend##placeholderstart#, int field #placeholderend#)#placeholderstart# ; #placeholderend#

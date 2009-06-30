@@ -1,0 +1,2 @@
+#indent#
+exif_read_data(#placeholderstart# string filename #placeholderend##placeholderstart#[, string sections ]#placeholderend##placeholderstart#[, bool arrays ]#placeholderend##placeholderstart#[, bool thumbnail ]#placeholderend#)#placeholderstart# ; #placeholderend#

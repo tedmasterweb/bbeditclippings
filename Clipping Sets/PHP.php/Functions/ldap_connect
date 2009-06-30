@@ -1,0 +1,2 @@
+#indent#
+ldap_connect(#placeholderstart#[ string hostname ]#placeholderend##placeholderstart#[, int port ]#placeholderend#)#placeholderstart# ; #placeholderend#

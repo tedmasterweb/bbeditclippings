@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_XML #placeholderend#->createDocument(#placeholderstart# string document_element_namespace_URI #placeholderend##placeholderstart#, string document_element_name #placeholderend##placeholderstart#[, SDO_DataObject dataobject ]#placeholderend#)#placeholderstart# ; #placeholderend#

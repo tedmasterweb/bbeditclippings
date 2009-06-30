@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_XML #placeholderend#->loadFile(#placeholderstart# string xml_file #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+get_resource_type(#placeholderstart# resource handle #placeholderend#)#placeholderstart# ; #placeholderend#

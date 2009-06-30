@@ -1,0 +1,2 @@
+#indent#
+session_pgsql_set_field(#placeholderstart# string value #placeholderend#)#placeholderstart# ; #placeholderend#

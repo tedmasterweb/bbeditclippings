@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# MessageFormatter #placeholderend#->parseMessage(#placeholderstart# string locale #placeholderend##placeholderstart#, string value #placeholderend#)#placeholderstart# ; #placeholderend#

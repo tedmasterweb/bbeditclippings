@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomElement #placeholderend#->get_attribute(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

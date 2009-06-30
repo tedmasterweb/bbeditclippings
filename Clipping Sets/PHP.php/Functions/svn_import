@@ -1,0 +1,2 @@
+#indent#
+svn_import(#placeholderstart# string path #placeholderend##placeholderstart#, string url #placeholderend##placeholderstart#, bool nonrecursive #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ncurses_typeahead(#placeholderstart# int fd #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+imap_listscan(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, string ref #placeholderend##placeholderstart#, string pattern #placeholderend##placeholderstart#, string content #placeholderend#)#placeholderstart# ; #placeholderend#

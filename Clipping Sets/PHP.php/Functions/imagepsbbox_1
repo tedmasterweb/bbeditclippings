@@ -1,0 +1,2 @@
+#indent#
+imagepsbbox(#placeholderstart# string text #placeholderend##placeholderstart#, resource font #placeholderend##placeholderstart#, int size #placeholderend#)#placeholderstart# ; #placeholderend#

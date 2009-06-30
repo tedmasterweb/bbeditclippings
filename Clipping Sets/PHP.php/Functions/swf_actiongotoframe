@@ -1,0 +1,2 @@
+#indent#
+swf_actiongotoframe(#placeholderstart# int framenumber #placeholderend#)#placeholderstart# ; #placeholderend#

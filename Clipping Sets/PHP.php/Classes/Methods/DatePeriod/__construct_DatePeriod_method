@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DatePeriod #placeholderend#->__construct(#placeholderstart# DateTime start #placeholderend##placeholderstart#, DateInterval interval #placeholderend##placeholderstart#, int recurrences #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

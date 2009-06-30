@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpResponse #placeholderend#->redirect(#placeholderstart#[ string url ]#placeholderend##placeholderstart#[, array params ]#placeholderend##placeholderstart#[, bool session ]#placeholderend##placeholderstart#[, int status ]#placeholderend#)#placeholderstart# ; #placeholderend#

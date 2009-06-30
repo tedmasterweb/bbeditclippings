@@ -1,0 +1,2 @@
+#indent#
+PDF_fit_pdi_page(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int page #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

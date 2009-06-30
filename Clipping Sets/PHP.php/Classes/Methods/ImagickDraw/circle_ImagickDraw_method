@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->circle(#placeholderstart# float ox #placeholderend##placeholderstart#, float oy #placeholderend##placeholderstart#, float px #placeholderend##placeholderstart#, float py #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+http_post_fields(#placeholderstart# string url #placeholderend##placeholderstart#[, array data ]#placeholderend##placeholderstart#[, array files ]#placeholderend##placeholderstart#[, array options ]#placeholderend##placeholderstart#[, array info ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomDocument #placeholderend#->create_processing_instruction(#placeholderstart# string content #placeholderend#)#placeholderstart# ; #placeholderend#

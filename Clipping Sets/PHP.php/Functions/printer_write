@@ -1,0 +1,2 @@
+#indent#
+printer_write(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, string content #placeholderend#)#placeholderstart# ; #placeholderend#

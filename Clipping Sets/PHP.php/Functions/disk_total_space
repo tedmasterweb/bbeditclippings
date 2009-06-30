@@ -1,0 +1,2 @@
+#indent#
+disk_total_space(#placeholderstart# string directory #placeholderend#)#placeholderstart# ; #placeholderend#

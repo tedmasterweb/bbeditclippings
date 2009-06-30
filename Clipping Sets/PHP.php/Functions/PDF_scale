@@ -1,0 +1,2 @@
+#indent#
+PDF_scale(#placeholderstart# resource p #placeholderend##placeholderstart#, float sx #placeholderend##placeholderstart#, float sy #placeholderend#)#placeholderstart# ; #placeholderend#

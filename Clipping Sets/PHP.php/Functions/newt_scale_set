@@ -1,0 +1,2 @@
+#indent#
+newt_scale_set(#placeholderstart# resource scale #placeholderend##placeholderstart#, int amount #placeholderend#)#placeholderstart# ; #placeholderend#

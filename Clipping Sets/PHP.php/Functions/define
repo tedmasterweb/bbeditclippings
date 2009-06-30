@@ -1,0 +1,2 @@
+#indent#
+define(#placeholderstart# string name #placeholderend##placeholderstart#, mixed value #placeholderend##placeholderstart#[, bool case_insensitive ]#placeholderend#)#placeholderstart# ; #placeholderend#

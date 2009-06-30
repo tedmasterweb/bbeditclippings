@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->startDocument(#placeholderstart#[ string version ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend##placeholderstart#[, string standalone ]#placeholderend#)#placeholderstart# ; #placeholderend#

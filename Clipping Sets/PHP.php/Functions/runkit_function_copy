@@ -1,0 +1,2 @@
+#indent#
+runkit_function_copy(#placeholderstart# string funcname #placeholderend##placeholderstart#, string targetname #placeholderend#)#placeholderstart# ; #placeholderend#

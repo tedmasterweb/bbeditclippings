@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapClient #placeholderend#->__setLocation(#placeholderstart#[ string new_location ]#placeholderend#)#placeholderstart# ; #placeholderend#

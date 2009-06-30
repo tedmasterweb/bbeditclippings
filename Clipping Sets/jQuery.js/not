@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").not( #placeholderstart#String/DOMElement/Array<DOMElement> expr#placeholderend# )

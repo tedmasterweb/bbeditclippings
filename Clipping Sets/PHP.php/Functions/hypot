@@ -1,0 +1,2 @@
+#indent#
+hypot(#placeholderstart# float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

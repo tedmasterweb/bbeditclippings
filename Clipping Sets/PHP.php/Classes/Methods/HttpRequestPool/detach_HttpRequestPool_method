@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequestPool #placeholderend#->detach(#placeholderstart# HttpRequest request #placeholderend#)#placeholderstart# ; #placeholderend#

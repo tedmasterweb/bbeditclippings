@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->setTextLeading(#placeholderstart# float text_leading #placeholderend#)#placeholderstart# ; #placeholderend#

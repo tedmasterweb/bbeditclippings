@@ -1,0 +1,2 @@
+#indent#
+mcrypt_generic_deinit(#placeholderstart# resource td #placeholderend#)#placeholderstart# ; #placeholderend#

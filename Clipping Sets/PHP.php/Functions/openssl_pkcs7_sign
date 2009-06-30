@@ -1,0 +1,2 @@
+#indent#
+openssl_pkcs7_sign(#placeholderstart# string infilename #placeholderend##placeholderstart#, string outfilename #placeholderend##placeholderstart#, mixed signcert #placeholderend##placeholderstart#, mixed privkey #placeholderend##placeholderstart#, array headers #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, string extracerts ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->importNode(#placeholderstart# DOMNode importedNode #placeholderend##placeholderstart#[, bool deep ]#placeholderend#)#placeholderstart# ; #placeholderend#

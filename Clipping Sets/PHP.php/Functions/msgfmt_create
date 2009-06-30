@@ -1,0 +1,2 @@
+#indent#
+msgfmt_create(#placeholderstart# string locale #placeholderend##placeholderstart#, string pattern #placeholderend#)#placeholderstart# ; #placeholderend#

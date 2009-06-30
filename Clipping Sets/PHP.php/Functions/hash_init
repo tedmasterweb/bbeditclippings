@@ -1,0 +1,2 @@
+#indent#
+hash_init(#placeholderstart# string algo #placeholderend##placeholderstart#[, int options ]#placeholderend##placeholderstart#[, string key ]#placeholderend#)#placeholderstart# ; #placeholderend#

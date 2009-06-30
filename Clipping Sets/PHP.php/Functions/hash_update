@@ -1,0 +1,2 @@
+#indent#
+hash_update(#placeholderstart# resource context #placeholderend##placeholderstart#, string data #placeholderend#)#placeholderstart# ; #placeholderend#

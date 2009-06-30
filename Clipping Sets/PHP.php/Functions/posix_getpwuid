@@ -1,0 +1,2 @@
+#indent#
+posix_getpwuid(#placeholderstart# int uid #placeholderend#)#placeholderstart# ; #placeholderend#

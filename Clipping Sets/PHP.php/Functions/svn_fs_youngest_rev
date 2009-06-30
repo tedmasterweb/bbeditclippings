@@ -1,0 +1,2 @@
+#indent#
+svn_fs_youngest_rev(#placeholderstart# resource fs #placeholderend#)#placeholderstart# ; #placeholderend#

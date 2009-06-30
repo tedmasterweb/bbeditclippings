@@ -1,0 +1,2 @@
+#indent#
+stream_encoding(#placeholderstart# resource stream #placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

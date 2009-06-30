@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->distortImage(#placeholderstart# int method #placeholderend##placeholderstart#, array arguments #placeholderend##placeholderstart#, bool bestfit #placeholderend#)#placeholderstart# ; #placeholderend#

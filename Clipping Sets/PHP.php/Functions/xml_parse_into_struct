@@ -1,0 +1,2 @@
+#indent#
+xml_parse_into_struct(#placeholderstart# resource parser #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#, array values #placeholderend##placeholderstart#[, array index ]#placeholderend#)#placeholderstart# ; #placeholderend#

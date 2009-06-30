@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageDepth(#placeholderstart# int depth #placeholderend#)#placeholderstart# ; #placeholderend#

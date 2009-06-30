@@ -1,0 +1,2 @@
+#indent#
+imagerotate(#placeholderstart# resource image #placeholderend##placeholderstart#, float angle #placeholderend##placeholderstart#, int bgd_color #placeholderend##placeholderstart#[, int ignore_transparent ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+pcntl_wifstopped(#placeholderstart# int status #placeholderend#)#placeholderstart# ; #placeholderend#

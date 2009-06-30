@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SCA #placeholderend#->getService(#placeholderstart# string target #placeholderend##placeholderstart#[, string binding ]#placeholderend##placeholderstart#[, array config ]#placeholderend#)#placeholderstart# ; #placeholderend#

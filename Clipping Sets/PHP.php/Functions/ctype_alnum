@@ -1,0 +1,2 @@
+#indent#
+ctype_alnum(#placeholderstart# string text #placeholderend#)#placeholderstart# ; #placeholderend#

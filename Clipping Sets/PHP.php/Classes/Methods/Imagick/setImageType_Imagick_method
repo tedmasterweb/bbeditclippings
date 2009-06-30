@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageType(#placeholderstart# int image_type #placeholderend#)#placeholderstart# ; #placeholderend#

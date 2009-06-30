@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_Relational #placeholderend#->applyChanges(#placeholderstart# PDO database_handle #placeholderend##placeholderstart#, SDODataObject root_data_object #placeholderend#)#placeholderstart# ; #placeholderend#

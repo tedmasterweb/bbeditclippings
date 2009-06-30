@@ -1,0 +1,2 @@
+#indent#
+money_format(#placeholderstart# string format #placeholderend##placeholderstart#, float number #placeholderend#)#placeholderstart# ; #placeholderend#

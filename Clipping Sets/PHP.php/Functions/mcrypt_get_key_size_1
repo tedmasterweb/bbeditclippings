@@ -1,0 +1,2 @@
+#indent#
+mcrypt_get_key_size(#placeholderstart# int cipher #placeholderend#)#placeholderstart# ; #placeholderend#

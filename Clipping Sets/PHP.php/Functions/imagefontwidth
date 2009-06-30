@@ -1,0 +1,2 @@
+#indent#
+imagefontwidth(#placeholderstart# int font #placeholderend#)#placeholderstart# ; #placeholderend#

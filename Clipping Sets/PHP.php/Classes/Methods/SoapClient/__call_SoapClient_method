@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapClient #placeholderend#->__call(#placeholderstart# string function_name #placeholderend##placeholderstart#, string arguments #placeholderend#)#placeholderstart# ; #placeholderend#

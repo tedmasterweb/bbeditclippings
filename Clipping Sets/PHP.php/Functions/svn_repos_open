@@ -1,0 +1,2 @@
+#indent#
+svn_repos_open(#placeholderstart# string path #placeholderend#)#placeholderstart# ; #placeholderend#

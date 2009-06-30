@@ -1,0 +1,2 @@
+#indent#
+mb_check_encoding(#placeholderstart#[ string var ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

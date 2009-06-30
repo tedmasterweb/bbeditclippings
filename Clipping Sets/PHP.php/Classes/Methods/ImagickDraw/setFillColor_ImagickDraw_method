@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setFillColor(#placeholderstart# ImagickPixel fill_pixel #placeholderend#)#placeholderstart# ; #placeholderend#

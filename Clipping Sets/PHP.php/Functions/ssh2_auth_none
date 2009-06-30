@@ -1,0 +1,2 @@
+#indent#
+ssh2_auth_none(#placeholderstart# resource session #placeholderend##placeholderstart#, string username #placeholderend#)#placeholderstart# ; #placeholderend#

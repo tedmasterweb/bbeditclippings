@@ -1,0 +1,2 @@
+#indent#
+iis_get_script_map(#placeholderstart# int server_instance #placeholderend##placeholderstart#, string virtual_path #placeholderend##placeholderstart#, string script_extension #placeholderend#)#placeholderstart# ; #placeholderend#

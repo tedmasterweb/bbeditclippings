@@ -1,0 +1,2 @@
+#indent#
+bbcode_add_element(#placeholderstart# resource bbcode_container #placeholderend##placeholderstart#, string tag_name #placeholderend##placeholderstart#, array tag_rules #placeholderend#)#placeholderstart# ; #placeholderend#

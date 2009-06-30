@@ -1,0 +1,2 @@
+#indent#
+ncurses_delay_output(#placeholderstart# int milliseconds #placeholderend#)#placeholderstart# ; #placeholderend#

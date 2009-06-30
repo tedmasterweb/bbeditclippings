@@ -1,0 +1,2 @@
+#indent#
+fscanf(#placeholderstart# resource handle #placeholderend##placeholderstart#, string format #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

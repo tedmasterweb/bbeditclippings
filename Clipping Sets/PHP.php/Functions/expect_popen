@@ -1,0 +1,2 @@
+#indent#
+expect_popen(#placeholderstart# string command #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequest #placeholderend#->setCookies(#placeholderstart#[ array cookies ]#placeholderend#)#placeholderstart# ; #placeholderend#

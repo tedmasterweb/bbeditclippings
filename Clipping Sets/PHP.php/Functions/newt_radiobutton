@@ -1,0 +1,2 @@
+#indent#
+newt_radiobutton(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, bool is_default #placeholderend##placeholderstart#[, resource prev_button ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ps_setflat(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float value #placeholderend#)#placeholderstart# ; #placeholderend#

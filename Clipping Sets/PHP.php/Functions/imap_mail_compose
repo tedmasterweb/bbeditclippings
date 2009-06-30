@@ -1,0 +1,2 @@
+#indent#
+imap_mail_compose(#placeholderstart# array envelope #placeholderend##placeholderstart#, array body #placeholderend#)#placeholderstart# ; #placeholderend#

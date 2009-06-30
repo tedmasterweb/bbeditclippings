@@ -1,0 +1,2 @@
+#indent#
+in_array(#placeholderstart# mixed needle #placeholderend##placeholderstart#, array haystack #placeholderend##placeholderstart#[, bool strict ]#placeholderend#)#placeholderstart# ; #placeholderend#

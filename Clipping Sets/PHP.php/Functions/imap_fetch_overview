@@ -1,0 +1,2 @@
+#indent#
+imap_fetch_overview(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, string sequence #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

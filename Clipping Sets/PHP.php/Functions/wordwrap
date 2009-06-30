@@ -1,0 +1,2 @@
+#indent#
+wordwrap(#placeholderstart# string str #placeholderend##placeholderstart#[, int width ]#placeholderend##placeholderstart#[, string break ]#placeholderend##placeholderstart#[, bool cut ]#placeholderend#)#placeholderstart# ; #placeholderend#

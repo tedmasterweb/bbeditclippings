@@ -1,0 +1,2 @@
+#indent#
+xmlrpc_parse_method_descriptions(#placeholderstart# string xml #placeholderend#)#placeholderstart# ; #placeholderend#

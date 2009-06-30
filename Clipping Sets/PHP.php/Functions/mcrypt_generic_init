@@ -1,0 +1,2 @@
+#indent#
+mcrypt_generic_init(#placeholderstart# resource td #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#, string iv #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setMaxQueryTime(#placeholderstart# int qtime #placeholderend#)#placeholderstart# ; #placeholderend#

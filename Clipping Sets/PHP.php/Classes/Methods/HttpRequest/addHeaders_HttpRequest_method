@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequest #placeholderend#->addHeaders(#placeholderstart# array headers #placeholderend#)#placeholderstart# ; #placeholderend#

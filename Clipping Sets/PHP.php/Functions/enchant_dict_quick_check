@@ -1,0 +1,2 @@
+#indent#
+enchant_dict_quick_check(#placeholderstart# resource dict #placeholderend##placeholderstart#, string word #placeholderend##placeholderstart#[, array suggestions ]#placeholderend#)#placeholderstart# ; #placeholderend#

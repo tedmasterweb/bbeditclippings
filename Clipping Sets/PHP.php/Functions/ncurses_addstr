@@ -1,0 +1,2 @@
+#indent#
+ncurses_addstr(#placeholderstart# string text #placeholderend#)#placeholderstart# ; #placeholderend#

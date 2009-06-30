@@ -1,0 +1,2 @@
+#indent#
+pspell_config_create(#placeholderstart# string language #placeholderend##placeholderstart#[, string spelling ]#placeholderend##placeholderstart#[, string jargon ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_button_bar(#placeholderstart# array buttons #placeholderend#)#placeholderstart# ; #placeholderend#

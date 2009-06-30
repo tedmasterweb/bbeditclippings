@@ -1,0 +1,2 @@
+#indent#
+ncurses_addch(#placeholderstart# int ch #placeholderend#)#placeholderstart# ; #placeholderend#

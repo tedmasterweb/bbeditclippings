@@ -1,0 +1,2 @@
+#indent#
+pathinfo(#placeholderstart# string path #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

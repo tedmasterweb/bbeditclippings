@@ -1,0 +1,2 @@
+#indent#
+posix_initgroups(#placeholderstart# string name #placeholderend##placeholderstart#, int base_group_id #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+swf_rotate(#placeholderstart# float angle #placeholderend##placeholderstart#, string axis #placeholderend#)#placeholderstart# ; #placeholderend#

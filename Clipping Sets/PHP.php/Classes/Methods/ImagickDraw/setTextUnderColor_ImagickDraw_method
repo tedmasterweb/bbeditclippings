@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setTextUnderColor(#placeholderstart# ImagickPixel under_color #placeholderend#)#placeholderstart# ; #placeholderend#

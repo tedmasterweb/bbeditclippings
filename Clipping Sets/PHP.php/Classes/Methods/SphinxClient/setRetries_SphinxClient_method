@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setRetries(#placeholderstart# int count #placeholderend##placeholderstart#[, int delay ]#placeholderend#)#placeholderstart# ; #placeholderend#

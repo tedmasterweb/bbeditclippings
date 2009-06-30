@@ -1,0 +1,2 @@
+#indent#
+posix_mknod(#placeholderstart# string pathname #placeholderend##placeholderstart#, int mode #placeholderend##placeholderstart#[, int major ]#placeholderend##placeholderstart#[, int minor ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+aggregate_methods(#placeholderstart# object object #placeholderend##placeholderstart#, string class_name #placeholderend#)#placeholderstart# ; #placeholderend#

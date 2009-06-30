@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruDestination #placeholderend#->setXYZ(#placeholderstart# float left #placeholderend##placeholderstart#, float top #placeholderend##placeholderstart#, float zoom #placeholderend#)#placeholderstart# ; #placeholderend#

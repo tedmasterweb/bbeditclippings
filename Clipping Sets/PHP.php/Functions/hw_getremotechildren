@@ -1,0 +1,2 @@
+#indent#
+hw_getremotechildren(#placeholderstart# int connection #placeholderend##placeholderstart#, string object_record #placeholderend#)#placeholderstart# ; #placeholderend#

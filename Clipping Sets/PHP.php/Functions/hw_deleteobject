@@ -1,0 +1,2 @@
+#indent#
+hw_deleteobject(#placeholderstart# int connection #placeholderend##placeholderstart#, int object_to_delete #placeholderend#)#placeholderstart# ; #placeholderend#

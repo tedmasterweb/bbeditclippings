@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").hasClass( #placeholderstart#String class#placeholderend# )

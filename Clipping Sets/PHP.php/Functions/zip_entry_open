@@ -1,0 +1,2 @@
+#indent#
+zip_entry_open(#placeholderstart# resource zip #placeholderend##placeholderstart#, resource zip_entry #placeholderend##placeholderstart#[, string mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+m_verifyconnection(#placeholderstart# resource conn #placeholderend##placeholderstart#, int tf #placeholderend#)#placeholderstart# ; #placeholderend#

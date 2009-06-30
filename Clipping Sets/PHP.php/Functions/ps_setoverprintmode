@@ -1,0 +1,2 @@
+#indent#
+ps_setoverprintmode(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int mode #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+recode_file(#placeholderstart# string request #placeholderend##placeholderstart#, resource input #placeholderend##placeholderstart#, resource output #placeholderend#)#placeholderstart# ; #placeholderend#

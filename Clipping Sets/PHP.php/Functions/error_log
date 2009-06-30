@@ -1,0 +1,2 @@
+#indent#
+error_log(#placeholderstart# string message #placeholderend##placeholderstart#[, int message_type ]#placeholderend##placeholderstart#[, string destination ]#placeholderend##placeholderstart#[, string extra_headers ]#placeholderend#)#placeholderstart# ; #placeholderend#

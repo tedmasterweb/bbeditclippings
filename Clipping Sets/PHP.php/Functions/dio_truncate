@@ -1,0 +1,2 @@
+#indent#
+dio_truncate(#placeholderstart# resource fd #placeholderend##placeholderstart#, int offset #placeholderend#)#placeholderstart# ; #placeholderend#

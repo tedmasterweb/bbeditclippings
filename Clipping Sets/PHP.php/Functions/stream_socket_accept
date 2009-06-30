@@ -1,0 +1,2 @@
+#indent#
+stream_socket_accept(#placeholderstart# resource server_socket #placeholderend##placeholderstart#[, float timeout ]#placeholderend##placeholderstart#[, string peername ]#placeholderend#)#placeholderstart# ; #placeholderend#

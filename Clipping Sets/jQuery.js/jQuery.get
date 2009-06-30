@@ -1,0 +1,2 @@
+#indent#
+jQuery.getjQuery.get( #placeholderstart#String url#placeholderend##placeholderstart#, Map data#placeholderend##placeholderstart#, Function callback#placeholderend# )

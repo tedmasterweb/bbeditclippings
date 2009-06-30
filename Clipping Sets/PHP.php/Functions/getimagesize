@@ -1,0 +1,2 @@
+#indent#
+getimagesize(#placeholderstart# string filename #placeholderend##placeholderstart#[, array imageinfo ]#placeholderend#)#placeholderstart# ; #placeholderend#

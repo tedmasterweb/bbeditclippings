@@ -1,0 +1,2 @@
+#indent#
+mb_ereg_search_init(#placeholderstart# string string #placeholderend##placeholderstart#[, string pattern ]#placeholderend##placeholderstart#[, string option ]#placeholderend#)#placeholderstart# ; #placeholderend#

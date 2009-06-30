@@ -1,0 +1,2 @@
+#indent#
+xdiff_string_patch_binary(#placeholderstart# string str #placeholderend##placeholderstart#, string patch #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+getenv(#placeholderstart# string varname #placeholderend#)#placeholderstart# ; #placeholderend#

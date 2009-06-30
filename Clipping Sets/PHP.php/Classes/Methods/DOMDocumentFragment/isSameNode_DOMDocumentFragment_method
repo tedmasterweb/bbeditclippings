@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocumentFragment #placeholderend#->isSameNode(#placeholderstart# DOMNode node #placeholderend#)#placeholderstart# ; #placeholderend#

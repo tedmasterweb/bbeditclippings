@@ -1,0 +1,2 @@
+#indent#
+dngettext(#placeholderstart# string domain #placeholderend##placeholderstart#, string msgid1 #placeholderend##placeholderstart#, string msgid2 #placeholderend##placeholderstart#, int n #placeholderend#)#placeholderstart# ; #placeholderend#

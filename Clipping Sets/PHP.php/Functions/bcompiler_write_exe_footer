@@ -1,0 +1,2 @@
+#indent#
+bcompiler_write_exe_footer(#placeholderstart# resource filehandle #placeholderend##placeholderstart#, int startpos #placeholderend#)#placeholderstart# ; #placeholderend#

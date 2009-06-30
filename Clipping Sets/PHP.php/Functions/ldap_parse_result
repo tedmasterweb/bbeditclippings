@@ -1,0 +1,2 @@
+#indent#
+ldap_parse_result(#placeholderstart# resource link #placeholderend##placeholderstart#, resource result #placeholderend##placeholderstart#, int errcode #placeholderend##placeholderstart#[, string matcheddn ]#placeholderend##placeholderstart#[, string errmsg ]#placeholderend##placeholderstart#[, array referrals ]#placeholderend#)#placeholderstart# ; #placeholderend#

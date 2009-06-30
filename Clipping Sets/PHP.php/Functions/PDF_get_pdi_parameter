@@ -1,0 +1,2 @@
+#indent#
+PDF_get_pdi_parameter(#placeholderstart# resource p #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#, int doc #placeholderend##placeholderstart#, int page #placeholderend##placeholderstart#, int reserved #placeholderend#)#placeholderstart# ; #placeholderend#

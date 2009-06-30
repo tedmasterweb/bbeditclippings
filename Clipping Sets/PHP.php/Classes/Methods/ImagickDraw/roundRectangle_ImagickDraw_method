@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->roundRectangle(#placeholderstart# float x1 #placeholderend##placeholderstart#, float y1 #placeholderend##placeholderstart#, float x2 #placeholderend##placeholderstart#, float y2 #placeholderend##placeholderstart#, float rx #placeholderend##placeholderstart#, float ry #placeholderend#)#placeholderstart# ; #placeholderend#

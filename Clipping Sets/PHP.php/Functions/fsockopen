@@ -1,0 +1,2 @@
+#indent#
+fsockopen(#placeholderstart# string hostname #placeholderend##placeholderstart#[, int port ]#placeholderend##placeholderstart#[, int errno ]#placeholderend##placeholderstart#[, string errstr ]#placeholderend##placeholderstart#[, float timeout ]#placeholderend#)#placeholderstart# ; #placeholderend#

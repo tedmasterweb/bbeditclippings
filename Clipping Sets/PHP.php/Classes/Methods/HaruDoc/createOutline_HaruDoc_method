@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruDoc #placeholderend#->createOutline(#placeholderstart# string title #placeholderend##placeholderstart#[, object parent_outline ]#placeholderend##placeholderstart#[, object encoder ]#placeholderend#)#placeholderstart# ; #placeholderend#

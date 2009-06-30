@@ -1,0 +1,2 @@
+#indent#
+newt_listitem_get_data(#placeholderstart# resource item #placeholderend#)#placeholderstart# ; #placeholderend#

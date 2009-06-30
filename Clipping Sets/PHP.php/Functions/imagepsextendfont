@@ -1,0 +1,2 @@
+#indent#
+imagepsextendfont(#placeholderstart# resource font_index #placeholderend##placeholderstart#, float extend #placeholderend#)#placeholderstart# ; #placeholderend#

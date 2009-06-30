@@ -1,0 +1,2 @@
+#indent#
+openssl_x509_checkpurpose(#placeholderstart# mixed x509cert #placeholderend##placeholderstart#, int purpose #placeholderend##placeholderstart#[, array cainfo ]#placeholderend##placeholderstart#[, string untrustedfile ]#placeholderend#)#placeholderstart# ; #placeholderend#

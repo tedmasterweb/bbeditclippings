@@ -1,0 +1,2 @@
+#indent#
+runkit_constant_add(#placeholderstart# string constname #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

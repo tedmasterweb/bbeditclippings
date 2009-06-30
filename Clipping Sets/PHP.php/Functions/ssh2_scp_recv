@@ -1,0 +1,2 @@
+#indent#
+ssh2_scp_recv(#placeholderstart# resource session #placeholderend##placeholderstart#, string remote_file #placeholderend##placeholderstart#, string local_file #placeholderend#)#placeholderstart# ; #placeholderend#

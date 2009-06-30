@@ -1,0 +1,2 @@
+#indent#
+newt_form_add_components(#placeholderstart# resource form #placeholderend##placeholderstart#, array components #placeholderend#)#placeholderstart# ; #placeholderend#

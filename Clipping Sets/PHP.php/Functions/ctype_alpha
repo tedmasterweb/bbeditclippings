@@ -1,0 +1,2 @@
+#indent#
+ctype_alpha(#placeholderstart# string text #placeholderend#)#placeholderstart# ; #placeholderend#

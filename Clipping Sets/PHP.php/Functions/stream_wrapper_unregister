@@ -1,0 +1,2 @@
+#indent#
+stream_wrapper_unregister(#placeholderstart# string protocol #placeholderend#)#placeholderstart# ; #placeholderend#

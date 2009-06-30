@@ -1,0 +1,2 @@
+#indent#
+swf_ortho(#placeholderstart# float xmin #placeholderend##placeholderstart#, float xmax #placeholderend##placeholderstart#, float ymin #placeholderend##placeholderstart#, float ymax #placeholderend##placeholderstart#, float zmin #placeholderend##placeholderstart#, float zmax #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_set_border_color(#placeholderstart# resource p #placeholderend##placeholderstart#, float red #placeholderend##placeholderstart#, float green #placeholderend##placeholderstart#, float blue #placeholderend#)#placeholderstart# ; #placeholderend#

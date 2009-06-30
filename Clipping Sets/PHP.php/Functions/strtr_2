@@ -1,0 +1,2 @@
+#indent#
+strtr(#placeholderstart# string str #placeholderend##placeholderstart#, array replace_pairs #placeholderend#)#placeholderstart# ; #placeholderend#

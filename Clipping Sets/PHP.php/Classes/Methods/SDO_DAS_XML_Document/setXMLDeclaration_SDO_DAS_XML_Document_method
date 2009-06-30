@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_XML_Document #placeholderend#->setXMLDeclaration(#placeholderstart# bool xmlDeclatation #placeholderend#)#placeholderstart# ; #placeholderend#

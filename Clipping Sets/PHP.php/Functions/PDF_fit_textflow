@@ -1,0 +1,2 @@
+#indent#
+PDF_fit_textflow(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int textflow #placeholderend##placeholderstart#, float llx #placeholderend##placeholderstart#, float lly #placeholderend##placeholderstart#, float urx #placeholderend##placeholderstart#, float ury #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

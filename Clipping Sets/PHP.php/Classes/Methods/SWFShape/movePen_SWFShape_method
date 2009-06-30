@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFShape #placeholderend#->movePen(#placeholderstart# float dx #placeholderend##placeholderstart#, float dy #placeholderend#)#placeholderstart# ; #placeholderend#

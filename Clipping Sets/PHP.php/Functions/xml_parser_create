@@ -1,0 +1,2 @@
+#indent#
+xml_parser_create(#placeholderstart#[ string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

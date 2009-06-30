@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpResponse #placeholderend#->getHeader(#placeholderstart#[ string name ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ftp_delete(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, string path #placeholderend#)#placeholderstart# ; #placeholderend#

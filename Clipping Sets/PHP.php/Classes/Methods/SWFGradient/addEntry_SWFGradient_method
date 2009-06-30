@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFGradient #placeholderend#->addEntry(#placeholderstart# float ratio #placeholderend##placeholderstart#, int red #placeholderend##placeholderstart#, int green #placeholderend##placeholderstart#, int blue #placeholderend##placeholderstart#[, int alpha ]#placeholderend#)#placeholderstart# ; #placeholderend#

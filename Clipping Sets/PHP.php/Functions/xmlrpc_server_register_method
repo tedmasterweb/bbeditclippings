@@ -1,0 +1,2 @@
+#indent#
+xmlrpc_server_register_method(#placeholderstart# resource server #placeholderend##placeholderstart#, string method_name #placeholderend##placeholderstart#, string function #placeholderend#)#placeholderstart# ; #placeholderend#

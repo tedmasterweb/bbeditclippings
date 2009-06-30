@@ -1,0 +1,2 @@
+#indent#
+mb_eregi(#placeholderstart# string pattern #placeholderend##placeholderstart#, string string #placeholderend##placeholderstart#[, array regs ]#placeholderend#)#placeholderstart# ; #placeholderend#

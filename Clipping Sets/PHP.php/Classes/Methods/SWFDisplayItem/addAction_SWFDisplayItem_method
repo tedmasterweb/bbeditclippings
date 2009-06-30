@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFDisplayItem #placeholderend#->addAction(#placeholderstart# SWFAction action #placeholderend##placeholderstart#, int flags #placeholderend#)#placeholderstart# ; #placeholderend#

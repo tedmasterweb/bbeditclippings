@@ -1,0 +1,2 @@
+#indent#
+runkit_class_adopt(#placeholderstart# string classname #placeholderend##placeholderstart#, string parentname #placeholderend#)#placeholderstart# ; #placeholderend#

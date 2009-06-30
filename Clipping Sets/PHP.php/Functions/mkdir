@@ -1,0 +1,2 @@
+#indent#
+mkdir(#placeholderstart# string pathname #placeholderend##placeholderstart#[, int mode ]#placeholderend##placeholderstart#[, bool recursive ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

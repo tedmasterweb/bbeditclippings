@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->vignetteImage(#placeholderstart# float blackPoint #placeholderend##placeholderstart#, float whitePoint #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend#)#placeholderstart# ; #placeholderend#

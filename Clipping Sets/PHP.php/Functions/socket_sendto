@@ -1,0 +1,2 @@
+#indent#
+socket_sendto(#placeholderstart# resource socket #placeholderend##placeholderstart#, string buf #placeholderend##placeholderstart#, int len #placeholderend##placeholderstart#, int flags #placeholderend##placeholderstart#, string addr #placeholderend##placeholderstart#[, int port ]#placeholderend#)#placeholderstart# ; #placeholderend#

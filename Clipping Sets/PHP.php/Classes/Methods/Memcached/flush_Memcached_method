@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->flush(#placeholderstart#[ int delay ]#placeholderend#)#placeholderstart# ; #placeholderend#

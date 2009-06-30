@@ -1,0 +1,2 @@
+#indent#
+call_user_method(#placeholderstart# string method_name #placeholderend##placeholderstart#, object obj #placeholderend##placeholderstart#[, mixed parameter ]#placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

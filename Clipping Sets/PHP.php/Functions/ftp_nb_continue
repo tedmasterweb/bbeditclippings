@@ -1,0 +1,2 @@
+#indent#
+ftp_nb_continue(#placeholderstart# resource ftp_stream #placeholderend#)#placeholderstart# ; #placeholderend#

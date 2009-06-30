@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->negateImage(#placeholderstart# bool gray #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

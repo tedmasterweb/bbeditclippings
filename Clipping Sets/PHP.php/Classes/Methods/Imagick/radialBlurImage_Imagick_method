@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->radialBlurImage(#placeholderstart# float angle #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

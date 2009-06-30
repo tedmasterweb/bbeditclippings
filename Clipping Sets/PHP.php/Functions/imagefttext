@@ -1,0 +1,2 @@
+#indent#
+imagefttext(#placeholderstart# resource image #placeholderend##placeholderstart#, float size #placeholderend##placeholderstart#, float angle #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, int color #placeholderend##placeholderstart#, string fontfile #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#[, array extrainfo ]#placeholderend#)#placeholderstart# ; #placeholderend#

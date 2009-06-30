@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->textRect(#placeholderstart# float left #placeholderend##placeholderstart#, float top #placeholderend##placeholderstart#, float right #placeholderend##placeholderstart#, float bottom #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#[, int align ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+mb_encode_numericentity(#placeholderstart# string str #placeholderend##placeholderstart#, array convmap #placeholderend##placeholderstart#, string encoding #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+gmp_init(#placeholderstart# mixed number #placeholderend##placeholderstart#[, int base ]#placeholderend#)#placeholderstart# ; #placeholderend#

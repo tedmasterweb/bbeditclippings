@@ -1,0 +1,2 @@
+#indent#
+property_exists(#placeholderstart# mixed class #placeholderend##placeholderstart#, string property #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+curl_copy_handle(#placeholderstart# resource ch #placeholderend#)#placeholderstart# ; #placeholderend#

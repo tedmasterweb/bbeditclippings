@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ZipArchive #placeholderend#->addFromString(#placeholderstart# string localname #placeholderend##placeholderstart#, string contents #placeholderend#)#placeholderstart# ; #placeholderend#

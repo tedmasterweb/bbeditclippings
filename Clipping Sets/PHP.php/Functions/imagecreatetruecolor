@@ -1,0 +1,2 @@
+#indent#
+imagecreatetruecolor(#placeholderstart# int width #placeholderend##placeholderstart#, int height #placeholderend#)#placeholderstart# ; #placeholderend#

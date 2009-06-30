@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_XML #placeholderend#->loadString(#placeholderstart# string xml_string #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLReader #placeholderend#->getAttributeNs(#placeholderstart# string localName #placeholderend##placeholderstart#, string namespaceURI #placeholderend#)#placeholderstart# ; #placeholderend#

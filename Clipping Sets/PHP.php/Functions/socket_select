@@ -1,0 +1,2 @@
+#indent#
+socket_select(#placeholderstart# array read #placeholderend##placeholderstart#, array write #placeholderend##placeholderstart#, array except #placeholderend##placeholderstart#, int tv_sec #placeholderend##placeholderstart#[, int tv_usec ]#placeholderend#)#placeholderstart# ; #placeholderend#

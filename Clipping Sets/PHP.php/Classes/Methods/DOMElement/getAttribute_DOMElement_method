@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMElement #placeholderend#->getAttribute(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

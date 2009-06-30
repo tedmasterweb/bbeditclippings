@@ -1,0 +1,2 @@
+#indent#
+token_get_all(#placeholderstart# string source #placeholderend#)#placeholderstart# ; #placeholderend#

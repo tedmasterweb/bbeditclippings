@@ -1,0 +1,2 @@
+#indent#
+openal_device_open(#placeholderstart#[ string device_desc ]#placeholderend#)#placeholderstart# ; #placeholderend#

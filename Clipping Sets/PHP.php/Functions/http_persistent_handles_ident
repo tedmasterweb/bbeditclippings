@@ -1,0 +1,2 @@
+#indent#
+http_persistent_handles_ident(#placeholderstart# string ident #placeholderend#)#placeholderstart# ; #placeholderend#

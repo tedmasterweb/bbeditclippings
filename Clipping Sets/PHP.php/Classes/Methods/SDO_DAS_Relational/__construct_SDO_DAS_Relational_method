@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_Relational #placeholderend#->__construct(#placeholderstart# array database_metadata #placeholderend##placeholderstart#[, string application_root_type ]#placeholderend##placeholderstart#[, array SDO_containment_references_metadata ]#placeholderend#)#placeholderstart# ; #placeholderend#

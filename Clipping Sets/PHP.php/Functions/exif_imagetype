@@ -1,0 +1,2 @@
+#indent#
+exif_imagetype(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

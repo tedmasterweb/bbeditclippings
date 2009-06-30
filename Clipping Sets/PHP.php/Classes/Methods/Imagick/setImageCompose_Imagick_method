@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageCompose(#placeholderstart# int compose #placeholderend#)#placeholderstart# ; #placeholderend#

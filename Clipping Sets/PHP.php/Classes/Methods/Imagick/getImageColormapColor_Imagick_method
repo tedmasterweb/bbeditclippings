@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->getImageColormapColor(#placeholderstart# int index #placeholderend#)#placeholderstart# ; #placeholderend#

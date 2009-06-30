@@ -1,0 +1,2 @@
+#indent#
+vpopmail_passwd(#placeholderstart# string user #placeholderend##placeholderstart#, string domain #placeholderend##placeholderstart#, string password #placeholderend##placeholderstart#[, bool apop ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ncurses_mvvline(#placeholderstart# int y #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int attrchar #placeholderend##placeholderstart#, int n #placeholderend#)#placeholderstart# ; #placeholderend#

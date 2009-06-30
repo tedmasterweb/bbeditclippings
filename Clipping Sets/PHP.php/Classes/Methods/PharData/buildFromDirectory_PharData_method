@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->buildFromDirectory(#placeholderstart# string base_dir #placeholderend##placeholderstart#[, string regex ]#placeholderend#)#placeholderstart# ; #placeholderend#

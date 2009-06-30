@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setIDRange(#placeholderstart# int min #placeholderend##placeholderstart#, int max #placeholderend#)#placeholderstart# ; #placeholderend#

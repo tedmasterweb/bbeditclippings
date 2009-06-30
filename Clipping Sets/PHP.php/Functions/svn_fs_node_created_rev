@@ -1,0 +1,2 @@
+#indent#
+svn_fs_node_created_rev(#placeholderstart# resource fsroot #placeholderend##placeholderstart#, string path #placeholderend#)#placeholderstart# ; #placeholderend#

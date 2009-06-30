@@ -1,0 +1,2 @@
+#indent#
+ncurses_echochar(#placeholderstart# int character #placeholderend#)#placeholderstart# ; #placeholderend#

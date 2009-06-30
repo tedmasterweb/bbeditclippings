@@ -1,0 +1,2 @@
+#indent#
+ssh2_sftp_mkdir(#placeholderstart# resource sftp #placeholderend##placeholderstart#, string dirname #placeholderend##placeholderstart#[, int mode ]#placeholderend##placeholderstart#[, bool recursive ]#placeholderend#)#placeholderstart# ; #placeholderend#

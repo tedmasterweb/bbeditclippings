@@ -1,0 +1,2 @@
+#indent#
+filter(#placeholderstart# resource in #placeholderend##placeholderstart#, resource out #placeholderend##placeholderstart#, int consumed #placeholderend##placeholderstart#, bool closing #placeholderend#)#placeholderstart# ; #placeholderend#

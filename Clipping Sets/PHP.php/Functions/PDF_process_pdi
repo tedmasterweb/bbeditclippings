@@ -1,0 +1,2 @@
+#indent#
+PDF_process_pdi(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int doc #placeholderend##placeholderstart#, int page #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

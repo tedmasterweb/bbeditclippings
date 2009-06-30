@@ -1,0 +1,2 @@
+#indent#
+curl_setopt(#placeholderstart# resource ch #placeholderend##placeholderstart#, int option #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

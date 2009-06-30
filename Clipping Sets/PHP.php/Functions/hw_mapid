@@ -1,0 +1,2 @@
+#indent#
+hw_mapid(#placeholderstart# int connection #placeholderend##placeholderstart#, int server_id #placeholderend##placeholderstart#, int object_id #placeholderend#)#placeholderstart# ; #placeholderend#

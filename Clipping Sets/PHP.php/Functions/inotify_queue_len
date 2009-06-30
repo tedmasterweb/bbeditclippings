@@ -1,0 +1,2 @@
+#indent#
+inotify_queue_len(#placeholderstart# resource inotify_instance #placeholderend#)#placeholderstart# ; #placeholderend#

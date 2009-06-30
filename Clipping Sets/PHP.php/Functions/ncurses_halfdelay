@@ -1,0 +1,2 @@
+#indent#
+ncurses_halfdelay(#placeholderstart# int tenth #placeholderend#)#placeholderstart# ; #placeholderend#

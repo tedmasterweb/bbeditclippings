@@ -1,0 +1,2 @@
+#indent#
+mb_regex_set_options(#placeholderstart#[ string options ]#placeholderend#)#placeholderstart# ; #placeholderend#

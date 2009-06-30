@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageOpacity(#placeholderstart# float opacity #placeholderend#)#placeholderstart# ; #placeholderend#

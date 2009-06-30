@@ -1,0 +1,2 @@
+#indent#
+xdiff_file_merge3(#placeholderstart# string old_file #placeholderend##placeholderstart#, string new_file1 #placeholderend##placeholderstart#, string new_file2 #placeholderend##placeholderstart#, string dest #placeholderend#)#placeholderstart# ; #placeholderend#

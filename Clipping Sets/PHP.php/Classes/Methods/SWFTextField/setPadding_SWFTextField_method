@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFTextField #placeholderend#->setPadding(#placeholderstart# float padding #placeholderend#)#placeholderstart# ; #placeholderend#

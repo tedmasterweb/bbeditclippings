@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapVar #placeholderend#->SoapVar(#placeholderstart# string data #placeholderend##placeholderstart#, string encoding #placeholderend##placeholderstart#[, string type_name ]#placeholderend##placeholderstart#[, string type_namespace ]#placeholderend##placeholderstart#[, string node_name ]#placeholderend##placeholderstart#[, string node_namespace ]#placeholderend#)#placeholderstart# ; #placeholderend#

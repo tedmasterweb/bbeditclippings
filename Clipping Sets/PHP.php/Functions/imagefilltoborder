@@ -1,0 +1,2 @@
+#indent#
+imagefilltoborder(#placeholderstart# resource image #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, int border #placeholderend##placeholderstart#, int color #placeholderend#)#placeholderstart# ; #placeholderend#

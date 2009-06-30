@@ -1,0 +1,2 @@
+#indent#
+ssh2_sftp_realpath(#placeholderstart# resource sftp #placeholderend##placeholderstart#, string filename #placeholderend#)#placeholderstart# ; #placeholderend#

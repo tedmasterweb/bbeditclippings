@@ -1,0 +1,2 @@
+#indent#
+rename_function(#placeholderstart# string original_name #placeholderend##placeholderstart#, string new_name #placeholderend#)#placeholderstart# ; #placeholderend#

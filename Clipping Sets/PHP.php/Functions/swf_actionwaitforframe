@@ -1,0 +1,2 @@
+#indent#
+swf_actionwaitforframe(#placeholderstart# int framenumber #placeholderend##placeholderstart#, int skipcount #placeholderend#)#placeholderstart# ; #placeholderend#

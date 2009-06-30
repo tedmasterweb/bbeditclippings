@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->pushClipPath(#placeholderstart# string clip_mask_id #placeholderend#)#placeholderstart# ; #placeholderend#

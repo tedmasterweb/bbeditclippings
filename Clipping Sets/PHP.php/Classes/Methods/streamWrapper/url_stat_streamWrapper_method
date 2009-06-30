@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# streamWrapper #placeholderend#->url_stat(#placeholderstart# string path #placeholderend##placeholderstart#, int flags #placeholderend#)#placeholderstart# ; #placeholderend#

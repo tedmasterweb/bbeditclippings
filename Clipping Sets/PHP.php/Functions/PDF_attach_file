@@ -1,0 +1,2 @@
+#indent#
+PDF_attach_file(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float llx #placeholderend##placeholderstart#, float lly #placeholderend##placeholderstart#, float urx #placeholderend##placeholderstart#, float ury #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, string description #placeholderend##placeholderstart#, string author #placeholderend##placeholderstart#, string mimetype #placeholderend##placeholderstart#, string icon #placeholderend#)#placeholderstart# ; #placeholderend#

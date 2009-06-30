@@ -1,0 +1,2 @@
+#indent#
+msg_receive(#placeholderstart# resource queue #placeholderend##placeholderstart#, int desiredmsgtype #placeholderend##placeholderstart#, int msgtype #placeholderend##placeholderstart#, int maxsize #placeholderend##placeholderstart#, mixed message #placeholderend##placeholderstart#[, bool unserialize ]#placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, int errorcode ]#placeholderend#)#placeholderstart# ; #placeholderend#

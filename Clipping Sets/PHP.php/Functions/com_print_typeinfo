@@ -1,0 +1,2 @@
+#indent#
+com_print_typeinfo(#placeholderstart# object comobject #placeholderend##placeholderstart#[, string dispinterface ]#placeholderend##placeholderstart#[, bool wantsink ]#placeholderend#)#placeholderstart# ; #placeholderend#

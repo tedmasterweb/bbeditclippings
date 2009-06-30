@@ -1,0 +1,2 @@
+#indent#
+svn_fs_copy(#placeholderstart# resource from_root #placeholderend##placeholderstart#, string from_path #placeholderend##placeholderstart#, resource to_root #placeholderend##placeholderstart#, string to_path #placeholderend#)#placeholderstart# ; #placeholderend#

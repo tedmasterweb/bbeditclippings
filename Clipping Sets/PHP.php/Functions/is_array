@@ -1,0 +1,2 @@
+#indent#
+is_array(#placeholderstart# mixed var #placeholderend#)#placeholderstart# ; #placeholderend#

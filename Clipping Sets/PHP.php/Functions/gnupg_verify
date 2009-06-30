@@ -1,0 +1,2 @@
+#indent#
+gnupg_verify(#placeholderstart# resource identifier #placeholderend##placeholderstart#, string signed_text #placeholderend##placeholderstart#, string signature #placeholderend##placeholderstart#[, string plaintext ]#placeholderend#)#placeholderstart# ; #placeholderend#

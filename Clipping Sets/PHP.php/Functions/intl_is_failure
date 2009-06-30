@@ -1,0 +1,2 @@
+#indent#
+intl_is_failure(#placeholderstart# int error_code #placeholderend#)#placeholderstart# ; #placeholderend#

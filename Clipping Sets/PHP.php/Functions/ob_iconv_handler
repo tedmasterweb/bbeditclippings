@@ -1,0 +1,2 @@
+#indent#
+ob_iconv_handler(#placeholderstart# string contents #placeholderend##placeholderstart#, int status #placeholderend#)#placeholderstart# ; #placeholderend#

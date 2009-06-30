@@ -1,0 +1,2 @@
+#indent#
+w32api_set_call_method(#placeholderstart# int method #placeholderend#)#placeholderstart# ; #placeholderend#

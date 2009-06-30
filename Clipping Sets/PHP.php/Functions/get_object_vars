@@ -1,0 +1,2 @@
+#indent#
+get_object_vars(#placeholderstart# object object #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+hwapi_hgcsp(#placeholderstart# string hostname #placeholderend##placeholderstart#[, int port ]#placeholderend#)#placeholderstart# ; #placeholderend#

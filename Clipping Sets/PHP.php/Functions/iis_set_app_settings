@@ -1,0 +1,2 @@
+#indent#
+iis_set_app_settings(#placeholderstart# int server_instance #placeholderend##placeholderstart#, string virtual_path #placeholderend##placeholderstart#, string application_scope #placeholderend#)#placeholderstart# ; #placeholderend#

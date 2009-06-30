@@ -1,0 +1,2 @@
+#indent#
+hw_insertdocument(#placeholderstart# int connection #placeholderend##placeholderstart#, int parent_id #placeholderend##placeholderstart#, int hw_document #placeholderend#)#placeholderstart# ; #placeholderend#

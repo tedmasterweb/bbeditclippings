@@ -1,0 +1,2 @@
+#indent#
+swf_definetext(#placeholderstart# int objid #placeholderend##placeholderstart#, string str #placeholderend##placeholderstart#, int docenter #placeholderend#)#placeholderstart# ; #placeholderend#

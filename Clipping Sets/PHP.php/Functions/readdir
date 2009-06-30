@@ -1,0 +1,2 @@
+#indent#
+readdir(#placeholderstart#[ resource dir_handle ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+apache_setenv(#placeholderstart# string variable #placeholderend##placeholderstart#, string value #placeholderend##placeholderstart#[, bool walk_to_top ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+stream_get_contents(#placeholderstart# resource handle #placeholderend##placeholderstart#[, int maxlength ]#placeholderend##placeholderstart#[, int offset ]#placeholderend#)#placeholderstart# ; #placeholderend#

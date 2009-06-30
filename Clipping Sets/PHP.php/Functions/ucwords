@@ -1,0 +1,2 @@
+#indent#
+ucwords(#placeholderstart# string str #placeholderend#)#placeholderstart# ; #placeholderend#

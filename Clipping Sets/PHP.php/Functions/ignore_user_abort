@@ -1,0 +1,2 @@
+#indent#
+ignore_user_abort(#placeholderstart#[ string value ]#placeholderend#)#placeholderstart# ; #placeholderend#

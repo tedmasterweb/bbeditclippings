@@ -1,0 +1,2 @@
+#indent#
+ncurses_mvcur(#placeholderstart# int old_y #placeholderend##placeholderstart#, int old_x #placeholderend##placeholderstart#, int new_y #placeholderend##placeholderstart#, int new_x #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageGamma(#placeholderstart# float gamma #placeholderend#)#placeholderstart# ; #placeholderend#

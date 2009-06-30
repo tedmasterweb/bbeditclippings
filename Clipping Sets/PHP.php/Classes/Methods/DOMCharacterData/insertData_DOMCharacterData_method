@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMCharacterData #placeholderend#->insertData(#placeholderstart# int offset #placeholderend##placeholderstart#, string data #placeholderend#)#placeholderstart# ; #placeholderend#

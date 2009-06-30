@@ -1,0 +1,2 @@
+#indent#
+hw_getrellink(#placeholderstart# int link #placeholderend##placeholderstart#, int rootid #placeholderend##placeholderstart#, int sourceid #placeholderend##placeholderstart#, int destid #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+svn_fs_file_contents(#placeholderstart# resource fsroot #placeholderend##placeholderstart#, string path #placeholderend#)#placeholderstart# ; #placeholderend#

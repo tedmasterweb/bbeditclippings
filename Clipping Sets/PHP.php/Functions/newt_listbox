@@ -1,0 +1,2 @@
+#indent#
+newt_listbox(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

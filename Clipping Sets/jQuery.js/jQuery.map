@@ -1,0 +1,2 @@
+#indent#
+jQuery.mapjQuery.map( #placeholderstart#Array array#placeholderend##placeholderstart#, Function callback#placeholderend# )

@@ -1,0 +1,2 @@
+#indent#
+filetype(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

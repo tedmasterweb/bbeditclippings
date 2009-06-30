@@ -1,0 +1,2 @@
+#indent#
+fdf_set_on_import_javascript(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string script #placeholderend##placeholderstart#, bool before_data_import #placeholderend#)#placeholderstart# ; #placeholderend#

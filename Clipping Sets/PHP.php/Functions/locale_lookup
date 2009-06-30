@@ -1,0 +1,2 @@
+#indent#
+locale_lookup(#placeholderstart# array langtag #placeholderend##placeholderstart#, string locale #placeholderend##placeholderstart#, string default #placeholderend#)#placeholderstart# ; #placeholderend#

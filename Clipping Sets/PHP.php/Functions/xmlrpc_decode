@@ -1,0 +1,2 @@
+#indent#
+xmlrpc_decode(#placeholderstart# string xml #placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->addServer(#placeholderstart# string host #placeholderend##placeholderstart#, int port #placeholderend##placeholderstart#[, int weight ]#placeholderend#)#placeholderstart# ; #placeholderend#

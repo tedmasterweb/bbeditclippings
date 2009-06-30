@@ -1,0 +1,2 @@
+#indent#
+mcrypt_enc_get_iv_size(#placeholderstart# resource td #placeholderend#)#placeholderstart# ; #placeholderend#

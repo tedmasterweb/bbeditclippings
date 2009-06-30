@@ -1,0 +1,2 @@
+#indent#
+http_cache_etag(#placeholderstart#[ string etag ]#placeholderend#)#placeholderstart# ; #placeholderend#

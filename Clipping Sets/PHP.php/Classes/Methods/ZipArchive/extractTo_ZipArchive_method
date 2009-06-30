@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ZipArchive #placeholderend#->extractTo(#placeholderstart# string destination #placeholderend##placeholderstart#[, mixed entries ]#placeholderend#)#placeholderstart# ; #placeholderend#

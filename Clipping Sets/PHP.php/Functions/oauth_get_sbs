@@ -1,0 +1,2 @@
+#indent#
+oauth_get_sbs(#placeholderstart# string http_method #placeholderend##placeholderstart#, string uri #placeholderend##placeholderstart#, array request_parameters #placeholderend#)#placeholderstart# ; #placeholderend#

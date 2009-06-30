@@ -1,0 +1,2 @@
+#indent#
+runkit_function_rename(#placeholderstart# string funcname #placeholderend##placeholderstart#, string newname #placeholderend#)#placeholderstart# ; #placeholderend#

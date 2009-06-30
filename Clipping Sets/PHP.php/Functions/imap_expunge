@@ -1,0 +1,2 @@
+#indent#
+imap_expunge(#placeholderstart# resource imap_stream #placeholderend#)#placeholderstart# ; #placeholderend#

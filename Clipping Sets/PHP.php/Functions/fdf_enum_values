@@ -1,0 +1,2 @@
+#indent#
+fdf_enum_values(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, callback function #placeholderend##placeholderstart#[, mixed userdata ]#placeholderend#)#placeholderstart# ; #placeholderend#

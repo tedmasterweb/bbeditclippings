@@ -1,0 +1,2 @@
+#indent#
+newt_entry(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#[, string init_value ]#placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

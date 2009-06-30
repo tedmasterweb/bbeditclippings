@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DateTime #placeholderend#->diff(#placeholderstart# DateTime datetime #placeholderend##placeholderstart#[, bool absolute ]#placeholderend#)#placeholderstart# ; #placeholderend#

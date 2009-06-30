@@ -1,0 +1,2 @@
+#indent#
+ncurses_putp(#placeholderstart# string text #placeholderend#)#placeholderstart# ; #placeholderend#

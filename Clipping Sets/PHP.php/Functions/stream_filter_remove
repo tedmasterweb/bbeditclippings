@@ -1,0 +1,2 @@
+#indent#
+stream_filter_remove(#placeholderstart# resource stream_filter #placeholderend#)#placeholderstart# ; #placeholderend#

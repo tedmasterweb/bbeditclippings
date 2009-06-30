@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->createElementNS(#placeholderstart# string namespaceURI #placeholderend##placeholderstart#, string qualifiedName #placeholderend##placeholderstart#[, string value ]#placeholderend#)#placeholderstart# ; #placeholderend#

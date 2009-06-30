@@ -1,0 +1,2 @@
+#indent#
+numfmt_parse_currency(#placeholderstart# NumberFormatter fmt #placeholderend##placeholderstart#, string value #placeholderend##placeholderstart#, string currency #placeholderend##placeholderstart#[, int position ]#placeholderend#)#placeholderstart# ; #placeholderend#

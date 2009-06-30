@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->translate(#placeholderstart# float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

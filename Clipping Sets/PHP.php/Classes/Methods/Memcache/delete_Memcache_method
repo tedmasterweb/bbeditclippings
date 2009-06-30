@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcache #placeholderend#->delete(#placeholderstart# string key #placeholderend##placeholderstart#[, int timeout ]#placeholderend#)#placeholderstart# ; #placeholderend#

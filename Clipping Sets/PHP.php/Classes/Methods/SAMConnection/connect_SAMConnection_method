@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SAMConnection #placeholderend#->connect(#placeholderstart# string protocol #placeholderend##placeholderstart#[, array properties ]#placeholderend#)#placeholderstart# ; #placeholderend#

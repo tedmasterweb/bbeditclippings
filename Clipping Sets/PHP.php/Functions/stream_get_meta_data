@@ -1,0 +1,2 @@
+#indent#
+stream_get_meta_data(#placeholderstart# resource stream #placeholderend#)#placeholderstart# ; #placeholderend#

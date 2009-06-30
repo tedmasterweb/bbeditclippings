@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMXPath #placeholderend#->registerNamespace(#placeholderstart# string prefix #placeholderend##placeholderstart#, string namespaceURI #placeholderend#)#placeholderstart# ; #placeholderend#

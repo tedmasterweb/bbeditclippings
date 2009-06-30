@@ -1,0 +1,2 @@
+#indent#
+ncurses_mvwaddstr(#placeholderstart# resource window #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, string text #placeholderend#)#placeholderstart# ; #placeholderend#

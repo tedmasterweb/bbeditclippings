@@ -1,0 +1,2 @@
+#indent#
+vpopmail_add_domain(#placeholderstart# string domain #placeholderend##placeholderstart#, string dir #placeholderend##placeholderstart#, int uid #placeholderend##placeholderstart#, int gid #placeholderend#)#placeholderstart# ; #placeholderend#

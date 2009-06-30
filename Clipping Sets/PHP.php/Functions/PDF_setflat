@@ -1,0 +1,2 @@
+#indent#
+PDF_setflat(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float flatness #placeholderend#)#placeholderstart# ; #placeholderend#

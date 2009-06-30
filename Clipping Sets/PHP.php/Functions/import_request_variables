@@ -1,0 +1,2 @@
+#indent#
+import_request_variables(#placeholderstart# string types #placeholderend##placeholderstart#[, string prefix ]#placeholderend#)#placeholderstart# ; #placeholderend#

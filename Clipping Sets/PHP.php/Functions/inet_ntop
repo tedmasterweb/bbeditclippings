@@ -1,0 +1,2 @@
+#indent#
+inet_ntop(#placeholderstart# string in_addr #placeholderend#)#placeholderstart# ; #placeholderend#

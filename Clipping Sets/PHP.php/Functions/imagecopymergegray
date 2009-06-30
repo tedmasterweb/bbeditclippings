@@ -1,0 +1,2 @@
+#indent#
+imagecopymergegray(#placeholderstart# resource dst_im #placeholderend##placeholderstart#, resource src_im #placeholderend##placeholderstart#, int dst_x #placeholderend##placeholderstart#, int dst_y #placeholderend##placeholderstart#, int src_x #placeholderend##placeholderstart#, int src_y #placeholderend##placeholderstart#, int src_w #placeholderend##placeholderstart#, int src_h #placeholderend##placeholderstart#, int pct #placeholderend#)#placeholderstart# ; #placeholderend#

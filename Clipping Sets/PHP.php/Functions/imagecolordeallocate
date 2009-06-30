@@ -1,0 +1,2 @@
+#indent#
+imagecolordeallocate(#placeholderstart# resource image #placeholderend##placeholderstart#, int color #placeholderend#)#placeholderstart# ; #placeholderend#

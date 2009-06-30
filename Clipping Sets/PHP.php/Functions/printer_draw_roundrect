@@ -1,0 +1,2 @@
+#indent#
+printer_draw_roundrect(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, int ul_x #placeholderend##placeholderstart#, int ul_y #placeholderend##placeholderstart#, int lr_x #placeholderend##placeholderstart#, int lr_y #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend#)#placeholderstart# ; #placeholderend#

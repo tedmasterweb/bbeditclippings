@@ -1,0 +1,2 @@
+#indent#
+xdiff_string_patch(#placeholderstart# string str #placeholderend##placeholderstart#, string patch #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, string error ]#placeholderend#)#placeholderstart# ; #placeholderend#

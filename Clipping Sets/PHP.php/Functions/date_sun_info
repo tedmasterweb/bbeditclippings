@@ -1,0 +1,2 @@
+#indent#
+date_sun_info(#placeholderstart# int time #placeholderend##placeholderstart#, float latitude #placeholderend##placeholderstart#, float longitude #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ncurses_newwin(#placeholderstart# int rows #placeholderend##placeholderstart#, int cols #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, int x #placeholderend#)#placeholderstart# ; #placeholderend#

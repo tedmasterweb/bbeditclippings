@@ -1,0 +1,2 @@
+#indent#
+PDF_begin_glyph(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string glyphname #placeholderend##placeholderstart#, float wx #placeholderend##placeholderstart#, float llx #placeholderend##placeholderstart#, float lly #placeholderend##placeholderstart#, float urx #placeholderend##placeholderstart#, float ury #placeholderend#)#placeholderstart# ; #placeholderend#

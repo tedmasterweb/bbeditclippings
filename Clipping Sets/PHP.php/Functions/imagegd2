@@ -1,0 +1,2 @@
+#indent#
+imagegd2(#placeholderstart# resource image #placeholderend##placeholderstart#[, string filename ]#placeholderend##placeholderstart#[, int chunk_size ]#placeholderend##placeholderstart#[, int type ]#placeholderend#)#placeholderstart# ; #placeholderend#

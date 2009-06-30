@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_XML #placeholderend#->createDataObject(#placeholderstart# string namespace_uri #placeholderend##placeholderstart#, string type_name #placeholderend#)#placeholderstart# ; #placeholderend#

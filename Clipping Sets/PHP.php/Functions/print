@@ -1,0 +1,2 @@
+#indent#
+print(#placeholderstart# string arg #placeholderend#)#placeholderstart# ; #placeholderend#

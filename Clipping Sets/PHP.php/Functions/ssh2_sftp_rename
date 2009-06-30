@@ -1,0 +1,2 @@
+#indent#
+ssh2_sftp_rename(#placeholderstart# resource sftp #placeholderend##placeholderstart#, string from #placeholderend##placeholderstart#, string to #placeholderend#)#placeholderstart# ; #placeholderend#

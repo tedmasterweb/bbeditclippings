@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->shearImage(#placeholderstart# mixed background #placeholderend##placeholderstart#, float x_shear #placeholderend##placeholderstart#, float y_shear #placeholderend#)#placeholderstart# ; #placeholderend#

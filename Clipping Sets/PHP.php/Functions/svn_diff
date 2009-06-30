@@ -1,0 +1,2 @@
+#indent#
+svn_diff(#placeholderstart# string path1 #placeholderend##placeholderstart#, int rev1 #placeholderend##placeholderstart#, string path2 #placeholderend##placeholderstart#, int rev2 #placeholderend#)#placeholderstart# ; #placeholderend#

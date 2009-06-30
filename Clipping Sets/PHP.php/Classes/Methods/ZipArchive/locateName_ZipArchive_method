@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ZipArchive #placeholderend#->locateName(#placeholderstart# string name #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

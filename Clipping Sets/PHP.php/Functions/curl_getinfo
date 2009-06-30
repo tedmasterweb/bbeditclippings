@@ -1,0 +1,2 @@
+#indent#
+curl_getinfo(#placeholderstart# resource ch #placeholderend##placeholderstart#[, int opt ]#placeholderend#)#placeholderstart# ; #placeholderend#

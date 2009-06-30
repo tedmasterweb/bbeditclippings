@@ -1,0 +1,2 @@
+#indent#
+msession_create(#placeholderstart# string session #placeholderend##placeholderstart#[, string classname ]#placeholderend##placeholderstart#[, string data ]#placeholderend#)#placeholderstart# ; #placeholderend#

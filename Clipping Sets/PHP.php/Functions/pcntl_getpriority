@@ -1,0 +1,2 @@
+#indent#
+pcntl_getpriority(#placeholderstart#[ int pid ]#placeholderend##placeholderstart#[, int process_identifier ]#placeholderend#)#placeholderstart# ; #placeholderend#

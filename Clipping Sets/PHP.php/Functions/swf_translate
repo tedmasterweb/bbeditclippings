@@ -1,0 +1,2 @@
+#indent#
+swf_translate(#placeholderstart# float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float z #placeholderend#)#placeholderstart# ; #placeholderend#

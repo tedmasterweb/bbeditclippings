@@ -1,0 +1,2 @@
+#indent#
+printer_create_brush(#placeholderstart# int style #placeholderend##placeholderstart#, string color #placeholderend#)#placeholderstart# ; #placeholderend#

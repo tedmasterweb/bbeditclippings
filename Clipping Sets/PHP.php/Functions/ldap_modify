@@ -1,0 +1,2 @@
+#indent#
+ldap_modify(#placeholderstart# resource link_identifier #placeholderend##placeholderstart#, string dn #placeholderend##placeholderstart#, array entry #placeholderend#)#placeholderstart# ; #placeholderend#

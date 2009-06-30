@@ -1,0 +1,2 @@
+#indent#
+yaz_get_option(#placeholderstart# resource id #placeholderend##placeholderstart#, string name #placeholderend#)#placeholderstart# ; #placeholderend#

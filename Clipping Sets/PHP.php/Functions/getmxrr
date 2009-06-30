@@ -1,0 +1,2 @@
+#indent#
+getmxrr(#placeholderstart# string hostname #placeholderend##placeholderstart#, array mxhosts #placeholderend##placeholderstart#[, array weight ]#placeholderend#)#placeholderstart# ; #placeholderend#

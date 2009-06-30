@@ -1,0 +1,2 @@
+#indent#
+imagecolormatch(#placeholderstart# resource image1 #placeholderend##placeholderstart#, resource image2 #placeholderend#)#placeholderstart# ; #placeholderend#

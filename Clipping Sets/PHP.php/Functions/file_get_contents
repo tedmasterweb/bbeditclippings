@@ -1,0 +1,2 @@
+#indent#
+file_get_contents(#placeholderstart# string filename #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, resource context ]#placeholderend##placeholderstart#[, int offset ]#placeholderend##placeholderstart#[, int maxlen ]#placeholderend#)#placeholderstart# ; #placeholderend#

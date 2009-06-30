@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpDeflateStream #placeholderend#->factory(#placeholderstart#[ int flags ]#placeholderend##placeholderstart#[, string class_name ]#placeholderend#)#placeholderstart# ; #placeholderend#

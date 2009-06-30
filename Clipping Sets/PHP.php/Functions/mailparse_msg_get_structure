@@ -1,0 +1,2 @@
+#indent#
+mailparse_msg_get_structure(#placeholderstart# resource mimemail #placeholderend#)#placeholderstart# ; #placeholderend#

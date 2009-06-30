@@ -1,0 +1,2 @@
+#indent#
+m_getheader(#placeholderstart# resource conn #placeholderend##placeholderstart#, int identifier #placeholderend##placeholderstart#, int column_num #placeholderend#)#placeholderstart# ; #placeholderend#

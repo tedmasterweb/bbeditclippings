@@ -1,0 +1,2 @@
+#indent#
+isset(#placeholderstart# mixed var #placeholderend##placeholderstart#[, mixed var ]#placeholderend##placeholderstart#[,  ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

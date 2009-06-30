@@ -1,0 +1,2 @@
+#indent#
+newt_radio_get_current(#placeholderstart# resource set_member #placeholderend#)#placeholderstart# ; #placeholderend#

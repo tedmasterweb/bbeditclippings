@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickPixel #placeholderend#->getColorValue(#placeholderstart# int color #placeholderend#)#placeholderstart# ; #placeholderend#

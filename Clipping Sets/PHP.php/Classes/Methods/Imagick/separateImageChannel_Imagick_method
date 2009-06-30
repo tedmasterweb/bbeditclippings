@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->separateImageChannel(#placeholderstart# int channel #placeholderend#)#placeholderstart# ; #placeholderend#

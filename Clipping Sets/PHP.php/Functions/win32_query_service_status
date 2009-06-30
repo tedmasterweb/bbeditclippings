@@ -1,0 +1,2 @@
+#indent#
+win32_query_service_status(#placeholderstart# string servicename #placeholderend##placeholderstart#[, string machine ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+array_key_exists(#placeholderstart# mixed key #placeholderend##placeholderstart#, array search #placeholderend#)#placeholderstart# ; #placeholderend#

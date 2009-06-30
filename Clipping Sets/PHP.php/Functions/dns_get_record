@@ -1,0 +1,2 @@
+#indent#
+dns_get_record(#placeholderstart# string hostname #placeholderend##placeholderstart#[, int type ]#placeholderend##placeholderstart#[, array authns ]#placeholderend##placeholderstart#[, array addtl ]#placeholderend#)#placeholderstart# ; #placeholderend#

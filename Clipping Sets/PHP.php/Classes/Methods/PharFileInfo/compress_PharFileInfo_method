@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharFileInfo #placeholderend#->compress(#placeholderstart# int compression #placeholderend#)#placeholderstart# ; #placeholderend#

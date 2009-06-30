@@ -1,0 +1,2 @@
+#indent#
+imagecreate(#placeholderstart# int width #placeholderend##placeholderstart#, int height #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->getElementById(#placeholderstart# string elementId #placeholderend#)#placeholderstart# ; #placeholderend#

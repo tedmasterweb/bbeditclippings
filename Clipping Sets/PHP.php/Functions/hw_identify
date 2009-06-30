@@ -1,0 +1,2 @@
+#indent#
+hw_identify(#placeholderstart# int link #placeholderend##placeholderstart#, string username #placeholderend##placeholderstart#, string password #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+http_send_last_modified(#placeholderstart#[ int timestamp ]#placeholderend#)#placeholderstart# ; #placeholderend#

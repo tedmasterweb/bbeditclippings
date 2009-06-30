@@ -1,0 +1,2 @@
+#indent#
+collator_sort(#placeholderstart# Collator coll #placeholderend##placeholderstart#, array arr #placeholderend##placeholderstart#[, int sort_flag ]#placeholderend#)#placeholderstart# ; #placeholderend#

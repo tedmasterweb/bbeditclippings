@@ -1,0 +1,2 @@
+#indent#
+mb_ereg_match(#placeholderstart# string pattern #placeholderend##placeholderstart#, string string #placeholderend##placeholderstart#[, string option ]#placeholderend#)#placeholderstart# ; #placeholderend#

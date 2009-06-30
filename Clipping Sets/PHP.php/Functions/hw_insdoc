@@ -1,0 +1,2 @@
+#indent#
+hw_insdoc(#placeholderstart# resource connection #placeholderend##placeholderstart#, int parentID #placeholderend##placeholderstart#, string object_record #placeholderend##placeholderstart#[, string text ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpMessage #placeholderend#->fromEnv(#placeholderstart# int message_type #placeholderend##placeholderstart#[, string class_name ]#placeholderend#)#placeholderstart# ; #placeholderend#

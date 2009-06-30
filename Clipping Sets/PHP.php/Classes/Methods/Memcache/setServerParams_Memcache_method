@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcache #placeholderend#->setServerParams(#placeholderstart# string host #placeholderend##placeholderstart#[, int port ]#placeholderend##placeholderstart#[, int timeout ]#placeholderend##placeholderstart#[, int retry_interval ]#placeholderend##placeholderstart#[, bool status ]#placeholderend##placeholderstart#[, callback failure_callback ]#placeholderend#)#placeholderstart# ; #placeholderend#

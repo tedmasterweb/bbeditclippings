@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->writeComment(#placeholderstart# string content #placeholderend#)#placeholderstart# ; #placeholderend#

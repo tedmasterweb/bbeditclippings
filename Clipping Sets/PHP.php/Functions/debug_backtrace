@@ -1,0 +1,2 @@
+#indent#
+debug_backtrace(#placeholderstart#[ bool provide_object ]#placeholderend#)#placeholderstart# ; #placeholderend#

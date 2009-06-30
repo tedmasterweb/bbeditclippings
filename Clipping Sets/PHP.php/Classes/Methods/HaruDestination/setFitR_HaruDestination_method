@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruDestination #placeholderend#->setFitR(#placeholderstart# float left #placeholderend##placeholderstart#, float bottom #placeholderend##placeholderstart#, float right #placeholderend##placeholderstart#, float top #placeholderend#)#placeholderstart# ; #placeholderend#

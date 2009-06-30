@@ -1,0 +1,2 @@
+#indent#
+memory_get_usage(#placeholderstart#[ bool real_usage ]#placeholderend#)#placeholderstart# ; #placeholderend#

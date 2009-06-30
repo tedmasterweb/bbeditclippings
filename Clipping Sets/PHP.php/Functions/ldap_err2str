@@ -1,0 +1,2 @@
+#indent#
+ldap_err2str(#placeholderstart# int errno #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+create_function(#placeholderstart# string args #placeholderend##placeholderstart#, string code #placeholderend#)#placeholderstart# ; #placeholderend#

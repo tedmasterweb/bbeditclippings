@@ -1,0 +1,2 @@
+#indent#
+imagecolorsforindex(#placeholderstart# resource image #placeholderend##placeholderstart#, int index #placeholderend#)#placeholderstart# ; #placeholderend#

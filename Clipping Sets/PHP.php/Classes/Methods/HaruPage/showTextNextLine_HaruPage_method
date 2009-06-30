@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->showTextNextLine(#placeholderstart# string text #placeholderend##placeholderstart#[, float word_space ]#placeholderend##placeholderstart#[, float char_space ]#placeholderend#)#placeholderstart# ; #placeholderend#

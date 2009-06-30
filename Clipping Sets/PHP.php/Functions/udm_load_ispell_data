@@ -1,0 +1,2 @@
+#indent#
+udm_load_ispell_data(#placeholderstart# resource agent #placeholderend##placeholderstart#, int var #placeholderend##placeholderstart#, string val1 #placeholderend##placeholderstart#, string val2 #placeholderend##placeholderstart#, int flag #placeholderend#)#placeholderstart# ; #placeholderend#

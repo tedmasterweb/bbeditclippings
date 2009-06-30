@@ -1,0 +1,2 @@
+#indent#
+http_get(#placeholderstart# string url #placeholderend##placeholderstart#[, array options ]#placeholderend##placeholderstart#[, array info ]#placeholderend#)#placeholderstart# ; #placeholderend#

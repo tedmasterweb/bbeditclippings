@@ -1,0 +1,2 @@
+#indent#
+ncurses_bkgdset(#placeholderstart# int attrchar #placeholderend#)#placeholderstart# ; #placeholderend#

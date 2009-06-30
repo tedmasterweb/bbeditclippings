@@ -1,0 +1,2 @@
+#indent#
+msession_timeout(#placeholderstart# string session #placeholderend##placeholderstart#[, int param ]#placeholderend#)#placeholderstart# ; #placeholderend#

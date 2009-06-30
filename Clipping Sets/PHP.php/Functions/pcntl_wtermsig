@@ -1,0 +1,2 @@
+#indent#
+pcntl_wtermsig(#placeholderstart# int status #placeholderend#)#placeholderstart# ; #placeholderend#

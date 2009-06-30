@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->montageImage(#placeholderstart# ImagickDraw draw #placeholderend##placeholderstart#, string tile_geometry #placeholderend##placeholderstart#, string thumbnail_geometry #placeholderend##placeholderstart#, int mode #placeholderend##placeholderstart#, string frame #placeholderend#)#placeholderstart# ; #placeholderend#

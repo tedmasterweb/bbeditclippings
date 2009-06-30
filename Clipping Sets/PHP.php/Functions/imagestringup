@@ -1,0 +1,2 @@
+#indent#
+imagestringup(#placeholderstart# resource image #placeholderend##placeholderstart#, int font #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, string string #placeholderend##placeholderstart#, int color #placeholderend#)#placeholderstart# ; #placeholderend#

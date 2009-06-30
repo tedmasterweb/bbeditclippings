@@ -1,0 +1,2 @@
+#indent#
+stats_dens_laplace(#placeholderstart# float x #placeholderend##placeholderstart#, float ave #placeholderend##placeholderstart#, float stdev #placeholderend#)#placeholderstart# ; #placeholderend#

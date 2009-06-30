@@ -1,0 +1,2 @@
+#indent#
+mcrypt_module_get_algo_block_size(#placeholderstart# string algorithm #placeholderend##placeholderstart#[, string lib_dir ]#placeholderend#)#placeholderstart# ; #placeholderend#

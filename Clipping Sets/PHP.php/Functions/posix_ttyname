@@ -1,0 +1,2 @@
+#indent#
+posix_ttyname(#placeholderstart# int fd #placeholderend#)#placeholderstart# ; #placeholderend#

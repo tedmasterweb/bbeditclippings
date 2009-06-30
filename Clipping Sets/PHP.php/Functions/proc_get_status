@@ -1,0 +1,2 @@
+#indent#
+proc_get_status(#placeholderstart# resource process #placeholderend#)#placeholderstart# ; #placeholderend#

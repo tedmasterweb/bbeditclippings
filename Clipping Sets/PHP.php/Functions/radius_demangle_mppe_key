@@ -1,0 +1,2 @@
+#indent#
+radius_demangle_mppe_key(#placeholderstart# resource radius_handle #placeholderend##placeholderstart#, string mangled #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->setOption(#placeholderstart# int option #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

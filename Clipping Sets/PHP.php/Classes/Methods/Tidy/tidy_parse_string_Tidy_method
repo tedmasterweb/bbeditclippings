@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Tidy #placeholderend#->tidy_parse_string(#placeholderstart# string input #placeholderend##placeholderstart#[, mixed config ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

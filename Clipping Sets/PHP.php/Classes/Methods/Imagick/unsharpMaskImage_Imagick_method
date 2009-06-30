@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->unsharpMaskImage(#placeholderstart# float radius #placeholderend##placeholderstart#, float sigma #placeholderend##placeholderstart#, float amount #placeholderend##placeholderstart#, float threshold #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

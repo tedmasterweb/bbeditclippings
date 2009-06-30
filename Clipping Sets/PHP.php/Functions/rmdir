@@ -1,0 +1,2 @@
+#indent#
+rmdir(#placeholderstart# string dirname #placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

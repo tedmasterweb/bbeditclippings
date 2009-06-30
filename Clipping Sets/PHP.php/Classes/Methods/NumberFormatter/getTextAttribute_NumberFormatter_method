@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# NumberFormatter #placeholderend#->getTextAttribute(#placeholderstart# int attr #placeholderend#)#placeholderstart# ; #placeholderend#

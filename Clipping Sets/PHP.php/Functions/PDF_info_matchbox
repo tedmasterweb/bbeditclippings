@@ -1,0 +1,2 @@
+#indent#
+PDF_info_matchbox(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string boxname #placeholderend##placeholderstart#, int num #placeholderend##placeholderstart#, string keyword #placeholderend#)#placeholderstart# ; #placeholderend#

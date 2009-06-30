@@ -1,0 +1,2 @@
+#indent#
+chunk_split(#placeholderstart# string body #placeholderend##placeholderstart#[, int chunklen ]#placeholderend##placeholderstart#[, string end ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+parse_ini_string(#placeholderstart# string ini #placeholderend##placeholderstart#[, bool process_sections ]#placeholderend##placeholderstart#[, int scanner_mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+m_responseparam(#placeholderstart# resource conn #placeholderend##placeholderstart#, int identifier #placeholderend##placeholderstart#, string key #placeholderend#)#placeholderstart# ; #placeholderend#

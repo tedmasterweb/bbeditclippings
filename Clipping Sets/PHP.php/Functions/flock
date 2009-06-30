@@ -1,0 +1,2 @@
+#indent#
+flock(#placeholderstart# resource handle #placeholderend##placeholderstart#, int operation #placeholderend##placeholderstart#[, int wouldblock ]#placeholderend#)#placeholderstart# ; #placeholderend#

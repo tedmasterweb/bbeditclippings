@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLReader #placeholderend#->getAttribute(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

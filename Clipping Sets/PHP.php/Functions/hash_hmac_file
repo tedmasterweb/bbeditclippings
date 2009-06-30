@@ -1,0 +1,2 @@
+#indent#
+hash_hmac_file(#placeholderstart# string algo #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#[, bool raw_output ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->orderedPosterizeImage(#placeholderstart# string threshold_map #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

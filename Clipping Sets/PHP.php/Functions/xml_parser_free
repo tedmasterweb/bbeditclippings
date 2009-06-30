@@ -1,0 +1,2 @@
+#indent#
+xml_parser_free(#placeholderstart# resource parser #placeholderend#)#placeholderstart# ; #placeholderend#

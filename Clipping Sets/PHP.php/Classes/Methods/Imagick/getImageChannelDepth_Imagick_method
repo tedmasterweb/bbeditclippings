@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->getImageChannelDepth(#placeholderstart# int channelType #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ps_show_boxed(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, float left #placeholderend##placeholderstart#, float bottom #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#, float height #placeholderend##placeholderstart#, string hmode #placeholderend##placeholderstart#[, string feature ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_Sequence #placeholderend#->insert(#placeholderstart# mixed value #placeholderend##placeholderstart#[, int sequenceIndex ]#placeholderend##placeholderstart#[, mixed propertyIdentifier ]#placeholderend#)#placeholderstart# ; #placeholderend#

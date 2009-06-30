@@ -1,0 +1,2 @@
+#indent#
+ps_shading_pattern(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int shadingid #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+tcpwrap_check(#placeholderstart# string daemon #placeholderend##placeholderstart#, string address #placeholderend##placeholderstart#[, string user ]#placeholderend##placeholderstart#[, bool nodns ]#placeholderend#)#placeholderstart# ; #placeholderend#

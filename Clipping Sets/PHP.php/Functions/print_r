@@ -1,0 +1,2 @@
+#indent#
+print_r(#placeholderstart# mixed expression #placeholderend##placeholderstart#[, bool return ]#placeholderend#)#placeholderstart# ; #placeholderend#

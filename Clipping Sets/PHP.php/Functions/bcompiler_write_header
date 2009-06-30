@@ -1,0 +1,2 @@
+#indent#
+bcompiler_write_header(#placeholderstart# resource filehandle #placeholderend##placeholderstart#[, string write_ver ]#placeholderend#)#placeholderstart# ; #placeholderend#

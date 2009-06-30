@@ -1,0 +1,2 @@
+#indent#
+curl_multi_info_read(#placeholderstart# resource mh #placeholderend##placeholderstart#[, int msgs_in_queue ]#placeholderend#)#placeholderstart# ; #placeholderend#

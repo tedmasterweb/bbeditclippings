@@ -1,0 +1,2 @@
+#indent#
+imageantialias(#placeholderstart# resource image #placeholderend##placeholderstart#, bool enabled #placeholderend#)#placeholderstart# ; #placeholderend#

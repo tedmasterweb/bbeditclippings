@@ -1,0 +1,2 @@
+#indent#
+mb_stristr(#placeholderstart# string haystack #placeholderend##placeholderstart#, string needle #placeholderend##placeholderstart#[, bool part ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

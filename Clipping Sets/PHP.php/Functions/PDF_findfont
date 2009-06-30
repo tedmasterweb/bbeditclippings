@@ -1,0 +1,2 @@
+#indent#
+PDF_findfont(#placeholderstart# resource p #placeholderend##placeholderstart#, string fontname #placeholderend##placeholderstart#, string encoding #placeholderend##placeholderstart#, int embed #placeholderend#)#placeholderstart# ; #placeholderend#

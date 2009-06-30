@@ -1,0 +1,2 @@
+#indent#
+newt_grid_basic_window(#placeholderstart# resource text #placeholderend##placeholderstart#, resource middle #placeholderend##placeholderstart#, resource buttons #placeholderend#)#placeholderstart# ; #placeholderend#

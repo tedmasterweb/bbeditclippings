@@ -1,0 +1,2 @@
+#indent#
+collator_create(#placeholderstart# string locale #placeholderend#)#placeholderstart# ; #placeholderend#

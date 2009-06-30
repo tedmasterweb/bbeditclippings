@@ -1,0 +1,2 @@
+#indent#
+ascii2ebcdic(#placeholderstart# string ascii_str #placeholderend#)#placeholderstart# ; #placeholderend#

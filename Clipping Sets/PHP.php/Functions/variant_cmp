@@ -1,0 +1,2 @@
+#indent#
+variant_cmp(#placeholderstart# mixed left #placeholderend##placeholderstart#, mixed right #placeholderend##placeholderstart#[, int lcid ]#placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setFontSize(#placeholderstart# float pointsize #placeholderend#)#placeholderstart# ; #placeholderend#

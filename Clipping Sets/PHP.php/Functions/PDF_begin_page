@@ -1,0 +1,2 @@
+#indent#
+PDF_begin_page(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#, float height #placeholderend#)#placeholderstart# ; #placeholderend#

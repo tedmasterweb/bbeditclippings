@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# tidy #placeholderend#->__construct(#placeholderstart#[ string filename ]#placeholderend##placeholderstart#[, mixed config ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend##placeholderstart#[, bool use_include_path ]#placeholderend#)#placeholderstart# ; #placeholderend#

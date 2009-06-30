@@ -1,0 +1,2 @@
+#indent#
+imap_rfc822_write_address(#placeholderstart# string mailbox #placeholderend##placeholderstart#, string host #placeholderend##placeholderstart#, string personal #placeholderend#)#placeholderstart# ; #placeholderend#

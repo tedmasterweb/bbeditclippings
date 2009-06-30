@@ -1,0 +1,2 @@
+#indent#
+array_rand(#placeholderstart# array input #placeholderend##placeholderstart#[, int num_req ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_form_add_hot_key(#placeholderstart# resource form #placeholderend##placeholderstart#, int key #placeholderend#)#placeholderstart# ; #placeholderend#

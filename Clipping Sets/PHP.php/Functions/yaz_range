@@ -1,0 +1,2 @@
+#indent#
+yaz_range(#placeholderstart# resource id #placeholderend##placeholderstart#, int start #placeholderend##placeholderstart#, int number #placeholderend#)#placeholderstart# ; #placeholderend#

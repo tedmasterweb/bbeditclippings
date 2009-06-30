@@ -1,0 +1,2 @@
+#indent#
+openal_context_create(#placeholderstart# resource device #placeholderend#)#placeholderstart# ; #placeholderend#

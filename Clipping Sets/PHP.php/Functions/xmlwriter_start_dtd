@@ -1,0 +1,2 @@
+#indent#
+xmlwriter_start_dtd(#placeholderstart# resource xmlwriter #placeholderend##placeholderstart#, string qualifiedName #placeholderend##placeholderstart#[, string publicId ]#placeholderend##placeholderstart#[, string systemId ]#placeholderend#)#placeholderstart# ; #placeholderend#

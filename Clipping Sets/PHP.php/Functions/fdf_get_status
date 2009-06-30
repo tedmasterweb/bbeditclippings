@@ -1,0 +1,2 @@
+#indent#
+fdf_get_status(#placeholderstart# resource fdf_document #placeholderend#)#placeholderstart# ; #placeholderend#

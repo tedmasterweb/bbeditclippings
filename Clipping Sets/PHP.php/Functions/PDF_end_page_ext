@@ -1,0 +1,2 @@
+#indent#
+PDF_end_page_ext(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

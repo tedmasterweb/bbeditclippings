@@ -1,0 +1,2 @@
+#indent#
+PDF_continue_text(#placeholderstart# resource p #placeholderend##placeholderstart#, string text #placeholderend#)#placeholderstart# ; #placeholderend#

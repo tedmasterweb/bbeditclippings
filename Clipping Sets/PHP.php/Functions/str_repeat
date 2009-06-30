@@ -1,0 +1,2 @@
+#indent#
+str_repeat(#placeholderstart# string input #placeholderend##placeholderstart#, int multiplier #placeholderend#)#placeholderstart# ; #placeholderend#

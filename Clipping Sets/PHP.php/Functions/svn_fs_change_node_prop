@@ -1,0 +1,2 @@
+#indent#
+svn_fs_change_node_prop(#placeholderstart# resource root #placeholderend##placeholderstart#, string path #placeholderend##placeholderstart#, string name #placeholderend##placeholderstart#, string value #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+pspell_new(#placeholderstart# string language #placeholderend##placeholderstart#[, string spelling ]#placeholderend##placeholderstart#[, string jargon ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend##placeholderstart#[, int mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

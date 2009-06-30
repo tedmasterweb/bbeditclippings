@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->matteFloodfillImage(#placeholderstart# float alpha #placeholderend##placeholderstart#, float fuzz #placeholderend##placeholderstart#, mixed bordercolor #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend#)#placeholderstart# ; #placeholderend#

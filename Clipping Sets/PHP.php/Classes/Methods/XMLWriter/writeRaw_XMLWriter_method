@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->writeRaw(#placeholderstart# string content #placeholderend#)#placeholderstart# ; #placeholderend#

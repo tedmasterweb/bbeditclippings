@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SAMConnection #placeholderend#->send(#placeholderstart# string target #placeholderend##placeholderstart#, SAMMessage msg #placeholderend##placeholderstart#[, array properties ]#placeholderend#)#placeholderstart# ; #placeholderend#

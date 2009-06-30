@@ -1,0 +1,2 @@
+#indent#
+newt_form_set_background(#placeholderstart# resource from #placeholderend##placeholderstart#, int background #placeholderend#)#placeholderstart# ; #placeholderend#

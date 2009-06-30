@@ -1,0 +1,2 @@
+#indent#
+bzflush(#placeholderstart# resource bz #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+call_user_func_array(#placeholderstart# callback function #placeholderend##placeholderstart#, array param_arr #placeholderend#)#placeholderstart# ; #placeholderend#

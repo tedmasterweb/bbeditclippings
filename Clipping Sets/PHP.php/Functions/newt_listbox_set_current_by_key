@@ -1,0 +1,2 @@
+#indent#
+newt_listbox_set_current_by_key(#placeholderstart# resource listbox #placeholderend##placeholderstart#, mixed key #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_add_textflow(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int textflow #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+openssl_sign(#placeholderstart# string data #placeholderend##placeholderstart#, string signature #placeholderend##placeholderstart#, mixed priv_key_id #placeholderend##placeholderstart#[, int signature_alg ]#placeholderend#)#placeholderstart# ; #placeholderend#

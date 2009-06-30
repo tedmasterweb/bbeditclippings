@@ -1,0 +1,2 @@
+#indent#
+settype(#placeholderstart# mixed var #placeholderend##placeholderstart#, string type #placeholderend#)#placeholderstart# ; #placeholderend#

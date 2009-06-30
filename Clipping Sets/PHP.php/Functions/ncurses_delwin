@@ -1,0 +1,2 @@
+#indent#
+ncurses_delwin(#placeholderstart# resource window #placeholderend#)#placeholderstart# ; #placeholderend#

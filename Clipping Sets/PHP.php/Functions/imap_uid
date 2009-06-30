@@ -1,0 +1,2 @@
+#indent#
+imap_uid(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, int msg_number #placeholderend#)#placeholderstart# ; #placeholderend#

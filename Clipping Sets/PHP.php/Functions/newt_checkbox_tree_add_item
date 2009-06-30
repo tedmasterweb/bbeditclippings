@@ -1,0 +1,2 @@
+#indent#
+newt_checkbox_tree_add_item(#placeholderstart# resource checkboxtree #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, mixed data #placeholderend##placeholderstart#, int flags #placeholderend##placeholderstart#, int index #placeholderend##placeholderstart#[, int ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

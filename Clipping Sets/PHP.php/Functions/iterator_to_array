@@ -1,0 +1,2 @@
+#indent#
+iterator_to_array(#placeholderstart# Traversable iterator #placeholderend##placeholderstart#[, bool use_keys ]#placeholderend#)#placeholderstart# ; #placeholderend#

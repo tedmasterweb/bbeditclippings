@@ -1,0 +1,2 @@
+#indent#
+xmlwriter_start_dtd_element(#placeholderstart# resource xmlwriter #placeholderend##placeholderstart#, string qualifiedName #placeholderend#)#placeholderstart# ; #placeholderend#

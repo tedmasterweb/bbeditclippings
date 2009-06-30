@@ -1,0 +1,2 @@
+#indent#
+udm_get_res_param(#placeholderstart# resource res #placeholderend##placeholderstart#, int param #placeholderend#)#placeholderstart# ; #placeholderend#

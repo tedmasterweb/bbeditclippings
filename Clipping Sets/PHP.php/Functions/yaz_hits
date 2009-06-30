@@ -1,0 +1,2 @@
+#indent#
+yaz_hits(#placeholderstart# resource id #placeholderend##placeholderstart#[, array searchresult ]#placeholderend#)#placeholderstart# ; #placeholderend#

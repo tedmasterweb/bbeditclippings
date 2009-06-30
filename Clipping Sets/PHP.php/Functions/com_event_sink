@@ -1,0 +1,2 @@
+#indent#
+com_event_sink(#placeholderstart# variant comobject #placeholderend##placeholderstart#, object sinkobject #placeholderend##placeholderstart#[, mixed sinkinterface ]#placeholderend#)#placeholderstart# ; #placeholderend#

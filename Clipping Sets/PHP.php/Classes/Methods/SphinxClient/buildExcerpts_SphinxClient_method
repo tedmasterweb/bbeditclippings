@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->buildExcerpts(#placeholderstart# array docs #placeholderend##placeholderstart#, string index #placeholderend##placeholderstart#, string words #placeholderend##placeholderstart#[, array opts ]#placeholderend#)#placeholderstart# ; #placeholderend#

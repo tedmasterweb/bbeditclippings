@@ -1,0 +1,2 @@
+#indent#
+http_send_stream(#placeholderstart# resource stream #placeholderend#)#placeholderstart# ; #placeholderend#

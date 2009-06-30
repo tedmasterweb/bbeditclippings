@@ -1,0 +1,2 @@
+#indent#
+dcgettext(#placeholderstart# string domain #placeholderend##placeholderstart#, string message #placeholderend##placeholderstart#, int category #placeholderend#)#placeholderstart# ; #placeholderend#

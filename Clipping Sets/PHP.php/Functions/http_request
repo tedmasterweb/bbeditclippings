@@ -1,0 +1,2 @@
+#indent#
+http_request(#placeholderstart# int method #placeholderend##placeholderstart#[, string url ]#placeholderend##placeholderstart#[, string body ]#placeholderend##placeholderstart#[, array options ]#placeholderend##placeholderstart#[, array info ]#placeholderend#)#placeholderstart# ; #placeholderend#

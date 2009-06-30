@@ -1,0 +1,2 @@
+#indent#
+radius_request_authenticator(#placeholderstart# resource radius_handle #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+register_shutdown_function(#placeholderstart# callback function #placeholderend##placeholderstart#[, mixed parameter ]#placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

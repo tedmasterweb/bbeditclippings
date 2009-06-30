@@ -1,0 +1,2 @@
+#indent#
+set_error_handler(#placeholderstart# callback error_handler #placeholderend##placeholderstart#[, int error_types ]#placeholderend#)#placeholderstart# ; #placeholderend#

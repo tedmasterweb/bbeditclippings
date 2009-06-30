@@ -1,0 +1,2 @@
+#indent#
+mailparse_msg_get_part(#placeholderstart# resource mimemail #placeholderend##placeholderstart#, string mimesection #placeholderend#)#placeholderstart# ; #placeholderend#

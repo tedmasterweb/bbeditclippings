@@ -1,0 +1,2 @@
+#indent#
+mcrypt_module_open(#placeholderstart# string algorithm #placeholderend##placeholderstart#, string algorithm_directory #placeholderend##placeholderstart#, string mode #placeholderend##placeholderstart#, string mode_directory #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_win_messagev(#placeholderstart# string title #placeholderend##placeholderstart#, string button_text #placeholderend##placeholderstart#, string format #placeholderend##placeholderstart#, array args #placeholderend#)#placeholderstart# ; #placeholderend#

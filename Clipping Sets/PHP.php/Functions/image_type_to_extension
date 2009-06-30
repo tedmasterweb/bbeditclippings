@@ -1,0 +1,2 @@
+#indent#
+image_type_to_extension(#placeholderstart# int imagetype #placeholderend##placeholderstart#[, bool include_dot ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+setlocale(#placeholderstart# int category #placeholderend##placeholderstart#, string locale #placeholderend##placeholderstart#[, string ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

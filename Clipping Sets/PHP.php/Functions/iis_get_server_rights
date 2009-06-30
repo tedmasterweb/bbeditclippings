@@ -1,0 +1,2 @@
+#indent#
+iis_get_server_rights(#placeholderstart# int server_instance #placeholderend##placeholderstart#, string virtual_path #placeholderend#)#placeholderstart# ; #placeholderend#

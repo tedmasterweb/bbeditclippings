@@ -1,0 +1,2 @@
+#indent#
+PDF_shading(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string shtype #placeholderend##placeholderstart#, float x0 #placeholderend##placeholderstart#, float y0 #placeholderend##placeholderstart#, float x1 #placeholderend##placeholderstart#, float y1 #placeholderend##placeholderstart#, float c1 #placeholderend##placeholderstart#, float c2 #placeholderend##placeholderstart#, float c3 #placeholderend##placeholderstart#, float c4 #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+stream_supports_lock(#placeholderstart# resource stream #placeholderend#)#placeholderstart# ; #placeholderend#

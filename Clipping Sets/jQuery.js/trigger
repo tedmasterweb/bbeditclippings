@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").trigger( #placeholderstart#String type #placeholderend##placeholderstart#, Array data #placeholderend# )

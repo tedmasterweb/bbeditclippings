@@ -1,0 +1,2 @@
+#indent#
+ssh2_sftp_symlink(#placeholderstart# resource sftp #placeholderend##placeholderstart#, string target #placeholderend##placeholderstart#, string link #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+msession_set_array(#placeholderstart# string session #placeholderend##placeholderstart#, array tuples #placeholderend#)#placeholderstart# ; #placeholderend#

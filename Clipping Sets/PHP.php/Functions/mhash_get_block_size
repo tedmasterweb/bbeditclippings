@@ -1,0 +1,2 @@
+#indent#
+mhash_get_block_size(#placeholderstart# int hash #placeholderend#)#placeholderstart# ; #placeholderend#

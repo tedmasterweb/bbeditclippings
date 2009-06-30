@@ -1,0 +1,2 @@
+#indent#
+snmp_set_oid_numeric_print(#placeholderstart# int oid_numeric_print #placeholderend#)#placeholderstart# ; #placeholderend#

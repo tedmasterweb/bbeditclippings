@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageWhitePoint(#placeholderstart# float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

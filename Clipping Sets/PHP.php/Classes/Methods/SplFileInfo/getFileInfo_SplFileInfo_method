@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SplFileInfo #placeholderend#->getFileInfo(#placeholderstart#[ string class_name ]#placeholderend#)#placeholderstart# ; #placeholderend#

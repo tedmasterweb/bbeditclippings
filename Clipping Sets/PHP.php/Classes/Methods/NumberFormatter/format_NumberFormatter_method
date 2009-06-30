@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# NumberFormatter #placeholderend#->format(#placeholderstart# number value #placeholderend##placeholderstart#[, int type ]#placeholderend#)#placeholderstart# ; #placeholderend#

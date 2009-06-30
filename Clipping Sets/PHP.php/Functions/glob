@@ -1,0 +1,2 @@
+#indent#
+glob(#placeholderstart# string pattern #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

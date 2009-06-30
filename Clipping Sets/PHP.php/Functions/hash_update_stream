@@ -1,0 +1,2 @@
+#indent#
+hash_update_stream(#placeholderstart# resource context #placeholderend##placeholderstart#, resource handle #placeholderend##placeholderstart#[, int length ]#placeholderend#)#placeholderstart# ; #placeholderend#

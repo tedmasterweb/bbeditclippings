@@ -1,0 +1,2 @@
+#indent#
+xmlwriter_start_pi(#placeholderstart# resource xmlwriter #placeholderend##placeholderstart#, string target #placeholderend#)#placeholderstart# ; #placeholderend#

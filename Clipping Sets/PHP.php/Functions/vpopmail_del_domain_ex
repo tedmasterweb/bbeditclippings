@@ -1,0 +1,2 @@
+#indent#
+vpopmail_del_domain_ex(#placeholderstart# string domain #placeholderend#)#placeholderstart# ; #placeholderend#

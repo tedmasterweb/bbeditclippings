@@ -1,0 +1,2 @@
+#indent#
+pcntl_wexitstatus(#placeholderstart# int status #placeholderend#)#placeholderstart# ; #placeholderend#

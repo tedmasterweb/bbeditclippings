@@ -1,0 +1,2 @@
+#indent#
+token_name(#placeholderstart# int token #placeholderend#)#placeholderstart# ; #placeholderend#

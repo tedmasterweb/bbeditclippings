@@ -1,0 +1,2 @@
+#indent#
+bbcode_set_arg_parser(#placeholderstart# resource bbcode_container #placeholderend##placeholderstart#, resource bbcode_arg_parser #placeholderend#)#placeholderstart# ; #placeholderend#

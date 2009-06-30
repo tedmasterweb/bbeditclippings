@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->cas(#placeholderstart# double cas_token #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#, mixed value #placeholderend##placeholderstart#[, int expiration ]#placeholderend#)#placeholderstart# ; #placeholderend#

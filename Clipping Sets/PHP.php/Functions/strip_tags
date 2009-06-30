@@ -1,0 +1,2 @@
+#indent#
+strip_tags(#placeholderstart# string str #placeholderend##placeholderstart#[, string allowable_tags ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+iis_add_server(#placeholderstart# string path #placeholderend##placeholderstart#, string comment #placeholderend##placeholderstart#, string server_ip #placeholderend##placeholderstart#, int port #placeholderend##placeholderstart#, string host_name #placeholderend##placeholderstart#, int rights #placeholderend##placeholderstart#, int start_server #placeholderend#)#placeholderstart# ; #placeholderend#

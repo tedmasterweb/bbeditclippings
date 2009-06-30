@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->modulateImage(#placeholderstart# float brightness #placeholderend##placeholderstart#, float saturation #placeholderend##placeholderstart#, float hue #placeholderend#)#placeholderstart# ; #placeholderend#

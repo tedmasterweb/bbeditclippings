@@ -1,0 +1,2 @@
+#indent#
+locale_get_all_variants(#placeholderstart# string locale #placeholderend#)#placeholderstart# ; #placeholderend#

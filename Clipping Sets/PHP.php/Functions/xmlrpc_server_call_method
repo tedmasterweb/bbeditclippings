@@ -1,0 +1,2 @@
+#indent#
+xmlrpc_server_call_method(#placeholderstart# resource server #placeholderend##placeholderstart#, string xml #placeholderend##placeholderstart#, mixed user_data #placeholderend##placeholderstart#[, array output_options ]#placeholderend#)#placeholderstart# ; #placeholderend#

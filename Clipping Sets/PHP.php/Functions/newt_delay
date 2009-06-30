@@ -1,0 +1,2 @@
+#indent#
+newt_delay(#placeholderstart# int microseconds #placeholderend#)#placeholderstart# ; #placeholderend#

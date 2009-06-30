@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setFillPatternURL(#placeholderstart# string fill_url #placeholderend#)#placeholderstart# ; #placeholderend#

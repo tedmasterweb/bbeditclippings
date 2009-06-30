@@ -1,0 +1,2 @@
+#indent#
+ssh2_scp_send(#placeholderstart# resource session #placeholderend##placeholderstart#, string local_file #placeholderend##placeholderstart#, string remote_file #placeholderend##placeholderstart#[, int create_mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

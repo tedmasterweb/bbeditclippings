@@ -1,0 +1,2 @@
+#indent#
+pcntl_exec(#placeholderstart# string path #placeholderend##placeholderstart#[, array args ]#placeholderend##placeholderstart#[, array envs ]#placeholderend#)#placeholderstart# ; #placeholderend#

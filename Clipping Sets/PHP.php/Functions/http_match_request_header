@@ -1,0 +1,2 @@
+#indent#
+http_match_request_header(#placeholderstart# string header #placeholderend##placeholderstart#, string value #placeholderend##placeholderstart#[, bool match_case ]#placeholderend#)#placeholderstart# ; #placeholderend#

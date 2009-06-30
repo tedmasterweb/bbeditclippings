@@ -1,0 +1,2 @@
+#indent#
+swf_setframe(#placeholderstart# int framenumber #placeholderend#)#placeholderstart# ; #placeholderend#

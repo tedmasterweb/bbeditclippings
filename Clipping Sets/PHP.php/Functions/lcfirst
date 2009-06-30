@@ -1,0 +1,2 @@
+#indent#
+lcfirst(#placeholderstart# string str #placeholderend#)#placeholderstart# ; #placeholderend#

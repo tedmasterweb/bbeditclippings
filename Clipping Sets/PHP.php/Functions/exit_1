@@ -1,0 +1,2 @@
+#indent#
+exit(#placeholderstart#[ string status ]#placeholderend#)#placeholderstart# ; #placeholderend#

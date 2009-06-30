@@ -1,0 +1,2 @@
+#indent#
+ps_set_border_dash(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float black #placeholderend##placeholderstart#, float white #placeholderend#)#placeholderstart# ; #placeholderend#

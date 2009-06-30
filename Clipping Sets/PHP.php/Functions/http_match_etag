@@ -1,0 +1,2 @@
+#indent#
+http_match_etag(#placeholderstart# string etag #placeholderend##placeholderstart#[, bool for_range ]#placeholderend#)#placeholderstart# ; #placeholderend#

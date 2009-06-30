@@ -1,0 +1,2 @@
+#indent#
+stats_stat_binomial_coef(#placeholderstart# int x #placeholderend##placeholderstart#, int n #placeholderend#)#placeholderstart# ; #placeholderend#

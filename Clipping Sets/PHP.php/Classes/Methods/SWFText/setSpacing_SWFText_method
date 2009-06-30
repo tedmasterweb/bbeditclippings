@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFText #placeholderend#->setSpacing(#placeholderstart# float spacing #placeholderend#)#placeholderstart# ; #placeholderend#

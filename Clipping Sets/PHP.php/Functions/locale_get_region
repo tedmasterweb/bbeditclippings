@@ -1,0 +1,2 @@
+#indent#
+locale_get_region(#placeholderstart# string locale #placeholderend#)#placeholderstart# ; #placeholderend#

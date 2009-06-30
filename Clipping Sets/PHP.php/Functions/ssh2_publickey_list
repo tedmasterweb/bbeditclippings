@@ -1,0 +1,2 @@
+#indent#
+ssh2_publickey_list(#placeholderstart# resource pkey #placeholderend#)#placeholderstart# ; #placeholderend#

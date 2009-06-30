@@ -1,0 +1,2 @@
+#indent#
+clearstatcache(#placeholderstart#[ bool clear_realpath_cache ]#placeholderend##placeholderstart#[, string filename ]#placeholderend#)#placeholderstart# ; #placeholderend#

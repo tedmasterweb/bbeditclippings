@@ -1,0 +1,2 @@
+#indent#
+str_pad(#placeholderstart# string input #placeholderend##placeholderstart#, int pad_length #placeholderend##placeholderstart#[, string pad_string ]#placeholderend##placeholderstart#[, int pad_type ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->embossImage(#placeholderstart# float radius #placeholderend##placeholderstart#, float sigma #placeholderend#)#placeholderstart# ; #placeholderend#

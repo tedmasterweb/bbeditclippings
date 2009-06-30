@@ -1,0 +1,2 @@
+#indent#
+fgetcsv(#placeholderstart# resource handle #placeholderend##placeholderstart#[, int length ]#placeholderend##placeholderstart#[, string delimiter ]#placeholderend##placeholderstart#[, string enclosure ]#placeholderend##placeholderstart#[, string escape ]#placeholderend#)#placeholderstart# ; #placeholderend#

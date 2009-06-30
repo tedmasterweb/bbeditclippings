@@ -1,0 +1,2 @@
+#indent#
+swf_closefile(#placeholderstart#[ int return_file ]#placeholderend#)#placeholderstart# ; #placeholderend#

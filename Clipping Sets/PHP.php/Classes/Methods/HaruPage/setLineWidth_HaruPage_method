@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->setLineWidth(#placeholderstart# float width #placeholderend#)#placeholderstart# ; #placeholderend#

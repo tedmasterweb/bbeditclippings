@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->sigmoidalContrastImage(#placeholderstart# bool sharpen #placeholderend##placeholderstart#, float alpha #placeholderend##placeholderstart#, float beta #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

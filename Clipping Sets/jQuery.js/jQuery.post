@@ -1,0 +1,2 @@
+#indent#
+jQuery.postjQuery.post( #placeholderstart#String url#placeholderend##placeholderstart#, Map data#placeholderend##placeholderstart#, Function callback#placeholderend# )

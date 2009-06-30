@@ -1,0 +1,2 @@
+#indent#
+openssl_x509_export(#placeholderstart# mixed x509 #placeholderend##placeholderstart#, string output #placeholderend##placeholderstart#[, bool notext ]#placeholderend#)#placeholderstart# ; #placeholderend#

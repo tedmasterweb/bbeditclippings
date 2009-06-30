@@ -1,0 +1,2 @@
+#indent#
+runkit_constant_remove(#placeholderstart# string constname #placeholderend#)#placeholderstart# ; #placeholderend#

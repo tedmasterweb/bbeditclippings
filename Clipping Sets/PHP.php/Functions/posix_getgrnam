@@ -1,0 +1,2 @@
+#indent#
+posix_getgrnam(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

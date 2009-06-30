@@ -1,0 +1,2 @@
+#indent#
+ps_setlinejoin(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int type #placeholderend#)#placeholderstart# ; #placeholderend#

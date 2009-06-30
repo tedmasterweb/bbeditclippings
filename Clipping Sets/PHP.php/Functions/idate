@@ -1,0 +1,2 @@
+#indent#
+idate(#placeholderstart# string format #placeholderend##placeholderstart#[, int timestamp ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+inotify_read(#placeholderstart# resource inotify_instance #placeholderend#)#placeholderstart# ; #placeholderend#

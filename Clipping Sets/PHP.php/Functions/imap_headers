@@ -1,0 +1,2 @@
+#indent#
+imap_headers(#placeholderstart# resource imap_stream #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ncurses_define_key(#placeholderstart# string definition #placeholderend##placeholderstart#, int keycode #placeholderend#)#placeholderstart# ; #placeholderend#

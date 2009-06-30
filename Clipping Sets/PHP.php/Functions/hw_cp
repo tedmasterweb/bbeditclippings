@@ -1,0 +1,2 @@
+#indent#
+hw_cp(#placeholderstart# int connection #placeholderend##placeholderstart#, array object_id_array #placeholderend##placeholderstart#, int destination_id #placeholderend#)#placeholderstart# ; #placeholderend#

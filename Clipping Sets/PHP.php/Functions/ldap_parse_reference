@@ -1,0 +1,2 @@
+#indent#
+ldap_parse_reference(#placeholderstart# resource link #placeholderend##placeholderstart#, resource entry #placeholderend##placeholderstart#, array referrals #placeholderend#)#placeholderstart# ; #placeholderend#

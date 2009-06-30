@@ -1,0 +1,2 @@
+#indent#
+openssl_pkcs7_verify(#placeholderstart# string filename #placeholderend##placeholderstart#, int flags #placeholderend##placeholderstart#[, string outfilename ]#placeholderend##placeholderstart#[, array cainfo ]#placeholderend##placeholderstart#[, string extracerts ]#placeholderend##placeholderstart#[, string content ]#placeholderend#)#placeholderstart# ; #placeholderend#

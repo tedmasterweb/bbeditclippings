@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setTextAlignment(#placeholderstart# int alignment #placeholderend#)#placeholderstart# ; #placeholderend#

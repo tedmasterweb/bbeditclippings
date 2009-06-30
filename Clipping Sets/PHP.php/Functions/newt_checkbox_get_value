@@ -1,0 +1,2 @@
+#indent#
+newt_checkbox_get_value(#placeholderstart# resource checkbox #placeholderend#)#placeholderstart# ; #placeholderend#

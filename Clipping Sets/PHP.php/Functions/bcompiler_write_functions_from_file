@@ -1,0 +1,2 @@
+#indent#
+bcompiler_write_functions_from_file(#placeholderstart# resource filehandle #placeholderend##placeholderstart#, string fileName #placeholderend#)#placeholderstart# ; #placeholderend#

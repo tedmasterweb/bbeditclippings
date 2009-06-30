@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->affineTransformImage(#placeholderstart# ImagickDraw matrix #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+debug_zval_dump(#placeholderstart# mixed variable #placeholderend#)#placeholderstart# ; #placeholderend#

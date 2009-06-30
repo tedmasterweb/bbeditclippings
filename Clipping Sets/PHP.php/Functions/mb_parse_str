@@ -1,0 +1,2 @@
+#indent#
+mb_parse_str(#placeholderstart# string encoded_string #placeholderend##placeholderstart#[, array result ]#placeholderend#)#placeholderstart# ; #placeholderend#

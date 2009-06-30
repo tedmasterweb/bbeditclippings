@@ -1,0 +1,2 @@
+#indent#
+ncurses_slk_init(#placeholderstart# int format #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+cal_to_jd(#placeholderstart# int calendar #placeholderend##placeholderstart#, int month #placeholderend##placeholderstart#, int day #placeholderend##placeholderstart#, int year #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+cyrus_close(#placeholderstart# resource connection #placeholderend#)#placeholderstart# ; #placeholderend#

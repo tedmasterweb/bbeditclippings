@@ -1,0 +1,2 @@
+#indent#
+file(#placeholderstart# string filename #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

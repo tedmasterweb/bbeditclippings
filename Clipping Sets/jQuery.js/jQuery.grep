@@ -1,0 +1,2 @@
+#indent#
+jQuery.grepjQuery.grep( #placeholderstart#Array array#placeholderend##placeholderstart#, Function callback#placeholderend##placeholderstart#, Boolean invert#placeholderend# )

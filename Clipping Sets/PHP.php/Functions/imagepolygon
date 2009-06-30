@@ -1,0 +1,2 @@
+#indent#
+imagepolygon(#placeholderstart# resource image #placeholderend##placeholderstart#, array points #placeholderend##placeholderstart#, int num_points #placeholderend##placeholderstart#, int color #placeholderend#)#placeholderstart# ; #placeholderend#

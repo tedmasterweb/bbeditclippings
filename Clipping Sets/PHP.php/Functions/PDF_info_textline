@@ -1,0 +1,2 @@
+#indent#
+PDF_info_textline(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, string keyword #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

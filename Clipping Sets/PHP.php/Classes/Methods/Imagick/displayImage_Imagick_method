@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->displayImage(#placeholderstart# string servername #placeholderend#)#placeholderstart# ; #placeholderend#

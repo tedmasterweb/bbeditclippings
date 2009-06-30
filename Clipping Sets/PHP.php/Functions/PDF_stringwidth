@@ -1,0 +1,2 @@
+#indent#
+PDF_stringwidth(#placeholderstart# resource p #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, int font #placeholderend##placeholderstart#, float fontsize #placeholderend#)#placeholderstart# ; #placeholderend#

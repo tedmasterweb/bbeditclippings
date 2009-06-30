@@ -1,0 +1,2 @@
+#indent#
+method_exists(#placeholderstart# mixed object #placeholderend##placeholderstart#, string method_name #placeholderend#)#placeholderstart# ; #placeholderend#

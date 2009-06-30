@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpMessage #placeholderend#->setType(#placeholderstart# int type #placeholderend#)#placeholderstart# ; #placeholderend#

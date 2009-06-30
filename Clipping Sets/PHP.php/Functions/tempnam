@@ -1,0 +1,2 @@
+#indent#
+tempnam(#placeholderstart# string dir #placeholderend##placeholderstart#, string prefix #placeholderend#)#placeholderstart# ; #placeholderend#

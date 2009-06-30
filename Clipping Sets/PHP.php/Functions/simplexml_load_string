@@ -1,0 +1,2 @@
+#indent#
+simplexml_load_string(#placeholderstart# string data #placeholderend##placeholderstart#[, string class_name ]#placeholderend##placeholderstart#[, int options ]#placeholderend##placeholderstart#[, string ns ]#placeholderend##placeholderstart#[, bool is_prefix ]#placeholderend#)#placeholderstart# ; #placeholderend#

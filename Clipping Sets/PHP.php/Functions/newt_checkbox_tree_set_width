@@ -1,0 +1,2 @@
+#indent#
+newt_checkbox_tree_set_width(#placeholderstart# resource checkbox_tree #placeholderend##placeholderstart#, int width #placeholderend#)#placeholderstart# ; #placeholderend#

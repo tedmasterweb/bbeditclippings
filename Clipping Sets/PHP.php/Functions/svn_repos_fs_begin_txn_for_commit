@@ -1,0 +1,2 @@
+#indent#
+svn_repos_fs_begin_txn_for_commit(#placeholderstart# resource repos #placeholderend##placeholderstart#, int rev #placeholderend##placeholderstart#, string author #placeholderend##placeholderstart#, string log_msg #placeholderend#)#placeholderstart# ; #placeholderend#

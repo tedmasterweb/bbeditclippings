@@ -1,0 +1,2 @@
+#indent#
+curl_multi_close(#placeholderstart# resource mh #placeholderend#)#placeholderstart# ; #placeholderend#

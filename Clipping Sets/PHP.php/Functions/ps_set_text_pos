@@ -1,0 +1,2 @@
+#indent#
+ps_set_text_pos(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_set_text_pos(#placeholderstart# resource p #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

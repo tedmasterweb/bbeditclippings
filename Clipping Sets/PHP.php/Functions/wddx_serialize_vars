@@ -1,0 +1,2 @@
+#indent#
+wddx_serialize_vars(#placeholderstart# mixed var_name #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

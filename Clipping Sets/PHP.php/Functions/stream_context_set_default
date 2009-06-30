@@ -1,0 +1,2 @@
+#indent#
+stream_context_set_default(#placeholderstart# array options #placeholderend#)#placeholderstart# ; #placeholderend#

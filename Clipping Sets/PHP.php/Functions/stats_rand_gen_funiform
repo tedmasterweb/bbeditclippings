@@ -1,0 +1,2 @@
+#indent#
+stats_rand_gen_funiform(#placeholderstart# float low #placeholderend##placeholderstart#, float high #placeholderend#)#placeholderstart# ; #placeholderend#

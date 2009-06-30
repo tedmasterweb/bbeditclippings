@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setLimits(#placeholderstart# int offset #placeholderend##placeholderstart#, int limit #placeholderend##placeholderstart#[, int max_matches ]#placeholderend##placeholderstart#[, int cutoff ]#placeholderend#)#placeholderstart# ; #placeholderend#

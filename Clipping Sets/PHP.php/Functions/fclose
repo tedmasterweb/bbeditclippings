@@ -1,0 +1,2 @@
+#indent#
+fclose(#placeholderstart# resource handle #placeholderend#)#placeholderstart# ; #placeholderend#

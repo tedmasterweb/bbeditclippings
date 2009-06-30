@@ -1,0 +1,2 @@
+#indent#
+ctype_xdigit(#placeholderstart# string text #placeholderend#)#placeholderstart# ; #placeholderend#

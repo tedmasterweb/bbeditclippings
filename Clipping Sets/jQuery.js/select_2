@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").select( #placeholderstart#Function fn#placeholderend# )

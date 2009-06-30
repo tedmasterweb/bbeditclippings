@@ -1,0 +1,2 @@
+#indent#
+wddx_add_vars(#placeholderstart# resource packet_id #placeholderend##placeholderstart#, mixed var_name #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

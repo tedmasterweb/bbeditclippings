@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruFont #placeholderend#->measureText(#placeholderstart# string text #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#, float font_size #placeholderend##placeholderstart#, float char_space #placeholderend##placeholderstart#, float word_space #placeholderend##placeholderstart#[, bool word_wrap ]#placeholderend#)#placeholderstart# ; #placeholderend#

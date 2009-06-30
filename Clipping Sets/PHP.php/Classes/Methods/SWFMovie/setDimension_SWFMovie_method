@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFMovie #placeholderend#->setDimension(#placeholderstart# float width #placeholderend##placeholderstart#, float height #placeholderend#)#placeholderstart# ; #placeholderend#

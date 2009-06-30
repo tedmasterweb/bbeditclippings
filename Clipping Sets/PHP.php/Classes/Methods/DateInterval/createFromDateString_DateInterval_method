@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DateInterval #placeholderend#->createFromDateString(#placeholderstart# string time #placeholderend#)#placeholderstart# ; #placeholderend#

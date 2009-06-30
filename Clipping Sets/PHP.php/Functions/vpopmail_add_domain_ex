@@ -1,0 +1,2 @@
+#indent#
+vpopmail_add_domain_ex(#placeholderstart# string domain #placeholderend##placeholderstart#, string passwd #placeholderend##placeholderstart#[, string quota ]#placeholderend##placeholderstart#[, string bounce ]#placeholderend##placeholderstart#[, bool apop ]#placeholderend#)#placeholderstart# ; #placeholderend#

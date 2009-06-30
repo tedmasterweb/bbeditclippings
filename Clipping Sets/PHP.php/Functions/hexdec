@@ -1,0 +1,2 @@
+#indent#
+hexdec(#placeholderstart# string hex_string #placeholderend#)#placeholderstart# ; #placeholderend#

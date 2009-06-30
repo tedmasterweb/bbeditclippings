@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->getImageProperty(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

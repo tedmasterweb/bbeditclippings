@@ -1,0 +1,2 @@
+#indent#
+ncurses_ungetmouse(#placeholderstart# array mevent #placeholderend#)#placeholderstart# ; #placeholderend#

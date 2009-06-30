@@ -1,0 +1,2 @@
+#indent#
+svn_checkout(#placeholderstart# string repos #placeholderend##placeholderstart#, string targetpath #placeholderend##placeholderstart#[, int revision ]#placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

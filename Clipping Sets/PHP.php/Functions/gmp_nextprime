@@ -1,0 +1,2 @@
+#indent#
+gmp_nextprime(#placeholderstart# int a #placeholderend#)#placeholderstart# ; #placeholderend#

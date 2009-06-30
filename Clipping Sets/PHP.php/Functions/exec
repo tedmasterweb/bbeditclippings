@@ -1,0 +1,2 @@
+#indent#
+exec(#placeholderstart# string command #placeholderend##placeholderstart#[, array output ]#placeholderend##placeholderstart#[, int return_var ]#placeholderend#)#placeholderstart# ; #placeholderend#

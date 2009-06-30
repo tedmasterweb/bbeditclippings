@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMEntity #placeholderend#->isSameNode(#placeholderstart# DOMNode node #placeholderend#)#placeholderstart# ; #placeholderend#

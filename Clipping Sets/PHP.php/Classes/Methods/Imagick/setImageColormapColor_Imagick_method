@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageColormapColor(#placeholderstart# int index #placeholderend##placeholderstart#, ImagickPixel color #placeholderend#)#placeholderstart# ; #placeholderend#

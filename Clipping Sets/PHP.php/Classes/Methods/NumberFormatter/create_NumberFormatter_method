@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# NumberFormatter #placeholderend#->create(#placeholderstart# string locale #placeholderend##placeholderstart#, int style #placeholderend##placeholderstart#[, string pattern ]#placeholderend#)#placeholderstart# ; #placeholderend#

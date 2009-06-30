@@ -1,0 +1,2 @@
+#indent#
+radius_add_server(#placeholderstart# resource radius_handle #placeholderend##placeholderstart#, string hostname #placeholderend##placeholderstart#, int port #placeholderend##placeholderstart#, string secret #placeholderend##placeholderstart#, int timeout #placeholderend##placeholderstart#, int max_tries #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+http_negotiate_charset(#placeholderstart# array supported #placeholderend##placeholderstart#[, array result ]#placeholderend#)#placeholderstart# ; #placeholderend#

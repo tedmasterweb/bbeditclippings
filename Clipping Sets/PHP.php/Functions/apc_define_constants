@@ -1,0 +1,2 @@
+#indent#
+apc_define_constants(#placeholderstart# string key #placeholderend##placeholderstart#, array constants #placeholderend##placeholderstart#[, bool case_sensitive ]#placeholderend#)#placeholderstart# ; #placeholderend#

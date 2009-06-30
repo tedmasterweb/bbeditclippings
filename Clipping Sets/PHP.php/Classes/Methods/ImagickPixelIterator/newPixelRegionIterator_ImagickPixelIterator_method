@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickPixelIterator #placeholderend#->newPixelRegionIterator(#placeholderstart# Imagick wand #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, int columns #placeholderend##placeholderstart#, int rows #placeholderend#)#placeholderstart# ; #placeholderend#

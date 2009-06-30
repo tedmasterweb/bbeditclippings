@@ -1,0 +1,2 @@
+#indent#
+fdf_open_string(#placeholderstart# string fdf_data #placeholderend#)#placeholderstart# ; #placeholderend#

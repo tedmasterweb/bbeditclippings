@@ -1,0 +1,2 @@
+#indent#
+gmp_clrbit(#placeholderstart# resource a #placeholderend##placeholderstart#, int index #placeholderend#)#placeholderstart# ; #placeholderend#

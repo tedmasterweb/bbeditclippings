@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFMovie #placeholderend#->setFrames(#placeholderstart# int number #placeholderend#)#placeholderstart# ; #placeholderend#

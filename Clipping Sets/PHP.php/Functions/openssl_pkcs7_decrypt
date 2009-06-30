@@ -1,0 +1,2 @@
+#indent#
+openssl_pkcs7_decrypt(#placeholderstart# string infilename #placeholderend##placeholderstart#, string outfilename #placeholderend##placeholderstart#, mixed recipcert #placeholderend##placeholderstart#[, mixed recipkey ]#placeholderend#)#placeholderstart# ; #placeholderend#

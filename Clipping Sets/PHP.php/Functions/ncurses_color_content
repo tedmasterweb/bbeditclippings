@@ -1,0 +1,2 @@
+#indent#
+ncurses_color_content(#placeholderstart# int color #placeholderend##placeholderstart#, int r #placeholderend##placeholderstart#, int g #placeholderend##placeholderstart#, int b #placeholderend#)#placeholderstart# ; #placeholderend#

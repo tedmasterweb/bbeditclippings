@@ -1,0 +1,2 @@
+#indent#
+pspell_config_dict_dir(#placeholderstart# int conf #placeholderend##placeholderstart#, string directory #placeholderend#)#placeholderstart# ; #placeholderend#

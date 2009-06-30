@@ -1,0 +1,2 @@
+#indent#
+ps_setfont(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int fontid #placeholderend##placeholderstart#, float size #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_setgray(#placeholderstart# resource p #placeholderend##placeholderstart#, float g #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+wddx_serialize_value(#placeholderstart# mixed var #placeholderend##placeholderstart#[, string comment ]#placeholderend#)#placeholderstart# ; #placeholderend#

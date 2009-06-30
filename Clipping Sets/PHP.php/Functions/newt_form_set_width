@@ -1,0 +1,2 @@
+#indent#
+newt_form_set_width(#placeholderstart# resource form #placeholderend##placeholderstart#, int width #placeholderend#)#placeholderstart# ; #placeholderend#

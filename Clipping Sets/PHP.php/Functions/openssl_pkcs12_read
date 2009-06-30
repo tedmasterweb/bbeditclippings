@@ -1,0 +1,2 @@
+#indent#
+openssl_pkcs12_read(#placeholderstart# string pkcs12 #placeholderend##placeholderstart#, array certs #placeholderend##placeholderstart#, string pass #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_checkbox_tree_get_selection(#placeholderstart# resource checkboxtree #placeholderend#)#placeholderstart# ; #placeholderend#

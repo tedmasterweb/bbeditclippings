@@ -1,0 +1,2 @@
+#indent#
+uniqid(#placeholderstart#[ string prefix ]#placeholderend##placeholderstart#[, bool more_entropy ]#placeholderend#)#placeholderstart# ; #placeholderend#

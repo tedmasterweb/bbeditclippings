@@ -1,0 +1,2 @@
+#indent#
+svn_commit(#placeholderstart# string log #placeholderend##placeholderstart#, array targets #placeholderend##placeholderstart#[, bool dontrecurse ]#placeholderend#)#placeholderstart# ; #placeholderend#

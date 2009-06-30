@@ -1,0 +1,2 @@
+#indent#
+http_cache_last_modified(#placeholderstart#[ int timestamp_or_expires ]#placeholderend#)#placeholderstart# ; #placeholderend#

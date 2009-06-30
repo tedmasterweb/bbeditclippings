@@ -1,0 +1,2 @@
+#indent#
+w32api_register_function(#placeholderstart# string library #placeholderend##placeholderstart#, string function_name #placeholderend##placeholderstart#, string return_type #placeholderend#)#placeholderstart# ; #placeholderend#

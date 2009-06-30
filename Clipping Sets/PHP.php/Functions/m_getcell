@@ -1,0 +1,2 @@
+#indent#
+m_getcell(#placeholderstart# resource conn #placeholderend##placeholderstart#, int identifier #placeholderend##placeholderstart#, string column #placeholderend##placeholderstart#, int row #placeholderend#)#placeholderstart# ; #placeholderend#

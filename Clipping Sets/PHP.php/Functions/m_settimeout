@@ -1,0 +1,2 @@
+#indent#
+m_settimeout(#placeholderstart# resource conn #placeholderend##placeholderstart#, int seconds #placeholderend#)#placeholderstart# ; #placeholderend#

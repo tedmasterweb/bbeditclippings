@@ -1,0 +1,2 @@
+#indent#
+swf_removeobject(#placeholderstart# int depth #placeholderend#)#placeholderstart# ; #placeholderend#

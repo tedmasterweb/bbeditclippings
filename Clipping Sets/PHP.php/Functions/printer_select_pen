@@ -1,0 +1,2 @@
+#indent#
+printer_select_pen(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, resource pen_handle #placeholderend#)#placeholderstart# ; #placeholderend#

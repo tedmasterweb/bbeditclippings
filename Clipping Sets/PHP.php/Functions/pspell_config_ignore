@@ -1,0 +1,2 @@
+#indent#
+pspell_config_ignore(#placeholderstart# int dictionary_link #placeholderend##placeholderstart#, int n #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+openssl_verify(#placeholderstart# string data #placeholderend##placeholderstart#, string signature #placeholderend##placeholderstart#, mixed pub_key_id #placeholderend##placeholderstart#[, int signature_alg ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+gopher_parsedir(#placeholderstart# string dirent #placeholderend#)#placeholderstart# ; #placeholderend#

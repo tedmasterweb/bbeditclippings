@@ -1,0 +1,2 @@
+#indent#
+svn_fs_contents_changed(#placeholderstart# resource root1 #placeholderend##placeholderstart#, string path1 #placeholderend##placeholderstart#, resource root2 #placeholderend##placeholderstart#, string path2 #placeholderend#)#placeholderstart# ; #placeholderend#

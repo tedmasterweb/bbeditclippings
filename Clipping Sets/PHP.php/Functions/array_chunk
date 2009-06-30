@@ -1,0 +1,2 @@
+#indent#
+array_chunk(#placeholderstart# array input #placeholderend##placeholderstart#, int size #placeholderend##placeholderstart#[, bool preserve_keys ]#placeholderend#)#placeholderstart# ; #placeholderend#

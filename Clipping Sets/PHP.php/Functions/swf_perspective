@@ -1,0 +1,2 @@
+#indent#
+swf_perspective(#placeholderstart# float fovy #placeholderend##placeholderstart#, float aspect #placeholderend##placeholderstart#, float near #placeholderend##placeholderstart#, float far #placeholderend#)#placeholderstart# ; #placeholderend#

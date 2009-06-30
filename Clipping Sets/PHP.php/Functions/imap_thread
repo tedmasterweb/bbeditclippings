@@ -1,0 +1,2 @@
+#indent#
+imap_thread(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

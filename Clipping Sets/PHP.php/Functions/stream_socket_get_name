@@ -1,0 +1,2 @@
+#indent#
+stream_socket_get_name(#placeholderstart# resource handle #placeholderend##placeholderstart#, bool want_peer #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->getServerByKey(#placeholderstart# string server_key #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+metaphone(#placeholderstart# string str #placeholderend##placeholderstart#[, int phones ]#placeholderend#)#placeholderstart# ; #placeholderend#

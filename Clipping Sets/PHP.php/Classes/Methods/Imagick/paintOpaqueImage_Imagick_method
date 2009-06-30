@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->paintOpaqueImage(#placeholderstart# mixed target #placeholderend##placeholderstart#, mixed fill #placeholderend##placeholderstart#, float fuzz #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->setSize(#placeholderstart# int size #placeholderend##placeholderstart#, int direction #placeholderend#)#placeholderstart# ; #placeholderend#

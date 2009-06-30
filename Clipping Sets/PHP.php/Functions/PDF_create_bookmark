@@ -1,0 +1,2 @@
+#indent#
+PDF_create_bookmark(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

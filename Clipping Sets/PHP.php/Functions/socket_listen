@@ -1,0 +1,2 @@
+#indent#
+socket_listen(#placeholderstart# resource socket #placeholderend##placeholderstart#[, int backlog ]#placeholderend#)#placeholderstart# ; #placeholderend#

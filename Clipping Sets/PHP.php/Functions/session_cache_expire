@@ -1,0 +1,2 @@
+#indent#
+session_cache_expire(#placeholderstart#[ string new_cache_expire ]#placeholderend#)#placeholderstart# ; #placeholderend#

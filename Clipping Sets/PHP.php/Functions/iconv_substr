@@ -1,0 +1,2 @@
+#indent#
+iconv_substr(#placeholderstart# string str #placeholderend##placeholderstart#, int offset #placeholderend##placeholderstart#[, int length ]#placeholderend##placeholderstart#[, string charset ]#placeholderend#)#placeholderstart# ; #placeholderend#

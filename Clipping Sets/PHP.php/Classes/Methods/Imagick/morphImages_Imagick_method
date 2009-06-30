@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->morphImages(#placeholderstart# int number_frames #placeholderend#)#placeholderstart# ; #placeholderend#

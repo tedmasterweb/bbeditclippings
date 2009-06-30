@@ -1,0 +1,2 @@
+#indent#
+xslt_set_object(#placeholderstart# resource processor #placeholderend##placeholderstart#, object obj #placeholderend#)#placeholderstart# ; #placeholderend#

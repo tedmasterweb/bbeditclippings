@@ -1,0 +1,2 @@
+#indent#
+xml_set_element_handler(#placeholderstart# resource parser #placeholderend##placeholderstart#, callback start_element_handler #placeholderend##placeholderstart#, callback end_element_handler #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+socket_write(#placeholderstart# resource socket #placeholderend##placeholderstart#, string buffer #placeholderend##placeholderstart#[, int length ]#placeholderend#)#placeholderstart# ; #placeholderend#

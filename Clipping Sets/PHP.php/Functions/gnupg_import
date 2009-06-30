@@ -1,0 +1,2 @@
+#indent#
+gnupg_import(#placeholderstart# resource identifier #placeholderend##placeholderstart#, string keydata #placeholderend#)#placeholderstart# ; #placeholderend#

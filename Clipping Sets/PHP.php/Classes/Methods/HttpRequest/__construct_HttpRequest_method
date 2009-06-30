@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequest #placeholderend#->__construct(#placeholderstart#[ string url ]#placeholderend##placeholderstart#[, int request_method ]#placeholderend##placeholderstart#[, array options ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+datefmt_is_lenient(#placeholderstart# IntlDateFormatter fmt #placeholderend#)#placeholderstart# ; #placeholderend#

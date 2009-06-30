@@ -1,0 +1,2 @@
+#indent#
+array_filter(#placeholderstart# array input #placeholderend##placeholderstart#[, callback callback ]#placeholderend#)#placeholderstart# ; #placeholderend#

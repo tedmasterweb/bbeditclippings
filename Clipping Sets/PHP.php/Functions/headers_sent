@@ -1,0 +1,2 @@
+#indent#
+headers_sent(#placeholderstart#[ string file ]#placeholderend##placeholderstart#[, int line ]#placeholderend#)#placeholderstart# ; #placeholderend#

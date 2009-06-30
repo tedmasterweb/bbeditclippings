@@ -1,0 +1,2 @@
+#indent#
+bzcompress(#placeholderstart# string source #placeholderend##placeholderstart#[, int blocksize ]#placeholderend##placeholderstart#[, int workfactor ]#placeholderend#)#placeholderstart# ; #placeholderend#

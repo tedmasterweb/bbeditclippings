@@ -1,0 +1,2 @@
+#indent#
+gettimeofday(#placeholderstart#[ bool return_float ]#placeholderend#)#placeholderstart# ; #placeholderend#

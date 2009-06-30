@@ -1,0 +1,2 @@
+#indent#
+PDF_info_table(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int table #placeholderend##placeholderstart#, string keyword #placeholderend#)#placeholderstart# ; #placeholderend#

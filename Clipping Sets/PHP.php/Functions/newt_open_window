@@ -1,0 +1,2 @@
+#indent#
+newt_open_window(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#[, string title ]#placeholderend#)#placeholderstart# ; #placeholderend#

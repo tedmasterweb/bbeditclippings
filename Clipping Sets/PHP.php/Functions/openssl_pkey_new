@@ -1,0 +1,2 @@
+#indent#
+openssl_pkey_new(#placeholderstart#[ array configargs ]#placeholderend#)#placeholderstart# ; #placeholderend#

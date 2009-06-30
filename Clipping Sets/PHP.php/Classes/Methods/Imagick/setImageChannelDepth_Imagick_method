@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageChannelDepth(#placeholderstart# int channel #placeholderend##placeholderstart#, int depth #placeholderend#)#placeholderstart# ; #placeholderend#

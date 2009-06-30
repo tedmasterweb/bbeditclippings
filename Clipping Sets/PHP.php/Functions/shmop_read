@@ -1,0 +1,2 @@
+#indent#
+shmop_read(#placeholderstart# int shmid #placeholderend##placeholderstart#, int start #placeholderend##placeholderstart#, int count #placeholderend#)#placeholderstart# ; #placeholderend#

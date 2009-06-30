@@ -1,0 +1,2 @@
+#indent#
+bbcode_destroy(#placeholderstart# resource bbcode_container #placeholderend#)#placeholderstart# ; #placeholderend#

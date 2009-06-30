@@ -1,0 +1,275 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {802, 341}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 116}";
+			sepNavWindowFrame = "{{42, 294}, {750, 558}}";
+		};
+	};
+	257572C2072881A4000BE9CA /* Date Format Dialog */ = {
+		activeExec = 0;
+		executables = (
+			25D9445407B1533600FF306F /* Date Format Dialog */,
+		);
+	};
+	25D9445407B1533600FF306F /* Date Format Dialog */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+			"PBXLSLaunchAction-1" = {
+				PBXLSLaunchAction = 1;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = ASKDebuggerLaunchConfig;
+				displayName = "AppleScript Debugger";
+				identifier = com.apple.AppleScriptStudio.ASKDebugLaunchConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = ASKDebugger;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = NO;
+				name = AEDebug;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugSends;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugReceives;
+				value = 1;
+			},
+			{
+				active = NO;
+				name = AEDebugVerbose;
+				value = 1;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Date Format Dialog";
+		sourceDirectories = (
+		);
+	};
+	25D9445A07B1533700FF306F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	25D9445B07B1533700FF306F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 25D9445407B1533600FF306F /* Date Format Dialog */;
+		activeTarget = 257572C2072881A4000BE9CA /* Date Format Dialog */;
+		codeSenseManager = 25D9445B07B1533700FF306F /* Code sense */;
+		executables = (
+			25D9445407B1533600FF306F /* Date Format Dialog */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					977,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 268041347;
+			PBXWorkspaceStateSaveDate = 268041347;
+		};
+		perUserProjectItems = {
+			873352EB0FF92ACE00F72F13 /* PBXTextBookmark */ = 873352EB0FF92ACE00F72F13 /* PBXTextBookmark */;
+			873352EC0FF92ACE00F72F13 /* PBXTextBookmark */ = 873352EC0FF92ACE00F72F13 /* PBXTextBookmark */;
+			873352ED0FF92ACE00F72F13 /* PlistBookmark */ = 873352ED0FF92ACE00F72F13 /* PlistBookmark */;
+			873353030FF92C5500F72F13 /* PlistBookmark */ = 873353030FF92C5500F72F13 /* PlistBookmark */;
+			873353040FF92C5500F72F13 /* PBXTextBookmark */ = 873353040FF92C5500F72F13 /* PBXTextBookmark */;
+			873353060FF92C5500F72F13 /* PBXTextBookmark */ = 873353060FF92C5500F72F13 /* PBXTextBookmark */;
+			8733530B0FF92C5500F72F13 /* PBXTextBookmark */ = 8733530B0FF92C5500F72F13 /* PBXTextBookmark */;
+			8733530C0FF92C5500F72F13 /* PBXTextBookmark */ = 8733530C0FF92C5500F72F13 /* PBXTextBookmark */;
+			873353180FF92CF100F72F13 /* PBXTextBookmark */ = 873353180FF92CF100F72F13 /* PBXTextBookmark */;
+			8733533A0FF934FC00F72F13 /* PBXTextBookmark */ = 8733533A0FF934FC00F72F13 /* PBXTextBookmark */;
+			876071D20FF9FCB100BF0105 /* PBXTextBookmark */ = 876071D20FF9FCB100BF0105 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 25D9445A07B1533700FF306F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {802, 341}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 197}";
+		};
+	};
+	873352EB0FF92ACE00F72F13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* Date Format Dialog.applescript */;
+		name = "Date Format Dialog.applescript: 89";
+		rLen = 0;
+		rLoc = 3070;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 0;
+	};
+	873352EC0FF92ACE00F72F13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 116;
+		vrLoc = 0;
+	};
+	873352ED0FF92ACE00F72F13 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 257572D5072881A4000BE9CA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tedsr/Sites/bbeditclippings/PHP/source/Support Applications/Date Format Dialog/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	873353030FF92C5500F72F13 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 257572D5072881A4000BE9CA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/tedsr/Sites/bbeditclippings/PHP/source/Support Applications/Date Format Dialog/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	873353040FF92C5500F72F13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 873353050FF92C5500F72F13 /* main.s */;
+		name = "main.s: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 6119;
+	};
+	873353050FF92C5500F72F13 /* main.s */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.asm;
+		name = main.s;
+		path = "/Users/tedsr/Sites/bbeditclippings/PHP/source/Support Applications/Date Format Dialog/build/Date Format Dialog.build/Debug/Date Format Dialog.build/Objects-normal/i386/main.s";
+		sourceTree = "<absolute>";
+	};
+	873353060FF92C5500F72F13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 116;
+		vrLoc = 0;
+	};
+	8733530B0FF92C5500F72F13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	8733530C0FF92C5500F72F13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8733530D0FF92C5500F72F13 /* main.s */;
+		name = "main.s: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 6119;
+	};
+	8733530D0FF92C5500F72F13 /* main.s */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.asm;
+		name = main.s;
+		path = "/Users/tedsr/Sites/bbeditclippings/PHP/source/Support Applications/Date Format Dialog/build/Date Format Dialog.build/Debug/Date Format Dialog.build/Objects-normal/i386/main.s";
+		sourceTree = "<absolute>";
+	};
+	873353180FF92CF100F72F13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 197;
+		vrLoc = 0;
+	};
+	8733533A0FF934FC00F72F13 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* Date Format Dialog.applescript */;
+		name = "Date Format Dialog.applescript: 90";
+		rLen = 0;
+		rLoc = 3070;
+		rType = 0;
+		vrLen = 1101;
+		vrLoc = 43;
+	};
+	876071D20FF9FCB100BF0105 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA206CF3015C4E8B03C91932 /* Date Format Dialog.applescript */;
+		name = "Date Format Dialog.applescript: 90";
+		rLen = 0;
+		rLoc = 3070;
+		rType = 0;
+		vrLen = 1101;
+		vrLoc = 43;
+	};
+	DA206CF3015C4E8B03C91932 /* Date Format Dialog.applescript */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1155, 1338}}";
+			sepNavSelRange = "{3070, 0}";
+			sepNavVisRange = "{43, 1101}";
+		};
+	};
+}

@@ -1,0 +1,2 @@
+#indent#
+is_dir(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

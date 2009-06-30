@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DateInterval #placeholderend#->format(#placeholderstart# string format #placeholderend#)#placeholderstart# ; #placeholderend#

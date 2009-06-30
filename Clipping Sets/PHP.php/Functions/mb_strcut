@@ -1,0 +1,2 @@
+#indent#
+mb_strcut(#placeholderstart# string str #placeholderend##placeholderstart#, int start #placeholderend##placeholderstart#[, int length ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

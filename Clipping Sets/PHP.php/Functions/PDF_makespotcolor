@@ -1,0 +1,2 @@
+#indent#
+PDF_makespotcolor(#placeholderstart# resource p #placeholderend##placeholderstart#, string spotname #placeholderend#)#placeholderstart# ; #placeholderend#

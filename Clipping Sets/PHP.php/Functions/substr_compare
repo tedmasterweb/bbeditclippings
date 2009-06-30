@@ -1,0 +1,2 @@
+#indent#
+substr_compare(#placeholderstart# string main_str #placeholderend##placeholderstart#, string str #placeholderend##placeholderstart#, int offset #placeholderend##placeholderstart#[, int length ]#placeholderend##placeholderstart#[, bool case_insensitivity ]#placeholderend#)#placeholderstart# ; #placeholderend#

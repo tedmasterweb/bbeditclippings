@@ -1,0 +1,2 @@
+#indent#
+http_request_method_register(#placeholderstart# string method #placeholderend#)#placeholderstart# ; #placeholderend#

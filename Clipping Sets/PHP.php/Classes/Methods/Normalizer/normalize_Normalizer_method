@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Normalizer #placeholderend#->normalize(#placeholderstart# string input #placeholderend##placeholderstart#[, string form ]#placeholderend#)#placeholderstart# ; #placeholderend#

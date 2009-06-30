@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageDispose(#placeholderstart# int dispose #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_end_pattern(#placeholderstart# resource p #placeholderend#)#placeholderstart# ; #placeholderend#

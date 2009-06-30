@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpResponse #placeholderend#->guessContentType(#placeholderstart# string magic_file #placeholderend##placeholderstart#[, int magic_mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+min(#placeholderstart# mixed value1 #placeholderend##placeholderstart#, mixed value2 #placeholderend##placeholderstart#[, mixed value3... ]#placeholderend#)#placeholderstart# ; #placeholderend#

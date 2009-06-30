@@ -1,0 +1,2 @@
+#indent#
+radius_config(#placeholderstart# resource radius_handle #placeholderend##placeholderstart#, string file #placeholderend#)#placeholderstart# ; #placeholderend#

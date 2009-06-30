@@ -1,0 +1,2 @@
+#indent#
+json_decode(#placeholderstart# string json #placeholderend##placeholderstart#[, bool assoc ]#placeholderend##placeholderstart#[, int depth ]#placeholderend#)#placeholderstart# ; #placeholderend#

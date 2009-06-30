@@ -1,0 +1,2 @@
+#indent#
+xdiff_string_merge3(#placeholderstart# string old_data #placeholderend##placeholderstart#, string new_data1 #placeholderend##placeholderstart#, string new_data2 #placeholderend##placeholderstart#[, string error ]#placeholderend#)#placeholderstart# ; #placeholderend#

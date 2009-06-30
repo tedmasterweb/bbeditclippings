@@ -1,0 +1,2 @@
+#indent#
+php_uname(#placeholderstart#[ string mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

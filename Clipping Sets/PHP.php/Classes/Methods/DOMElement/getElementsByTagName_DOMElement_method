@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMElement #placeholderend#->getElementsByTagName(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

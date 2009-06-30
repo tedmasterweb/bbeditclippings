@@ -1,0 +1,2 @@
+#indent#
+openal_device_close(#placeholderstart# resource device #placeholderend#)#placeholderstart# ; #placeholderend#

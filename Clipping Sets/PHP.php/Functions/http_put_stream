@@ -1,0 +1,2 @@
+#indent#
+http_put_stream(#placeholderstart# string url #placeholderend##placeholderstart#[, resource stream ]#placeholderend##placeholderstart#[, array options ]#placeholderend##placeholderstart#[, array info ]#placeholderend#)#placeholderstart# ; #placeholderend#

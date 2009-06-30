@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->measureText(#placeholderstart# string text #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#[, bool wordwrap ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequest #placeholderend#->addPostFile(#placeholderstart# string name #placeholderend##placeholderstart#, string file #placeholderend##placeholderstart#[, string content_type ]#placeholderend#)#placeholderstart# ; #placeholderend#

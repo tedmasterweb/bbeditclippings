@@ -1,0 +1,2 @@
+#indent#
+hw_insertobject(#placeholderstart# int connection #placeholderend##placeholderstart#, string object_rec #placeholderend##placeholderstart#, string parameter #placeholderend#)#placeholderstart# ; #placeholderend#

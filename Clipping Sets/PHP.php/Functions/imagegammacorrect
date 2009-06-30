@@ -1,0 +1,2 @@
+#indent#
+imagegammacorrect(#placeholderstart# resource image #placeholderend##placeholderstart#, float inputgamma #placeholderend##placeholderstart#, float outputgamma #placeholderend#)#placeholderstart# ; #placeholderend#

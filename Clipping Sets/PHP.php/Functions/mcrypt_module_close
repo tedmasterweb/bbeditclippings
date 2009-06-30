@@ -1,0 +1,2 @@
+#indent#
+mcrypt_module_close(#placeholderstart# resource td #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+finfo_open(#placeholderstart#[ int options ]#placeholderend##placeholderstart#[, string magic_file ]#placeholderend#)#placeholderstart# ; #placeholderend#

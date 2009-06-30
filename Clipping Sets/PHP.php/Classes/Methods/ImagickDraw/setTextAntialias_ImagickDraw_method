@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setTextAntialias(#placeholderstart# bool antiAlias #placeholderend#)#placeholderstart# ; #placeholderend#

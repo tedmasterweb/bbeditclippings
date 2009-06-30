@@ -1,0 +1,2 @@
+#indent#
+newt_form_add_component(#placeholderstart# resource form #placeholderend##placeholderstart#, resource component #placeholderend#)#placeholderstart# ; #placeholderend#

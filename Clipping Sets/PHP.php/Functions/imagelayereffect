@@ -1,0 +1,2 @@
+#indent#
+imagelayereffect(#placeholderstart# resource image #placeholderend##placeholderstart#, int effect #placeholderend#)#placeholderstart# ; #placeholderend#

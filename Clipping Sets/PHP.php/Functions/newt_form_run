@@ -1,0 +1,2 @@
+#indent#
+newt_form_run(#placeholderstart# resource form #placeholderend##placeholderstart#, array exit_struct #placeholderend#)#placeholderstart# ; #placeholderend#

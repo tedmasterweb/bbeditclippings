@@ -1,0 +1,2 @@
+#indent#
+notes_drop_db(#placeholderstart# string database_name #placeholderend#)#placeholderstart# ; #placeholderend#

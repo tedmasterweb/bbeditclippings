@@ -1,0 +1,2 @@
+#indent#
+win32_create_service(#placeholderstart# array details #placeholderend##placeholderstart#[, string machine ]#placeholderend#)#placeholderstart# ; #placeholderend#

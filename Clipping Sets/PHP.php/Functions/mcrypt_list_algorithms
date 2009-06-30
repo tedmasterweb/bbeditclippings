@@ -1,0 +1,2 @@
+#indent#
+mcrypt_list_algorithms(#placeholderstart#[ string lib_dir ]#placeholderend#)#placeholderstart# ; #placeholderend#

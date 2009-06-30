@@ -1,0 +1,2 @@
+#indent#
+newt_listitem(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, bool is_default #placeholderend##placeholderstart#, resouce prev_item #placeholderend##placeholderstart#, mixed data #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

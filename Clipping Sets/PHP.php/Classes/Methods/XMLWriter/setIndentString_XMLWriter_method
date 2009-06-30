@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->setIndentString(#placeholderstart# string indentString #placeholderend#)#placeholderstart# ; #placeholderend#

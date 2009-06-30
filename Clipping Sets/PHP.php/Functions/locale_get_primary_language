@@ -1,0 +1,2 @@
+#indent#
+locale_get_primary_language(#placeholderstart# string locale #placeholderend#)#placeholderstart# ; #placeholderend#

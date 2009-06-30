@@ -1,0 +1,2 @@
+#indent#
+ini_get(#placeholderstart# string varname #placeholderend#)#placeholderstart# ; #placeholderend#

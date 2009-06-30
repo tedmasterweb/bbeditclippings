@@ -1,0 +1,2 @@
+#indent#
+printer_abort(#placeholderstart# resource printer_handle #placeholderend#)#placeholderstart# ; #placeholderend#

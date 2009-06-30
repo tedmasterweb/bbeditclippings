@@ -1,0 +1,2 @@
+#indent#
+gzencode(#placeholderstart# string data #placeholderend##placeholderstart#[, int level ]#placeholderend##placeholderstart#[, int encoding_mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

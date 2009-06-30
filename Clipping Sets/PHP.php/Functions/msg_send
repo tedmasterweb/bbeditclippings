@@ -1,0 +1,2 @@
+#indent#
+msg_send(#placeholderstart# resource queue #placeholderend##placeholderstart#, int msgtype #placeholderend##placeholderstart#, mixed message #placeholderend##placeholderstart#[, bool serialize ]#placeholderend##placeholderstart#[, bool blocking ]#placeholderend##placeholderstart#[, int errorcode ]#placeholderend#)#placeholderstart# ; #placeholderend#

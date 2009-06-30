@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpResponse #placeholderend#->setCacheControl(#placeholderstart# string control #placeholderend##placeholderstart#[, int max_age ]#placeholderend##placeholderstart#[, bool must_revalidate ]#placeholderend#)#placeholderstart# ; #placeholderend#

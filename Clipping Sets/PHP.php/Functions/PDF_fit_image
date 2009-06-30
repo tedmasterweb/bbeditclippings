@@ -1,0 +1,2 @@
+#indent#
+PDF_fit_image(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int image #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

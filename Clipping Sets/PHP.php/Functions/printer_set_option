@@ -1,0 +1,2 @@
+#indent#
+printer_set_option(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, int option #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

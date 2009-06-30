@@ -1,0 +1,2 @@
+#indent#
+dio_seek(#placeholderstart# resource fd #placeholderend##placeholderstart#, int pos #placeholderend##placeholderstart#[, int whence ]#placeholderend#)#placeholderstart# ; #placeholderend#

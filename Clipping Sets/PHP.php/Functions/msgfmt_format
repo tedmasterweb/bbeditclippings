@@ -1,0 +1,2 @@
+#indent#
+msgfmt_format(#placeholderstart# MessageFormatter fmt #placeholderend##placeholderstart#, array args #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+substr_replace(#placeholderstart# mixed string #placeholderend##placeholderstart#, string replacement #placeholderend##placeholderstart#, int start #placeholderend##placeholderstart#[, int length ]#placeholderend#)#placeholderstart# ; #placeholderend#

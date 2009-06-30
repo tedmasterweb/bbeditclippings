@@ -1,0 +1,2 @@
+#indent#
+ssh2_publickey_add(#placeholderstart# resource pkey #placeholderend##placeholderstart#, string algoname #placeholderend##placeholderstart#, string blob #placeholderend##placeholderstart#[, bool overwrite ]#placeholderend##placeholderstart#[, array attributes ]#placeholderend#)#placeholderstart# ; #placeholderend#

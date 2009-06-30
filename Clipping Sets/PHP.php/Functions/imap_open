@@ -1,0 +1,2 @@
+#indent#
+imap_open(#placeholderstart# string mailbox #placeholderend##placeholderstart#, string username #placeholderend##placeholderstart#, string password #placeholderend##placeholderstart#[, int options ]#placeholderend##placeholderstart#[, int n_retries ]#placeholderend#)#placeholderstart# ; #placeholderend#

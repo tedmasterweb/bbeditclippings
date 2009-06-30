@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->webPhar(#placeholderstart#[ string alias ]#placeholderend##placeholderstart#[, string index ]#placeholderend##placeholderstart#[, string f404 ]#placeholderend##placeholderstart#[, array mimetypes ]#placeholderend##placeholderstart#[, array rewrites ]#placeholderend#)#placeholderstart# ; #placeholderend#

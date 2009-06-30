@@ -1,0 +1,2 @@
+#indent#
+mb_convert_encoding(#placeholderstart# string str #placeholderend##placeholderstart#, string to_encoding #placeholderend##placeholderstart#[, mixed from_encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

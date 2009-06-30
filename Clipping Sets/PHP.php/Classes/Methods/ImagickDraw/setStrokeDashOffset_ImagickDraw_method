@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setStrokeDashOffset(#placeholderstart# float dash_offset #placeholderend#)#placeholderstart# ; #placeholderend#

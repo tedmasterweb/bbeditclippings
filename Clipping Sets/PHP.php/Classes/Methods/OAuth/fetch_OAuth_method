@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# OAuth #placeholderend#->fetch(#placeholderstart# string protected_resource_url #placeholderend##placeholderstart#[, array extra_parameters ]#placeholderend##placeholderstart#[, int http_method ]#placeholderend##placeholderstart#[, array http_headers ]#placeholderend#)#placeholderstart# ; #placeholderend#

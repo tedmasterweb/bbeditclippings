@@ -1,0 +1,2 @@
+#indent#
+swf_lookat(#placeholderstart# float view_x #placeholderend##placeholderstart#, float view_y #placeholderend##placeholderstart#, float view_z #placeholderend##placeholderstart#, float reference_x #placeholderend##placeholderstart#, float reference_y #placeholderend##placeholderstart#, float reference_z #placeholderend##placeholderstart#, float twist #placeholderend#)#placeholderstart# ; #placeholderend#

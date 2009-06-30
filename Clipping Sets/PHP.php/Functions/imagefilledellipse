@@ -1,0 +1,2 @@
+#indent#
+imagefilledellipse(#placeholderstart# resource image #placeholderend##placeholderstart#, int cx #placeholderend##placeholderstart#, int cy #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#, int color #placeholderend#)#placeholderstart# ; #placeholderend#

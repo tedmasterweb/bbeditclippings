@@ -1,0 +1,2 @@
+#indent#
+iconv_strrpos(#placeholderstart# string haystack #placeholderend##placeholderstart#, string needle #placeholderend##placeholderstart#[, string charset ]#placeholderend#)#placeholderstart# ; #placeholderend#

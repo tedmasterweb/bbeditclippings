@@ -1,0 +1,2 @@
+#indent#
+php_check_syntax(#placeholderstart# string filename #placeholderend##placeholderstart#[, string error_message ]#placeholderend#)#placeholderstart# ; #placeholderend#

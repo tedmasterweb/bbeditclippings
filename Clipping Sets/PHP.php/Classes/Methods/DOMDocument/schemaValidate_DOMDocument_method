@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->schemaValidate(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

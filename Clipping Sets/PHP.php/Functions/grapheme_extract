@@ -1,0 +1,2 @@
+#indent#
+grapheme_extract(#placeholderstart# string haystack #placeholderend##placeholderstart#, int size #placeholderend##placeholderstart#[, int extract_type ]#placeholderend##placeholderstart#[, int start ]#placeholderend##placeholderstart#[, int next ]#placeholderend#)#placeholderstart# ; #placeholderend#

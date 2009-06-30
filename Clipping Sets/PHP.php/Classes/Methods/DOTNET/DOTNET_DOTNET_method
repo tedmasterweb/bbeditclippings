@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOTNET #placeholderend#->DOTNET(#placeholderstart# string assembly_name #placeholderend##placeholderstart#, string class_name #placeholderend##placeholderstart#[, int codepage ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+apd_croak(#placeholderstart# string warning #placeholderend##placeholderstart#[, string delimiter ]#placeholderend#)#placeholderstart# ; #placeholderend#

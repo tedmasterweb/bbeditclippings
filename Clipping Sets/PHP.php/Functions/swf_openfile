@@ -1,0 +1,2 @@
+#indent#
+swf_openfile(#placeholderstart# string filename #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#, float height #placeholderend##placeholderstart#, float framerate #placeholderend##placeholderstart#, float r #placeholderend##placeholderstart#, float g #placeholderend##placeholderstart#, float b #placeholderend#)#placeholderstart# ; #placeholderend#

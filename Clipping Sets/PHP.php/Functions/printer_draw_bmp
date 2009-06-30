@@ -1,0 +1,2 @@
+#indent#
+printer_draw_bmp(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#[, int width ]#placeholderend##placeholderstart#, int height #placeholderend#)#placeholderstart# ; #placeholderend#

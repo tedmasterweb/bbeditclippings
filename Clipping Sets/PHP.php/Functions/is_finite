@@ -1,0 +1,2 @@
+#indent#
+is_finite(#placeholderstart# float val #placeholderend#)#placeholderstart# ; #placeholderend#

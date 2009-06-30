@@ -1,0 +1,2 @@
+#indent#
+mqseries_get(#placeholderstart# resource hConn #placeholderend##placeholderstart#, resource hObj #placeholderend##placeholderstart#, array md #placeholderend##placeholderstart#, array gmo #placeholderend##placeholderstart#, int bufferLength #placeholderend##placeholderstart#, string msg #placeholderend##placeholderstart#, int data_length #placeholderend##placeholderstart#, resource compCode #placeholderend##placeholderstart#, resource reason #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+atan2(#placeholderstart# float y #placeholderend##placeholderstart#, float x #placeholderend#)#placeholderstart# ; #placeholderend#

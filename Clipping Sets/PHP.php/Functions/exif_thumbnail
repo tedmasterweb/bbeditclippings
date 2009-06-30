@@ -1,0 +1,2 @@
+#indent#
+exif_thumbnail(#placeholderstart# string filename #placeholderend##placeholderstart#[, int width ]#placeholderend##placeholderstart#[, int height ]#placeholderend##placeholderstart#[, int imagetype ]#placeholderend#)#placeholderstart# ; #placeholderend#

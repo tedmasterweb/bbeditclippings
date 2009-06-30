@@ -1,0 +1,2 @@
+#indent#
+floor(#placeholderstart# float value #placeholderend#)#placeholderstart# ; #placeholderend#

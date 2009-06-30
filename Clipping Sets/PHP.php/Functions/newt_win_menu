@@ -1,0 +1,2 @@
+#indent#
+newt_win_menu(#placeholderstart# string title #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, int suggestedWidth #placeholderend##placeholderstart#, int flexDown #placeholderend##placeholderstart#, int flexUp #placeholderend##placeholderstart#, int maxListHeight #placeholderend##placeholderstart#, array items #placeholderend##placeholderstart#, int listItem #placeholderend##placeholderstart#[, string button1 ]#placeholderend##placeholderstart#[, string ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

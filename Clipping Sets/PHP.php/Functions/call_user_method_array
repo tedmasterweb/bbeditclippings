@@ -1,0 +1,2 @@
+#indent#
+call_user_method_array(#placeholderstart# string method_name #placeholderend##placeholderstart#, object obj #placeholderend##placeholderstart#, array params #placeholderend#)#placeholderstart# ; #placeholderend#

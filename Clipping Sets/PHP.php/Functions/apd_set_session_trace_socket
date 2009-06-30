@@ -1,0 +1,2 @@
+#indent#
+apd_set_session_trace_socket(#placeholderstart# string tcp_server #placeholderend##placeholderstart#, int socket_type #placeholderend##placeholderstart#, int port #placeholderend##placeholderstart#, int debug_level #placeholderend#)#placeholderstart# ; #placeholderend#

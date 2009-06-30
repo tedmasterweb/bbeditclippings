@@ -1,0 +1,2 @@
+#indent#
+hw_insertanchors(#placeholderstart# int hwdoc #placeholderend##placeholderstart#, array anchorecs #placeholderend##placeholderstart#, array dest #placeholderend##placeholderstart#[, array urlprefixes ]#placeholderend#)#placeholderstart# ; #placeholderend#

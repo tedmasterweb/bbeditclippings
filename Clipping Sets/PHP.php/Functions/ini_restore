@@ -1,0 +1,2 @@
+#indent#
+ini_restore(#placeholderstart# string varname #placeholderend#)#placeholderstart# ; #placeholderend#

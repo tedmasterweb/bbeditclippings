@@ -1,0 +1,2 @@
+#indent#
+trim(#placeholderstart# string str #placeholderend##placeholderstart#[, string charlist ]#placeholderend#)#placeholderstart# ; #placeholderend#

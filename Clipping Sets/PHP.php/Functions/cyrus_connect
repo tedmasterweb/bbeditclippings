@@ -1,0 +1,2 @@
+#indent#
+cyrus_connect(#placeholderstart#[ string host ]#placeholderend##placeholderstart#[, string port ]#placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

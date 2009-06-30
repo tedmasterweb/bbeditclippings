@@ -1,0 +1,2 @@
+#indent#
+hw_getanchors(#placeholderstart# int connection #placeholderend##placeholderstart#, int objectID #placeholderend#)#placeholderstart# ; #placeholderend#

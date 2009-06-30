@@ -1,0 +1,2 @@
+#indent#
+msession_get_array(#placeholderstart# string session #placeholderend#)#placeholderstart# ; #placeholderend#

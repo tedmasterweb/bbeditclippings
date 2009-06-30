@@ -1,0 +1,2 @@
+#indent#
+swf_modifyobject(#placeholderstart# int depth #placeholderend##placeholderstart#, int how #placeholderend#)#placeholderstart# ; #placeholderend#

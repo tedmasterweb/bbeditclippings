@@ -1,0 +1,2 @@
+#indent#
+ps_open_memory_image(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int gd #placeholderend#)#placeholderstart# ; #placeholderend#

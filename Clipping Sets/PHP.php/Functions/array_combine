@@ -1,0 +1,2 @@
+#indent#
+array_combine(#placeholderstart# array keys #placeholderend##placeholderstart#, array values #placeholderend#)#placeholderstart# ; #placeholderend#

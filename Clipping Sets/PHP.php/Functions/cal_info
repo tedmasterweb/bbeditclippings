@@ -1,0 +1,2 @@
+#indent#
+cal_info(#placeholderstart#[ int calendar ]#placeholderend#)#placeholderstart# ; #placeholderend#

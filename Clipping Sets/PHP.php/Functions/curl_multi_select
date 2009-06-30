@@ -1,0 +1,2 @@
+#indent#
+curl_multi_select(#placeholderstart# resource mh #placeholderend##placeholderstart#[, float timeout ]#placeholderend#)#placeholderstart# ; #placeholderend#

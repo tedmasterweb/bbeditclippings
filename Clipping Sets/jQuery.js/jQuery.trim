@@ -1,0 +1,2 @@
+#indent#
+jQuery.trimjQuery.trim( #placeholderstart#String str#placeholderend# )

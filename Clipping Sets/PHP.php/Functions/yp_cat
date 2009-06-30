@@ -1,0 +1,2 @@
+#indent#
+yp_cat(#placeholderstart# string domain #placeholderend##placeholderstart#, string map #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ob_deflatehandler(#placeholderstart# string data #placeholderend##placeholderstart#, int mode #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ps_symbol_name(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int ord #placeholderend##placeholderstart#[, int fontid ]#placeholderend#)#placeholderstart# ; #placeholderend#

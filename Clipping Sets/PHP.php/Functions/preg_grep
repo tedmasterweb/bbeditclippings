@@ -1,0 +1,2 @@
+#indent#
+preg_grep(#placeholderstart# string pattern #placeholderend##placeholderstart#, array input #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

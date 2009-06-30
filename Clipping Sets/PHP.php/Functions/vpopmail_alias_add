@@ -1,0 +1,2 @@
+#indent#
+vpopmail_alias_add(#placeholderstart# string user #placeholderend##placeholderstart#, string domain #placeholderend##placeholderstart#, string alias #placeholderend#)#placeholderstart# ; #placeholderend#

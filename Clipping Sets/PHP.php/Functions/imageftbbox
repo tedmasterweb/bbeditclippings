@@ -1,0 +1,2 @@
+#indent#
+imageftbbox(#placeholderstart# float size #placeholderend##placeholderstart#, float angle #placeholderend##placeholderstart#, string fontfile #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#[, array extrainfo ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+domxml_open_mem(#placeholderstart# string str #placeholderend##placeholderstart#[, int mode ]#placeholderend##placeholderstart#[, array error ]#placeholderend#)#placeholderstart# ; #placeholderend#

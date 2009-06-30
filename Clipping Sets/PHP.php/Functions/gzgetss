@@ -1,0 +1,2 @@
+#indent#
+gzgetss(#placeholderstart# resource zp #placeholderend##placeholderstart#, int length #placeholderend##placeholderstart#[, string allowable_tags ]#placeholderend#)#placeholderstart# ; #placeholderend#

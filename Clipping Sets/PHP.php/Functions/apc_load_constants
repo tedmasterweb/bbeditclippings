@@ -1,0 +1,2 @@
+#indent#
+apc_load_constants(#placeholderstart# string key #placeholderend##placeholderstart#[, bool case_sensitive ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+getopt(#placeholderstart# string options #placeholderend##placeholderstart#[, array longopts ]#placeholderend#)#placeholderstart# ; #placeholderend#

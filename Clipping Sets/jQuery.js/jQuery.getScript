@@ -1,0 +1,2 @@
+#indent#
+jQuery.getScriptjQuery.getScript( #placeholderstart#String url#placeholderend##placeholderstart#, Function callback#placeholderend# )

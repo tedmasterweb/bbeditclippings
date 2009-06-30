@@ -1,0 +1,2 @@
+#indent#
+fam_resume_monitor(#placeholderstart# resource fam #placeholderend##placeholderstart#, resource fam_monitor #placeholderend#)#placeholderstart# ; #placeholderend#

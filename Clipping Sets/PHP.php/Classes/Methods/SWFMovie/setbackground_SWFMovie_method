@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFMovie #placeholderend#->setbackground(#placeholderstart# int red #placeholderend##placeholderstart#, int green #placeholderend##placeholderstart#, int blue #placeholderend#)#placeholderstart# ; #placeholderend#

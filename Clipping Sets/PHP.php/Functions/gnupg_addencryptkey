@@ -1,0 +1,2 @@
+#indent#
+gnupg_addencryptkey(#placeholderstart# resource identifier #placeholderend##placeholderstart#, string fingerprint #placeholderend#)#placeholderstart# ; #placeholderend#

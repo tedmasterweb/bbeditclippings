@@ -1,0 +1,2 @@
+#indent#
+ps_translate(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

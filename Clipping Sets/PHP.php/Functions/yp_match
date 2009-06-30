@@ -1,0 +1,2 @@
+#indent#
+yp_match(#placeholderstart# string domain #placeholderend##placeholderstart#, string map #placeholderend##placeholderstart#, string key #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+session_is_registered(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+finfo_file(#placeholderstart# resource finfo #placeholderend##placeholderstart#, string file_name #placeholderend##placeholderstart#[, int options ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

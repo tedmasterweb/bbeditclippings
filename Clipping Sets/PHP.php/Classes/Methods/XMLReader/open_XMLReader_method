@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLReader #placeholderend#->open(#placeholderstart# string URI #placeholderend##placeholderstart#[, string encoding ]#placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

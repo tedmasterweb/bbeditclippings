@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->writeDTDEntity(#placeholderstart# string name #placeholderend##placeholderstart#, string content #placeholderend##placeholderstart#, bool pe #placeholderend##placeholderstart#, string pubid #placeholderend##placeholderstart#, string sysid #placeholderend##placeholderstart#, string ndataid #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+socket_getsockname(#placeholderstart# resource socket #placeholderend##placeholderstart#, string addr #placeholderend##placeholderstart#[, int port ]#placeholderend#)#placeholderstart# ; #placeholderend#

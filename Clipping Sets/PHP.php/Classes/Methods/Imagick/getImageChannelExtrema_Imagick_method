@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->getImageChannelExtrema(#placeholderstart# int channel #placeholderend#)#placeholderstart# ; #placeholderend#

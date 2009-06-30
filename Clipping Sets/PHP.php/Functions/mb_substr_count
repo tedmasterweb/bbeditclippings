@@ -1,0 +1,2 @@
+#indent#
+mb_substr_count(#placeholderstart# string haystack #placeholderend##placeholderstart#, string needle #placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

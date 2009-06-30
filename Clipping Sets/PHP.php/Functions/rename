@@ -1,0 +1,2 @@
+#indent#
+rename(#placeholderstart# string oldname #placeholderend##placeholderstart#, string newname #placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

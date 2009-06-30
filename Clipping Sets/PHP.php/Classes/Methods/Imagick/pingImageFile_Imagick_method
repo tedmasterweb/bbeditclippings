@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->pingImageFile(#placeholderstart# resource filehandle #placeholderend##placeholderstart#[, string fileName ]#placeholderend#)#placeholderstart# ; #placeholderend#

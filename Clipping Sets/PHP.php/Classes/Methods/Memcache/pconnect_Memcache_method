@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcache #placeholderend#->pconnect(#placeholderstart# string host #placeholderend##placeholderstart#[, int port ]#placeholderend##placeholderstart#[, int timeout ]#placeholderend#)#placeholderstart# ; #placeholderend#

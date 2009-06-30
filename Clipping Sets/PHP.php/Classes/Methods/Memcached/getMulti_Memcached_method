@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->getMulti(#placeholderstart# array keys #placeholderend##placeholderstart#[, array cas_tokens ]#placeholderend#)#placeholderstart# ; #placeholderend#

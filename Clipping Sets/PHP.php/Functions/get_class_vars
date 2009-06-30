@@ -1,0 +1,2 @@
+#indent#
+get_class_vars(#placeholderstart# string class_name #placeholderend#)#placeholderstart# ; #placeholderend#

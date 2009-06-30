@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->shadowImage(#placeholderstart# float opacity #placeholderend##placeholderstart#, float sigma #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend#)#placeholderstart# ; #placeholderend#

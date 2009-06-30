@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->sampleImage(#placeholderstart# int columns #placeholderend##placeholderstart#, int rows #placeholderend#)#placeholderstart# ; #placeholderend#

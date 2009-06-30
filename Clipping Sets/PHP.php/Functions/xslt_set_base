@@ -1,0 +1,2 @@
+#indent#
+xslt_set_base(#placeholderstart# resource xh #placeholderend##placeholderstart#, string uri #placeholderend#)#placeholderstart# ; #placeholderend#

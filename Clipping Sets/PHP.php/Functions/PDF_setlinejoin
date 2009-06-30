@@ -1,0 +1,2 @@
+#indent#
+PDF_setlinejoin(#placeholderstart# resource p #placeholderend##placeholderstart#, int value #placeholderend#)#placeholderstart# ; #placeholderend#

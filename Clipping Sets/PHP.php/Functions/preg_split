@@ -1,0 +1,2 @@
+#indent#
+preg_split(#placeholderstart# string pattern #placeholderend##placeholderstart#, string subject #placeholderend##placeholderstart#[, int limit ]#placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

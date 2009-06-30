@@ -1,0 +1,2 @@
+#indent#
+datefmt_create(#placeholderstart# string locale #placeholderend##placeholderstart#, int datetype #placeholderend##placeholderstart#, int timetype #placeholderend##placeholderstart#[, string timezone ]#placeholderend##placeholderstart#[, int calendar ]#placeholderend##placeholderstart#[, string pattern ]#placeholderend#)#placeholderstart# ; #placeholderend#

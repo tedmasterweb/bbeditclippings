@@ -1,0 +1,2 @@
+#indent#
+apc_cache_info(#placeholderstart#[ string cache_type ]#placeholderend##placeholderstart#[, bool limited ]#placeholderend#)#placeholderstart# ; #placeholderend#

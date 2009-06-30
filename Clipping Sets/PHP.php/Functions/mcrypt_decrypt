@@ -1,0 +1,2 @@
+#indent#
+mcrypt_decrypt(#placeholderstart# string cipher #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#, string mode #placeholderend##placeholderstart#[, string iv ]#placeholderend#)#placeholderstart# ; #placeholderend#

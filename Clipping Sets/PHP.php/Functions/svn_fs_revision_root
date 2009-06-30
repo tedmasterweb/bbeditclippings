@@ -1,0 +1,2 @@
+#indent#
+svn_fs_revision_root(#placeholderstart# resource fs #placeholderend##placeholderstart#, int revnum #placeholderend#)#placeholderstart# ; #placeholderend#

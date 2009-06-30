@@ -1,0 +1,2 @@
+#indent#
+strcspn(#placeholderstart# string str1 #placeholderend##placeholderstart#, string str2 #placeholderend##placeholderstart#[, int start ]#placeholderend##placeholderstart#[, int length ]#placeholderend#)#placeholderstart# ; #placeholderend#

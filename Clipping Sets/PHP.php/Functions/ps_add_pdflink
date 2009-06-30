@@ -1,0 +1,2 @@
+#indent#
+ps_add_pdflink(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float llx #placeholderend##placeholderstart#, float lly #placeholderend##placeholderstart#, float urx #placeholderend##placeholderstart#, float ury #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, int page #placeholderend##placeholderstart#, string dest #placeholderend#)#placeholderstart# ; #placeholderend#

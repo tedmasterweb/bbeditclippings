@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomDocument #placeholderend#->create_attribute(#placeholderstart# string name #placeholderend##placeholderstart#, string value #placeholderend#)#placeholderstart# ; #placeholderend#

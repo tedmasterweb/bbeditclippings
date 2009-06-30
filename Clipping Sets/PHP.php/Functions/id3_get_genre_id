@@ -1,0 +1,2 @@
+#indent#
+id3_get_genre_id(#placeholderstart# string genre #placeholderend#)#placeholderstart# ; #placeholderend#

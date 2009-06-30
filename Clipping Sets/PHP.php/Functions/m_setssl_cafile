@@ -1,0 +1,2 @@
+#indent#
+m_setssl_cafile(#placeholderstart# resource conn #placeholderend##placeholderstart#, string cafile #placeholderend#)#placeholderstart# ; #placeholderend#

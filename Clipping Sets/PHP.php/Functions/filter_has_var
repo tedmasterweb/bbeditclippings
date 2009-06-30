@@ -1,0 +1,2 @@
+#indent#
+filter_has_var(#placeholderstart# int type #placeholderend##placeholderstart#, string variable_name #placeholderend#)#placeholderstart# ; #placeholderend#

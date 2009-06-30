@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->pathCurveToSmoothAbsolute(#placeholderstart# float x2 #placeholderend##placeholderstart#, float y2 #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

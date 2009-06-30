@@ -1,0 +1,2 @@
+#indent#
+ldap_free_result(#placeholderstart# resource result_identifier #placeholderend#)#placeholderstart# ; #placeholderend#

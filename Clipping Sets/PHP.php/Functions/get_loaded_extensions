@@ -1,0 +1,2 @@
+#indent#
+get_loaded_extensions(#placeholderstart#[ bool zend_extensions ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+implode(#placeholderstart# string glue #placeholderend##placeholderstart#, array pieces #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ncurses_has_key(#placeholderstart# int keycode #placeholderend#)#placeholderstart# ; #placeholderend#

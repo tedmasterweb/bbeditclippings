@@ -1,0 +1,2 @@
+#indent#
+PDF_get_buffer(#placeholderstart# resource p #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+imagepalettecopy(#placeholderstart# resource destination #placeholderend##placeholderstart#, resource source #placeholderend#)#placeholderstart# ; #placeholderend#

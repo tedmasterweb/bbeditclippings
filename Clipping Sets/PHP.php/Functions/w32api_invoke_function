@@ -1,0 +1,2 @@
+#indent#
+w32api_invoke_function(#placeholderstart# string funcname #placeholderend##placeholderstart#, mixed argument #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

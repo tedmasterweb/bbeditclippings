@@ -1,0 +1,2 @@
+#indent#
+array_multisort(#placeholderstart# array arr #placeholderend##placeholderstart#[, mixed arg ]#placeholderend##placeholderstart#[, mixed arg ]#placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

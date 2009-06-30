@@ -1,0 +1,2 @@
+#indent#
+yp_all(#placeholderstart# string domain #placeholderend##placeholderstart#, string map #placeholderend##placeholderstart#, string callback #placeholderend#)#placeholderstart# ; #placeholderend#

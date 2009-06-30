@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLReader #placeholderend#->xml(#placeholderstart# string source #placeholderend##placeholderstart#[, string encoding ]#placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

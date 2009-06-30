@@ -1,0 +1,2 @@
+#indent#
+ldap_set_option(#placeholderstart# resource link_identifier #placeholderend##placeholderstart#, int option #placeholderend##placeholderstart#, mixed newval #placeholderend#)#placeholderstart# ; #placeholderend#

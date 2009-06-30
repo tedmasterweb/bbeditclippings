@@ -1,0 +1,2 @@
+#indent#
+svn_add(#placeholderstart# string path #placeholderend##placeholderstart#[, bool recursive ]#placeholderend##placeholderstart#[, bool force ]#placeholderend#)#placeholderstart# ; #placeholderend#

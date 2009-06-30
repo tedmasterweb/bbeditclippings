@@ -1,0 +1,2 @@
+#indent#
+fdf_set_file(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string url #placeholderend##placeholderstart#[, string target_frame ]#placeholderend#)#placeholderstart# ; #placeholderend#

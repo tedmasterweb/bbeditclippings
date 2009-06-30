@@ -1,0 +1,2 @@
+#indent#
+openssl_pkcs12_export_to_file(#placeholderstart# mixed x509 #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, mixed priv_key #placeholderend##placeholderstart#, string pass #placeholderend##placeholderstart#[, array args ]#placeholderend#)#placeholderstart# ; #placeholderend#

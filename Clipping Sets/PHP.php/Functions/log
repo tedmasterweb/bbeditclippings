@@ -1,0 +1,2 @@
+#indent#
+log(#placeholderstart# float arg #placeholderend##placeholderstart#[, float base ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFButton #placeholderend#->addAction(#placeholderstart# SWFAction action #placeholderend##placeholderstart#, int flags #placeholderend#)#placeholderstart# ; #placeholderend#

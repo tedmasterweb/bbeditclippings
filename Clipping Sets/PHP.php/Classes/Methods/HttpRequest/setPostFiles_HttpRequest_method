@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequest #placeholderend#->setPostFiles(#placeholderstart# array post_files #placeholderend#)#placeholderstart# ; #placeholderend#

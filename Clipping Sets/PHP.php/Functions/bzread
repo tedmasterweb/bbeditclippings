@@ -1,0 +1,2 @@
+#indent#
+bzread(#placeholderstart# resource bz #placeholderend##placeholderstart#[, int length ]#placeholderend#)#placeholderstart# ; #placeholderend#

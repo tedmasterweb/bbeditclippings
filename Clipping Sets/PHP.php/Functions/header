@@ -1,0 +1,2 @@
+#indent#
+header(#placeholderstart# string string #placeholderend##placeholderstart#[, bool replace ]#placeholderend##placeholderstart#[, int http_response_code ]#placeholderend#)#placeholderstart# ; #placeholderend#

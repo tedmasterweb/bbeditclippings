@@ -1,0 +1,2 @@
+#indent#
+ncurses_scr_init(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

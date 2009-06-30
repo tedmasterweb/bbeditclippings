@@ -1,0 +1,2 @@
+#indent#
+vpopmail_set_user_quota(#placeholderstart# string user #placeholderend##placeholderstart#, string domain #placeholderend##placeholderstart#, string quota #placeholderend#)#placeholderstart# ; #placeholderend#

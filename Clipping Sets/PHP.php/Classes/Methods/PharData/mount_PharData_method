@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->mount(#placeholderstart# string pharpath #placeholderend##placeholderstart#, string externalpath #placeholderend#)#placeholderstart# ; #placeholderend#

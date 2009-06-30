@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickPixel #placeholderend#->isSimilar(#placeholderstart# ImagickPixel color #placeholderend##placeholderstart#, float fuzz #placeholderend#)#placeholderstart# ; #placeholderend#

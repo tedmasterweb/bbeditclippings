@@ -1,0 +1,2 @@
+#indent#
+count_chars(#placeholderstart# string string #placeholderend##placeholderstart#[, int mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

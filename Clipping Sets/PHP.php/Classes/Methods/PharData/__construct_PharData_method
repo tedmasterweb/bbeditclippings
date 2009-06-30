@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->__construct(#placeholderstart# string fname #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+svn_fs_begin_txn2(#placeholderstart# resource repos #placeholderend##placeholderstart#, int rev #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ncurses_werase(#placeholderstart# resource window #placeholderend#)#placeholderstart# ; #placeholderend#

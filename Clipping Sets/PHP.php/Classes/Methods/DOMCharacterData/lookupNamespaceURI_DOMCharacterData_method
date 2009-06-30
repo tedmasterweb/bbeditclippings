@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMCharacterData #placeholderend#->lookupNamespaceURI(#placeholderstart# string prefix #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomDocument #placeholderend#->create_element_ns(#placeholderstart# string uri #placeholderend##placeholderstart#, string name #placeholderend##placeholderstart#[, string prefix ]#placeholderend#)#placeholderstart# ; #placeholderend#

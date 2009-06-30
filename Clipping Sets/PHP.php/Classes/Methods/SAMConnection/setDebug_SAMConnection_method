@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SAMConnection #placeholderend#->setDebug(#placeholderstart# bool switch #placeholderend#)#placeholderstart# ; #placeholderend#

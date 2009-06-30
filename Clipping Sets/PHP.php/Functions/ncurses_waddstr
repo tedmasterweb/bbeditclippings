@@ -1,0 +1,2 @@
+#indent#
+ncurses_waddstr(#placeholderstart# resource window #placeholderend##placeholderstart#, string str #placeholderend##placeholderstart#[, int n ]#placeholderend#)#placeholderstart# ; #placeholderend#

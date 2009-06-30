@@ -1,0 +1,2 @@
+#indent#
+ps_setmiterlimit(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float value #placeholderend#)#placeholderstart# ; #placeholderend#

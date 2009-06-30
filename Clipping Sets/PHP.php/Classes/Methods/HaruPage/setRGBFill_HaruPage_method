@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->setRGBFill(#placeholderstart# float r #placeholderend##placeholderstart#, float g #placeholderend##placeholderstart#, float b #placeholderend#)#placeholderstart# ; #placeholderend#

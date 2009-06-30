@@ -1,0 +1,2 @@
+#indent#
+is_bool(#placeholderstart# mixed var #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+mcrypt_create_iv(#placeholderstart# int size #placeholderend##placeholderstart#[, int source ]#placeholderend#)#placeholderstart# ; #placeholderend#

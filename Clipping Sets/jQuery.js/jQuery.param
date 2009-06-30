@@ -1,0 +1,2 @@
+#indent#
+jQuery.paramjQuery.param( #placeholderstart#Array<Elements>/jQuery/Object obj#placeholderend# )

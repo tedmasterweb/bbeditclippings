@@ -1,0 +1,2 @@
+#indent#
+http_send_status(#placeholderstart# int status #placeholderend#)#placeholderstart# ; #placeholderend#

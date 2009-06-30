@@ -1,0 +1,2 @@
+#indent#
+dio_open(#placeholderstart# string filename #placeholderend##placeholderstart#, int flags #placeholderend##placeholderstart#[, int mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

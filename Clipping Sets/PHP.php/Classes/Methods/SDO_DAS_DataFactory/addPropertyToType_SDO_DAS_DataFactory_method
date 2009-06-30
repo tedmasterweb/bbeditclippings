@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_DataFactory #placeholderend#->addPropertyToType(#placeholderstart# string parent_type_namespace_uri #placeholderend##placeholderstart#, string parent_type_name #placeholderend##placeholderstart#, string property_name #placeholderend##placeholderstart#, string type_namespace_uri #placeholderend##placeholderstart#, string type_name #placeholderend##placeholderstart#[, array options ]#placeholderend#)#placeholderstart# ; #placeholderend#

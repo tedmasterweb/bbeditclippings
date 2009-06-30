@@ -1,0 +1,2 @@
+#indent#
+locale_filter_matches(#placeholderstart# string langtag #placeholderend##placeholderstart#, string locale #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+gzseek(#placeholderstart# resource zp #placeholderend##placeholderstart#, int offset #placeholderend##placeholderstart#[, int whence ]#placeholderend#)#placeholderstart# ; #placeholderend#

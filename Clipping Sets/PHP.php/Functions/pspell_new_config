@@ -1,0 +1,2 @@
+#indent#
+pspell_new_config(#placeholderstart# int config #placeholderend#)#placeholderstart# ; #placeholderend#

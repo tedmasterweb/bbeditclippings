@@ -1,0 +1,2 @@
+#indent#
+imageinterlace(#placeholderstart# resource image #placeholderend##placeholderstart#[, int interlace ]#placeholderend#)#placeholderstart# ; #placeholderend#

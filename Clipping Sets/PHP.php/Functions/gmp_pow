@@ -1,0 +1,2 @@
+#indent#
+gmp_pow(#placeholderstart# resource base #placeholderend##placeholderstart#, int exp #placeholderend#)#placeholderstart# ; #placeholderend#

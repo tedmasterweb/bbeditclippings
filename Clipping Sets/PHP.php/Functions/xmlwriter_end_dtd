@@ -1,0 +1,2 @@
+#indent#
+xmlwriter_end_dtd(#placeholderstart# resource xmlwriter #placeholderend#)#placeholderstart# ; #placeholderend#

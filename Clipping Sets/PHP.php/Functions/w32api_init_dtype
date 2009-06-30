@@ -1,0 +1,2 @@
+#indent#
+w32api_init_dtype(#placeholderstart# string typename #placeholderend##placeholderstart#, mixed value #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

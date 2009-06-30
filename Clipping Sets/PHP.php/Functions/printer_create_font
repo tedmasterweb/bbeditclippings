@@ -1,0 +1,2 @@
+#indent#
+printer_create_font(#placeholderstart# string face #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int font_weight #placeholderend##placeholderstart#, bool italic #placeholderend##placeholderstart#, bool underline #placeholderend##placeholderstart#, bool strikeout #placeholderend##placeholderstart#, int orientation #placeholderend#)#placeholderstart# ; #placeholderend#

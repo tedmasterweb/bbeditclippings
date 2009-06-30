@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setSizeOffset(#placeholderstart# int columns #placeholderend##placeholderstart#, int rows #placeholderend##placeholderstart#, int offset #placeholderend#)#placeholderstart# ; #placeholderend#

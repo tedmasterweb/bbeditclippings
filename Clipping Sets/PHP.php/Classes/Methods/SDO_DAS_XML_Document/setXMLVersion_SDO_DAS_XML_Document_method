@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_XML_Document #placeholderend#->setXMLVersion(#placeholderstart# string xmlVersion #placeholderend#)#placeholderstart# ; #placeholderend#

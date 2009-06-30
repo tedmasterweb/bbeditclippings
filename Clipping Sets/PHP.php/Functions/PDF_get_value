@@ -1,0 +1,2 @@
+#indent#
+PDF_get_value(#placeholderstart# resource p #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#, float modifier #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Phar #placeholderend#->loadPhar(#placeholderstart# string filename #placeholderend##placeholderstart#[, string alias ]#placeholderend#)#placeholderstart# ; #placeholderend#

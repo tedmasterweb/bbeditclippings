@@ -1,0 +1,2 @@
+#indent#
+compact(#placeholderstart# mixed varname #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

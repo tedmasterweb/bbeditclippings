@@ -1,0 +1,2 @@
+#indent#
+gmp_div_q(#placeholderstart# resource a #placeholderend##placeholderstart#, resource b #placeholderend##placeholderstart#[, int round ]#placeholderend#)#placeholderstart# ; #placeholderend#

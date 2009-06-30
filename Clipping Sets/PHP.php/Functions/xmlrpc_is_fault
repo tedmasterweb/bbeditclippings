@@ -1,0 +1,2 @@
+#indent#
+xmlrpc_is_fault(#placeholderstart# array arg #placeholderend#)#placeholderstart# ; #placeholderend#

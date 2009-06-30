@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->startElementNS(#placeholderstart# string prefix #placeholderend##placeholderstart#, string name #placeholderend##placeholderstart#, string uri #placeholderend#)#placeholderstart# ; #placeholderend#

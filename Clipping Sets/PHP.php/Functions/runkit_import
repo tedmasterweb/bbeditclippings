@@ -1,0 +1,2 @@
+#indent#
+runkit_import(#placeholderstart# string filename #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

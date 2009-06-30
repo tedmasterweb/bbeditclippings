@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomDocument #placeholderend#->dump_file(#placeholderstart# string filename #placeholderend##placeholderstart#[, bool compressionmode ]#placeholderend##placeholderstart#[, bool format ]#placeholderend#)#placeholderstart# ; #placeholderend#

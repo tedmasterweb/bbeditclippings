@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->writeDTDAttlist(#placeholderstart# string name #placeholderend##placeholderstart#, string content #placeholderend#)#placeholderstart# ; #placeholderend#

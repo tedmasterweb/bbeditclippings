@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMEntity #placeholderend#->replaceChild(#placeholderstart# DOMNode newnode #placeholderend##placeholderstart#, DOMNode oldnode #placeholderend#)#placeholderstart# ; #placeholderend#

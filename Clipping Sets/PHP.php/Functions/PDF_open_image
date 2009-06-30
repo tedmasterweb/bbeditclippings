@@ -1,0 +1,2 @@
+#indent#
+PDF_open_image(#placeholderstart# resource p #placeholderend##placeholderstart#, string imagetype #placeholderend##placeholderstart#, string source #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#, int length #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#, int components #placeholderend##placeholderstart#, int bpc #placeholderend##placeholderstart#, string params #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ssh2_auth_pubkey_file(#placeholderstart# resource session #placeholderend##placeholderstart#, string username #placeholderend##placeholderstart#, string pubkeyfile #placeholderend##placeholderstart#, string privkeyfile #placeholderend##placeholderstart#[, string passphrase ]#placeholderend#)#placeholderstart# ; #placeholderend#

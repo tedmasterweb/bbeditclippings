@@ -1,0 +1,2 @@
+#indent#
+date_isodate_set(#placeholderstart# DateTime object #placeholderend##placeholderstart#, int year #placeholderend##placeholderstart#, int week #placeholderend##placeholderstart#[, int day ]#placeholderend#)#placeholderstart# ; #placeholderend#

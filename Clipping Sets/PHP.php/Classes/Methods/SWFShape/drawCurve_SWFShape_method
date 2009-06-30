@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFShape #placeholderend#->drawCurve(#placeholderstart# float controldx #placeholderend##placeholderstart#, float controldy #placeholderend##placeholderstart#, float anchordx #placeholderend##placeholderstart#, float anchordy #placeholderend##placeholderstart#[, float targetdx ]#placeholderend##placeholderstart#, float targetdy #placeholderend#)#placeholderstart# ; #placeholderend#

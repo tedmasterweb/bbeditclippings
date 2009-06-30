@@ -1,0 +1,2 @@
+#indent#
+stream_socket_client(#placeholderstart# string remote_socket #placeholderend##placeholderstart#[, int errno ]#placeholderend##placeholderstart#[, string errstr ]#placeholderend##placeholderstart#[, float timeout ]#placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_get_screen_size(#placeholderstart# int cols #placeholderend##placeholderstart#, int rows #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+mcrypt_get_block_size(#placeholderstart# string cipher #placeholderend##placeholderstart#, string module #placeholderend#)#placeholderstart# ; #placeholderend#

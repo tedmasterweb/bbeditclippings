@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->setSignatureAlgorithm(#placeholderstart# int sigtype #placeholderend##placeholderstart#[, string privatekey ]#placeholderend#)#placeholderstart# ; #placeholderend#

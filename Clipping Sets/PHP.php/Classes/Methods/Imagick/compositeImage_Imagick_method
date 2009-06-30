@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->compositeImage(#placeholderstart# Imagick composite_object #placeholderend##placeholderstart#, int composite #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

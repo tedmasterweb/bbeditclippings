@@ -1,0 +1,2 @@
+#indent#
+udm_check_stored(#placeholderstart# resource agent #placeholderend##placeholderstart#, int link #placeholderend##placeholderstart#, string doc_id #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+hash_update_file(#placeholderstart# resource context #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

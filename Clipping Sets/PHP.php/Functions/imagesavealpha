@@ -1,0 +1,2 @@
+#indent#
+imagesavealpha(#placeholderstart# resource image #placeholderend##placeholderstart#, bool saveflag #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+crypt(#placeholderstart# string str #placeholderend##placeholderstart#[, string salt ]#placeholderend#)#placeholderstart# ; #placeholderend#

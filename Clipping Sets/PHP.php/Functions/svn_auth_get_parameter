@@ -1,0 +1,2 @@
+#indent#
+svn_auth_get_parameter(#placeholderstart# string key #placeholderend#)#placeholderstart# ; #placeholderend#

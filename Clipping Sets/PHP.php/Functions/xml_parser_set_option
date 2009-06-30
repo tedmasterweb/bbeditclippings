@@ -1,0 +1,2 @@
+#indent#
+xml_parser_set_option(#placeholderstart# resource parser #placeholderend##placeholderstart#, int option #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

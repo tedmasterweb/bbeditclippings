@@ -1,0 +1,2 @@
+#indent#
+gmp_hamdist(#placeholderstart# resource a #placeholderend##placeholderstart#, resource b #placeholderend#)#placeholderstart# ; #placeholderend#

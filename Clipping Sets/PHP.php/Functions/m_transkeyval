@@ -1,0 +1,2 @@
+#indent#
+m_transkeyval(#placeholderstart# resource conn #placeholderend##placeholderstart#, int identifier #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#, string value #placeholderend#)#placeholderstart# ; #placeholderend#

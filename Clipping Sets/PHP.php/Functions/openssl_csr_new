@@ -1,0 +1,2 @@
+#indent#
+openssl_csr_new(#placeholderstart# array dn #placeholderend##placeholderstart#, resource privkey #placeholderend##placeholderstart#[, array configargs ]#placeholderend##placeholderstart#[, array extraattribs ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+xdiff_file_diff(#placeholderstart# string old_file #placeholderend##placeholderstart#, string new_file #placeholderend##placeholderstart#, string dest #placeholderend##placeholderstart#[, int context ]#placeholderend##placeholderstart#[, bool minimal ]#placeholderend#)#placeholderstart# ; #placeholderend#

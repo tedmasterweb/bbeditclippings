@@ -1,0 +1,2 @@
+#indent#
+ncurses_wattroff(#placeholderstart# resource window #placeholderend##placeholderstart#, int attrs #placeholderend#)#placeholderstart# ; #placeholderend#

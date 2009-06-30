@@ -1,0 +1,2 @@
+#indent#
+use_soap_error_handler(#placeholderstart#[ bool handler ]#placeholderend#)#placeholderstart# ; #placeholderend#

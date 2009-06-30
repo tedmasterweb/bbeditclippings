@@ -1,0 +1,2 @@
+#indent#
+PDF_setmatrix(#placeholderstart# resource p #placeholderend##placeholderstart#, float a #placeholderend##placeholderstart#, float b #placeholderend##placeholderstart#, float c #placeholderend##placeholderstart#, float d #placeholderend##placeholderstart#, float e #placeholderend##placeholderstart#, float f #placeholderend#)#placeholderstart# ; #placeholderend#

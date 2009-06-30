@@ -1,0 +1,2 @@
+#indent#
+bin2hex(#placeholderstart# string str #placeholderend#)#placeholderstart# ; #placeholderend#

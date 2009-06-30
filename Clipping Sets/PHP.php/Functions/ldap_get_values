@@ -1,0 +1,2 @@
+#indent#
+ldap_get_values(#placeholderstart# resource link_identifier #placeholderend##placeholderstart#, resource result_entry_identifier #placeholderend##placeholderstart#, string attribute #placeholderend#)#placeholderstart# ; #placeholderend#

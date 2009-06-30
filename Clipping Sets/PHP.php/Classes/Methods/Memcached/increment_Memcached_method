@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->increment(#placeholderstart# string key #placeholderend##placeholderstart#[, int offset ]#placeholderend#)#placeholderstart# ; #placeholderend#

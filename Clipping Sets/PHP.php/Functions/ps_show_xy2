@@ -1,0 +1,2 @@
+#indent#
+ps_show_xy2(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, int len #placeholderend##placeholderstart#, float xcoor #placeholderend##placeholderstart#, float ycoor #placeholderend#)#placeholderstart# ; #placeholderend#

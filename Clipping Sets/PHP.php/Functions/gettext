@@ -1,0 +1,2 @@
+#indent#
+gettext(#placeholderstart# string message #placeholderend#)#placeholderstart# ; #placeholderend#

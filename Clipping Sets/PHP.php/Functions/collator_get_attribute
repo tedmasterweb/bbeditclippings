@@ -1,0 +1,2 @@
+#indent#
+collator_get_attribute(#placeholderstart# Collator coll #placeholderend##placeholderstart#, int attr #placeholderend#)#placeholderstart# ; #placeholderend#

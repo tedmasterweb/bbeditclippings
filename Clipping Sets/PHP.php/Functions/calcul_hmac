@@ -1,0 +1,2 @@
+#indent#
+calcul_hmac(#placeholderstart# string clent #placeholderend##placeholderstart#, string siretcode #placeholderend##placeholderstart#, string price #placeholderend##placeholderstart#, string reference #placeholderend##placeholderstart#, string validity #placeholderend##placeholderstart#, string taxation #placeholderend##placeholderstart#, string devise #placeholderend##placeholderstart#, string language #placeholderend#)#placeholderstart# ; #placeholderend#

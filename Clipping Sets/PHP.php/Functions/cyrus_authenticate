@@ -1,0 +1,2 @@
+#indent#
+cyrus_authenticate(#placeholderstart# resource connection #placeholderend##placeholderstart#[, string mechlist ]#placeholderend##placeholderstart#[, string service ]#placeholderend##placeholderstart#[, string user ]#placeholderend##placeholderstart#[, int minssf ]#placeholderend##placeholderstart#[, int maxssf ]#placeholderend##placeholderstart#[, string authname ]#placeholderend##placeholderstart#[, string password ]#placeholderend#)#placeholderstart# ; #placeholderend#

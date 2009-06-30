@@ -1,0 +1,2 @@
+#indent#
+parsekit_compile_file(#placeholderstart# string filename #placeholderend##placeholderstart#[, array errors ]#placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

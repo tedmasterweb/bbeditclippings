@@ -1,0 +1,2 @@
+#indent#
+ssh2_shell(#placeholderstart# resource session #placeholderend##placeholderstart#[, string term_type ]#placeholderend##placeholderstart#[, array env ]#placeholderend##placeholderstart#[, int width ]#placeholderend##placeholderstart#[, int height ]#placeholderend##placeholderstart#[, int width_height_type ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+hw_getparentsobj(#placeholderstart# int connection #placeholderend##placeholderstart#, int objectID #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+readline_completion_function(#placeholderstart# callback function #placeholderend#)#placeholderstart# ; #placeholderend#

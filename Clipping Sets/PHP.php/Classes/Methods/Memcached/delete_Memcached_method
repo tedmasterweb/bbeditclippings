@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->delete(#placeholderstart# string key #placeholderend##placeholderstart#[, int time ]#placeholderend#)#placeholderstart# ; #placeholderend#

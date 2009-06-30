@@ -1,0 +1,2 @@
+#indent#
+newt_form_set_timer(#placeholderstart# resource form #placeholderend##placeholderstart#, int milliseconds #placeholderend#)#placeholderstart# ; #placeholderend#

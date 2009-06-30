@@ -1,0 +1,2 @@
+#indent#
+iptcembed(#placeholderstart# string iptcdata #placeholderend##placeholderstart#, string jpeg_file_name #placeholderend##placeholderstart#[, int spool ]#placeholderend#)#placeholderstart# ; #placeholderend#

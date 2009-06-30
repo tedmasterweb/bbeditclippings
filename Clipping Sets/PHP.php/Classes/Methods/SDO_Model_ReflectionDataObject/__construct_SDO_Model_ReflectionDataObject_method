@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_Model_ReflectionDataObject #placeholderend#->__construct(#placeholderstart# SDO_DataObject data_object #placeholderend#)#placeholderstart# ; #placeholderend#

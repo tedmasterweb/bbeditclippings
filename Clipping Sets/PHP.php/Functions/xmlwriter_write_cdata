@@ -1,0 +1,2 @@
+#indent#
+xmlwriter_write_cdata(#placeholderstart# resource xmlwriter #placeholderend##placeholderstart#, string content #placeholderend#)#placeholderstart# ; #placeholderend#

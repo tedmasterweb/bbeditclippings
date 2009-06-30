@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcache #placeholderend#->get(#placeholderstart# array keys #placeholderend##placeholderstart#[, array flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

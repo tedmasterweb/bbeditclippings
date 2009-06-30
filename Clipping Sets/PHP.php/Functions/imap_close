@@ -1,0 +1,2 @@
+#indent#
+imap_close(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#[, int flag ]#placeholderend#)#placeholderstart# ; #placeholderend#

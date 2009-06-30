@@ -1,0 +1,2 @@
+#indent#
+msession_connect(#placeholderstart# string host #placeholderend##placeholderstart#, string port #placeholderend#)#placeholderstart# ; #placeholderend#

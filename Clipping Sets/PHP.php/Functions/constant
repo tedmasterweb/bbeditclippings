@@ -1,0 +1,2 @@
+#indent#
+constant(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

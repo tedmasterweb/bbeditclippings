@@ -1,0 +1,2 @@
+#indent#
+bcompiler_load(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

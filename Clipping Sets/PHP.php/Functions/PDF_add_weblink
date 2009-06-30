@@ -1,0 +1,2 @@
+#indent#
+PDF_add_weblink(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float lowerleftx #placeholderend##placeholderstart#, float lowerlefty #placeholderend##placeholderstart#, float upperrightx #placeholderend##placeholderstart#, float upperrighty #placeholderend##placeholderstart#, string url #placeholderend#)#placeholderstart# ; #placeholderend#

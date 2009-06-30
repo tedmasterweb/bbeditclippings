@@ -1,0 +1,2 @@
+#indent#
+rpm_get_tag(#placeholderstart# resource rpmr #placeholderend##placeholderstart#, int tagnum #placeholderend#)#placeholderstart# ; #placeholderend#

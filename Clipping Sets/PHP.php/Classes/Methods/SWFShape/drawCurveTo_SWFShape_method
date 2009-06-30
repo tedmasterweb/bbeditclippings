@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFShape #placeholderend#->drawCurveTo(#placeholderstart# float controlx #placeholderend##placeholderstart#, float controly #placeholderend##placeholderstart#, float anchorx #placeholderend##placeholderstart#, float anchory #placeholderend##placeholderstart#[, float targetx ]#placeholderend##placeholderstart#, float targety #placeholderend#)#placeholderstart# ; #placeholderend#

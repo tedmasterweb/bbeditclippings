@@ -1,0 +1,2 @@
+#indent#
+mb_detect_encoding(#placeholderstart# string str #placeholderend##placeholderstart#[, mixed encoding_list ]#placeholderend##placeholderstart#[, bool strict ]#placeholderend#)#placeholderstart# ; #placeholderend#

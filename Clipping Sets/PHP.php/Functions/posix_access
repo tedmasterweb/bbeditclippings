@@ -1,0 +1,2 @@
+#indent#
+posix_access(#placeholderstart# string file #placeholderend##placeholderstart#[, int mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

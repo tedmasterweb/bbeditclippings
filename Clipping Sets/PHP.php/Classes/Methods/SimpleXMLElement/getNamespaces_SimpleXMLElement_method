@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SimpleXMLElement #placeholderend#->getNamespaces(#placeholderstart#[ bool recursive ]#placeholderend#)#placeholderstart# ; #placeholderend#

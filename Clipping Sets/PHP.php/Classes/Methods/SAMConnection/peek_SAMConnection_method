@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SAMConnection #placeholderend#->peek(#placeholderstart# string target #placeholderend##placeholderstart#[, array properties ]#placeholderend#)#placeholderstart# ; #placeholderend#

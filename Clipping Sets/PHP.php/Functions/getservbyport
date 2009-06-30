@@ -1,0 +1,2 @@
+#indent#
+getservbyport(#placeholderstart# int port #placeholderend##placeholderstart#, string protocol #placeholderend#)#placeholderstart# ; #placeholderend#

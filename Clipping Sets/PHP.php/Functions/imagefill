@@ -1,0 +1,2 @@
+#indent#
+imagefill(#placeholderstart# resource image #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, int color #placeholderend#)#placeholderstart# ; #placeholderend#

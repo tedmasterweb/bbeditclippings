@@ -1,0 +1,2 @@
+#indent#
+numfmt_format(#placeholderstart# NumberFormatter fmt #placeholderend##placeholderstart#, number value #placeholderend##placeholderstart#[, int type ]#placeholderend#)#placeholderstart# ; #placeholderend#

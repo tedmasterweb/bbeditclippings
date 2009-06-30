@@ -1,0 +1,2 @@
+#indent#
+hash_file(#placeholderstart# string algo #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#[, bool raw_output ]#placeholderend#)#placeholderstart# ; #placeholderend#

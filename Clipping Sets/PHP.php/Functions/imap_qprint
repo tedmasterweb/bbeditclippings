@@ -1,0 +1,2 @@
+#indent#
+imap_qprint(#placeholderstart# string string #placeholderend#)#placeholderstart# ; #placeholderend#

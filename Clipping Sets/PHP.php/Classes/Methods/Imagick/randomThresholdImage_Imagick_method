@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->randomThresholdImage(#placeholderstart# float low #placeholderend##placeholderstart#, float high #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

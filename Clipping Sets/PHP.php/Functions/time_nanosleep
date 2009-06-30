@@ -1,0 +1,2 @@
+#indent#
+time_nanosleep(#placeholderstart# int seconds #placeholderend##placeholderstart#, int nanoseconds #placeholderend#)#placeholderstart# ; #placeholderend#

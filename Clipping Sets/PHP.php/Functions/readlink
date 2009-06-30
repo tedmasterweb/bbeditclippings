@@ -1,0 +1,2 @@
+#indent#
+readlink(#placeholderstart# string path #placeholderend#)#placeholderstart# ; #placeholderend#

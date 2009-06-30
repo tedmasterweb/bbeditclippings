@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->adaptiveResizeImage(#placeholderstart# int columns #placeholderend##placeholderstart#, int rows #placeholderend##placeholderstart#[, bool fit ]#placeholderend#)#placeholderstart# ; #placeholderend#

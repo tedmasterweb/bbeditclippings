@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickPixel #placeholderend#->getColor(#placeholderstart#[ bool normalized ]#placeholderend#)#placeholderstart# ; #placeholderend#

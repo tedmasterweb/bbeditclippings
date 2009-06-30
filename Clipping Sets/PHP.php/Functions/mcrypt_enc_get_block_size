@@ -1,0 +1,2 @@
+#indent#
+mcrypt_enc_get_block_size(#placeholderstart# resource td #placeholderend#)#placeholderstart# ; #placeholderend#

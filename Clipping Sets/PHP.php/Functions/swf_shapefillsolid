@@ -1,0 +1,2 @@
+#indent#
+swf_shapefillsolid(#placeholderstart# float r #placeholderend##placeholderstart#, float g #placeholderend##placeholderstart#, float b #placeholderend##placeholderstart#, float a #placeholderend#)#placeholderstart# ; #placeholderend#

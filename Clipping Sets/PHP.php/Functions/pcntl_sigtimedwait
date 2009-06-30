@@ -1,0 +1,2 @@
+#indent#
+pcntl_sigtimedwait(#placeholderstart# array set #placeholderend##placeholderstart#[, array siginfo ]#placeholderend##placeholderstart#[, int seconds ]#placeholderend##placeholderstart#[, int nanoseconds ]#placeholderend#)#placeholderstart# ; #placeholderend#

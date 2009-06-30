@@ -1,0 +1,2 @@
+#indent#
+base_convert(#placeholderstart# string number #placeholderend##placeholderstart#, int frombase #placeholderend##placeholderstart#, int tobase #placeholderend#)#placeholderstart# ; #placeholderend#

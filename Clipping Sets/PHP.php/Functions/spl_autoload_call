@@ -1,0 +1,2 @@
+#indent#
+spl_autoload_call(#placeholderstart# string class_name #placeholderend#)#placeholderstart# ; #placeholderend#

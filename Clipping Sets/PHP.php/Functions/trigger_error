@@ -1,0 +1,2 @@
+#indent#
+trigger_error(#placeholderstart# string error_msg #placeholderend##placeholderstart#[, int error_type ]#placeholderend#)#placeholderstart# ; #placeholderend#

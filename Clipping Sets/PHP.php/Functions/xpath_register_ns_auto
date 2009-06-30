@@ -1,0 +1,2 @@
+#indent#
+xpath_register_ns_auto(#placeholderstart# XPathContext xpath_context #placeholderend##placeholderstart#[, object context_node ]#placeholderend#)#placeholderstart# ; #placeholderend#

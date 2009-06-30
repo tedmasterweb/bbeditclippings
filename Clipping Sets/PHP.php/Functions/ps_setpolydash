@@ -1,0 +1,2 @@
+#indent#
+ps_setpolydash(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float arr #placeholderend#)#placeholderstart# ; #placeholderend#

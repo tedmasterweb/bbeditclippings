@@ -1,0 +1,2 @@
+#indent#
+pcntl_wait(#placeholderstart# int status #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

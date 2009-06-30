@@ -1,0 +1,2 @@
+#indent#
+ps_restore(#placeholderstart# resource psdoc #placeholderend#)#placeholderstart# ; #placeholderend#

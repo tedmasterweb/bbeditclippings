@@ -1,0 +1,2 @@
+#indent#
+sha1_file(#placeholderstart# string filename #placeholderend##placeholderstart#[, bool raw_output ]#placeholderend#)#placeholderstart# ; #placeholderend#

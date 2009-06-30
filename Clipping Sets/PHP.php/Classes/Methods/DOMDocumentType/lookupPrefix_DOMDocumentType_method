@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocumentType #placeholderend#->lookupPrefix(#placeholderstart# string namespaceURI #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+expm1(#placeholderstart# float arg #placeholderend#)#placeholderstart# ; #placeholderend#

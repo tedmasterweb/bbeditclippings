@@ -1,0 +1,2 @@
+#indent#
+cal_from_jd(#placeholderstart# int jd #placeholderend##placeholderstart#, int calendar #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+file_exists(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

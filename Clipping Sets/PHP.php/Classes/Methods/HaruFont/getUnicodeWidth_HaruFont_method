@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruFont #placeholderend#->getUnicodeWidth(#placeholderstart# int character #placeholderend#)#placeholderstart# ; #placeholderend#

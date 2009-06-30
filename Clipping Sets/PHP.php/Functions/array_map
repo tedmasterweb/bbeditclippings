@@ -1,0 +1,2 @@
+#indent#
+array_map(#placeholderstart# callback callback #placeholderend##placeholderstart#, array arr1 #placeholderend##placeholderstart#[, array ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

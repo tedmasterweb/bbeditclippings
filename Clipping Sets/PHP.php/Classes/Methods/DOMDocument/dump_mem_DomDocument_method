@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomDocument #placeholderend#->dump_mem(#placeholderstart#[ bool format ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

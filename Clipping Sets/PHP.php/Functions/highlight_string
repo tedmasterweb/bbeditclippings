@@ -1,0 +1,2 @@
+#indent#
+highlight_string(#placeholderstart# string str #placeholderend##placeholderstart#[, bool return ]#placeholderend#)#placeholderstart# ; #placeholderend#

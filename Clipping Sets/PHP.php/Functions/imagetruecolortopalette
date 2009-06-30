@@ -1,0 +1,2 @@
+#indent#
+imagetruecolortopalette(#placeholderstart# resource image #placeholderend##placeholderstart#, bool dither #placeholderend##placeholderstart#, int ncolors #placeholderend#)#placeholderstart# ; #placeholderend#

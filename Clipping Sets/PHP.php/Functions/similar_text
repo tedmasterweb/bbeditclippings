@@ -1,0 +1,2 @@
+#indent#
+similar_text(#placeholderstart# string first #placeholderend##placeholderstart#, string second #placeholderend##placeholderstart#[, float percent ]#placeholderend#)#placeholderstart# ; #placeholderend#

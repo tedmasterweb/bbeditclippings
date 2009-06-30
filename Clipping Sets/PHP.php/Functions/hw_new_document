@@ -1,0 +1,2 @@
+#indent#
+hw_new_document(#placeholderstart# string object_record #placeholderend##placeholderstart#, string document_data #placeholderend##placeholderstart#, int document_size #placeholderend#)#placeholderstart# ; #placeholderend#

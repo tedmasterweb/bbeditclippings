@@ -1,0 +1,2 @@
+#indent#
+array_change_key_case(#placeholderstart# array input #placeholderend##placeholderstart#[, int case ]#placeholderend#)#placeholderstart# ; #placeholderend#

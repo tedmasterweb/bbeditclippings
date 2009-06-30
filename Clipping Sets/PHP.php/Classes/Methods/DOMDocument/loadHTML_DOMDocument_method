@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->loadHTML(#placeholderstart# string source #placeholderend#)#placeholderstart# ; #placeholderend#

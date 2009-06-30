@@ -1,0 +1,2 @@
+#indent#
+spl_autoload_register(#placeholderstart#[ callback autoload_function ]#placeholderend#)#placeholderstart# ; #placeholderend#

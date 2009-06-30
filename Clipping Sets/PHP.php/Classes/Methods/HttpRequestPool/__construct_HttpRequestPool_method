@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequestPool #placeholderend#->__construct(#placeholderstart#[ HttpRequest request ]#placeholderend#)#placeholderstart# ; #placeholderend#

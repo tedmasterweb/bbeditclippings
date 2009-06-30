@@ -1,0 +1,2 @@
+#indent#
+imap_msgno(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, int uid #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcache #placeholderend#->setCompressThreshold(#placeholderstart# int threshold #placeholderend##placeholderstart#[, float min_savings ]#placeholderend#)#placeholderstart# ; #placeholderend#

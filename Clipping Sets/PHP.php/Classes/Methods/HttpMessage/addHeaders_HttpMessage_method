@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpMessage #placeholderend#->addHeaders(#placeholderstart# array headers #placeholderend##placeholderstart#[, bool append ]#placeholderend#)#placeholderstart# ; #placeholderend#

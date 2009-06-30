@@ -1,0 +1,2 @@
+#indent#
+ncurses_slk_set(#placeholderstart# int labelnr #placeholderend##placeholderstart#, string label #placeholderend##placeholderstart#, int format #placeholderend#)#placeholderstart# ; #placeholderend#

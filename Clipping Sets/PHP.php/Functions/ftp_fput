@@ -1,0 +1,2 @@
+#indent#
+ftp_fput(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, string remote_file #placeholderend##placeholderstart#, resource handle #placeholderend##placeholderstart#, int mode #placeholderend##placeholderstart#[, int startpos ]#placeholderend#)#placeholderstart# ; #placeholderend#

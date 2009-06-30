@@ -1,0 +1,2 @@
+#indent#
+PDF_moveto(#placeholderstart# resource p #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

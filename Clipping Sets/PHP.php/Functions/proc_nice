@@ -1,0 +1,2 @@
+#indent#
+proc_nice(#placeholderstart# int increment #placeholderend#)#placeholderstart# ; #placeholderend#

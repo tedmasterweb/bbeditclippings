@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpDeflateStream #placeholderend#->__construct(#placeholderstart#[ int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+imap_search(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, string criteria #placeholderend##placeholderstart#[, int options ]#placeholderend##placeholderstart#[, string charset ]#placeholderend#)#placeholderstart# ; #placeholderend#

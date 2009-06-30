@@ -1,0 +1,2 @@
+#indent#
+xmlwriter_open_uri(#placeholderstart# string uri #placeholderend#)#placeholderstart# ; #placeholderend#

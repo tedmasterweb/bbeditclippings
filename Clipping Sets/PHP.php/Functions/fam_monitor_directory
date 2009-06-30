@@ -1,0 +1,2 @@
+#indent#
+fam_monitor_directory(#placeholderstart# resource fam #placeholderend##placeholderstart#, string dirname #placeholderend#)#placeholderstart# ; #placeholderend#

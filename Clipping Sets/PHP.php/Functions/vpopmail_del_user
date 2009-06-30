@@ -1,0 +1,2 @@
+#indent#
+vpopmail_del_user(#placeholderstart# string user #placeholderend##placeholderstart#, string domain #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+collator_compare(#placeholderstart# Collator coll #placeholderend##placeholderstart#, string str1 #placeholderend##placeholderstart#, string str2 #placeholderend#)#placeholderstart# ; #placeholderend#

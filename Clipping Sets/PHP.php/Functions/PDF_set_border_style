@@ -1,0 +1,2 @@
+#indent#
+PDF_set_border_style(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string style #placeholderend##placeholderstart#, float width #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_open_memory_image(#placeholderstart# resource p #placeholderend##placeholderstart#, resource image #placeholderend#)#placeholderstart# ; #placeholderend#

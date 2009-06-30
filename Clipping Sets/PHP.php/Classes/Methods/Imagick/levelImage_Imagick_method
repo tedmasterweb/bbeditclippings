@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->levelImage(#placeholderstart# float blackPoint #placeholderend##placeholderstart#, float gamma #placeholderend##placeholderstart#, float whitePoint #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

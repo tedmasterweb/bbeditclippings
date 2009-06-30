@@ -1,0 +1,2 @@
+#indent#
+imagecreatefromgd2(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

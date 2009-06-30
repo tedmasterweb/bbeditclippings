@@ -1,0 +1,2 @@
+#indent#
+session_pgsql_get_error(#placeholderstart#[ bool with_error_message ]#placeholderend#)#placeholderstart# ; #placeholderend#

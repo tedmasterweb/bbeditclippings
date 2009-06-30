@@ -1,0 +1,2 @@
+#indent#
+is_string(#placeholderstart# mixed var #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+posix_strerror(#placeholderstart# int errno #placeholderend#)#placeholderstart# ; #placeholderend#

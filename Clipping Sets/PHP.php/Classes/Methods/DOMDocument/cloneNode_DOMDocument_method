@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->cloneNode(#placeholderstart#[ bool deep ]#placeholderend#)#placeholderstart# ; #placeholderend#

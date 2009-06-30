@@ -1,0 +1,2 @@
+#indent#
+ncurses_insdelln(#placeholderstart# int count #placeholderend#)#placeholderstart# ; #placeholderend#

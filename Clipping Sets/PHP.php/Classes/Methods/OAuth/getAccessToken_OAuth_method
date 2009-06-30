@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# OAuth #placeholderend#->getAccessToken(#placeholderstart# string access_token_url #placeholderend##placeholderstart#[, string auth_session_handle ]#placeholderend##placeholderstart#[, string verifier_token ]#placeholderend#)#placeholderstart# ; #placeholderend#

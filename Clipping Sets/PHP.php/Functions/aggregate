@@ -1,0 +1,2 @@
+#indent#
+aggregate(#placeholderstart# object object #placeholderend##placeholderstart#, string class_name #placeholderend#)#placeholderstart# ; #placeholderend#

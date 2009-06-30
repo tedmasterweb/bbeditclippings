@@ -1,0 +1,2 @@
+#indent#
+hebrevc(#placeholderstart# string hebrew_text #placeholderend##placeholderstart#[, int max_chars_per_line ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ncurses_wborder(#placeholderstart# resource window #placeholderend##placeholderstart#, int left #placeholderend##placeholderstart#, int right #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, int bottom #placeholderend##placeholderstart#, int tl_corner #placeholderend##placeholderstart#, int tr_corner #placeholderend##placeholderstart#, int bl_corner #placeholderend##placeholderstart#, int br_corner #placeholderend#)#placeholderstart# ; #placeholderend#

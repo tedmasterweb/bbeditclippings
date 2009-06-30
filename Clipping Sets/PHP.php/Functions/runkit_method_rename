@@ -1,0 +1,2 @@
+#indent#
+runkit_method_rename(#placeholderstart# string classname #placeholderend##placeholderstart#, string methodname #placeholderend##placeholderstart#, string newname #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->writeAttribute(#placeholderstart# string name #placeholderend##placeholderstart#, string value #placeholderend#)#placeholderstart# ; #placeholderend#

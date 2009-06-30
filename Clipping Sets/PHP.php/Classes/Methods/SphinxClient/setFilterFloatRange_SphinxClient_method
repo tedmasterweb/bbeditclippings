@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setFilterFloatRange(#placeholderstart# string attribute #placeholderend##placeholderstart#, float min #placeholderend##placeholderstart#, float max #placeholderend##placeholderstart#[, bool exclude ]#placeholderend#)#placeholderstart# ; #placeholderend#

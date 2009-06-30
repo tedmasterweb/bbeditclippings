@@ -1,0 +1,2 @@
+#indent#
+svn_repos_hotcopy(#placeholderstart# string repospath #placeholderend##placeholderstart#, string destpath #placeholderend##placeholderstart#, bool cleanlogs #placeholderend#)#placeholderstart# ; #placeholderend#

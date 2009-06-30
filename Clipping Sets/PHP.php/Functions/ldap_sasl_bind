@@ -1,0 +1,2 @@
+#indent#
+ldap_sasl_bind(#placeholderstart# resource link #placeholderend##placeholderstart#[, string binddn ]#placeholderend##placeholderstart#[, string password ]#placeholderend##placeholderstart#[, string sasl_mech ]#placeholderend##placeholderstart#[, string sasl_realm ]#placeholderend##placeholderstart#[, string sasl_authc_id ]#placeholderend##placeholderstart#[, string sasl_authz_id ]#placeholderend##placeholderstart#[, string props ]#placeholderend#)#placeholderstart# ; #placeholderend#

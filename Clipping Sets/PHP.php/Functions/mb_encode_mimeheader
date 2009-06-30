@@ -1,0 +1,2 @@
+#indent#
+mb_encode_mimeheader(#placeholderstart# string str #placeholderend##placeholderstart#[, string charset ]#placeholderend##placeholderstart#[, string transfer_encoding ]#placeholderend##placeholderstart#[, string linefeed ]#placeholderend##placeholderstart#[, int indent ]#placeholderend#)#placeholderstart# ; #placeholderend#

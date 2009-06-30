@@ -1,0 +1,2 @@
+#indent#
+newt_component_takes_focus(#placeholderstart# resource component #placeholderend##placeholderstart#, bool takes_focus #placeholderend#)#placeholderstart# ; #placeholderend#

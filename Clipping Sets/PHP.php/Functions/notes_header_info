@@ -1,0 +1,2 @@
+#indent#
+notes_header_info(#placeholderstart# string server #placeholderend##placeholderstart#, string mailbox #placeholderend##placeholderstart#, int msg_number #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->updateAttributes(#placeholderstart# string index #placeholderend##placeholderstart#, array attributes #placeholderend##placeholderstart#, array values #placeholderend#)#placeholderstart# ; #placeholderend#

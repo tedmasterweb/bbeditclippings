@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->ellipse(#placeholderstart# float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float xray #placeholderend##placeholderstart#, float yray #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+stats_rand_gen_beta(#placeholderstart# float a #placeholderend##placeholderstart#, float b #placeholderend#)#placeholderstart# ; #placeholderend#

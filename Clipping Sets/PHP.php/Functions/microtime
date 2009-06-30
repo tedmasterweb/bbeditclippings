@@ -1,0 +1,2 @@
+#indent#
+microtime(#placeholderstart#[ bool get_as_float ]#placeholderend#)#placeholderstart# ; #placeholderend#

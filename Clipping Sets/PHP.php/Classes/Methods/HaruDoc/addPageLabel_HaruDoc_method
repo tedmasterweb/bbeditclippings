@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruDoc #placeholderend#->addPageLabel(#placeholderstart# int first_page #placeholderend##placeholderstart#, int style #placeholderend##placeholderstart#, int first_num #placeholderend##placeholderstart#[, string prefix ]#placeholderend#)#placeholderstart# ; #placeholderend#

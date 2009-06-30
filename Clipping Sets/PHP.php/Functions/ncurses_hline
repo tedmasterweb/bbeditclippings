@@ -1,0 +1,2 @@
+#indent#
+ncurses_hline(#placeholderstart# int charattr #placeholderend##placeholderstart#, int n #placeholderend#)#placeholderstart# ; #placeholderend#

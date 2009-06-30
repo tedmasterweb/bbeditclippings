@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# streamWrapper #placeholderend#->stream_open(#placeholderstart# string path #placeholderend##placeholderstart#, string mode #placeholderend##placeholderstart#, int options #placeholderend##placeholderstart#, string opened_path #placeholderend#)#placeholderstart# ; #placeholderend#

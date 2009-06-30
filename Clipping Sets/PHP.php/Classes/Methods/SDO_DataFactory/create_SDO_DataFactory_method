@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DataFactory #placeholderend#->create(#placeholderstart# string type_namespace_uri #placeholderend##placeholderstart#, string type_name #placeholderend#)#placeholderstart# ; #placeholderend#

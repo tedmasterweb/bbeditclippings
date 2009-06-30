@@ -1,0 +1,2 @@
+#indent#
+php_strip_whitespace(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

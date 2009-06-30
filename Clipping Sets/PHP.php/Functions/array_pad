@@ -1,0 +1,2 @@
+#indent#
+array_pad(#placeholderstart# array input #placeholderend##placeholderstart#, int pad_size #placeholderend##placeholderstart#, mixed pad_value #placeholderend#)#placeholderstart# ; #placeholderend#

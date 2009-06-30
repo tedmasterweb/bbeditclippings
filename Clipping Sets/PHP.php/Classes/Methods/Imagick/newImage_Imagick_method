@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->newImage(#placeholderstart# int cols #placeholderend##placeholderstart#, int rows #placeholderend##placeholderstart#, mixed background #placeholderend##placeholderstart#[, string format ]#placeholderend#)#placeholderstart# ; #placeholderend#

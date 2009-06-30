@@ -1,0 +1,2 @@
+#indent#
+PDF_show_boxed(#placeholderstart# resource p #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, float left #placeholderend##placeholderstart#, float top #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#, float height #placeholderend##placeholderstart#, string mode #placeholderend##placeholderstart#, string feature #placeholderend#)#placeholderstart# ; #placeholderend#

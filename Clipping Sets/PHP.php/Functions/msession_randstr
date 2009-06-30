@@ -1,0 +1,2 @@
+#indent#
+msession_randstr(#placeholderstart# int param #placeholderend#)#placeholderstart# ; #placeholderend#

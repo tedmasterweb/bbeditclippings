@@ -1,0 +1,2 @@
+#indent#
+hw_api_content(#placeholderstart# string content #placeholderend##placeholderstart#, string mimetype #placeholderend#)#placeholderstart# ; #placeholderend#

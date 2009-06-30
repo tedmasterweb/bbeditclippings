@@ -1,0 +1,2 @@
+#indent#
+printer_create_dc(#placeholderstart# resource printer_handle #placeholderend#)#placeholderstart# ; #placeholderend#

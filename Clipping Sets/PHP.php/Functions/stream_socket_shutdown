@@ -1,0 +1,2 @@
+#indent#
+stream_socket_shutdown(#placeholderstart# resource stream #placeholderend##placeholderstart#, int how #placeholderend#)#placeholderstart# ; #placeholderend#

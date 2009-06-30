@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequest #placeholderend#->getResponseInfo(#placeholderstart#[ string name ]#placeholderend#)#placeholderstart# ; #placeholderend#

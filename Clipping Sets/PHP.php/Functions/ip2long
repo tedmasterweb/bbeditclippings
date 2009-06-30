@@ -1,0 +1,2 @@
+#indent#
+ip2long(#placeholderstart# string ip_address #placeholderend#)#placeholderstart# ; #placeholderend#

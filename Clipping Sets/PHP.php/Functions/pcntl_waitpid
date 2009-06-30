@@ -1,0 +1,2 @@
+#indent#
+pcntl_waitpid(#placeholderstart# int pid #placeholderend##placeholderstart#, int status #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+jQuery.ajaxSetupjQuery.ajaxSetup( #placeholderstart#Options options#placeholderend# )

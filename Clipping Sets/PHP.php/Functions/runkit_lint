@@ -1,0 +1,2 @@
+#indent#
+runkit_lint(#placeholderstart# string code #placeholderend#)#placeholderstart# ; #placeholderend#

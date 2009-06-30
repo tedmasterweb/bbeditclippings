@@ -1,0 +1,2 @@
+#indent#
+ftp_cdup(#placeholderstart# resource ftp_stream #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_textbox_reflowed(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, char *text #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int flex_down #placeholderend##placeholderstart#, int flex_up #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

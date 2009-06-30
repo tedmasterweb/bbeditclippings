@@ -1,0 +1,2 @@
+#indent#
+array_fill(#placeholderstart# int start_index #placeholderend##placeholderstart#, int num #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

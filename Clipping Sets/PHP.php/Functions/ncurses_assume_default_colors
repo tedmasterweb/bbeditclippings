@@ -1,0 +1,2 @@
+#indent#
+ncurses_assume_default_colors(#placeholderstart# int fg #placeholderend##placeholderstart#, int bg #placeholderend#)#placeholderstart# ; #placeholderend#

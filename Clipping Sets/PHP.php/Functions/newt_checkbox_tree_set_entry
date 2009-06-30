@@ -1,0 +1,2 @@
+#indent#
+newt_checkbox_tree_set_entry(#placeholderstart# resource checkboxtree #placeholderend##placeholderstart#, mixed data #placeholderend##placeholderstart#, string text #placeholderend#)#placeholderstart# ; #placeholderend#

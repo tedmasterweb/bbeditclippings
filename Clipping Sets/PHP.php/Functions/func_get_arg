@@ -1,0 +1,2 @@
+#indent#
+func_get_arg(#placeholderstart# int arg_num #placeholderend#)#placeholderstart# ; #placeholderend#

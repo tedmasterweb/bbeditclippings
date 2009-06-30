@@ -1,0 +1,2 @@
+#indent#
+array_keys(#placeholderstart# array input #placeholderend##placeholderstart#[, mixed search_value ]#placeholderend##placeholderstart#[, bool strict ]#placeholderend#)#placeholderstart# ; #placeholderend#

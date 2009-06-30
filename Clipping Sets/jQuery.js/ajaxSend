@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").ajaxSend( #placeholderstart#Function callback#placeholderend# )

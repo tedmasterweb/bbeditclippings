@@ -1,0 +1,2 @@
+#indent#
+kadm5_flush(#placeholderstart# resource handle #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpInflateStream #placeholderend#->__construct(#placeholderstart#[ int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

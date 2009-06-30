@@ -1,0 +1,2 @@
+#indent#
+imap_renamemailbox(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, string old_mbox #placeholderend##placeholderstart#, string new_mbox #placeholderend#)#placeholderstart# ; #placeholderend#

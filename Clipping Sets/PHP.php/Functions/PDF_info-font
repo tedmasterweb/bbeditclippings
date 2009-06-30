@@ -1,0 +1,2 @@
+#indent#
+PDF_info-font(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int font #placeholderend##placeholderstart#, string keyword #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

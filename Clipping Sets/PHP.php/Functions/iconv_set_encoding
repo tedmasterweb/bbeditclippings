@@ -1,0 +1,2 @@
+#indent#
+iconv_set_encoding(#placeholderstart# string type #placeholderend##placeholderstart#, string charset #placeholderend#)#placeholderstart# ; #placeholderend#

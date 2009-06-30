@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ZipArchive #placeholderend#->deleteIndex(#placeholderstart# int index #placeholderend#)#placeholderstart# ; #placeholderend#

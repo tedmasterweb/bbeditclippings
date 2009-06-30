@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMXPath #placeholderend#->query(#placeholderstart# string expression #placeholderend##placeholderstart#[, DOMNode contextnode ]#placeholderend#)#placeholderstart# ; #placeholderend#

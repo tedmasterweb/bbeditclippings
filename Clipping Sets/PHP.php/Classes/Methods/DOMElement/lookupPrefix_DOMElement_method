@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMElement #placeholderend#->lookupPrefix(#placeholderstart# string namespaceURI #placeholderend#)#placeholderstart# ; #placeholderend#

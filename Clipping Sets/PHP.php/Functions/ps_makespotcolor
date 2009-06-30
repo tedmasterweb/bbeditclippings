@@ -1,0 +1,2 @@
+#indent#
+ps_makespotcolor(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string name #placeholderend##placeholderstart#[, int reserved ]#placeholderend#)#placeholderstart# ; #placeholderend#

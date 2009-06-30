@@ -1,0 +1,2 @@
+#indent#
+session_regenerate_id(#placeholderstart#[ bool delete_old_session ]#placeholderend#)#placeholderstart# ; #placeholderend#

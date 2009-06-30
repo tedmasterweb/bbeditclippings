@@ -1,0 +1,2 @@
+#indent#
+newt_textbox_get_num_lines(#placeholderstart# resource textbox #placeholderend#)#placeholderstart# ; #placeholderend#

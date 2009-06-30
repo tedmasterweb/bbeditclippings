@@ -1,0 +1,2 @@
+#indent#
+class_exists(#placeholderstart# string class_name #placeholderend##placeholderstart#[, bool autoload ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+json_encode(#placeholderstart# mixed value #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

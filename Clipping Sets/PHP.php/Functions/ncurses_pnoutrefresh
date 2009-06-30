@@ -1,0 +1,2 @@
+#indent#
+ncurses_pnoutrefresh(#placeholderstart# resource pad #placeholderend##placeholderstart#, int pminrow #placeholderend##placeholderstart#, int pmincol #placeholderend##placeholderstart#, int sminrow #placeholderend##placeholderstart#, int smincol #placeholderend##placeholderstart#, int smaxrow #placeholderend##placeholderstart#, int smaxcol #placeholderend#)#placeholderstart# ; #placeholderend#

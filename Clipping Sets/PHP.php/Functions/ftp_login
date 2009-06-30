@@ -1,0 +1,2 @@
+#indent#
+ftp_login(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, string username #placeholderend##placeholderstart#, string password #placeholderend#)#placeholderstart# ; #placeholderend#

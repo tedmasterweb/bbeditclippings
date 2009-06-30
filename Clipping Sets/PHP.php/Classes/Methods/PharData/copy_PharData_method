@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->copy(#placeholderstart# string oldfile #placeholderend##placeholderstart#, string newfile #placeholderend#)#placeholderstart# ; #placeholderend#

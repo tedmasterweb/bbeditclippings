@@ -1,0 +1,2 @@
+#indent#
+socket_set_option(#placeholderstart# resource socket #placeholderend##placeholderstart#, int level #placeholderend##placeholderstart#, int optname #placeholderend##placeholderstart#, mixed optval #placeholderend#)#placeholderstart# ; #placeholderend#

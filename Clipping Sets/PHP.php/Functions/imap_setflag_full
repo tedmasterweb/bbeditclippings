@@ -1,0 +1,2 @@
+#indent#
+imap_setflag_full(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, string sequence #placeholderend##placeholderstart#, string flag #placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

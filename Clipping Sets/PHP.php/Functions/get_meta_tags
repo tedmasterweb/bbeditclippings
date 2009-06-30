@@ -1,0 +1,2 @@
+#indent#
+get_meta_tags(#placeholderstart# string filename #placeholderend##placeholderstart#[, bool use_include_path ]#placeholderend#)#placeholderstart# ; #placeholderend#

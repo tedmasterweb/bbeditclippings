@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequest #placeholderend#->setContentType(#placeholderstart# string content_type #placeholderend#)#placeholderstart# ; #placeholderend#

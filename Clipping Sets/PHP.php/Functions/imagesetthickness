@@ -1,0 +1,2 @@
+#indent#
+imagesetthickness(#placeholderstart# resource image #placeholderend##placeholderstart#, int thickness #placeholderend#)#placeholderstart# ; #placeholderend#

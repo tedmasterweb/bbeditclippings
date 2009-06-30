@@ -1,0 +1,2 @@
+#indent#
+PDF_create_gstate(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

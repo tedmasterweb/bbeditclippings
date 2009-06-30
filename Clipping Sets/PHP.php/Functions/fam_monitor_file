@@ -1,0 +1,2 @@
+#indent#
+fam_monitor_file(#placeholderstart# resource fam #placeholderend##placeholderstart#, string filename #placeholderend#)#placeholderstart# ; #placeholderend#

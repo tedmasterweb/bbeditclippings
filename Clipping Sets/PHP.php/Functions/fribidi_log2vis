@@ -1,0 +1,2 @@
+#indent#
+fribidi_log2vis(#placeholderstart# string str #placeholderend##placeholderstart#, string direction #placeholderend##placeholderstart#, int charset #placeholderend#)#placeholderstart# ; #placeholderend#

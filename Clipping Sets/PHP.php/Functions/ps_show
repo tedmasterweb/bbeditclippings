@@ -1,0 +1,2 @@
+#indent#
+ps_show(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string text #placeholderend#)#placeholderstart# ; #placeholderend#

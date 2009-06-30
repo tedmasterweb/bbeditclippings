@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMElement #placeholderend#->removeAttributeNode(#placeholderstart# DOMAttr oldnode #placeholderend#)#placeholderstart# ; #placeholderend#

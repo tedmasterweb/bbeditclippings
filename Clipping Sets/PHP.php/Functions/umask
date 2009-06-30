@@ -1,0 +1,2 @@
+#indent#
+umask(#placeholderstart#[ int mask ]#placeholderend#)#placeholderstart# ; #placeholderend#

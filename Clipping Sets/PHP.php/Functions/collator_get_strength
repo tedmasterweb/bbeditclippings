@@ -1,0 +1,2 @@
+#indent#
+collator_get_strength(#placeholderstart# Collator coll #placeholderend#)#placeholderstart# ; #placeholderend#

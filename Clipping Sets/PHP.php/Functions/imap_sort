@@ -1,0 +1,2 @@
+#indent#
+imap_sort(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, int criteria #placeholderend##placeholderstart#, int reverse #placeholderend##placeholderstart#[, int options ]#placeholderend##placeholderstart#[, string search_criteria ]#placeholderend##placeholderstart#[, string charset ]#placeholderend#)#placeholderstart# ; #placeholderend#

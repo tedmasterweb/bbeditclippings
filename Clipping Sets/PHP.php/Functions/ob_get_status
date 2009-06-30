@@ -1,0 +1,2 @@
+#indent#
+ob_get_status(#placeholderstart#[ bool full_status ]#placeholderend#)#placeholderstart# ; #placeholderend#

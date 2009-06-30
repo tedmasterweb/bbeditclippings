@@ -1,0 +1,2 @@
+#indent#
+msgfmt_format_message(#placeholderstart# string locale #placeholderend##placeholderstart#, string pattern #placeholderend##placeholderstart#, array args #placeholderend#)#placeholderstart# ; #placeholderend#

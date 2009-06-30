@@ -1,0 +1,2 @@
+#indent#
+http_send_content_disposition(#placeholderstart# string filename #placeholderend##placeholderstart#[, bool inline ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->readImageBlob(#placeholderstart# string image #placeholderend##placeholderstart#[, string filename ]#placeholderend#)#placeholderstart# ; #placeholderend#

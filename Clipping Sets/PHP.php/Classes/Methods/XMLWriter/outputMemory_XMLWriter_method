@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->outputMemory(#placeholderstart#[ bool flush ]#placeholderend#)#placeholderstart# ; #placeholderend#

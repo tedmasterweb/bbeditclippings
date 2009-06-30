@@ -1,0 +1,2 @@
+#indent#
+strtok(#placeholderstart# string str #placeholderend##placeholderstart#, string token #placeholderend#)#placeholderstart# ; #placeholderend#

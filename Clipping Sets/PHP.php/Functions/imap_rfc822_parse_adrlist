@@ -1,0 +1,2 @@
+#indent#
+imap_rfc822_parse_adrlist(#placeholderstart# string address #placeholderend##placeholderstart#, string default_host #placeholderend#)#placeholderstart# ; #placeholderend#

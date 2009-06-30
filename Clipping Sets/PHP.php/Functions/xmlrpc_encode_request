@@ -1,0 +1,2 @@
+#indent#
+xmlrpc_encode_request(#placeholderstart# string method #placeholderend##placeholderstart#, mixed params #placeholderend##placeholderstart#[, array output_options ]#placeholderend#)#placeholderstart# ; #placeholderend#

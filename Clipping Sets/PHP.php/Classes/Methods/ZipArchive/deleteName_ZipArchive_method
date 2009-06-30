@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ZipArchive #placeholderend#->deleteName(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

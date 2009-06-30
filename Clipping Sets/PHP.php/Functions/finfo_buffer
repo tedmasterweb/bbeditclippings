@@ -1,0 +1,2 @@
+#indent#
+finfo_buffer(#placeholderstart# resource finfo #placeholderend##placeholderstart#, string string #placeholderend##placeholderstart#[, int options ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

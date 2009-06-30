@@ -1,0 +1,2 @@
+#indent#
+stats_cdf_uniform(#placeholderstart# float par1 #placeholderend##placeholderstart#, float par2 #placeholderend##placeholderstart#, float par3 #placeholderend##placeholderstart#, int which #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ssh2_publickey_init(#placeholderstart# resource session #placeholderend#)#placeholderstart# ; #placeholderend#

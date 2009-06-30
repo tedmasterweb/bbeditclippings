@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setFilter(#placeholderstart# string attribute #placeholderend##placeholderstart#, array values #placeholderend##placeholderstart#[, bool exclude ]#placeholderend#)#placeholderstart# ; #placeholderend#

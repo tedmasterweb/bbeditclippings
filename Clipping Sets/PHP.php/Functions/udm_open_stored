@@ -1,0 +1,2 @@
+#indent#
+udm_open_stored(#placeholderstart# resource agent #placeholderend##placeholderstart#, string storedaddr #placeholderend#)#placeholderstart# ; #placeholderend#

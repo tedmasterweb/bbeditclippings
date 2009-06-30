@@ -1,0 +1,2 @@
+#indent#
+printer_end_page(#placeholderstart# resource printer_handle #placeholderend#)#placeholderstart# ; #placeholderend#

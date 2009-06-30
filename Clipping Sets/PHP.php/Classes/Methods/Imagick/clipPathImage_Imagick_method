@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->clipPathImage(#placeholderstart# string pathname #placeholderend##placeholderstart#, bool inside #placeholderend#)#placeholderstart# ; #placeholderend#

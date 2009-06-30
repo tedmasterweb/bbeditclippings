@@ -1,0 +1,2 @@
+#indent#
+timezone_transitions_get(#placeholderstart# DateTimeZone object #placeholderend##placeholderstart#[, int timestamp_begin ]#placeholderend##placeholderstart#[, int timestamp_end ]#placeholderend#)#placeholderstart# ; #placeholderend#

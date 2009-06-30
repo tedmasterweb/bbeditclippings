@@ -1,0 +1,2 @@
+#indent#
+iconv_mime_encode(#placeholderstart# string field_name #placeholderend##placeholderstart#, string field_value #placeholderend##placeholderstart#[, array preferences ]#placeholderend#)#placeholderstart# ; #placeholderend#

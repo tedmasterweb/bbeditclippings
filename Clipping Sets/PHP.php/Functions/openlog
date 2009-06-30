@@ -1,0 +1,2 @@
+#indent#
+openlog(#placeholderstart# string ident #placeholderend##placeholderstart#, int option #placeholderend##placeholderstart#, int facility #placeholderend#)#placeholderstart# ; #placeholderend#

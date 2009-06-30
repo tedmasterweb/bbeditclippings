@@ -1,0 +1,2 @@
+#indent#
+runkit_lint_file(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

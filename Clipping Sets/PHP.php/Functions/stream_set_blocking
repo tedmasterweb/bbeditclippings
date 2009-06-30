@@ -1,0 +1,2 @@
+#indent#
+stream_set_blocking(#placeholderstart# resource stream #placeholderend##placeholderstart#, int mode #placeholderend#)#placeholderstart# ; #placeholderend#

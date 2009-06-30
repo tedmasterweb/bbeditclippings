@@ -1,0 +1,2 @@
+#indent#
+mcrypt_enc_get_key_size(#placeholderstart# resource td #placeholderend#)#placeholderstart# ; #placeholderend#

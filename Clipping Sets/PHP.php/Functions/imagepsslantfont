@@ -1,0 +1,2 @@
+#indent#
+imagepsslantfont(#placeholderstart# resource font_index #placeholderend##placeholderstart#, float slant #placeholderend#)#placeholderstart# ; #placeholderend#

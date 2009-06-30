@@ -1,0 +1,2 @@
+#indent#
+gmp_scan1(#placeholderstart# resource a #placeholderend##placeholderstart#, int start #placeholderend#)#placeholderstart# ; #placeholderend#

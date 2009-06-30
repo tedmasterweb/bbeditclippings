@@ -1,0 +1,2 @@
+#indent#
+openssl_csr_export(#placeholderstart# resource csr #placeholderend##placeholderstart#, string out #placeholderend##placeholderstart#[, bool notext ]#placeholderend#)#placeholderstart# ; #placeholderend#

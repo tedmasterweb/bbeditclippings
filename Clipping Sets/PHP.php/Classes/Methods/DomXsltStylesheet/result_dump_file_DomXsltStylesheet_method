@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomXsltStylesheet #placeholderend#->result_dump_file(#placeholderstart# DomDocument xmldoc #placeholderend##placeholderstart#, string filename #placeholderend#)#placeholderstart# ; #placeholderend#

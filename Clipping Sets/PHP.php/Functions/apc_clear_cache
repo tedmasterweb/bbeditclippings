@@ -1,0 +1,2 @@
+#indent#
+apc_clear_cache(#placeholderstart#[ string cache_type ]#placeholderend#)#placeholderstart# ; #placeholderend#

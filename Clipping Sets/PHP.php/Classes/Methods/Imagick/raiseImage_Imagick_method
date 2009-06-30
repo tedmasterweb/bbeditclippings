@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->raiseImage(#placeholderstart# int width #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, bool raise #placeholderend#)#placeholderstart# ; #placeholderend#

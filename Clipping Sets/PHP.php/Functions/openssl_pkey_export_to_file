@@ -1,0 +1,2 @@
+#indent#
+openssl_pkey_export_to_file(#placeholderstart# mixed key #placeholderend##placeholderstart#, string outfilename #placeholderend##placeholderstart#[, string passphrase ]#placeholderend##placeholderstart#[, array configargs ]#placeholderend#)#placeholderstart# ; #placeholderend#

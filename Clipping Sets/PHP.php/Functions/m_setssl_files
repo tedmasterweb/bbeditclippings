@@ -1,0 +1,2 @@
+#indent#
+m_setssl_files(#placeholderstart# resource conn #placeholderend##placeholderstart#, string sslkeyfile #placeholderend##placeholderstart#, string sslcertfile #placeholderend#)#placeholderstart# ; #placeholderend#

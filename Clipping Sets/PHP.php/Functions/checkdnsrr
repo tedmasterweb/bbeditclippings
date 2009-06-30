@@ -1,0 +1,2 @@
+#indent#
+checkdnsrr(#placeholderstart# string host #placeholderend##placeholderstart#[, string type ]#placeholderend#)#placeholderstart# ; #placeholderend#

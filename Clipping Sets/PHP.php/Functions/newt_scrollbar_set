@@ -1,0 +1,2 @@
+#indent#
+newt_scrollbar_set(#placeholderstart# resource scrollbar #placeholderend##placeholderstart#, int where #placeholderend##placeholderstart#, int total #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+stream_socket_server(#placeholderstart# string local_socket #placeholderend##placeholderstart#[, int errno ]#placeholderend##placeholderstart#[, string errstr ]#placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

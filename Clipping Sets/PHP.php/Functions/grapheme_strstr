@@ -1,0 +1,2 @@
+#indent#
+grapheme_strstr(#placeholderstart# string haystack #placeholderend##placeholderstart#, string needle #placeholderend##placeholderstart#[, bool before_needle ]#placeholderend#)#placeholderstart# ; #placeholderend#

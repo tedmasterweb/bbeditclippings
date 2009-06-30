@@ -1,0 +1,2 @@
+#indent#
+printer_draw_rectangle(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, int ul_x #placeholderend##placeholderstart#, int ul_y #placeholderend##placeholderstart#, int lr_x #placeholderend##placeholderstart#, int lr_y #placeholderend#)#placeholderstart# ; #placeholderend#

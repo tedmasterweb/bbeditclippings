@@ -1,0 +1,2 @@
+#indent#
+snmp_read_mib(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

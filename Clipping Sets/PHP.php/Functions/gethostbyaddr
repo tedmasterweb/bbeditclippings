@@ -1,0 +1,2 @@
+#indent#
+gethostbyaddr(#placeholderstart# string ip_address #placeholderend#)#placeholderstart# ; #placeholderend#

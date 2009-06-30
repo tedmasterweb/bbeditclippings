@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFShape #placeholderend#->drawLine(#placeholderstart# float dx #placeholderend##placeholderstart#, float dy #placeholderend#)#placeholderstart# ; #placeholderend#

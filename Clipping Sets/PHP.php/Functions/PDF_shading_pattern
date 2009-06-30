@@ -1,0 +1,2 @@
+#indent#
+PDF_shading_pattern(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int shading #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

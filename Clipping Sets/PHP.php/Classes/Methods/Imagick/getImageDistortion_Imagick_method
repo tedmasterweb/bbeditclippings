@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->getImageDistortion(#placeholderstart# MagickWand reference #placeholderend##placeholderstart#, int metric #placeholderend#)#placeholderstart# ; #placeholderend#

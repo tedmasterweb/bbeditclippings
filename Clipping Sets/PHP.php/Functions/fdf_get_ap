@@ -1,0 +1,2 @@
+#indent#
+fdf_get_ap(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string field #placeholderend##placeholderstart#, int face #placeholderend##placeholderstart#, string filename #placeholderend#)#placeholderstart# ; #placeholderend#

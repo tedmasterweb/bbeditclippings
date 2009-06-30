@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_Relational #placeholderend#->executeQuery(#placeholderstart# PDO database_handle #placeholderend##placeholderstart#, string SQL_statement #placeholderend##placeholderstart#[, array column_specifier ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ldap_explode_dn(#placeholderstart# string dn #placeholderend##placeholderstart#, int with_attrib #placeholderend#)#placeholderstart# ; #placeholderend#

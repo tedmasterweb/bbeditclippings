@@ -1,0 +1,2 @@
+#indent#
+session_register(#placeholderstart# mixed name #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

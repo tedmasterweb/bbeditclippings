@@ -1,0 +1,2 @@
+#indent#
+ncurses_attrset(#placeholderstart# int attributes #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+mcrypt_module_is_block_mode(#placeholderstart# string mode #placeholderend##placeholderstart#[, string lib_dir ]#placeholderend#)#placeholderstart# ; #placeholderend#

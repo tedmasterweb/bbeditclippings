@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->createTextAnnotation(#placeholderstart# array rectangle #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#[, object encoder ]#placeholderend#)#placeholderstart# ; #placeholderend#

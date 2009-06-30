@@ -1,0 +1,2 @@
+#indent#
+PDF_open_file(#placeholderstart# resource p #placeholderend##placeholderstart#, string filename #placeholderend#)#placeholderstart# ; #placeholderend#

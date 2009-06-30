@@ -1,0 +1,2 @@
+#indent#
+imagepng(#placeholderstart# resource image #placeholderend##placeholderstart#[, string filename ]#placeholderend##placeholderstart#[, int quality ]#placeholderend##placeholderstart#[, int filters ]#placeholderend#)#placeholderstart# ; #placeholderend#

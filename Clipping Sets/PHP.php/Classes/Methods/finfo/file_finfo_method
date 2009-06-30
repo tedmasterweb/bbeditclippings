@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# finfo #placeholderend#->file(#placeholderstart# string file_name #placeholderend##placeholderstart#[, int options ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

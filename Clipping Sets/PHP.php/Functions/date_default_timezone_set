@@ -1,0 +1,2 @@
+#indent#
+date_default_timezone_set(#placeholderstart# string timezone_identifier #placeholderend#)#placeholderstart# ; #placeholderend#

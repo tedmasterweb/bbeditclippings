@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# OAuth #placeholderend#->__construct(#placeholderstart# string consumer_key #placeholderend##placeholderstart#, string consumer_secret #placeholderend##placeholderstart#[, string signature_method ]#placeholderend##placeholderstart#[, string auth_type ]#placeholderend#)#placeholderstart# ; #placeholderend#

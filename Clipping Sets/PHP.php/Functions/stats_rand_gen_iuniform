@@ -1,0 +1,2 @@
+#indent#
+stats_rand_gen_iuniform(#placeholderstart# int low #placeholderend##placeholderstart#, int high #placeholderend#)#placeholderstart# ; #placeholderend#

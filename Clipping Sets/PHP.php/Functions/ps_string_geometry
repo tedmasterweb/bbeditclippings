@@ -1,0 +1,2 @@
+#indent#
+ps_string_geometry(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#[, int fontid ]#placeholderend##placeholderstart#[, float size ]#placeholderend#)#placeholderstart# ; #placeholderend#

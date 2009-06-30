@@ -1,0 +1,4 @@
+#indent#
+echo "<pre>\n";
+print_r(#insertion#);
+echo '</pre>';

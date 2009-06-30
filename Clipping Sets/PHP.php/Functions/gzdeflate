@@ -1,0 +1,2 @@
+#indent#
+gzdeflate(#placeholderstart# string data #placeholderend##placeholderstart#[, int level ]#placeholderend#)#placeholderstart# ; #placeholderend#

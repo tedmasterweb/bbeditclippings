@@ -1,0 +1,2 @@
+#indent#
+pspell_check(#placeholderstart# int dictionary_link #placeholderend##placeholderstart#, string word #placeholderend#)#placeholderstart# ; #placeholderend#

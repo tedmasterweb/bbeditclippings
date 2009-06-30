@@ -1,0 +1,2 @@
+#indent#
+ps_stringwidth(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#[, int fontid ]#placeholderend##placeholderstart#[, float size ]#placeholderend#)#placeholderstart# ; #placeholderend#

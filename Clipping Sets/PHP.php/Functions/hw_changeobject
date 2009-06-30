@@ -1,0 +1,2 @@
+#indent#
+hw_changeobject(#placeholderstart# int link #placeholderend##placeholderstart#, int objid #placeholderend##placeholderstart#, array attributes #placeholderend#)#placeholderstart# ; #placeholderend#

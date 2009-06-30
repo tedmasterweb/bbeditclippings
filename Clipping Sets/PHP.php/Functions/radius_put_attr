@@ -1,0 +1,2 @@
+#indent#
+radius_put_attr(#placeholderstart# resource radius_handle #placeholderend##placeholderstart#, int type #placeholderend##placeholderstart#, string value #placeholderend#)#placeholderstart# ; #placeholderend#

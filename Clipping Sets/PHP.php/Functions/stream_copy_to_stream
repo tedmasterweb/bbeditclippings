@@ -1,0 +1,2 @@
+#indent#
+stream_copy_to_stream(#placeholderstart# resource source #placeholderend##placeholderstart#, resource dest #placeholderend##placeholderstart#[, int maxlength ]#placeholderend##placeholderstart#[, int offset ]#placeholderend#)#placeholderstart# ; #placeholderend#

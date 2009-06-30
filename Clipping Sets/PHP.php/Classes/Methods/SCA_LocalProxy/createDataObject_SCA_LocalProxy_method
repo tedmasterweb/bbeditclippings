@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SCA_LocalProxy #placeholderend#->createDataObject(#placeholderstart# string type_namespace_uri #placeholderend##placeholderstart#, string type_name #placeholderend#)#placeholderstart# ; #placeholderend#

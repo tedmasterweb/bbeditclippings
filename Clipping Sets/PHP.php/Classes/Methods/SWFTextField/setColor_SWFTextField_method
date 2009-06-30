@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFTextField #placeholderend#->setColor(#placeholderstart# int red #placeholderend##placeholderstart#, int green #placeholderend##placeholderstart#, int blue #placeholderend##placeholderstart#[, int a ]#placeholderend#)#placeholderstart# ; #placeholderend#

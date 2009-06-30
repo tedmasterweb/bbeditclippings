@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->setDash(#placeholderstart# array pattern #placeholderend##placeholderstart#, int phase #placeholderend#)#placeholderstart# ; #placeholderend#

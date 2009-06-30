@@ -1,0 +1,2 @@
+#indent#
+http_send_content_type(#placeholderstart#[ string content_type ]#placeholderend#)#placeholderstart# ; #placeholderend#

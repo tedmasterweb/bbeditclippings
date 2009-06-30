@@ -1,0 +1,2 @@
+#indent#
+jQuery.datajQuery.data( #placeholderstart#Element elem#placeholderend# )

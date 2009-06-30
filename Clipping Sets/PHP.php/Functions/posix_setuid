@@ -1,0 +1,2 @@
+#indent#
+posix_setuid(#placeholderstart# int uid #placeholderend#)#placeholderstart# ; #placeholderend#

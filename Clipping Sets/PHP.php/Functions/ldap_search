@@ -1,0 +1,2 @@
+#indent#
+ldap_search(#placeholderstart# resource link_identifier #placeholderend##placeholderstart#, string base_dn #placeholderend##placeholderstart#, string filter #placeholderend##placeholderstart#[, array attributes ]#placeholderend##placeholderstart#[, int attrsonly ]#placeholderend##placeholderstart#[, int sizelimit ]#placeholderend##placeholderstart#[, int timelimit ]#placeholderend##placeholderstart#[, int deref ]#placeholderend#)#placeholderstart# ; #placeholderend#

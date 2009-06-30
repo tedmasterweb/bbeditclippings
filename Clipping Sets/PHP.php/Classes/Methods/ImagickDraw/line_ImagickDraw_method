@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->line(#placeholderstart# float sx #placeholderend##placeholderstart#, float sy #placeholderend##placeholderstart#, float ex #placeholderend##placeholderstart#, float ey #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_load_font(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string fontname #placeholderend##placeholderstart#, string encoding #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

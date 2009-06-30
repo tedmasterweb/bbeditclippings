@@ -1,0 +1,2 @@
+#indent#
+bcompiler_write_class(#placeholderstart# resource filehandle #placeholderend##placeholderstart#, string className #placeholderend##placeholderstart#[, string extends ]#placeholderend#)#placeholderstart# ; #placeholderend#

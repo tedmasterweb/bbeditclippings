@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapServer #placeholderend#->setClass(#placeholderstart# string class_name #placeholderend##placeholderstart#[, string args ]#placeholderend#)#placeholderstart# ; #placeholderend#

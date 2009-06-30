@@ -1,0 +1,2 @@
+#indent#
+swf_shapearc(#placeholderstart# float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float r #placeholderend##placeholderstart#, float ang1 #placeholderend##placeholderstart#, float ang2 #placeholderend#)#placeholderstart# ; #placeholderend#

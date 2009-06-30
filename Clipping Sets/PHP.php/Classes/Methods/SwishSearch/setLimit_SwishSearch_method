@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SwishSearch #placeholderend#->setLimit(#placeholderstart# string property #placeholderend##placeholderstart#, string low #placeholderend##placeholderstart#, string high #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+aggregate_properties_by_regexp(#placeholderstart# object object #placeholderend##placeholderstart#, string class_name #placeholderend##placeholderstart#, string regexp #placeholderend##placeholderstart#[, bool exclude ]#placeholderend#)#placeholderstart# ; #placeholderend#

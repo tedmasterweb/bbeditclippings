@@ -1,0 +1,2 @@
+#indent#
+PDF_setrgbcolor(#placeholderstart# resource p #placeholderend##placeholderstart#, float red #placeholderend##placeholderstart#, float green #placeholderend##placeholderstart#, float blue #placeholderend#)#placeholderstart# ; #placeholderend#

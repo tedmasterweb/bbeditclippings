@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpResponse #placeholderend#->setETag(#placeholderstart# string etag #placeholderend#)#placeholderstart# ; #placeholderend#

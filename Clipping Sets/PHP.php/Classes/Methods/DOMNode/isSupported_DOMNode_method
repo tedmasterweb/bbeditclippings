@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMNode #placeholderend#->isSupported(#placeholderstart# string feature #placeholderend##placeholderstart#, string version #placeholderend#)#placeholderstart# ; #placeholderend#

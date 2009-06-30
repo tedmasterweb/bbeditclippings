@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpMessage #placeholderend#->factory(#placeholderstart#[ string raw_message ]#placeholderend##placeholderstart#[, string class_name ]#placeholderend#)#placeholderstart# ; #placeholderend#

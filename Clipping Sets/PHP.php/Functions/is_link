@@ -1,0 +1,2 @@
+#indent#
+is_link(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

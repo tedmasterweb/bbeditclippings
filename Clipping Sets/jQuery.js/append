@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").append( #placeholderstart#String/Element/jQuery content#placeholderend# )

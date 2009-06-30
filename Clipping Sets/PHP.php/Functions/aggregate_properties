@@ -1,0 +1,2 @@
+#indent#
+aggregate_properties(#placeholderstart# object object #placeholderend##placeholderstart#, string class_name #placeholderend#)#placeholderstart# ; #placeholderend#

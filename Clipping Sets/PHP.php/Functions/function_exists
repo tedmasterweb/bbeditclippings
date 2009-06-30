@@ -1,0 +1,2 @@
+#indent#
+function_exists(#placeholderstart# string function_name #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ps_get_value(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string name #placeholderend##placeholderstart#[, float modifier ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomAttribute #placeholderend#->set_value(#placeholderstart# string content #placeholderend#)#placeholderstart# ; #placeholderend#

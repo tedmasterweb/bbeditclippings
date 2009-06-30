@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapHeader #placeholderend#->__construct(#placeholderstart# string namespace #placeholderend##placeholderstart#, string name #placeholderend##placeholderstart#[, mixed data ]#placeholderend##placeholderstart#[, bool mustunderstand ]#placeholderend##placeholderstart#[, string actor ]#placeholderend#)#placeholderstart# ; #placeholderend#

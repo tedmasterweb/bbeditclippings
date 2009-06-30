@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->createCDATASection(#placeholderstart# string data #placeholderend#)#placeholderstart# ; #placeholderend#

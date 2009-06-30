@@ -1,0 +1,2 @@
+#indent#
+ftp_pasv(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, bool pasv #placeholderend#)#placeholderstart# ; #placeholderend#

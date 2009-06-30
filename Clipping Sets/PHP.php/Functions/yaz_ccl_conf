@@ -1,0 +1,2 @@
+#indent#
+yaz_ccl_conf(#placeholderstart# resource id #placeholderend##placeholderstart#, array config #placeholderend#)#placeholderstart# ; #placeholderend#

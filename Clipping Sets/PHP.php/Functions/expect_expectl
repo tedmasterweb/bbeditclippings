@@ -1,0 +1,2 @@
+#indent#
+expect_expectl(#placeholderstart# resource expect #placeholderend##placeholderstart#, array cases #placeholderend##placeholderstart#[, array match ]#placeholderend#)#placeholderstart# ; #placeholderend#

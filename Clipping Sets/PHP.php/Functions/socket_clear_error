@@ -1,0 +1,2 @@
+#indent#
+socket_clear_error(#placeholderstart#[ resource socket ]#placeholderend#)#placeholderstart# ; #placeholderend#

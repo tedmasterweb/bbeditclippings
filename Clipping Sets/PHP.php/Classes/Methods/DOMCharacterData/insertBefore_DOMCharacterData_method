@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMCharacterData #placeholderend#->insertBefore(#placeholderstart# DOMNode newnode #placeholderend##placeholderstart#[, DOMNode refnode ]#placeholderend#)#placeholderstart# ; #placeholderend#

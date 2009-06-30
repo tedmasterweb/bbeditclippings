@@ -1,0 +1,2 @@
+#indent#
+fdf_set_target_frame(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string frame_name #placeholderend#)#placeholderstart# ; #placeholderend#

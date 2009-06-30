@@ -1,0 +1,2 @@
+#indent#
+ncurses_napms(#placeholderstart# int milliseconds #placeholderend#)#placeholderstart# ; #placeholderend#

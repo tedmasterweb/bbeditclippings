@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_Sequence #placeholderend#->getProperty(#placeholderstart# int sequence_index #placeholderend#)#placeholderstart# ; #placeholderend#

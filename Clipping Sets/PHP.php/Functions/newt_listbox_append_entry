@@ -1,0 +1,2 @@
+#indent#
+newt_listbox_append_entry(#placeholderstart# resource listbox #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, mixed data #placeholderend#)#placeholderstart# ; #placeholderend#

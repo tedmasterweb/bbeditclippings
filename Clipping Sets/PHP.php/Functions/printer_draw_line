@@ -1,0 +1,2 @@
+#indent#
+printer_draw_line(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, int from_x #placeholderend##placeholderstart#, int from_y #placeholderend##placeholderstart#, int to_x #placeholderend##placeholderstart#, int to_y #placeholderend#)#placeholderstart# ; #placeholderend#

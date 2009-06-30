@@ -1,0 +1,2 @@
+#indent#
+jQuery.fn.extendjQuery.fn.extend( #placeholderstart#Object object#placeholderend# )

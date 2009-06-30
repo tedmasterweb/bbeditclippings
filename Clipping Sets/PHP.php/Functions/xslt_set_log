@@ -1,0 +1,2 @@
+#indent#
+xslt_set_log(#placeholderstart# resource xh #placeholderend##placeholderstart#[, mixed log ]#placeholderend#)#placeholderstart# ; #placeholderend#

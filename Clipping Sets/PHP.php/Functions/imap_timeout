@@ -1,0 +1,2 @@
+#indent#
+imap_timeout(#placeholderstart# int timeout_type #placeholderend##placeholderstart#[, int timeout ]#placeholderend#)#placeholderstart# ; #placeholderend#

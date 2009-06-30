@@ -1,0 +1,2 @@
+#indent#
+pow(#placeholderstart# number base #placeholderend##placeholderstart#, number exp #placeholderend#)#placeholderstart# ; #placeholderend#

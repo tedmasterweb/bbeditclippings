@@ -1,0 +1,2 @@
+#indent#
+session_set_cookie_params(#placeholderstart# int lifetime #placeholderend##placeholderstart#[, string path ]#placeholderend##placeholderstart#[, string domain ]#placeholderend##placeholderstart#[, bool secure ]#placeholderend##placeholderstart#[, bool httponly ]#placeholderend#)#placeholderstart# ; #placeholderend#

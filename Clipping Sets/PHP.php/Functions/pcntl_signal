@@ -1,0 +1,2 @@
+#indent#
+pcntl_signal(#placeholderstart# int signo #placeholderend##placeholderstart#, callback handler #placeholderend##placeholderstart#[, bool restart_syscalls ]#placeholderend#)#placeholderstart# ; #placeholderend#

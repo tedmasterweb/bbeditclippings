@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapParam #placeholderend#->__construct(#placeholderstart# mixed data #placeholderend##placeholderstart#, string name #placeholderend#)#placeholderstart# ; #placeholderend#

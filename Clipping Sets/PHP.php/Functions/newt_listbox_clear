@@ -1,0 +1,2 @@
+#indent#
+newt_listbox_clear(#placeholderstart# resource listobx #placeholderend#)#placeholderstart# ; #placeholderend#

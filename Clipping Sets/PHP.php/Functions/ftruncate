@@ -1,0 +1,2 @@
+#indent#
+ftruncate(#placeholderstart# resource handle #placeholderend##placeholderstart#, int size #placeholderend#)#placeholderstart# ; #placeholderend#

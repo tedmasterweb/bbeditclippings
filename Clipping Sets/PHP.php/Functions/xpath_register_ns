@@ -1,0 +1,2 @@
+#indent#
+xpath_register_ns(#placeholderstart# XPathContext xpath_context #placeholderend##placeholderstart#, string prefix #placeholderend##placeholderstart#, string uri #placeholderend#)#placeholderstart# ; #placeholderend#

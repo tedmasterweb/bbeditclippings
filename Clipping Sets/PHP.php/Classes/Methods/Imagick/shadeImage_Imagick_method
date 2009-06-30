@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->shadeImage(#placeholderstart# bool gray #placeholderend##placeholderstart#, float azimuth #placeholderend##placeholderstart#, float elevation #placeholderend#)#placeholderstart# ; #placeholderend#

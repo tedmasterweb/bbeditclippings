@@ -1,0 +1,2 @@
+#indent#
+get_extension_funcs(#placeholderstart# string module_name #placeholderend#)#placeholderstart# ; #placeholderend#

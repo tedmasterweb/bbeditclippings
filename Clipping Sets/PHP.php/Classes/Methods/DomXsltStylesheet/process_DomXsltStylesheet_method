@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomXsltStylesheet #placeholderend#->process(#placeholderstart# DomDocument xml_doc #placeholderend##placeholderstart#[, array xslt_params ]#placeholderend##placeholderstart#[, bool is_xpath_param ]#placeholderend##placeholderstart#[, string profile_filename ]#placeholderend#)#placeholderstart# ; #placeholderend#

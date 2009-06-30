@@ -1,0 +1,2 @@
+#indent#
+PDF_add_pdflink(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float bottom_left_x #placeholderend##placeholderstart#, float bottom_left_y #placeholderend##placeholderstart#, float up_right_x #placeholderend##placeholderstart#, float up_right_y #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, int page #placeholderend##placeholderstart#, string dest #placeholderend#)#placeholderstart# ; #placeholderend#

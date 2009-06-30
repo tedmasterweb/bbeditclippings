@@ -1,0 +1,2 @@
+#indent#
+PDF_get_errnum(#placeholderstart# resource pdfdoc #placeholderend#)#placeholderstart# ; #placeholderend#

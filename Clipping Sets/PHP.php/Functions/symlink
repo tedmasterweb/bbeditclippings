@@ -1,0 +1,2 @@
+#indent#
+symlink(#placeholderstart# string target #placeholderend##placeholderstart#, string link #placeholderend#)#placeholderstart# ; #placeholderend#

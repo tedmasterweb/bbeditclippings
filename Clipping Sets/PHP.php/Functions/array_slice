@@ -1,0 +1,2 @@
+#indent#
+array_slice(#placeholderstart# array array #placeholderend##placeholderstart#, int offset #placeholderend##placeholderstart#[, int length ]#placeholderend##placeholderstart#[, bool preserve_keys ]#placeholderend#)#placeholderstart# ; #placeholderend#

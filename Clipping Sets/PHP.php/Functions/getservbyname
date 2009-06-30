@@ -1,0 +1,2 @@
+#indent#
+getservbyname(#placeholderstart# string service #placeholderend##placeholderstart#, string protocol #placeholderend#)#placeholderstart# ; #placeholderend#

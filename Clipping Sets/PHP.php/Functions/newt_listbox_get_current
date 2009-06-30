@@ -1,0 +1,2 @@
+#indent#
+newt_listbox_get_current(#placeholderstart# resource listbox #placeholderend#)#placeholderstart# ; #placeholderend#

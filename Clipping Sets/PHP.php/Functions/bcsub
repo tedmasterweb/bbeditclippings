@@ -1,0 +1,2 @@
+#indent#
+bcsub(#placeholderstart# string left_operand #placeholderend##placeholderstart#, string right_operand #placeholderend##placeholderstart#[, int scale ]#placeholderend#)#placeholderstart# ; #placeholderend#

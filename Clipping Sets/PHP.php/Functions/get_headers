@@ -1,0 +1,2 @@
+#indent#
+get_headers(#placeholderstart# string url #placeholderend##placeholderstart#[, int format ]#placeholderend#)#placeholderstart# ; #placeholderend#

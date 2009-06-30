@@ -1,0 +1,2 @@
+#indent#
+bcompiler_read(#placeholderstart# resource filehandle #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+imagecreatefromjpeg(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

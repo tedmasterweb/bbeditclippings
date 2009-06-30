@@ -1,0 +1,2 @@
+#indent#
+stream_wrapper_register(#placeholderstart# string protocol #placeholderend##placeholderstart#, string classname #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

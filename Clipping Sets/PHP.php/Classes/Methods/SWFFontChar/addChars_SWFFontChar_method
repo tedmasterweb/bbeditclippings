@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFFontChar #placeholderend#->addChars(#placeholderstart# string char #placeholderend#)#placeholderstart# ; #placeholderend#

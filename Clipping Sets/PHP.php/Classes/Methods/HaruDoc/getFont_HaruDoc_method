@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruDoc #placeholderend#->getFont(#placeholderstart# string fontname #placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

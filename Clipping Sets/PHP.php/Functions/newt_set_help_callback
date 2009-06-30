@@ -1,0 +1,2 @@
+#indent#
+newt_set_help_callback(#placeholderstart# mixed function #placeholderend#)#placeholderstart# ; #placeholderend#

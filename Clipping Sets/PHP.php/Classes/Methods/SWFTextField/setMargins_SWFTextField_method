@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFTextField #placeholderend#->setMargins(#placeholderstart# float left #placeholderend##placeholderstart#, float right #placeholderend#)#placeholderstart# ; #placeholderend#

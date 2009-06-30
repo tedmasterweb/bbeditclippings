@@ -1,0 +1,2 @@
+#indent#
+newt_form_set_height(#placeholderstart# resource form #placeholderend##placeholderstart#, int height #placeholderend#)#placeholderstart# ; #placeholderend#

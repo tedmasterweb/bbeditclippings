@@ -1,0 +1,2 @@
+#indent#
+PDF_set_border_dash(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float black #placeholderend##placeholderstart#, float white #placeholderend#)#placeholderstart# ; #placeholderend#

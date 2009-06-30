@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").attr( #placeholderstart#Map properties#placeholderend# )

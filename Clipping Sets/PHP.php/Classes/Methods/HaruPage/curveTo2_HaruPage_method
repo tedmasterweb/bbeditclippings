@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->curveTo2(#placeholderstart# float x2 #placeholderend##placeholderstart#, float y2 #placeholderend##placeholderstart#, float x3 #placeholderend##placeholderstart#, float y3 #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->drawImage(#placeholderstart# ImagickDraw draw #placeholderend#)#placeholderstart# ; #placeholderend#

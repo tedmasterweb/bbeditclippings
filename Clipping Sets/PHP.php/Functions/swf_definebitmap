@@ -1,0 +1,2 @@
+#indent#
+swf_definebitmap(#placeholderstart# int objid #placeholderend##placeholderstart#, string image_name #placeholderend#)#placeholderstart# ; #placeholderend#

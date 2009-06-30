@@ -1,0 +1,2 @@
+#indent#
+yp_err_string(#placeholderstart# int errorcode #placeholderend#)#placeholderstart# ; #placeholderend#

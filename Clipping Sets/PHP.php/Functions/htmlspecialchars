@@ -1,0 +1,2 @@
+#indent#
+htmlspecialchars(#placeholderstart# string string #placeholderend##placeholderstart#[, int quote_style ]#placeholderend##placeholderstart#[, string charset ]#placeholderend##placeholderstart#[, bool double_encode ]#placeholderend#)#placeholderstart# ; #placeholderend#

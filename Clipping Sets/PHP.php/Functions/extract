@@ -1,0 +1,2 @@
+#indent#
+extract(#placeholderstart# array var_array #placeholderend##placeholderstart#[, int extract_type ]#placeholderend##placeholderstart#[, string prefix ]#placeholderend#)#placeholderstart# ; #placeholderend#

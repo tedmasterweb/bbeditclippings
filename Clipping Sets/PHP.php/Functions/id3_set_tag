@@ -1,0 +1,2 @@
+#indent#
+id3_set_tag(#placeholderstart# string filename #placeholderend##placeholderstart#, array tag #placeholderend##placeholderstart#[, int version ]#placeholderend#)#placeholderstart# ; #placeholderend#

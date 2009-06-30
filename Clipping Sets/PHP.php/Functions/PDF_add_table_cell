@@ -1,0 +1,2 @@
+#indent#
+PDF_add_table_cell(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int table #placeholderend##placeholderstart#, int column #placeholderend##placeholderstart#, int row #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

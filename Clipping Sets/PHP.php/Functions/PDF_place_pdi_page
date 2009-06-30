@@ -1,0 +1,2 @@
+#indent#
+PDF_place_pdi_page(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int page #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float sx #placeholderend##placeholderstart#, float sy #placeholderend#)#placeholderstart# ; #placeholderend#

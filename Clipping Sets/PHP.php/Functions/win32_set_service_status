@@ -1,0 +1,2 @@
+#indent#
+win32_set_service_status(#placeholderstart# int status #placeholderend#)#placeholderstart# ; #placeholderend#

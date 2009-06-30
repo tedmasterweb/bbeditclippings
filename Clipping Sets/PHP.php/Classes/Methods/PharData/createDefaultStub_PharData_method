@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharData #placeholderend#->createDefaultStub(#placeholderstart#[ string indexfile ]#placeholderend##placeholderstart#[, string webindexfile ]#placeholderend#)#placeholderstart# ; #placeholderend#

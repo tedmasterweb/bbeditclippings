@@ -1,0 +1,2 @@
+#indent#
+ncurses_newpad(#placeholderstart# int rows #placeholderend##placeholderstart#, int cols #placeholderend#)#placeholderstart# ; #placeholderend#

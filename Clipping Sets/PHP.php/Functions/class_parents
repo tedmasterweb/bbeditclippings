@@ -1,0 +1,2 @@
+#indent#
+class_parents(#placeholderstart# mixed class #placeholderend##placeholderstart#[, bool autoload ]#placeholderend#)#placeholderstart# ; #placeholderend#

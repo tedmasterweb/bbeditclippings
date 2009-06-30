@@ -1,0 +1,2 @@
+#indent#
+setrawcookie(#placeholderstart# string name #placeholderend##placeholderstart#[, string value ]#placeholderend##placeholderstart#[, int expire ]#placeholderend##placeholderstart#[, string path ]#placeholderend##placeholderstart#[, string domain ]#placeholderend##placeholderstart#[, bool secure ]#placeholderend##placeholderstart#[, bool httponly ]#placeholderend#)#placeholderstart# ; #placeholderend#

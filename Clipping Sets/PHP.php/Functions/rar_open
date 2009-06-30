@@ -1,0 +1,2 @@
+#indent#
+rar_open(#placeholderstart# string filename #placeholderend##placeholderstart#[, string password ]#placeholderend#)#placeholderstart# ; #placeholderend#

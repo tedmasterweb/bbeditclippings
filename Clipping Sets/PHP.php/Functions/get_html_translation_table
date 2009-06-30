@@ -1,0 +1,2 @@
+#indent#
+get_html_translation_table(#placeholderstart#[ int table ]#placeholderend##placeholderstart#[, int quote_style ]#placeholderend#)#placeholderstart# ; #placeholderend#

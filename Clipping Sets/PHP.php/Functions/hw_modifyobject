@@ -1,0 +1,2 @@
+#indent#
+hw_modifyobject(#placeholderstart# int connection #placeholderend##placeholderstart#, int object_to_change #placeholderend##placeholderstart#, array remove #placeholderend##placeholderstart#, array add #placeholderend##placeholderstart#[, int mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->roundCorners(#placeholderstart# float x_rounding #placeholderend##placeholderstart#, float y_rounding #placeholderend##placeholderstart#[, float stroke_width ]#placeholderend##placeholderstart#[, float displace ]#placeholderend##placeholderstart#[, float size_correction ]#placeholderend#)#placeholderstart# ; #placeholderend#

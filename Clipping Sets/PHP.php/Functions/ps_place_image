@@ -1,0 +1,2 @@
+#indent#
+ps_place_image(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int imageid #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float scale #placeholderend#)#placeholderstart# ; #placeholderend#

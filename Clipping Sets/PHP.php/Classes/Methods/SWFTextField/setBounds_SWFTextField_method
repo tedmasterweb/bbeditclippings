@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFTextField #placeholderend#->setBounds(#placeholderstart# float width #placeholderend##placeholderstart#, float height #placeholderend#)#placeholderstart# ; #placeholderend#

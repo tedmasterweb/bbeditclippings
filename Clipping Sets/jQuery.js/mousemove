@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").mousemove( #placeholderstart#Function fn#placeholderend# )

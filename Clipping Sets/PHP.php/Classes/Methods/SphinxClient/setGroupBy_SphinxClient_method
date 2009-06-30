@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setGroupBy(#placeholderstart# string attribute #placeholderend##placeholderstart#, int func #placeholderend##placeholderstart#[, string groupsort ]#placeholderend#)#placeholderstart# ; #placeholderend#

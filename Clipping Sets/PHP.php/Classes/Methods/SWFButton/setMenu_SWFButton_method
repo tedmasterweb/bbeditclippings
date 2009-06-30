@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFButton #placeholderend#->setMenu(#placeholderstart# int flag #placeholderend#)#placeholderstart# ; #placeholderend#

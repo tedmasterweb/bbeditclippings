@@ -1,0 +1,2 @@
+#indent#
+stats_stat_innerproduct(#placeholderstart# array arr1 #placeholderend##placeholderstart#, array arr2 #placeholderend#)#placeholderstart# ; #placeholderend#

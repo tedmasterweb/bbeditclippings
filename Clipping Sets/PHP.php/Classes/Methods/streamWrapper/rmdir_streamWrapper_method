@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# streamWrapper #placeholderend#->rmdir(#placeholderstart# string path #placeholderend##placeholderstart#, int options #placeholderend#)#placeholderstart# ; #placeholderend#

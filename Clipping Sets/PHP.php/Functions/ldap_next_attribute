@@ -1,0 +1,2 @@
+#indent#
+ldap_next_attribute(#placeholderstart# resource link_identifier #placeholderend##placeholderstart#, resource result_entry_identifier #placeholderend#)#placeholderstart# ; #placeholderend#

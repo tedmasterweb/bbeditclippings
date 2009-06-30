@@ -1,0 +1,2 @@
+#indent#
+http_request_method_exists(#placeholderstart# mixed method #placeholderend#)#placeholderstart# ; #placeholderend#

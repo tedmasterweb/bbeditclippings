@@ -1,0 +1,2 @@
+#indent#
+xml_parse(#placeholderstart# resource parser #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#[, bool is_final ]#placeholderend#)#placeholderstart# ; #placeholderend#

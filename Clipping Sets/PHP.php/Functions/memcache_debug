@@ -1,0 +1,2 @@
+#indent#
+memcache_debug(#placeholderstart# bool on_off #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+snmp_set_oid_output_format(#placeholderstart# int oid_format #placeholderend#)#placeholderstart# ; #placeholderend#

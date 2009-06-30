@@ -1,0 +1,2 @@
+#indent#
+ncurses_mousemask(#placeholderstart# int newmask #placeholderend##placeholderstart#, int oldmask #placeholderend#)#placeholderstart# ; #placeholderend#

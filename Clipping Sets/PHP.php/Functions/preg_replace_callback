@@ -1,0 +1,2 @@
+#indent#
+preg_replace_callback(#placeholderstart# mixed pattern #placeholderend##placeholderstart#, callback callback #placeholderend##placeholderstart#, mixed subject #placeholderend##placeholderstart#[, int limit ]#placeholderend##placeholderstart#[, int count ]#placeholderend#)#placeholderstart# ; #placeholderend#

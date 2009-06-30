@@ -1,0 +1,2 @@
+#indent#
+udm_alloc_agent(#placeholderstart# string dbaddr #placeholderend##placeholderstart#[, string dbmode ]#placeholderend#)#placeholderstart# ; #placeholderend#

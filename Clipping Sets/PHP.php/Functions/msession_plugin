@@ -1,0 +1,2 @@
+#indent#
+msession_plugin(#placeholderstart# string session #placeholderend##placeholderstart#, string val #placeholderend##placeholderstart#[, string param ]#placeholderend#)#placeholderstart# ; #placeholderend#

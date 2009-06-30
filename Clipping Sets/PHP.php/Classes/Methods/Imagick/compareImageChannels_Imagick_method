@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->compareImageChannels(#placeholderstart# Imagick image #placeholderend##placeholderstart#, int channelType #placeholderend##placeholderstart#, int metricType #placeholderend#)#placeholderstart# ; #placeholderend#

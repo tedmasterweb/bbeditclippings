@@ -1,0 +1,2 @@
+#indent#
+imagesetbrush(#placeholderstart# resource image #placeholderend##placeholderstart#, resource brush #placeholderend#)#placeholderstart# ; #placeholderend#

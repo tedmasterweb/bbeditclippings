@@ -1,0 +1,2 @@
+#indent#
+PDF_pcos_get_stream(#placeholderstart# resource p #placeholderend##placeholderstart#, int doc #placeholderend##placeholderstart#, string optlist #placeholderend##placeholderstart#, string path #placeholderend#)#placeholderstart# ; #placeholderend#

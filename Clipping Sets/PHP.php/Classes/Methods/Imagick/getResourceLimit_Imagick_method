@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->getResourceLimit(#placeholderstart# int type #placeholderend#)#placeholderstart# ; #placeholderend#

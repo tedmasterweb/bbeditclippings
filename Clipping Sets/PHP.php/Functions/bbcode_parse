@@ -1,0 +1,2 @@
+#indent#
+bbcode_parse(#placeholderstart# resource bbcode_container #placeholderend##placeholderstart#, string to_parse #placeholderend#)#placeholderstart# ; #placeholderend#

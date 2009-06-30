@@ -1,0 +1,2 @@
+#indent#
+ps_shading(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string type #placeholderend##placeholderstart#, float x0 #placeholderend##placeholderstart#, float y0 #placeholderend##placeholderstart#, float x1 #placeholderend##placeholderstart#, float y1 #placeholderend##placeholderstart#, float c1 #placeholderend##placeholderstart#, float c2 #placeholderend##placeholderstart#, float c3 #placeholderend##placeholderstart#, float c4 #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

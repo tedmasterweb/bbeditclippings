@@ -1,0 +1,2 @@
+#indent#
+m_destroyconn(#placeholderstart# resource conn #placeholderend#)#placeholderstart# ; #placeholderend#

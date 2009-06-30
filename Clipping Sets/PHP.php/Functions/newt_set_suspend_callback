@@ -1,0 +1,2 @@
+#indent#
+newt_set_suspend_callback(#placeholderstart# callback function #placeholderend##placeholderstart#, mixed data #placeholderend#)#placeholderstart# ; #placeholderend#

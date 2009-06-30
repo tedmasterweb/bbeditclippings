@@ -1,0 +1,2 @@
+#indent#
+w32api_deftype(#placeholderstart# string typename #placeholderend##placeholderstart#, string member1_type #placeholderend##placeholderstart#, string member1_name #placeholderend##placeholderstart#[, string ... ]#placeholderend##placeholderstart#[, string ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

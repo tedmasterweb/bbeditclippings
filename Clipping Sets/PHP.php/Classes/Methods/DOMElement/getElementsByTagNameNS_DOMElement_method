@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMElement #placeholderend#->getElementsByTagNameNS(#placeholderstart# string namespaceURI #placeholderend##placeholderstart#, string localName #placeholderend#)#placeholderstart# ; #placeholderend#

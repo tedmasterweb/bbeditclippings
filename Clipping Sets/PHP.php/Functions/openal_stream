@@ -1,0 +1,2 @@
+#indent#
+openal_stream(#placeholderstart# resource source #placeholderend##placeholderstart#, int format #placeholderend##placeholderstart#, int rate #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ps_arcn(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float radius #placeholderend##placeholderstart#, float alpha #placeholderend##placeholderstart#, float beta #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+notes_find_note(#placeholderstart# string database_name #placeholderend##placeholderstart#, string name #placeholderend##placeholderstart#[, string type ]#placeholderend#)#placeholderstart# ; #placeholderend#

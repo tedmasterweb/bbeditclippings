@@ -1,0 +1,2 @@
+#indent#
+m_parsecommadelimited(#placeholderstart# resource conn #placeholderend##placeholderstart#, int identifier #placeholderend#)#placeholderstart# ; #placeholderend#

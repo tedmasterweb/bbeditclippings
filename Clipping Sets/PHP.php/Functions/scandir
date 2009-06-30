@@ -1,0 +1,2 @@
+#indent#
+scandir(#placeholderstart# string directory #placeholderend##placeholderstart#[, int sorting_order ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

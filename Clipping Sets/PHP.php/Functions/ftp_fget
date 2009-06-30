@@ -1,0 +1,2 @@
+#indent#
+ftp_fget(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, resource handle #placeholderend##placeholderstart#, string remote_file #placeholderend##placeholderstart#, int mode #placeholderend##placeholderstart#[, int resumepos ]#placeholderend#)#placeholderstart# ; #placeholderend#

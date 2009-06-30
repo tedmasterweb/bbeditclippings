@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMImplementation #placeholderend#->hasFeature(#placeholderstart# string feature #placeholderend##placeholderstart#, string version #placeholderend#)#placeholderstart# ; #placeholderend#

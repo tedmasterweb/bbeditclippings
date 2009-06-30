@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFDisplayItem #placeholderend#->multColor(#placeholderstart# float red #placeholderend##placeholderstart#, float green #placeholderend##placeholderstart#, float blue #placeholderend##placeholderstart#[, float a ]#placeholderend#)#placeholderstart# ; #placeholderend#

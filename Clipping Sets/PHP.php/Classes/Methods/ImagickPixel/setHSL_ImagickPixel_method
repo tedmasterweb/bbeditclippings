@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickPixel #placeholderend#->setHSL(#placeholderstart# float hue #placeholderend##placeholderstart#, float saturation #placeholderend##placeholderstart#, float luminosity #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_textbox(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+array_reverse(#placeholderstart# array array #placeholderend##placeholderstart#[, bool preserve_keys ]#placeholderend#)#placeholderstart# ; #placeholderend#

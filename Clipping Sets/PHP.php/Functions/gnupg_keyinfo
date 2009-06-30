@@ -1,0 +1,2 @@
+#indent#
+gnupg_keyinfo(#placeholderstart# resource identifier #placeholderend##placeholderstart#, string pattern #placeholderend#)#placeholderstart# ; #placeholderend#

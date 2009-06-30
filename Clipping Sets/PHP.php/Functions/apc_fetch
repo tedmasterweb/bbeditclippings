@@ -1,0 +1,2 @@
+#indent#
+apc_fetch(#placeholderstart# string key #placeholderend##placeholderstart#[, bool success ]#placeholderend#)#placeholderstart# ; #placeholderend#

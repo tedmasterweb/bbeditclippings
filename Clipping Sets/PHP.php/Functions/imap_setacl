@@ -1,0 +1,2 @@
+#indent#
+imap_setacl(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, string mailbox #placeholderend##placeholderstart#, string id #placeholderend##placeholderstart#, string rights #placeholderend#)#placeholderstart# ; #placeholderend#

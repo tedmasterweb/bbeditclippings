@@ -1,0 +1,2 @@
+#indent#
+ob_gzhandler(#placeholderstart# string buffer #placeholderend##placeholderstart#, int mode #placeholderend#)#placeholderstart# ; #placeholderend#

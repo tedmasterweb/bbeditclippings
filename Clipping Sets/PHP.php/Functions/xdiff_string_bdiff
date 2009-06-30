@@ -1,0 +1,2 @@
+#indent#
+xdiff_string_bdiff(#placeholderstart# string old_data #placeholderend##placeholderstart#, string new_data #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+runkit_sandbox_output_handler(#placeholderstart# object sandbox #placeholderend##placeholderstart#[, mixed callback ]#placeholderend#)#placeholderstart# ; #placeholderend#

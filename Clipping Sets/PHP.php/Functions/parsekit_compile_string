@@ -1,0 +1,2 @@
+#indent#
+parsekit_compile_string(#placeholderstart# string phpcode #placeholderend##placeholderstart#[, array errors ]#placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+mcrypt_ofb(#placeholderstart# int cipher #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#, int mode #placeholderend##placeholderstart#, string iv #placeholderend#)#placeholderstart# ; #placeholderend#

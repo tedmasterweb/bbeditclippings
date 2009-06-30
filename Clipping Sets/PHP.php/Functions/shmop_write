@@ -1,0 +1,2 @@
+#indent#
+shmop_write(#placeholderstart# int shmid #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#, int offset #placeholderend#)#placeholderstart# ; #placeholderend#

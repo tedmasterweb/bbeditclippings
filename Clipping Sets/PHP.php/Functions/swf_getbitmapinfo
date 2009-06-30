@@ -1,0 +1,2 @@
+#indent#
+swf_getbitmapinfo(#placeholderstart# int bitmapid #placeholderend#)#placeholderstart# ; #placeholderend#

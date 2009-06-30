@@ -1,0 +1,2 @@
+#indent#
+finfo_set_flags(#placeholderstart# resource finfo #placeholderend##placeholderstart#, int options #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+dom_import_simplexml(#placeholderstart# SimpleXMLElement node #placeholderend#)#placeholderstart# ; #placeholderend#

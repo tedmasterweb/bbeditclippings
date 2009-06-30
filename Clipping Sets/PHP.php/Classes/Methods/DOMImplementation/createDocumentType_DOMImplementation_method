@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMImplementation #placeholderend#->createDocumentType(#placeholderstart#[ string qualifiedName ]#placeholderend##placeholderstart#[, string publicId ]#placeholderend##placeholderstart#[, string systemId ]#placeholderend#)#placeholderstart# ; #placeholderend#

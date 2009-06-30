@@ -1,0 +1,2 @@
+#indent#
+filter_input_array(#placeholderstart# int type #placeholderend##placeholderstart#[, mixed definition ]#placeholderend#)#placeholderstart# ; #placeholderend#

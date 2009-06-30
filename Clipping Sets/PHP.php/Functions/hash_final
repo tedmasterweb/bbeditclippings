@@ -1,0 +1,2 @@
+#indent#
+hash_final(#placeholderstart# resource context #placeholderend##placeholderstart#[, bool raw_output ]#placeholderend#)#placeholderstart# ; #placeholderend#

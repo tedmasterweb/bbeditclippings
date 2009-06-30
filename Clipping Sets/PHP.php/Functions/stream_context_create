@@ -1,0 +1,2 @@
+#indent#
+stream_context_create(#placeholderstart#[ array options ]#placeholderend##placeholderstart#[, array params ]#placeholderend#)#placeholderstart# ; #placeholderend#

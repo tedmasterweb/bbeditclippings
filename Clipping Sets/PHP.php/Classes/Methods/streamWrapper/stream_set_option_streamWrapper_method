@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# streamWrapper #placeholderend#->stream_set_option(#placeholderstart# int option #placeholderend##placeholderstart#, int arg1 #placeholderend##placeholderstart#, int arg2 #placeholderend#)#placeholderstart# ; #placeholderend#

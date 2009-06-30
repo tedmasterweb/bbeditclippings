@@ -1,0 +1,2 @@
+#indent#
+cyrus_query(#placeholderstart# resource connection #placeholderend##placeholderstart#, string query #placeholderend#)#placeholderstart# ; #placeholderend#

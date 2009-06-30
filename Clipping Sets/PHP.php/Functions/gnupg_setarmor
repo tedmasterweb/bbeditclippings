@@ -1,0 +1,2 @@
+#indent#
+gnupg_setarmor(#placeholderstart# resource identifier #placeholderend##placeholderstart#, int armor #placeholderend#)#placeholderstart# ; #placeholderend#

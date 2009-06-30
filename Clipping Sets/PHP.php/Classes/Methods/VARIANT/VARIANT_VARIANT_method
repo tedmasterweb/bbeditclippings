@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# VARIANT #placeholderend#->VARIANT(#placeholderstart#[ mixed value ]#placeholderend##placeholderstart#[, int type ]#placeholderend##placeholderstart#[, int codepage ]#placeholderend#)#placeholderstart# ; #placeholderend#

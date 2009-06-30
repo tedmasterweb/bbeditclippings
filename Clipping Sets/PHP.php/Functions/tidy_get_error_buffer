@@ -1,0 +1,2 @@
+#indent#
+tidy_get_error_buffer(#placeholderstart# tidy object #placeholderend#)#placeholderstart# ; #placeholderend#

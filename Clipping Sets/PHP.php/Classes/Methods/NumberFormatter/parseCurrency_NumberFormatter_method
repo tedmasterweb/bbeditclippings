@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# NumberFormatter #placeholderend#->parseCurrency(#placeholderstart# string value #placeholderend##placeholderstart#, string currency #placeholderend##placeholderstart#[, int position ]#placeholderend#)#placeholderstart# ; #placeholderend#

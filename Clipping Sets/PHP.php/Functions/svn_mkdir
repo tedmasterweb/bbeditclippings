@@ -1,0 +1,2 @@
+#indent#
+svn_mkdir(#placeholderstart# string path #placeholderend#)#placeholderstart# ; #placeholderend#

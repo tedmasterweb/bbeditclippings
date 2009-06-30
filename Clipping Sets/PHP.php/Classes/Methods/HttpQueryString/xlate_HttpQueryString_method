@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpQueryString #placeholderend#->xlate(#placeholderstart# string ie #placeholderend##placeholderstart#, string oe #placeholderend#)#placeholderstart# ; #placeholderend#

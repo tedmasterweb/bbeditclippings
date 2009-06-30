@@ -1,0 +1,2 @@
+#indent#
+yaz_database(#placeholderstart# resource id #placeholderend##placeholderstart#, string databases #placeholderend#)#placeholderstart# ; #placeholderend#

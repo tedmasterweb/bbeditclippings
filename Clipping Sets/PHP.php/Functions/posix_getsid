@@ -1,0 +1,2 @@
+#indent#
+posix_getsid(#placeholderstart# int pid #placeholderend#)#placeholderstart# ; #placeholderend#

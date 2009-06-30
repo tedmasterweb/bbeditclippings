@@ -1,0 +1,2 @@
+#indent#
+msession_inc(#placeholderstart# string session #placeholderend##placeholderstart#, string name #placeholderend#)#placeholderstart# ; #placeholderend#

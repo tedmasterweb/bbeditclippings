@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageOrientation(#placeholderstart# int orientation #placeholderend#)#placeholderstart# ; #placeholderend#

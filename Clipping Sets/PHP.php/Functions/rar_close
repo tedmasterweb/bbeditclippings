@@ -1,0 +1,2 @@
+#indent#
+rar_close(#placeholderstart# resource rar_file #placeholderend#)#placeholderstart# ; #placeholderend#

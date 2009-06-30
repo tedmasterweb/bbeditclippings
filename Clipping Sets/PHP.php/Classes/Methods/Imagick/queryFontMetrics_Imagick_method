@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->queryFontMetrics(#placeholderstart# ImagickDraw properties #placeholderend##placeholderstart#, string text #placeholderend##placeholderstart#[, bool multiline ]#placeholderend#)#placeholderstart# ; #placeholderend#

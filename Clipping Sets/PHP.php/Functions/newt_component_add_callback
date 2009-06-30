@@ -1,0 +1,2 @@
+#indent#
+newt_component_add_callback(#placeholderstart# resource component #placeholderend##placeholderstart#, mixed func_name #placeholderend##placeholderstart#, mixed data #placeholderend#)#placeholderstart# ; #placeholderend#

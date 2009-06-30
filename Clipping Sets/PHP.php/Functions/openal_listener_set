@@ -1,0 +1,2 @@
+#indent#
+openal_listener_set(#placeholderstart# int property #placeholderend##placeholderstart#, mixed setting #placeholderend#)#placeholderstart# ; #placeholderend#

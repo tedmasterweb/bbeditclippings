@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLReader #placeholderend#->getParserProperty(#placeholderstart# int property #placeholderend#)#placeholderstart# ; #placeholderend#

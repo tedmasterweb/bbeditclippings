@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SplFileInfo #placeholderend#->openFile(#placeholderstart#[ string open_mode ]#placeholderend##placeholderstart#[, bool use_include_path ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+svn_status(#placeholderstart# string path #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

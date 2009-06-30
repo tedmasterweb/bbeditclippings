@@ -1,0 +1,2 @@
+#indent#
+array_walk(#placeholderstart# array array #placeholderend##placeholderstart#, callback funcname #placeholderend##placeholderstart#[, mixed userdata ]#placeholderend#)#placeholderstart# ; #placeholderend#

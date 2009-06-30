@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->pathEllipticArcRelative(#placeholderstart# float rx #placeholderend##placeholderstart#, float ry #placeholderend##placeholderstart#, float x_axis_rotation #placeholderend##placeholderstart#, bool large_arc_flag #placeholderend##placeholderstart#, bool sweep_flag #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend#)#placeholderstart# ; #placeholderend#

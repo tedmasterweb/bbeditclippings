@@ -1,0 +1,2 @@
+#indent#
+yaz_connect(#placeholderstart# string zurl #placeholderend##placeholderstart#[, mixed options ]#placeholderend#)#placeholderstart# ; #placeholderend#

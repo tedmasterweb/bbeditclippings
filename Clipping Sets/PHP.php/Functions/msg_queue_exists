@@ -1,0 +1,2 @@
+#indent#
+msg_queue_exists(#placeholderstart# int key #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+bcsqrt(#placeholderstart# string operand #placeholderend##placeholderstart#[, int scale ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->blurImage(#placeholderstart# float radius #placeholderend##placeholderstart#, float sigma #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

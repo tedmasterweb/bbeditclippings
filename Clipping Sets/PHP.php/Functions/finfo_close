@@ -1,0 +1,2 @@
+#indent#
+finfo_close(#placeholderstart# resource finfo #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+readfile(#placeholderstart# string filename #placeholderend##placeholderstart#[, bool use_include_path ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

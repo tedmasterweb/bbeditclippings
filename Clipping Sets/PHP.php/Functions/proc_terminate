@@ -1,0 +1,2 @@
+#indent#
+proc_terminate(#placeholderstart# resource process #placeholderend##placeholderstart#[, int signal ]#placeholderend#)#placeholderstart# ; #placeholderend#

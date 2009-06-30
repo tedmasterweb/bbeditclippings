@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapClient #placeholderend#->__doRequest(#placeholderstart# string request #placeholderend##placeholderstart#, string location #placeholderend##placeholderstart#, string action #placeholderend##placeholderstart#, int version #placeholderend##placeholderstart#[, int one_way ]#placeholderend#)#placeholderstart# ; #placeholderend#

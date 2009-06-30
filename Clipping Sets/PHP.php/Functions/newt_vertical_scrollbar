@@ -1,0 +1,2 @@
+#indent#
+newt_vertical_scrollbar(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#[, int normal_colorset ]#placeholderend##placeholderstart#[, int thumb_colorset ]#placeholderend#)#placeholderstart# ; #placeholderend#

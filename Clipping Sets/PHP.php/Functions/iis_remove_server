@@ -1,0 +1,2 @@
+#indent#
+iis_remove_server(#placeholderstart# int server_instance #placeholderend#)#placeholderstart# ; #placeholderend#

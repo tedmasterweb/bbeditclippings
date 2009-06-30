@@ -1,0 +1,2 @@
+#indent#
+ftp_alloc(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, int filesize #placeholderend##placeholderstart#[, string result ]#placeholderend#)#placeholderstart# ; #placeholderend#

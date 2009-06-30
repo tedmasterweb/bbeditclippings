@@ -1,0 +1,2 @@
+#indent#
+base64_decode(#placeholderstart# string data #placeholderend##placeholderstart#[, bool strict ]#placeholderend#)#placeholderstart# ; #placeholderend#

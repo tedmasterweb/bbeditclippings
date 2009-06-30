@@ -1,0 +1,2 @@
+#indent#
+PDF_encoding_set_char(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string encoding #placeholderend##placeholderstart#, int slot #placeholderend##placeholderstart#, string glyphname #placeholderend##placeholderstart#, int uv #placeholderend#)#placeholderstart# ; #placeholderend#

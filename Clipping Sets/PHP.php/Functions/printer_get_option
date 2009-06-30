@@ -1,0 +1,2 @@
+#indent#
+printer_get_option(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, string option #placeholderend#)#placeholderstart# ; #placeholderend#

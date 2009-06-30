@@ -1,0 +1,2 @@
+#indent#
+mailparse_stream_encode(#placeholderstart# resource sourcefp #placeholderend##placeholderstart#, resource destfp #placeholderend##placeholderstart#, string encoding #placeholderend#)#placeholderstart# ; #placeholderend#

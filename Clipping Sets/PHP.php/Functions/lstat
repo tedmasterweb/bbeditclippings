@@ -1,0 +1,2 @@
+#indent#
+lstat(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

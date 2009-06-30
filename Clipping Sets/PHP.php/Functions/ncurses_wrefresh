@@ -1,0 +1,2 @@
+#indent#
+ncurses_wrefresh(#placeholderstart# resource window #placeholderend#)#placeholderstart# ; #placeholderend#

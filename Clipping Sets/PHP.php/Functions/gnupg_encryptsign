@@ -1,0 +1,2 @@
+#indent#
+gnupg_encryptsign(#placeholderstart# resource identifier #placeholderend##placeholderstart#, string plaintext #placeholderend#)#placeholderstart# ; #placeholderend#

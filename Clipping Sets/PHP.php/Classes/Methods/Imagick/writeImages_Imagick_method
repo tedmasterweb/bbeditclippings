@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->writeImages(#placeholderstart# string filename #placeholderend##placeholderstart#, bool adjoin #placeholderend#)#placeholderstart# ; #placeholderend#

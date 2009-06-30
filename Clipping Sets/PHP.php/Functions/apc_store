@@ -1,0 +1,2 @@
+#indent#
+apc_store(#placeholderstart# string key #placeholderend##placeholderstart#, mixed var #placeholderend##placeholderstart#[, int ttl ]#placeholderend#)#placeholderstart# ; #placeholderend#

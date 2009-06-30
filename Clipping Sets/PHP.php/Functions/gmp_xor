@@ -1,0 +1,2 @@
+#indent#
+gmp_xor(#placeholderstart# resource a #placeholderend##placeholderstart#, resource b #placeholderend#)#placeholderstart# ; #placeholderend#

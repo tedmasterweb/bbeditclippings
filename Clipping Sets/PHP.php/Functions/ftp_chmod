@@ -1,0 +1,2 @@
+#indent#
+ftp_chmod(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, int mode #placeholderend##placeholderstart#, string filename #placeholderend#)#placeholderstart# ; #placeholderend#

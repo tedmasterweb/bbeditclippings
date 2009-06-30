@@ -1,0 +1,2 @@
+#indent#
+iterator_apply(#placeholderstart# Traversable iterator #placeholderend##placeholderstart#, callback function #placeholderend##placeholderstart#[, array args ]#placeholderend#)#placeholderstart# ; #placeholderend#

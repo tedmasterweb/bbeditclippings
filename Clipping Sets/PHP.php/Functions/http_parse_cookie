@@ -1,0 +1,2 @@
+#indent#
+http_parse_cookie(#placeholderstart# string cookie #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, array allowed_extras ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+version_compare(#placeholderstart# string version1 #placeholderend##placeholderstart#, string version2 #placeholderend##placeholderstart#[, string operator ]#placeholderend#)#placeholderstart# ; #placeholderend#

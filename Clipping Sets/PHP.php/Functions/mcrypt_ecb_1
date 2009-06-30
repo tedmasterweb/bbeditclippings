@@ -1,0 +1,2 @@
+#indent#
+mcrypt_ecb(#placeholderstart# int cipher #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#, int mode #placeholderend#)#placeholderstart# ; #placeholderend#

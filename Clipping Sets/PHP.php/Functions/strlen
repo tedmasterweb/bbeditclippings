@@ -1,0 +1,2 @@
+#indent#
+strlen(#placeholderstart# string string #placeholderend#)#placeholderstart# ; #placeholderend#

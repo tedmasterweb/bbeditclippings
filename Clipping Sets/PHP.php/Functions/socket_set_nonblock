@@ -1,0 +1,2 @@
+#indent#
+socket_set_nonblock(#placeholderstart# resource socket #placeholderend#)#placeholderstart# ; #placeholderend#

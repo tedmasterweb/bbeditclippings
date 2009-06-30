@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFShape #placeholderend#->drawCubicTo(#placeholderstart# float bx #placeholderend##placeholderstart#, float by #placeholderend##placeholderstart#, float cx #placeholderend##placeholderstart#, float cy #placeholderend##placeholderstart#, float dx #placeholderend##placeholderstart#, float dy #placeholderend#)#placeholderstart# ; #placeholderend#

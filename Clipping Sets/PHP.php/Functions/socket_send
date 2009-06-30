@@ -1,0 +1,2 @@
+#indent#
+socket_send(#placeholderstart# resource socket #placeholderend##placeholderstart#, string buf #placeholderend##placeholderstart#, int len #placeholderend##placeholderstart#, int flags #placeholderend#)#placeholderstart# ; #placeholderend#

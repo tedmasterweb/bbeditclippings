@@ -1,0 +1,2 @@
+#indent#
+PDF_show(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string text #placeholderend#)#placeholderstart# ; #placeholderend#

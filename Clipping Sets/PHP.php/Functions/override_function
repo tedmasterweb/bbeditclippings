@@ -1,0 +1,2 @@
+#indent#
+override_function(#placeholderstart# string function_name #placeholderend##placeholderstart#, string function_args #placeholderend##placeholderstart#, string function_code #placeholderend#)#placeholderstart# ; #placeholderend#

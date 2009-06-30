@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->frameImage(#placeholderstart# mixed matte_color #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#, int inner_bevel #placeholderend##placeholderstart#, int outer_bevel #placeholderend#)#placeholderstart# ; #placeholderend#

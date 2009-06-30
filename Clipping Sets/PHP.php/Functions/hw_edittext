@@ -1,0 +1,2 @@
+#indent#
+hw_edittext(#placeholderstart# int connection #placeholderend##placeholderstart#, int hw_document #placeholderend#)#placeholderstart# ; #placeholderend#

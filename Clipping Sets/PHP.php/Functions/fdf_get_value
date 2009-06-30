@@ -1,0 +1,2 @@
+#indent#
+fdf_get_value(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string fieldname #placeholderend##placeholderstart#[, int which ]#placeholderend#)#placeholderstart# ; #placeholderend#

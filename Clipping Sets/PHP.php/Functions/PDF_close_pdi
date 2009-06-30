@@ -1,0 +1,2 @@
+#indent#
+PDF_close_pdi(#placeholderstart# resource p #placeholderend##placeholderstart#, int doc #placeholderend#)#placeholderstart# ; #placeholderend#

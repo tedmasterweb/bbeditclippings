@@ -1,0 +1,2 @@
+#indent#
+svn_ls(#placeholderstart# string repos_url #placeholderend##placeholderstart#[, int revision_no ]#placeholderend##placeholderstart#[, bool recurse ]#placeholderend#)#placeholderstart# ; #placeholderend#

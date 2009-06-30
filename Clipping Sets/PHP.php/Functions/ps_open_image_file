@@ -1,0 +1,2 @@
+#indent#
+ps_open_image_file(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, string type #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#[, string stringparam ]#placeholderend##placeholderstart#[, int intparam ]#placeholderend#)#placeholderstart# ; #placeholderend#

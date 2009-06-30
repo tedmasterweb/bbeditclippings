@@ -1,0 +1,2 @@
+#indent#
+ssh2_sftp_lstat(#placeholderstart# resource sftp #placeholderend##placeholderstart#, string path #placeholderend#)#placeholderstart# ; #placeholderend#

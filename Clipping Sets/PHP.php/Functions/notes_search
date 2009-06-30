@@ -1,0 +1,2 @@
+#indent#
+notes_search(#placeholderstart# string database_name #placeholderend##placeholderstart#, string keywords #placeholderend#)#placeholderstart# ; #placeholderend#

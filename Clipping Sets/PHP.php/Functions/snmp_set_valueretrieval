@@ -1,0 +1,2 @@
+#indent#
+snmp_set_valueretrieval(#placeholderstart# int method #placeholderend#)#placeholderstart# ; #placeholderend#

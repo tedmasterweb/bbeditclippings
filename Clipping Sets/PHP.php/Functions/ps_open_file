@@ -1,0 +1,2 @@
+#indent#
+ps_open_file(#placeholderstart# resource psdoc #placeholderend##placeholderstart#[, string filename ]#placeholderend#)#placeholderstart# ; #placeholderend#

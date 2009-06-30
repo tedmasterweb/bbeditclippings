@@ -1,0 +1,2 @@
+#indent#
+snmp_set_quick_print(#placeholderstart# bool quick_print #placeholderend#)#placeholderstart# ; #placeholderend#

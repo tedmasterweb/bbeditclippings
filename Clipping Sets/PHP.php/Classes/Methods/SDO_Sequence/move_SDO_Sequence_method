@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_Sequence #placeholderend#->move(#placeholderstart# int toIndex #placeholderend##placeholderstart#, int fromIndex #placeholderend#)#placeholderstart# ; #placeholderend#

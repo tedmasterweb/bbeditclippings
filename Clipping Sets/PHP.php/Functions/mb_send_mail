@@ -1,0 +1,2 @@
+#indent#
+mb_send_mail(#placeholderstart# string to #placeholderend##placeholderstart#, string subject #placeholderend##placeholderstart#, string message #placeholderend##placeholderstart#[, string additional_headers ]#placeholderend##placeholderstart#[, string additional_parameter ]#placeholderend#)#placeholderstart# ; #placeholderend#

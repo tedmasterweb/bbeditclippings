@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setFontWeight(#placeholderstart# int font_weight #placeholderend#)#placeholderstart# ; #placeholderend#

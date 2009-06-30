@@ -1,0 +1,2 @@
+#indent#
+mailparse_uudecode_all(#placeholderstart# resource fp #placeholderend#)#placeholderstart# ; #placeholderend#

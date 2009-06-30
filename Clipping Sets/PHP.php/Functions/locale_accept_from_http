@@ -1,0 +1,2 @@
+#indent#
+locale_accept_from_http(#placeholderstart# string header #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_entry_set(#placeholderstart# resource entry #placeholderend##placeholderstart#, string value #placeholderend##placeholderstart#[, bool cursor_at_end ]#placeholderend#)#placeholderstart# ; #placeholderend#

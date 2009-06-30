@@ -1,0 +1,2 @@
+#indent#
+PDF_activate_item(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int id #placeholderend#)#placeholderstart# ; #placeholderend#

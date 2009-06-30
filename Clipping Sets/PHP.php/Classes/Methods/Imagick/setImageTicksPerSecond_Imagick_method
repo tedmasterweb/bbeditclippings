@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setImageTicksPerSecond(#placeholderstart# int ticks_per-second #placeholderend#)#placeholderstart# ; #placeholderend#

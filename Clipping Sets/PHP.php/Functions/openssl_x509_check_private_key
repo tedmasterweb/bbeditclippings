@@ -1,0 +1,2 @@
+#indent#
+openssl_x509_check_private_key(#placeholderstart# mixed cert #placeholderend##placeholderstart#, mixed key #placeholderend#)#placeholderstart# ; #placeholderend#

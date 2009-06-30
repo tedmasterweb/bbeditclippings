@@ -1,0 +1,2 @@
+#indent#
+fdf_get_attachment(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string fieldname #placeholderend##placeholderstart#, string savepath #placeholderend#)#placeholderstart# ; #placeholderend#

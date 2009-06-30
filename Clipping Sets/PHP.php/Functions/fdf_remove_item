@@ -1,0 +1,2 @@
+#indent#
+fdf_remove_item(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string fieldname #placeholderend##placeholderstart#, int item #placeholderend#)#placeholderstart# ; #placeholderend#

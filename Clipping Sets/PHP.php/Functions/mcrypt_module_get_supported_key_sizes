@@ -1,0 +1,2 @@
+#indent#
+mcrypt_module_get_supported_key_sizes(#placeholderstart# string algorithm #placeholderend##placeholderstart#[, string lib_dir ]#placeholderend#)#placeholderstart# ; #placeholderend#

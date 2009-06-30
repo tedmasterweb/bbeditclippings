@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->resizeImage(#placeholderstart# int columns #placeholderend##placeholderstart#, int rows #placeholderend##placeholderstart#, int filter #placeholderend##placeholderstart#, float blur #placeholderend##placeholderstart#[, bool fit ]#placeholderend#)#placeholderstart# ; #placeholderend#

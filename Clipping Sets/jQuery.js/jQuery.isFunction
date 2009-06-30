@@ -1,0 +1,2 @@
+#indent#
+jQuery.isFunctionjQuery.isFunction( #placeholderstart#Object obj#placeholderend# )

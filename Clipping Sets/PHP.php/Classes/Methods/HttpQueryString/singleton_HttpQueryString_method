@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpQueryString #placeholderend#->singleton(#placeholderstart#[ bool global ]#placeholderend#)#placeholderstart# ; #placeholderend#

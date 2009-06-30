@@ -1,0 +1,2 @@
+#indent#
+svn_fs_abort_txn(#placeholderstart# resource txn #placeholderend#)#placeholderstart# ; #placeholderend#

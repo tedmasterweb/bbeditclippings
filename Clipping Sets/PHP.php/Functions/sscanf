@@ -1,0 +1,2 @@
+#indent#
+sscanf(#placeholderstart# string str #placeholderend##placeholderstart#, string format #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

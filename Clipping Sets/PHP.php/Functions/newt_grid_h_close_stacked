@@ -1,0 +1,2 @@
+#indent#
+newt_grid_h_close_stacked(#placeholderstart# int element1_type #placeholderend##placeholderstart#, resource element1 #placeholderend##placeholderstart#[, int ... ]#placeholderend##placeholderstart#[, resource ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

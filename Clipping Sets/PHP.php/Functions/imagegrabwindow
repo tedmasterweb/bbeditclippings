@@ -1,0 +1,2 @@
+#indent#
+imagegrabwindow(#placeholderstart# int window #placeholderend##placeholderstart#[, int client_area ]#placeholderend#)#placeholderstart# ; #placeholderend#

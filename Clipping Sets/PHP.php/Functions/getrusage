@@ -1,0 +1,2 @@
+#indent#
+getrusage(#placeholderstart#[ int who ]#placeholderend#)#placeholderstart# ; #placeholderend#

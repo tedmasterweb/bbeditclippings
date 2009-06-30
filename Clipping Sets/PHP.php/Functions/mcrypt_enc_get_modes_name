@@ -1,0 +1,2 @@
+#indent#
+mcrypt_enc_get_modes_name(#placeholderstart# resource td #placeholderend#)#placeholderstart# ; #placeholderend#

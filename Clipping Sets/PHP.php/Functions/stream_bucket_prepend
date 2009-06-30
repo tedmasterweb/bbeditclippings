@@ -1,0 +1,2 @@
+#indent#
+stream_bucket_prepend(#placeholderstart# resource brigade #placeholderend##placeholderstart#, resource bucket #placeholderend#)#placeholderstart# ; #placeholderend#

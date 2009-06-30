@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcache #placeholderend#->getStats(#placeholderstart#[ string type ]#placeholderend##placeholderstart#[, int slabid ]#placeholderend##placeholderstart#[, int limit ]#placeholderend#)#placeholderstart# ; #placeholderend#

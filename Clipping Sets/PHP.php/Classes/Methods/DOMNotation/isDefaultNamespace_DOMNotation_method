@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMNotation #placeholderend#->isDefaultNamespace(#placeholderstart# string namespaceURI #placeholderend#)#placeholderstart# ; #placeholderend#

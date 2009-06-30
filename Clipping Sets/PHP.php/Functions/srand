@@ -1,0 +1,2 @@
+#indent#
+srand(#placeholderstart#[ int seed ]#placeholderend#)#placeholderstart# ; #placeholderend#

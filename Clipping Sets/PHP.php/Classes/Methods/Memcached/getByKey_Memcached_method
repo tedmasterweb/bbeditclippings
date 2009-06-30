@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->getByKey(#placeholderstart# string server_key #placeholderend##placeholderstart#, string key #placeholderend##placeholderstart#[, callback cache_cb ]#placeholderend##placeholderstart#[, double cas_token ]#placeholderend#)#placeholderstart# ; #placeholderend#

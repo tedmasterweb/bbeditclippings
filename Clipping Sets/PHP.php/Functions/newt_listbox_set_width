@@ -1,0 +1,2 @@
+#indent#
+newt_listbox_set_width(#placeholderstart# resource listbox #placeholderend##placeholderstart#, int width #placeholderend#)#placeholderstart# ; #placeholderend#

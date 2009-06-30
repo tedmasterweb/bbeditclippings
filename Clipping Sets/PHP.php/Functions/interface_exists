@@ -1,0 +1,2 @@
+#indent#
+interface_exists(#placeholderstart# string interface_name #placeholderend##placeholderstart#[, bool autoload ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+imagecolorallocatealpha(#placeholderstart# resource image #placeholderend##placeholderstart#, int red #placeholderend##placeholderstart#, int green #placeholderend##placeholderstart#, int blue #placeholderend##placeholderstart#, int alpha #placeholderend#)#placeholderstart# ; #placeholderend#

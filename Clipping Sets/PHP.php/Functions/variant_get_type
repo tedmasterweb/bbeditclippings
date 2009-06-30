@@ -1,0 +1,2 @@
+#indent#
+variant_get_type(#placeholderstart# variant variant #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->linearStretchImage(#placeholderstart# float blackPoint #placeholderend##placeholderstart#, float whitePoint #placeholderend#)#placeholderstart# ; #placeholderend#

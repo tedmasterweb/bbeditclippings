@@ -1,0 +1,2 @@
+#indent#
+pspell_new_personal(#placeholderstart# string personal #placeholderend##placeholderstart#, string language #placeholderend##placeholderstart#[, string spelling ]#placeholderend##placeholderstart#[, string jargon ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend##placeholderstart#[, int mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

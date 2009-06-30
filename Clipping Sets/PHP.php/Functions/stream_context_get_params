@@ -1,0 +1,2 @@
+#indent#
+stream_context_get_params(#placeholderstart# resource stream_or_context #placeholderend#)#placeholderstart# ; #placeholderend#

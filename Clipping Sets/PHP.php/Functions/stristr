@@ -1,0 +1,2 @@
+#indent#
+stristr(#placeholderstart# string haystack #placeholderend##placeholderstart#, mixed needle #placeholderend##placeholderstart#[, bool before_needle ]#placeholderend#)#placeholderstart# ; #placeholderend#

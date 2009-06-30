@@ -1,0 +1,2 @@
+#indent#
+mqseries_strerror(#placeholderstart# int reason #placeholderend#)#placeholderstart# ; #placeholderend#

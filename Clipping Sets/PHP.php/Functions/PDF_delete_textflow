@@ -1,0 +1,2 @@
+#indent#
+PDF_delete_textflow(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int textflow #placeholderend#)#placeholderstart# ; #placeholderend#

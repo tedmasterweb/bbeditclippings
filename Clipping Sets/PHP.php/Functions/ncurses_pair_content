@@ -1,0 +1,2 @@
+#indent#
+ncurses_pair_content(#placeholderstart# int pair #placeholderend##placeholderstart#, int f #placeholderend##placeholderstart#, int b #placeholderend#)#placeholderstart# ; #placeholderend#

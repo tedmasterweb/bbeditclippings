@@ -1,0 +1,2 @@
+#indent#
+dio_write(#placeholderstart# resource fd #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#[, int len ]#placeholderend#)#placeholderstart# ; #placeholderend#

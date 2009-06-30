@@ -1,0 +1,2 @@
+#indent#
+strpbrk(#placeholderstart# string haystack #placeholderend##placeholderstart#, string char_list #placeholderend#)#placeholderstart# ; #placeholderend#

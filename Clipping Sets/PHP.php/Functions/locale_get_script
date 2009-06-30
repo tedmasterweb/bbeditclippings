@@ -1,0 +1,2 @@
+#indent#
+locale_get_script(#placeholderstart# string locale #placeholderend#)#placeholderstart# ; #placeholderend#

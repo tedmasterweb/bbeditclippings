@@ -1,0 +1,2 @@
+#indent#
+bcompiler_parse_class(#placeholderstart# string class #placeholderend##placeholderstart#, string callback #placeholderend#)#placeholderstart# ; #placeholderend#

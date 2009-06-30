@@ -1,0 +1,2 @@
+#indent#
+hw_dummy(#placeholderstart# int link #placeholderend##placeholderstart#, int id #placeholderend##placeholderstart#, int msgid #placeholderend#)#placeholderstart# ; #placeholderend#

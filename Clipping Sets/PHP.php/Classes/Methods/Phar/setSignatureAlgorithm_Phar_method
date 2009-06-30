@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Phar #placeholderend#->setSignatureAlgorithm(#placeholderstart# int sigtype #placeholderend#)#placeholderstart# ; #placeholderend#

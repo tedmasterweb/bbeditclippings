@@ -1,0 +1,2 @@
+#indent#
+xdiff_string_bdiff_size(#placeholderstart# string patch #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+mhash_keygen_s2k(#placeholderstart# int hash #placeholderend##placeholderstart#, string password #placeholderend##placeholderstart#, string salt #placeholderend##placeholderstart#, int bytes #placeholderend#)#placeholderstart# ; #placeholderend#

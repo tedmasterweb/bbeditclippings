@@ -1,0 +1,2 @@
+#indent#
+xmlrpc_set_type(#placeholderstart# string value #placeholderend##placeholderstart#, string type #placeholderend#)#placeholderstart# ; #placeholderend#

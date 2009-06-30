@@ -1,0 +1,2 @@
+#indent#
+get_class_methods(#placeholderstart# mixed class_name #placeholderend#)#placeholderstart# ; #placeholderend#

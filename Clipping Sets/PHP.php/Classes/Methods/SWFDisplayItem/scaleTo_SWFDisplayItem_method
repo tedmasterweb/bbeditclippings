@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFDisplayItem #placeholderend#->scaleTo(#placeholderstart# float x #placeholderend##placeholderstart#[, float y ]#placeholderend#)#placeholderstart# ; #placeholderend#

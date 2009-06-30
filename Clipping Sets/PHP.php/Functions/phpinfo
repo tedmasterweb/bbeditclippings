@@ -1,0 +1,2 @@
+#indent#
+phpinfo(#placeholderstart#[ int what ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+printer_create_pen(#placeholderstart# int style #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, string color #placeholderend#)#placeholderstart# ; #placeholderend#

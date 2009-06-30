@@ -1,0 +1,2 @@
+#indent#
+PDF_delete_table(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int table #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

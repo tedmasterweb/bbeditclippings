@@ -1,0 +1,2 @@
+#indent#
+PDF_add_nameddest(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string name #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

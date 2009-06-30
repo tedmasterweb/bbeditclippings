@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").hide( #placeholderstart#String/Number speed#placeholderend##placeholderstart#, Function callback#placeholderend# )

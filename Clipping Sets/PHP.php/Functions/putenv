@@ -1,0 +1,2 @@
+#indent#
+putenv(#placeholderstart# string setting #placeholderend#)#placeholderstart# ; #placeholderend#

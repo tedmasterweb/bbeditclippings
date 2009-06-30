@@ -1,0 +1,2 @@
+#indent#
+localtime(#placeholderstart#[ int timestamp ]#placeholderend##placeholderstart#[, bool is_associative ]#placeholderend#)#placeholderstart# ; #placeholderend#

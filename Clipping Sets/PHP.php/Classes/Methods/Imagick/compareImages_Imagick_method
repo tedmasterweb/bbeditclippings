@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->compareImages(#placeholderstart# Imagick compare #placeholderend##placeholderstart#, int metric #placeholderend#)#placeholderstart# ; #placeholderend#

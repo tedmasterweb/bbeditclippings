@@ -1,0 +1,2 @@
+#indent#
+ldap_set_rebind_proc(#placeholderstart# resource link #placeholderend##placeholderstart#, callback callback #placeholderend#)#placeholderstart# ; #placeholderend#

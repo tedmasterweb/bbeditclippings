@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->setResolution(#placeholderstart# float x_resolution #placeholderend##placeholderstart#, float y_resolution #placeholderend#)#placeholderstart# ; #placeholderend#

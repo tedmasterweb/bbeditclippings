@@ -1,0 +1,2 @@
+#indent#
+imap_savebody(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, mixed file #placeholderend##placeholderstart#, int msg_number #placeholderend##placeholderstart#[, string part_number ]#placeholderend##placeholderstart#[, int options ]#placeholderend#)#placeholderstart# ; #placeholderend#

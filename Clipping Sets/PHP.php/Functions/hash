@@ -1,0 +1,2 @@
+#indent#
+hash(#placeholderstart# string algo #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#[, bool raw_output ]#placeholderend#)#placeholderstart# ; #placeholderend#

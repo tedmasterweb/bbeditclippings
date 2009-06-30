@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMEntityReference #placeholderend#->lookupNamespaceURI(#placeholderstart# string prefix #placeholderend#)#placeholderstart# ; #placeholderend#

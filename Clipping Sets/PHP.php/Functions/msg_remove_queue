@@ -1,0 +1,2 @@
+#indent#
+msg_remove_queue(#placeholderstart# resource queue #placeholderend#)#placeholderstart# ; #placeholderend#

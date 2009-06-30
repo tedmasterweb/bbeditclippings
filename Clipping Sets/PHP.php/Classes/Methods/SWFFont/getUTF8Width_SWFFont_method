@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFFont #placeholderend#->getUTF8Width(#placeholderstart# string string #placeholderend#)#placeholderstart# ; #placeholderend#

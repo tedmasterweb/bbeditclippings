@@ -1,0 +1,2 @@
+#indent#
+openssl_seal(#placeholderstart# string data #placeholderend##placeholderstart#, string sealed_data #placeholderend##placeholderstart#, array env_keys #placeholderend##placeholderstart#, array pub_key_ids #placeholderend#)#placeholderstart# ; #placeholderend#

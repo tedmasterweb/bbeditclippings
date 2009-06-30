@@ -1,0 +1,2 @@
+#indent#
+xpath_new_context(#placeholderstart# domdocument dom_document #placeholderend#)#placeholderstart# ; #placeholderend#

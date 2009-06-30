@@ -1,0 +1,2 @@
+#indent#
+ldap_rename(#placeholderstart# resource link_identifier #placeholderend##placeholderstart#, string dn #placeholderend##placeholderstart#, string newrdn #placeholderend##placeholderstart#, string newparent #placeholderend##placeholderstart#, bool deleteoldrdn #placeholderend#)#placeholderstart# ; #placeholderend#

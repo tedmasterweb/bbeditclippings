@@ -1,0 +1,2 @@
+#indent#
+intl_error_name(#placeholderstart# int error_code #placeholderend#)#placeholderstart# ; #placeholderend#

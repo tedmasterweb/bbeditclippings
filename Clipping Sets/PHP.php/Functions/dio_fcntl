@@ -1,0 +1,2 @@
+#indent#
+dio_fcntl(#placeholderstart# resource fd #placeholderend##placeholderstart#, int cmd #placeholderend##placeholderstart#[, mixed args ]#placeholderend#)#placeholderstart# ; #placeholderend#

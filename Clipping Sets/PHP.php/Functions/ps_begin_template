@@ -1,0 +1,2 @@
+#indent#
+ps_begin_template(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#, float height #placeholderend#)#placeholderstart# ; #placeholderend#

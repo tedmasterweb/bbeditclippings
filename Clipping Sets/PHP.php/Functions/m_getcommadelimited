@@ -1,0 +1,2 @@
+#indent#
+m_getcommadelimited(#placeholderstart# resource conn #placeholderend##placeholderstart#, int identifier #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->writeDTDElement(#placeholderstart# string name #placeholderend##placeholderstart#, string content #placeholderend#)#placeholderstart# ; #placeholderend#

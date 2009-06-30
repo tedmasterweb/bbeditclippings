@@ -1,0 +1,2 @@
+#indent#
+ps_close_image(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int imageid #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+enchant_dict_suggest(#placeholderstart# resource dict #placeholderend##placeholderstart#, string word #placeholderend#)#placeholderstart# ; #placeholderend#

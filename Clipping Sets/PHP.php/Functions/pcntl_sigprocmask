@@ -1,0 +1,2 @@
+#indent#
+pcntl_sigprocmask(#placeholderstart# int how #placeholderend##placeholderstart#, array set #placeholderend##placeholderstart#[, array oldset ]#placeholderend#)#placeholderstart# ; #placeholderend#

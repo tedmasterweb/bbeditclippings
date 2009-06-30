@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_XML #placeholderend#->saveString(#placeholderstart# SDO_XMLDocument xdoc #placeholderend##placeholderstart#[, int indent ]#placeholderend#)#placeholderstart# ; #placeholderend#

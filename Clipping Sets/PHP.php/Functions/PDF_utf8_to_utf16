@@ -1,0 +1,2 @@
+#indent#
+PDF_utf8_to_utf16(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string utf8string #placeholderend##placeholderstart#, string ordering #placeholderend#)#placeholderstart# ; #placeholderend#

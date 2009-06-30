@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMDocument #placeholderend#->registerNodeClass(#placeholderstart# string baseclass #placeholderend##placeholderstart#, string extendedclass #placeholderend#)#placeholderstart# ; #placeholderend#

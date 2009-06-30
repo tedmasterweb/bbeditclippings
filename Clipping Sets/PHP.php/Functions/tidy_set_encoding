@@ -1,0 +1,2 @@
+#indent#
+tidy_set_encoding(#placeholderstart# string encoding #placeholderend#)#placeholderstart# ; #placeholderend#

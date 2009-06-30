@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFTextField #placeholderend#->addChars(#placeholderstart# string chars #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpMessage #placeholderend#->setResponseCode(#placeholderstart# int code #placeholderend#)#placeholderstart# ; #placeholderend#

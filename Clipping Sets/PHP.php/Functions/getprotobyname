@@ -1,0 +1,2 @@
+#indent#
+getprotobyname(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

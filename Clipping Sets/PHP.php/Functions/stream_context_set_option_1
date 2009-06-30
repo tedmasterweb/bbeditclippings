@@ -1,0 +1,2 @@
+#indent#
+stream_context_set_option(#placeholderstart# resource stream_or_context #placeholderend##placeholderstart#, string wrapper #placeholderend##placeholderstart#, string option #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

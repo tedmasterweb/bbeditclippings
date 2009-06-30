@@ -1,0 +1,2 @@
+#indent#
+udm_cat_path(#placeholderstart# resource agent #placeholderend##placeholderstart#, string category #placeholderend#)#placeholderstart# ; #placeholderend#

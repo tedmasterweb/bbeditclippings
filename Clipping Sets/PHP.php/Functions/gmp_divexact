@@ -1,0 +1,2 @@
+#indent#
+gmp_divexact(#placeholderstart# resource n #placeholderend##placeholderstart#, resource d #placeholderend#)#placeholderstart# ; #placeholderend#

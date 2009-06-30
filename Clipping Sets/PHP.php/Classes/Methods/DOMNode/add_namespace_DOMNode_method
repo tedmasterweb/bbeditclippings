@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMNode #placeholderend#->add_namespace(#placeholderstart# string uri #placeholderend##placeholderstart#, string prefix #placeholderend#)#placeholderstart# ; #placeholderend#

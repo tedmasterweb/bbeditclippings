@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->paintTransparentImage(#placeholderstart# mixed target #placeholderend##placeholderstart#, float alpha #placeholderend##placeholderstart#, float fuzz #placeholderend#)#placeholderstart# ; #placeholderend#

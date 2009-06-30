@@ -1,0 +1,2 @@
+#indent#
+http_redirect(#placeholderstart#[ string url ]#placeholderend##placeholderstart#[, array params ]#placeholderend##placeholderstart#[, bool session ]#placeholderend##placeholderstart#[, int status ]#placeholderend#)#placeholderstart# ; #placeholderend#

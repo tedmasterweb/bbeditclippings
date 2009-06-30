@@ -1,0 +1,2 @@
+#indent#
+ctype_upper(#placeholderstart# string text #placeholderend#)#placeholderstart# ; #placeholderend#

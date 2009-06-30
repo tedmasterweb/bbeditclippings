@@ -1,0 +1,2 @@
+#indent#
+stream_filter_prepend(#placeholderstart# resource stream #placeholderend##placeholderstart#, string filtername #placeholderend##placeholderstart#[, int read_write ]#placeholderend##placeholderstart#[, mixed params ]#placeholderend#)#placeholderstart# ; #placeholderend#

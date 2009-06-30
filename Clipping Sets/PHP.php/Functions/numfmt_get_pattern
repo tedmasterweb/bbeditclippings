@@ -1,0 +1,2 @@
+#indent#
+numfmt_get_pattern(#placeholderstart# NumberFormatter fmt #placeholderend#)#placeholderstart# ; #placeholderend#

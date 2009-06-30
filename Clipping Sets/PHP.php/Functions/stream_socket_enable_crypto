@@ -1,0 +1,2 @@
+#indent#
+stream_socket_enable_crypto(#placeholderstart# resource stream #placeholderend##placeholderstart#, bool enable #placeholderend##placeholderstart#[, int crypto_type ]#placeholderend##placeholderstart#[, resource session_stream ]#placeholderend#)#placeholderstart# ; #placeholderend#

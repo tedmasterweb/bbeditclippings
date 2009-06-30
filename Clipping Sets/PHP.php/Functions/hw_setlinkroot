@@ -1,0 +1,2 @@
+#indent#
+hw_setlinkroot(#placeholderstart# int link #placeholderend##placeholderstart#, int rootid #placeholderend#)#placeholderstart# ; #placeholderend#

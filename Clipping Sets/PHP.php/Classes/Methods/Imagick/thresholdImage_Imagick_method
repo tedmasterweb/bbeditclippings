@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->thresholdImage(#placeholderstart# float threshold #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

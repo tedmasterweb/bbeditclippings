@@ -1,0 +1,2 @@
+#indent#
+get_cfg_var(#placeholderstart# string option #placeholderend#)#placeholderstart# ; #placeholderend#

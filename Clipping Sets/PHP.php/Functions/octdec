@@ -1,0 +1,2 @@
+#indent#
+octdec(#placeholderstart# string octal_string #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+get_browser(#placeholderstart#[ string user_agent ]#placeholderend##placeholderstart#[, bool return_array ]#placeholderend#)#placeholderstart# ; #placeholderend#

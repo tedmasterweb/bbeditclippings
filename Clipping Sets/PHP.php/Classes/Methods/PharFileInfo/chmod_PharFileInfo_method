@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharFileInfo #placeholderend#->chmod(#placeholderstart# int permissions #placeholderend#)#placeholderstart# ; #placeholderend#

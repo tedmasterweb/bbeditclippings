@@ -1,0 +1,2 @@
+#indent#
+imap_mail(#placeholderstart# string to #placeholderend##placeholderstart#, string subject #placeholderend##placeholderstart#, string message #placeholderend##placeholderstart#[, string additional_headers ]#placeholderend##placeholderstart#[, string cc ]#placeholderend##placeholderstart#[, string bcc ]#placeholderend##placeholderstart#[, string rpath ]#placeholderend#)#placeholderstart# ; #placeholderend#

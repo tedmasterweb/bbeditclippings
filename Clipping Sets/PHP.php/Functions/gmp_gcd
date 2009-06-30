@@ -1,0 +1,2 @@
+#indent#
+gmp_gcd(#placeholderstart# resource a #placeholderend##placeholderstart#, resource b #placeholderend#)#placeholderstart# ; #placeholderend#

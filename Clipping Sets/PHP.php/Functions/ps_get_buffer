@@ -1,0 +1,2 @@
+#indent#
+ps_get_buffer(#placeholderstart# resource psdoc #placeholderend#)#placeholderstart# ; #placeholderend#

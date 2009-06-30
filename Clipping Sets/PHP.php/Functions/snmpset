@@ -1,0 +1,2 @@
+#indent#
+snmpset(#placeholderstart# string hostname #placeholderend##placeholderstart#, string community #placeholderend##placeholderstart#, string object_id #placeholderend##placeholderstart#, string type #placeholderend##placeholderstart#, mixed value #placeholderend##placeholderstart#[, int timeout ]#placeholderend##placeholderstart#[, int retries ]#placeholderend#)#placeholderstart# ; #placeholderend#

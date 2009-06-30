@@ -1,0 +1,2 @@
+#indent#
+set_include_path(#placeholderstart# string new_include_path #placeholderend#)#placeholderstart# ; #placeholderend#

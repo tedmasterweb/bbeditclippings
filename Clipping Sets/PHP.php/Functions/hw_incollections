@@ -1,0 +1,2 @@
+#indent#
+hw_incollections(#placeholderstart# int connection #placeholderend##placeholderstart#, array object_id_array #placeholderend##placeholderstart#, array collection_id_array #placeholderend##placeholderstart#, int return_collections #placeholderend#)#placeholderstart# ; #placeholderend#

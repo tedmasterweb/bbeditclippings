@@ -1,0 +1,2 @@
+#indent#
+svn_fs_delete(#placeholderstart# resource root #placeholderend##placeholderstart#, string path #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruDoc #placeholderend#->setEncryptionMode(#placeholderstart# int mode #placeholderend##placeholderstart#[, int key_len ]#placeholderend#)#placeholderstart# ; #placeholderend#

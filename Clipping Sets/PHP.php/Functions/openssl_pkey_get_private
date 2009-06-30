@@ -1,0 +1,2 @@
+#indent#
+openssl_pkey_get_private(#placeholderstart# mixed key #placeholderend##placeholderstart#[, string passphrase ]#placeholderend#)#placeholderstart# ; #placeholderend#

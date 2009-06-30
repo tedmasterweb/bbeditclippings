@@ -1,0 +1,2 @@
+#indent#
+PDF_fill_pdfblock(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int page #placeholderend##placeholderstart#, string blockname #placeholderend##placeholderstart#, int contents #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

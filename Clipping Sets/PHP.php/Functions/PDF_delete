@@ -1,0 +1,2 @@
+#indent#
+PDF_delete(#placeholderstart# resource pdfdoc #placeholderend#)#placeholderstart# ; #placeholderend#

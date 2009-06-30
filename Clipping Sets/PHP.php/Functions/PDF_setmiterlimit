@@ -1,0 +1,2 @@
+#indent#
+PDF_setmiterlimit(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float miter #placeholderend#)#placeholderstart# ; #placeholderend#

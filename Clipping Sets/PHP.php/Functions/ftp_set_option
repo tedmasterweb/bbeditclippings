@@ -1,0 +1,2 @@
+#indent#
+ftp_set_option(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, int option #placeholderend##placeholderstart#, mixed value #placeholderend#)#placeholderstart# ; #placeholderend#

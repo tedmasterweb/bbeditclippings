@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_ChangeSummary #placeholderend#->getOldValues(#placeholderstart# SDO_DataObject data_object #placeholderend#)#placeholderstart# ; #placeholderend#

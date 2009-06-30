@@ -1,0 +1,2 @@
+#indent#
+gmp_add(#placeholderstart# resource a #placeholderend##placeholderstart#, resource b #placeholderend#)#placeholderstart# ; #placeholderend#

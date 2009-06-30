@@ -1,0 +1,2 @@
+#indent#
+ncurses_scr_restore(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_form_get_current(#placeholderstart# resource form #placeholderend#)#placeholderstart# ; #placeholderend#

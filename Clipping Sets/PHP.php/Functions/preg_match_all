@@ -1,0 +1,2 @@
+#indent#
+preg_match_all(#placeholderstart# string pattern #placeholderend##placeholderstart#, string subject #placeholderend##placeholderstart#, array matches #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, int offset ]#placeholderend#)#placeholderstart# ; #placeholderend#

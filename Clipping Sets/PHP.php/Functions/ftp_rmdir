@@ -1,0 +1,2 @@
+#indent#
+ftp_rmdir(#placeholderstart# resource ftp_stream #placeholderend##placeholderstart#, string directory #placeholderend#)#placeholderstart# ; #placeholderend#

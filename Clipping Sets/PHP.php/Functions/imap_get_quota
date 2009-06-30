@@ -1,0 +1,2 @@
+#indent#
+imap_get_quota(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, string quota_root #placeholderend#)#placeholderstart# ; #placeholderend#

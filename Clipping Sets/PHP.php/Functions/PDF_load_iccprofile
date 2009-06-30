@@ -1,0 +1,2 @@
+#indent#
+PDF_load_iccprofile(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string profilename #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

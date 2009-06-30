@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruDoc #placeholderend#->setInfoAttr(#placeholderstart# int type #placeholderend##placeholderstart#, string info #placeholderend#)#placeholderstart# ; #placeholderend#

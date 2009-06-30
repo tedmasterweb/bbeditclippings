@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->addNoiseImage(#placeholderstart# int noise_type #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

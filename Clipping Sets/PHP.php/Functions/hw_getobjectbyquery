@@ -1,0 +1,2 @@
+#indent#
+hw_getobjectbyquery(#placeholderstart# int connection #placeholderend##placeholderstart#, string query #placeholderend##placeholderstart#, int max_hits #placeholderend#)#placeholderstart# ; #placeholderend#

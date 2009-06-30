@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->writeDTD(#placeholderstart# string name #placeholderend##placeholderstart#[, string publicId ]#placeholderend##placeholderstart#[, string systemId ]#placeholderend##placeholderstart#[, string subset ]#placeholderend#)#placeholderstart# ; #placeholderend#

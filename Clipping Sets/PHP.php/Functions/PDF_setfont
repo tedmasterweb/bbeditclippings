@@ -1,0 +1,2 @@
+#indent#
+PDF_setfont(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int font #placeholderend##placeholderstart#, float fontsize #placeholderend#)#placeholderstart# ; #placeholderend#

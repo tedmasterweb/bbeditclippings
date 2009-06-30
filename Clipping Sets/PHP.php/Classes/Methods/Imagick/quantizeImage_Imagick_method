@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->quantizeImage(#placeholderstart# int numberColors #placeholderend##placeholderstart#, int colorspace #placeholderend##placeholderstart#, int treedepth #placeholderend##placeholderstart#, bool dither #placeholderend##placeholderstart#, bool measureError #placeholderend#)#placeholderstart# ; #placeholderend#

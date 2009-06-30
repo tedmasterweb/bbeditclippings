@@ -1,0 +1,2 @@
+#indent#
+shm_get_var(#placeholderstart# resource shm_identifier #placeholderend##placeholderstart#, int variable_key #placeholderend#)#placeholderstart# ; #placeholderend#

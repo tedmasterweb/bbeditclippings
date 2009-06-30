@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").animate( #placeholderstart#Options params#placeholderend##placeholderstart#, String/Number duration#placeholderend##placeholderstart#, String easing#placeholderend##placeholderstart#, Function callback#placeholderend# )

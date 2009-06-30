@@ -1,0 +1,2 @@
+#indent#
+PDF_translate(#placeholderstart# resource p #placeholderend##placeholderstart#, float tx #placeholderend##placeholderstart#, float ty #placeholderend#)#placeholderstart# ; #placeholderend#

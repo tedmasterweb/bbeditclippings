@@ -1,0 +1,2 @@
+#indent#
+jQuery.eachjQuery.each( #placeholderstart#Object object#placeholderend##placeholderstart#, Function callback#placeholderend# )

@@ -1,0 +1,2 @@
+#indent#
+PDF_delete_pvf(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string filename #placeholderend#)#placeholderstart# ; #placeholderend#

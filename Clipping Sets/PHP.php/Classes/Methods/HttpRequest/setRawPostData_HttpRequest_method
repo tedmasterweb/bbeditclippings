@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpRequest #placeholderend#->setRawPostData(#placeholderstart#[ string raw_post_data ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+newt_centered_window(#placeholderstart# int width #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#[, string title ]#placeholderend#)#placeholderstart# ; #placeholderend#

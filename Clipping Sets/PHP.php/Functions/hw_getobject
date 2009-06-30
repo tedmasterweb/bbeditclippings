@@ -1,0 +1,2 @@
+#indent#
+hw_getobject(#placeholderstart# int connection #placeholderend##placeholderstart#, mixed objectID #placeholderend##placeholderstart#[, string query ]#placeholderend#)#placeholderstart# ; #placeholderend#

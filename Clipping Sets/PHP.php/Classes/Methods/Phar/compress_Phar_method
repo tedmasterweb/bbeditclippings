@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Phar #placeholderend#->compress(#placeholderstart# int compression #placeholderend##placeholderstart#[, string extension ]#placeholderend#)#placeholderstart# ; #placeholderend#

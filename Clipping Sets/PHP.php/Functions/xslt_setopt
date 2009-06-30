@@ -1,0 +1,2 @@
+#indent#
+xslt_setopt(#placeholderstart# resource processor #placeholderend##placeholderstart#, int newmask #placeholderend#)#placeholderstart# ; #placeholderend#

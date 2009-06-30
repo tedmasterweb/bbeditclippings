@@ -1,0 +1,2 @@
+#indent#
+newt_checkbox_set_flags(#placeholderstart# resource checkbox #placeholderend##placeholderstart#, int flags #placeholderend##placeholderstart#, int sense #placeholderend#)#placeholderstart# ; #placeholderend#

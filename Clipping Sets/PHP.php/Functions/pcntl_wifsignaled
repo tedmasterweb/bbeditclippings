@@ -1,0 +1,2 @@
+#indent#
+pcntl_wifsignaled(#placeholderstart# int status #placeholderend#)#placeholderstart# ; #placeholderend#

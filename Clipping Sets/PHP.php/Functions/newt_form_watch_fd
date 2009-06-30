@@ -1,0 +1,2 @@
+#indent#
+newt_form_watch_fd(#placeholderstart# resource form #placeholderend##placeholderstart#, resource stream #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

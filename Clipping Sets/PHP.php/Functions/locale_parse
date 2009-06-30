@@ -1,0 +1,2 @@
+#indent#
+locale_parse(#placeholderstart# string locale #placeholderend#)#placeholderstart# ; #placeholderend#

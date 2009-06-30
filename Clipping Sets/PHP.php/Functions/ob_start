@@ -1,0 +1,2 @@
+#indent#
+ob_start(#placeholderstart#[ callback output_callback ]#placeholderend##placeholderstart#[, int chunk_size ]#placeholderend##placeholderstart#[, bool erase ]#placeholderend#)#placeholderstart# ; #placeholderend#

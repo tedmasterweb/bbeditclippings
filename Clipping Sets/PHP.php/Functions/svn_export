@@ -1,0 +1,2 @@
+#indent#
+svn_export(#placeholderstart# string frompath #placeholderend##placeholderstart#, string topath #placeholderend##placeholderstart#[, bool working_copy ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ncurses_wcolor_set(#placeholderstart# resource window #placeholderend##placeholderstart#, int color_pair #placeholderend#)#placeholderstart# ; #placeholderend#

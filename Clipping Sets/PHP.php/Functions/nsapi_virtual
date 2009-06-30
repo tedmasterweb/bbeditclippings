@@ -1,0 +1,2 @@
+#indent#
+nsapi_virtual(#placeholderstart# string uri #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMNotation #placeholderend#->insertBefore(#placeholderstart# DOMNode newnode #placeholderend##placeholderstart#[, DOMNode refnode ]#placeholderend#)#placeholderstart# ; #placeholderend#

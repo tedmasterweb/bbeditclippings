@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Phar #placeholderend#->extractTo(#placeholderstart# string pathto #placeholderend##placeholderstart#[, string|array files ]#placeholderend##placeholderstart#[, bool overwrite ]#placeholderend#)#placeholderstart# ; #placeholderend#

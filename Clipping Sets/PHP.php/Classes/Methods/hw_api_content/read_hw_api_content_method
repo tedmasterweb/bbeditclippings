@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# hw_api_content #placeholderend#->read(#placeholderstart# string buffer #placeholderend##placeholderstart#, int len #placeholderend#)#placeholderstart# ; #placeholderend#

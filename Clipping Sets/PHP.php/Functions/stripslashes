@@ -1,0 +1,2 @@
+#indent#
+stripslashes(#placeholderstart# string str #placeholderend#)#placeholderstart# ; #placeholderend#

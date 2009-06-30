@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruAnnotation #placeholderend#->setBorderStyle(#placeholderstart# float width #placeholderend##placeholderstart#, int dash_on #placeholderend##placeholderstart#, int dash_off #placeholderend#)#placeholderstart# ; #placeholderend#

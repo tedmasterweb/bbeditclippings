@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# NumberFormatter #placeholderend#->formatCurrency(#placeholderstart# float value #placeholderend##placeholderstart#, string currency #placeholderend#)#placeholderstart# ; #placeholderend#

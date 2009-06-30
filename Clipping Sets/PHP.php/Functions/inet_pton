@@ -1,0 +1,2 @@
+#indent#
+inet_pton(#placeholderstart# string address #placeholderend#)#placeholderstart# ; #placeholderend#

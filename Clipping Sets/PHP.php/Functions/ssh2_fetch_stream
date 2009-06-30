@@ -1,0 +1,2 @@
+#indent#
+ssh2_fetch_stream(#placeholderstart# resource channel #placeholderend##placeholderstart#, int streamid #placeholderend#)#placeholderstart# ; #placeholderend#

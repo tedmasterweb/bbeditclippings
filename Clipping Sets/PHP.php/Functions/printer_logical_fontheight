@@ -1,0 +1,2 @@
+#indent#
+printer_logical_fontheight(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, int height #placeholderend#)#placeholderstart# ; #placeholderend#

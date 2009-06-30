@@ -1,0 +1,2 @@
+#indent#
+yaz_es(#placeholderstart# resource id #placeholderend##placeholderstart#, string type #placeholderend##placeholderstart#, array args #placeholderend#)#placeholderstart# ; #placeholderend#

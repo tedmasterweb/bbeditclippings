@@ -1,0 +1,2 @@
+#indent#
+ssh2_publickey_remove(#placeholderstart# resource pkey #placeholderend##placeholderstart#, string algoname #placeholderend##placeholderstart#, string blob #placeholderend#)#placeholderstart# ; #placeholderend#

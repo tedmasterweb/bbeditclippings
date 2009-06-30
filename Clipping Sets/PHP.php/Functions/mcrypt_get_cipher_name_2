@@ -1,0 +1,2 @@
+#indent#
+mcrypt_get_cipher_name(#placeholderstart# string cipher #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+round(#placeholderstart# float val #placeholderend##placeholderstart#[, int precision ]#placeholderend##placeholderstart#[, int mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

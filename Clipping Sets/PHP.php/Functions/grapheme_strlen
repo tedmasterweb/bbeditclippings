@@ -1,0 +1,2 @@
+#indent#
+grapheme_strlen(#placeholderstart# string input #placeholderend#)#placeholderstart# ; #placeholderend#

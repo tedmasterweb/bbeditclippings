@@ -1,0 +1,2 @@
+#indent#
+svn_fs_apply_text(#placeholderstart# resource root #placeholderend##placeholderstart#, string path #placeholderend#)#placeholderstart# ; #placeholderend#

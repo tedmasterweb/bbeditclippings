@@ -1,0 +1,2 @@
+#indent#
+array_splice(#placeholderstart# array input #placeholderend##placeholderstart#, int offset #placeholderend##placeholderstart#[, int length ]#placeholderend##placeholderstart#[, mixed replacement ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_add_note(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float llx #placeholderend##placeholderstart#, float lly #placeholderend##placeholderstart#, float urx #placeholderend##placeholderstart#, float ury #placeholderend##placeholderstart#, string contents #placeholderend##placeholderstart#, string title #placeholderend##placeholderstart#, string icon #placeholderend##placeholderstart#, int open #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+virtual(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

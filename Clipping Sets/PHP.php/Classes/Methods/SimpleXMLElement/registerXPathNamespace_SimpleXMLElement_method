@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SimpleXMLElement #placeholderend#->registerXPathNamespace(#placeholderstart# string prefix #placeholderend##placeholderstart#, string ns #placeholderend#)#placeholderstart# ; #placeholderend#

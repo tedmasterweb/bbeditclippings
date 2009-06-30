@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcache #placeholderend#->getServerStatus(#placeholderstart# string host #placeholderend##placeholderstart#[, int port ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+imap_status(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, string mailbox #placeholderend##placeholderstart#, int options #placeholderend#)#placeholderstart# ; #placeholderend#

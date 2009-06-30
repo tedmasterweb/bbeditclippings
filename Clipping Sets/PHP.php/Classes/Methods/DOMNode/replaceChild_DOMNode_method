@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMNode #placeholderend#->replaceChild(#placeholderstart# DOMNode newnode #placeholderend##placeholderstart#, DOMNode oldnode #placeholderend#)#placeholderstart# ; #placeholderend#

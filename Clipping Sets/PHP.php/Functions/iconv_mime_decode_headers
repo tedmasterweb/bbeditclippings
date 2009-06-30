@@ -1,0 +1,2 @@
+#indent#
+iconv_mime_decode_headers(#placeholderstart# string encoded_headers #placeholderend##placeholderstart#[, int mode ]#placeholderend##placeholderstart#[, string charset ]#placeholderend#)#placeholderstart# ; #placeholderend#

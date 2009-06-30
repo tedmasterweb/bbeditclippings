@@ -1,0 +1,2 @@
+#indent#
+openssl_pkey_free(#placeholderstart# resource key #placeholderend#)#placeholderstart# ; #placeholderend#

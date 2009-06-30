@@ -1,0 +1,2 @@
+#indent#
+strpos(#placeholderstart# string haystack #placeholderend##placeholderstart#, mixed needle #placeholderend##placeholderstart#[, int offset ]#placeholderend#)#placeholderstart# ; #placeholderend#

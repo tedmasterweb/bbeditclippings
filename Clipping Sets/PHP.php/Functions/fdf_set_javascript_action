@@ -1,0 +1,2 @@
+#indent#
+fdf_set_javascript_action(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string fieldname #placeholderend##placeholderstart#, int trigger #placeholderend##placeholderstart#, string script #placeholderend#)#placeholderstart# ; #placeholderend#

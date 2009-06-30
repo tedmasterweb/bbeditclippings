@@ -1,0 +1,2 @@
+#indent#
+mb_strimwidth(#placeholderstart# string str #placeholderend##placeholderstart#, int start #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#[, string trimmarker ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

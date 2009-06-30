@@ -1,0 +1,2 @@
+#indent#
+ps_shfill(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int shadingid #placeholderend#)#placeholderstart# ; #placeholderend#

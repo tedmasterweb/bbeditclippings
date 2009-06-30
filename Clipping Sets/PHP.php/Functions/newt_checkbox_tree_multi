@@ -1,0 +1,2 @@
+#indent#
+newt_checkbox_tree_multi(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#, string seq #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

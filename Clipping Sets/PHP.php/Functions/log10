@@ -1,0 +1,2 @@
+#indent#
+log10(#placeholderstart# float arg #placeholderend#)#placeholderstart# ; #placeholderend#

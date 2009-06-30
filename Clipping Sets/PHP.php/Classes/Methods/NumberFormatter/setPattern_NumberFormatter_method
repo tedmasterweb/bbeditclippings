@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# NumberFormatter #placeholderend#->setPattern(#placeholderstart# string pattern #placeholderend#)#placeholderstart# ; #placeholderend#

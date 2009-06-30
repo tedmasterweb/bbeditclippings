@@ -1,0 +1,2 @@
+#indent#
+ps_circle(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float radius #placeholderend#)#placeholderstart# ; #placeholderend#

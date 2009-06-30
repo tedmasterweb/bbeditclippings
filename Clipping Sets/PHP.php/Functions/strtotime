@@ -1,0 +1,2 @@
+#indent#
+strtotime(#placeholderstart# string time #placeholderend##placeholderstart#[, int now ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+bbcode_add_smiley(#placeholderstart# resource bbcode_container #placeholderend##placeholderstart#, string smiley #placeholderend##placeholderstart#, string replace_by #placeholderend#)#placeholderstart# ; #placeholderend#

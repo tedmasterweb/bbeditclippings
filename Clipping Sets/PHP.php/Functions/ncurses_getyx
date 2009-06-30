@@ -1,0 +1,2 @@
+#indent#
+ncurses_getyx(#placeholderstart# resource window #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, int x #placeholderend#)#placeholderstart# ; #placeholderend#

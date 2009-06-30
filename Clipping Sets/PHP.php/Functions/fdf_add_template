@@ -1,0 +1,2 @@
+#indent#
+fdf_add_template(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, int newpage #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, string template #placeholderend##placeholderstart#, int rename #placeholderend#)#placeholderstart# ; #placeholderend#

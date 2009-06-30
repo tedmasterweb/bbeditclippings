@@ -1,0 +1,2 @@
+#indent#
+stream_socket_recvfrom(#placeholderstart# resource socket #placeholderend##placeholderstart#, int length #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, string address ]#placeholderend#)#placeholderstart# ; #placeholderend#

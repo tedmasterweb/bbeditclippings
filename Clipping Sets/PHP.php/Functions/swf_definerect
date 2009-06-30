@@ -1,0 +1,2 @@
+#indent#
+swf_definerect(#placeholderstart# int objid #placeholderend##placeholderstart#, float x1 #placeholderend##placeholderstart#, float y1 #placeholderend##placeholderstart#, float x2 #placeholderend##placeholderstart#, float y2 #placeholderend##placeholderstart#, float width #placeholderend#)#placeholderstart# ; #placeholderend#

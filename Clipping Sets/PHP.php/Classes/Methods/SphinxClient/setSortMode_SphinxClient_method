@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->setSortMode(#placeholderstart# int mode #placeholderend##placeholderstart#[, string sortby ]#placeholderend#)#placeholderstart# ; #placeholderend#

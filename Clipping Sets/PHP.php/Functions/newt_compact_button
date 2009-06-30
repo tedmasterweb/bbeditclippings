@@ -1,0 +1,2 @@
+#indent#
+newt_compact_button(#placeholderstart# int left #placeholderend##placeholderstart#, int top #placeholderend##placeholderstart#, string text #placeholderend#)#placeholderstart# ; #placeholderend#

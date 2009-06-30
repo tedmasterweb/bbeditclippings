@@ -1,0 +1,2 @@
+#indent#
+newt_resize_screen(#placeholderstart#[ bool redraw ]#placeholderend#)#placeholderstart# ; #placeholderend#

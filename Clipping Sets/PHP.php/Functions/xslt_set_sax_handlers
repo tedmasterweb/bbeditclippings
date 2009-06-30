@@ -1,0 +1,2 @@
+#indent#
+xslt_set_sax_handlers(#placeholderstart# resource processor #placeholderend##placeholderstart#, array handlers #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+yaz_set_option(#placeholderstart# resource id #placeholderend##placeholderstart#, array options #placeholderend#)#placeholderstart# ; #placeholderend#

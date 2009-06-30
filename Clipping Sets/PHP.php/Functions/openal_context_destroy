@@ -1,0 +1,2 @@
+#indent#
+openal_context_destroy(#placeholderstart# resource context #placeholderend#)#placeholderstart# ; #placeholderend#

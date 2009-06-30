@@ -1,0 +1,2 @@
+#indent#
+mb_split(#placeholderstart# string pattern #placeholderend##placeholderstart#, string string #placeholderend##placeholderstart#[, int limit ]#placeholderend#)#placeholderstart# ; #placeholderend#

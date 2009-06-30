@@ -1,0 +1,2 @@
+#indent#
+PDF_setlinecap(#placeholderstart# resource p #placeholderend##placeholderstart#, int linecap #placeholderend#)#placeholderstart# ; #placeholderend#

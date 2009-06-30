@@ -1,0 +1,2 @@
+#indent#
+xmlrpc_server_add_introspection_data(#placeholderstart# resource server #placeholderend##placeholderstart#, array desc #placeholderend#)#placeholderstart# ; #placeholderend#

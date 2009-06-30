@@ -1,0 +1,2 @@
+#indent#
+ncurses_mvaddchnstr(#placeholderstart# int y #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, string s #placeholderend##placeholderstart#, int n #placeholderend#)#placeholderstart# ; #placeholderend#

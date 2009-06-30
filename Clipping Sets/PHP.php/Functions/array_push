@@ -1,0 +1,2 @@
+#indent#
+array_push(#placeholderstart# array array #placeholderend##placeholderstart#, mixed var #placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

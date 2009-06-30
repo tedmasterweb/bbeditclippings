@@ -1,0 +1,2 @@
+#indent#
+snmpget(#placeholderstart# string hostname #placeholderend##placeholderstart#, string community #placeholderend##placeholderstart#, string object_id #placeholderend##placeholderstart#[, int timeout ]#placeholderend##placeholderstart#[, int retries ]#placeholderend#)#placeholderstart# ; #placeholderend#

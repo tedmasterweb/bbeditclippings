@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFSound #placeholderend#->__construct(#placeholderstart# string filename #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+socket_bind(#placeholderstart# resource socket #placeholderend##placeholderstart#, string address #placeholderend##placeholderstart#[, int port ]#placeholderend#)#placeholderstart# ; #placeholderend#

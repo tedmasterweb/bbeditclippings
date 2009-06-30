@@ -1,0 +1,2 @@
+#indent#
+http_parse_message(#placeholderstart# string message #placeholderend#)#placeholderstart# ; #placeholderend#

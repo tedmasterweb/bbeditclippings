@@ -1,0 +1,2 @@
+#indent#
+ncurses_use_extended_names(#placeholderstart# bool flag #placeholderend#)#placeholderstart# ; #placeholderend#

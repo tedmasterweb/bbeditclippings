@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Phar #placeholderend#->setStub(#placeholderstart# string stub #placeholderend#)#placeholderstart# ; #placeholderend#

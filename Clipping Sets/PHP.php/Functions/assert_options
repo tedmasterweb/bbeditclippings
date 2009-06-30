@@ -1,0 +1,2 @@
+#indent#
+assert_options(#placeholderstart# int what #placeholderend##placeholderstart#[, mixed value ]#placeholderend#)#placeholderstart# ; #placeholderend#

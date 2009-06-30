@@ -1,0 +1,2 @@
+#indent#
+gzfile(#placeholderstart# string filename #placeholderend##placeholderstart#[, int use_include_path ]#placeholderend#)#placeholderstart# ; #placeholderend#

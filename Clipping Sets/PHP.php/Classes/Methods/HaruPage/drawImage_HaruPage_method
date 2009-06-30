@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->drawImage(#placeholderstart# object image #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#, float height #placeholderend#)#placeholderstart# ; #placeholderend#

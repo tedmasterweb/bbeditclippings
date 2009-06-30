@@ -1,0 +1,2 @@
+#indent#
+PDF_create_pvf(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, string data #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

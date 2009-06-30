@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomNode #placeholderend#->set_content(#placeholderstart# string content #placeholderend#)#placeholderstart# ; #placeholderend#

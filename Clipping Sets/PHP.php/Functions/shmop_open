@@ -1,0 +1,2 @@
+#indent#
+shmop_open(#placeholderstart# int key #placeholderend##placeholderstart#, string flags #placeholderend##placeholderstart#, int mode #placeholderend##placeholderstart#, int size #placeholderend#)#placeholderstart# ; #placeholderend#

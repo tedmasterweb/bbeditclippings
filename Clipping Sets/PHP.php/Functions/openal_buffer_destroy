@@ -1,0 +1,2 @@
+#indent#
+openal_buffer_destroy(#placeholderstart# resource buffer #placeholderend#)#placeholderstart# ; #placeholderend#

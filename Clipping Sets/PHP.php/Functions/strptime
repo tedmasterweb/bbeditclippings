@@ -1,0 +1,2 @@
+#indent#
+strptime(#placeholderstart# string date #placeholderend##placeholderstart#, string format #placeholderend#)#placeholderstart# ; #placeholderend#

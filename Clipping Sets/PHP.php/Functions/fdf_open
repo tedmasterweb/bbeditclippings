@@ -1,0 +1,2 @@
+#indent#
+fdf_open(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

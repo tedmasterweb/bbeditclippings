@@ -1,0 +1,2 @@
+#indent#
+runkit_method_copy(#placeholderstart# string dClass #placeholderend##placeholderstart#, string dMethod #placeholderend##placeholderstart#, string sClass #placeholderend##placeholderstart#[, string sMethod ]#placeholderend#)#placeholderstart# ; #placeholderend#

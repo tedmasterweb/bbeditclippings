@@ -1,0 +1,2 @@
+#indent#
+openssl_x509_read(#placeholderstart# mixed x509certdata #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_List #placeholderend#->insert(#placeholderstart# mixed value #placeholderend##placeholderstart#[, int index ]#placeholderend#)#placeholderstart# ; #placeholderend#

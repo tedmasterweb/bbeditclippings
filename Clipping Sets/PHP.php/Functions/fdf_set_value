@@ -1,0 +1,2 @@
+#indent#
+fdf_set_value(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string fieldname #placeholderend##placeholderstart#, mixed value #placeholderend##placeholderstart#[, int isName ]#placeholderend#)#placeholderstart# ; #placeholderend#

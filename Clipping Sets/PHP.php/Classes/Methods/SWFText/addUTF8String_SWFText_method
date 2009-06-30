@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFText #placeholderend#->addUTF8String(#placeholderstart# string text #placeholderend#)#placeholderstart# ; #placeholderend#

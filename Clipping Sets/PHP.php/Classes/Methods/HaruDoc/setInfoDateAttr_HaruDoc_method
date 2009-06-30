@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruDoc #placeholderend#->setInfoDateAttr(#placeholderstart# int type #placeholderend##placeholderstart#, int year #placeholderend##placeholderstart#, int month #placeholderend##placeholderstart#, int day #placeholderend##placeholderstart#, int hour #placeholderend##placeholderstart#, int min #placeholderend##placeholderstart#, int sec #placeholderend##placeholderstart#, string ind #placeholderend##placeholderstart#, int off_hour #placeholderend##placeholderstart#, int off_min #placeholderend#)#placeholderstart# ; #placeholderend#

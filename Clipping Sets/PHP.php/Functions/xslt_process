@@ -1,0 +1,2 @@
+#indent#
+xslt_process(#placeholderstart# resource xh #placeholderend##placeholderstart#, string xmlcontainer #placeholderend##placeholderstart#, string xslcontainer #placeholderend##placeholderstart#[, string resultcontainer ]#placeholderend##placeholderstart#[, array arguments ]#placeholderend##placeholderstart#[, array parameters ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+bbcode_set_flags(#placeholderstart# resource bbcode_container #placeholderend##placeholderstart#, int flags #placeholderend##placeholderstart#[, int mode ]#placeholderend#)#placeholderstart# ; #placeholderend#

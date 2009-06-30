@@ -1,0 +1,2 @@
+#indent#
+textdomain(#placeholderstart# string text_domain #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+curl_multi_getcontent(#placeholderstart# resource ch #placeholderend#)#placeholderstart# ; #placeholderend#

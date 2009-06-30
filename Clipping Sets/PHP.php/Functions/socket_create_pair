@@ -1,0 +1,2 @@
+#indent#
+socket_create_pair(#placeholderstart# int domain #placeholderend##placeholderstart#, int type #placeholderend##placeholderstart#, int protocol #placeholderend##placeholderstart#, array fd #placeholderend#)#placeholderstart# ; #placeholderend#

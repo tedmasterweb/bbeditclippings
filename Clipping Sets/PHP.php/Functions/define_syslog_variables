@@ -1,0 +1,2 @@
+#indent#
+define_syslog_variables()#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+msgfmt_set_pattern(#placeholderstart# MessageFormatter fmt #placeholderend##placeholderstart#, string pattern #placeholderend#)#placeholderstart# ; #placeholderend#

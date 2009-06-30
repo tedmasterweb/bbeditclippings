@@ -1,0 +1,2 @@
+#indent#
+ncurses_keypad(#placeholderstart# resource window #placeholderend##placeholderstart#, bool bf #placeholderend#)#placeholderstart# ; #placeholderend#

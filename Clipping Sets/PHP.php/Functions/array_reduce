@@ -1,0 +1,2 @@
+#indent#
+array_reduce(#placeholderstart# array input #placeholderend##placeholderstart#, callback function #placeholderend##placeholderstart#[, int initial ]#placeholderend#)#placeholderstart# ; #placeholderend#

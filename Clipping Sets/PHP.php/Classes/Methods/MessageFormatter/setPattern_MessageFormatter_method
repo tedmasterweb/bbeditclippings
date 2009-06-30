@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# MessageFormatter #placeholderend#->setPattern(#placeholderstart# string pattern #placeholderend#)#placeholderstart# ; #placeholderend#

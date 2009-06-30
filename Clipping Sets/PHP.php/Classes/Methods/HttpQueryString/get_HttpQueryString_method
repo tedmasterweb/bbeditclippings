@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpQueryString #placeholderend#->get(#placeholderstart#[ string key ]#placeholderend##placeholderstart#[, mixed type ]#placeholderend##placeholderstart#[, mixed defval ]#placeholderend##placeholderstart#[, bool delete ]#placeholderend#)#placeholderstart# ; #placeholderend#

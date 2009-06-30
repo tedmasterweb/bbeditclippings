@@ -1,0 +1,2 @@
+#indent#
+newt_grid_place(#placeholderstart# resource grid #placeholderend##placeholderstart#, int left #placeholderend##placeholderstart#, int top #placeholderend#)#placeholderstart# ; #placeholderend#

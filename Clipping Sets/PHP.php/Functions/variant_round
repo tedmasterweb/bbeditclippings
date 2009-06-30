@@ -1,0 +1,2 @@
+#indent#
+variant_round(#placeholderstart# mixed variant #placeholderend##placeholderstart#, int decimals #placeholderend#)#placeholderstart# ; #placeholderend#

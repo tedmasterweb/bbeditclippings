@@ -1,0 +1,2 @@
+#indent#
+socket_read(#placeholderstart# resource socket #placeholderend##placeholderstart#, int length #placeholderend##placeholderstart#[, int type ]#placeholderend#)#placeholderstart# ; #placeholderend#

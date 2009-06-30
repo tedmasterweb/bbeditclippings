@@ -1,0 +1,2 @@
+#indent#
+stream_notification_callback(#placeholderstart# int notification_code #placeholderend##placeholderstart#, int severity #placeholderend##placeholderstart#, string message #placeholderend##placeholderstart#, int message_code #placeholderend##placeholderstart#, int bytes_transferred #placeholderend##placeholderstart#, int bytes_max #placeholderend#)#placeholderstart# ; #placeholderend#

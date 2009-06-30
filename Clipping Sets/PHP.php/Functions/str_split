@@ -1,0 +1,2 @@
+#indent#
+str_split(#placeholderstart# string string #placeholderend##placeholderstart#[, int split_length ]#placeholderend#)#placeholderstart# ; #placeholderend#

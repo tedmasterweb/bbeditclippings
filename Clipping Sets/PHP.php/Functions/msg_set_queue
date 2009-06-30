@@ -1,0 +1,2 @@
+#indent#
+msg_set_queue(#placeholderstart# resource queue #placeholderend##placeholderstart#, array data #placeholderend#)#placeholderstart# ; #placeholderend#

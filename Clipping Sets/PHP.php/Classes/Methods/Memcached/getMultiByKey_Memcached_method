@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->getMultiByKey(#placeholderstart# string server_key #placeholderend##placeholderstart#, array keys #placeholderend##placeholderstart#[, string cas_tokens ]#placeholderend#)#placeholderstart# ; #placeholderend#

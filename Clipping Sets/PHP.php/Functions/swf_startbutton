@@ -1,0 +1,2 @@
+#indent#
+swf_startbutton(#placeholderstart# int objid #placeholderend##placeholderstart#, int type #placeholderend#)#placeholderstart# ; #placeholderend#

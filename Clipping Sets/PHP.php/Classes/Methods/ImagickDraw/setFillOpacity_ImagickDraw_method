@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setFillOpacity(#placeholderstart# float fillOpacity #placeholderend#)#placeholderstart# ; #placeholderend#

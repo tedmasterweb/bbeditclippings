@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ZipArchive #placeholderend#->renameName(#placeholderstart# string name #placeholderend##placeholderstart#, string newname #placeholderend#)#placeholderstart# ; #placeholderend#

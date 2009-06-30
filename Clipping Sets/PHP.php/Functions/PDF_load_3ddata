@@ -1,0 +1,2 @@
+#indent#
+PDF_load_3ddata(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

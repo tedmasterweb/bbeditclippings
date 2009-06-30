@@ -1,0 +1,2 @@
+#indent#
+imageconvolution(#placeholderstart# resource image #placeholderend##placeholderstart#, array matrix #placeholderend##placeholderstart#, float div #placeholderend##placeholderstart#, float offset #placeholderend#)#placeholderstart# ; #placeholderend#

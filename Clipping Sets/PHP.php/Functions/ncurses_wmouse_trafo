@@ -1,0 +1,2 @@
+#indent#
+ncurses_wmouse_trafo(#placeholderstart# resource window #placeholderend##placeholderstart#, int y #placeholderend##placeholderstart#, int x #placeholderend##placeholderstart#, bool toscreen #placeholderend#)#placeholderstart# ; #placeholderend#

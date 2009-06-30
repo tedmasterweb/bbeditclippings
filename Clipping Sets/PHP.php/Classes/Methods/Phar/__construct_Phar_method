@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Phar #placeholderend#->__construct(#placeholderstart# string fname #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, string alias ]#placeholderend#)#placeholderstart# ; #placeholderend#

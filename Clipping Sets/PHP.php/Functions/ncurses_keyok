@@ -1,0 +1,2 @@
+#indent#
+ncurses_keyok(#placeholderstart# int keycode #placeholderend##placeholderstart#, bool enable #placeholderend#)#placeholderstart# ; #placeholderend#

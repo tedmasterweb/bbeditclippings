@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DateInterval #placeholderend#->__construct(#placeholderstart# string interval_spec #placeholderend#)#placeholderstart# ; #placeholderend#

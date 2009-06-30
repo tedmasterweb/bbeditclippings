@@ -1,0 +1,2 @@
+#indent#
+openssl_pkcs7_encrypt(#placeholderstart# string infile #placeholderend##placeholderstart#, string outfile #placeholderend##placeholderstart#, mixed recipcerts #placeholderend##placeholderstart#, array headers #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, int cipherid ]#placeholderend#)#placeholderstart# ; #placeholderend#

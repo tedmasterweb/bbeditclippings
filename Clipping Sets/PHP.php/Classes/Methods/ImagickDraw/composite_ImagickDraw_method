@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->composite(#placeholderstart# int compose #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#, float height #placeholderend##placeholderstart#, Imagick compositeWand #placeholderend#)#placeholderstart# ; #placeholderend#

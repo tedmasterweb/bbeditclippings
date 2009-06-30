@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->fxImage(#placeholderstart# string expression #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

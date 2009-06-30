@@ -1,0 +1,2 @@
+#indent#
+mhash_get_hash_name(#placeholderstart# int hash #placeholderend#)#placeholderstart# ; #placeholderend#

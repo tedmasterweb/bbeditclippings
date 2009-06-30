@@ -1,0 +1,2 @@
+#indent#
+stats_stat_powersum(#placeholderstart# array arr #placeholderend##placeholderstart#, float power #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+xdiff_file_bpatch(#placeholderstart# string file #placeholderend##placeholderstart#, string patch #placeholderend##placeholderstart#, string dest #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setStrokePatternURL(#placeholderstart# string stroke_url #placeholderend#)#placeholderstart# ; #placeholderend#

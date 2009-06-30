@@ -1,0 +1,2 @@
+#indent#
+com_invoke(#placeholderstart# resource com_object #placeholderend##placeholderstart#, string function_name #placeholderend##placeholderstart#[, mixed function_parameters ]#placeholderend#)#placeholderstart# ; #placeholderend#

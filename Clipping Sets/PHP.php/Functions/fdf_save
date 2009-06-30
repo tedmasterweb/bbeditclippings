@@ -1,0 +1,2 @@
+#indent#
+fdf_save(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#[, string filename ]#placeholderend#)#placeholderstart# ; #placeholderend#

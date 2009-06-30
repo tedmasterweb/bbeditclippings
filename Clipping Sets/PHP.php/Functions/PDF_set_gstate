@@ -1,0 +1,2 @@
+#indent#
+PDF_set_gstate(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int gstate #placeholderend#)#placeholderstart# ; #placeholderend#

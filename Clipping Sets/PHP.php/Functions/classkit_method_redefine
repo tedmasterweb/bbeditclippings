@@ -1,0 +1,2 @@
+#indent#
+classkit_method_redefine(#placeholderstart# string classname #placeholderend##placeholderstart#, string methodname #placeholderend##placeholderstart#, string args #placeholderend##placeholderstart#, string code #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

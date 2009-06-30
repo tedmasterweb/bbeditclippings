@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpResponse #placeholderend#->setHeader(#placeholderstart# string name #placeholderend##placeholderstart#[, mixed value ]#placeholderend##placeholderstart#[, bool replace ]#placeholderend#)#placeholderstart# ; #placeholderend#

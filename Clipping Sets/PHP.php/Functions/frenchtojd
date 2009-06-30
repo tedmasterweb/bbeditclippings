@@ -1,0 +1,2 @@
+#indent#
+frenchtojd(#placeholderstart# int month #placeholderend##placeholderstart#, int day #placeholderend##placeholderstart#, int year #placeholderend#)#placeholderstart# ; #placeholderend#

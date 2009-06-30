@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcache #placeholderend#->add(#placeholderstart# string key #placeholderend##placeholderstart#, mixed var #placeholderend##placeholderstart#[, int flag ]#placeholderend##placeholderstart#[, int expire ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFShape #placeholderend#->drawArc(#placeholderstart# float r #placeholderend##placeholderstart#, float startAngle #placeholderend##placeholderstart#, float endAngle #placeholderend#)#placeholderstart# ; #placeholderend#

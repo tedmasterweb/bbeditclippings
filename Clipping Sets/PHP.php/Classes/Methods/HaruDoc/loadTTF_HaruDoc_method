@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruDoc #placeholderend#->loadTTF(#placeholderstart# string fontfile #placeholderend##placeholderstart#[, bool embed ]#placeholderend#)#placeholderstart# ; #placeholderend#

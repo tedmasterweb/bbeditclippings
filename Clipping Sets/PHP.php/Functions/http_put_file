@@ -1,0 +1,2 @@
+#indent#
+http_put_file(#placeholderstart# string url #placeholderend##placeholderstart#[, string file ]#placeholderend##placeholderstart#[, array options ]#placeholderend##placeholderstart#[, array info ]#placeholderend#)#placeholderstart# ; #placeholderend#

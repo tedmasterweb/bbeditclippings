@@ -1,0 +1,2 @@
+#indent#
+ftok(#placeholderstart# string pathname #placeholderend##placeholderstart#, string proj #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ps_end_pattern(#placeholderstart# resource psdoc #placeholderend#)#placeholderstart# ; #placeholderend#

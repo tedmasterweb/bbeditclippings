@@ -1,0 +1,2 @@
+#indent#
+ncurses_move_panel(#placeholderstart# resource panel #placeholderend##placeholderstart#, int startx #placeholderend##placeholderstart#, int starty #placeholderend#)#placeholderstart# ; #placeholderend#

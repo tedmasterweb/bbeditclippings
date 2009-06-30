@@ -1,0 +1,2 @@
+#indent#
+stream_resolve_include_path(#placeholderstart# string filename #placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

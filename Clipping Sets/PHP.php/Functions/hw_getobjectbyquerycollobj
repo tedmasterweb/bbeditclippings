@@ -1,0 +1,2 @@
+#indent#
+hw_getobjectbyquerycollobj(#placeholderstart# int connection #placeholderend##placeholderstart#, int objectID #placeholderend##placeholderstart#, string query #placeholderend##placeholderstart#, int max_hits #placeholderend#)#placeholderstart# ; #placeholderend#

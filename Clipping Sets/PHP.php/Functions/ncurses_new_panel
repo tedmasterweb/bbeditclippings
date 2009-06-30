@@ -1,0 +1,2 @@
+#indent#
+ncurses_new_panel(#placeholderstart# resource window #placeholderend#)#placeholderstart# ; #placeholderend#

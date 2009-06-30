@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SphinxClient #placeholderend#->query(#placeholderstart# string query #placeholderend##placeholderstart#[, string index ]#placeholderend##placeholderstart#[, string comment ]#placeholderend#)#placeholderstart# ; #placeholderend#

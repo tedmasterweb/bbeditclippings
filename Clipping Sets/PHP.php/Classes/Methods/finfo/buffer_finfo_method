@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# finfo #placeholderend#->buffer(#placeholderstart# string string #placeholderend##placeholderstart#[, int options ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

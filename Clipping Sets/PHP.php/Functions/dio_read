@@ -1,0 +1,2 @@
+#indent#
+dio_read(#placeholderstart# resource fd #placeholderend##placeholderstart#[, int len ]#placeholderend#)#placeholderstart# ; #placeholderend#

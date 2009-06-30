@@ -1,0 +1,2 @@
+#indent#
+xslt_set_error_handler(#placeholderstart# resource xh #placeholderend##placeholderstart#, mixed handler #placeholderend#)#placeholderstart# ; #placeholderend#

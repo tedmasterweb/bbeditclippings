@@ -1,0 +1,2 @@
+#indent#
+swf_viewport(#placeholderstart# float xmin #placeholderend##placeholderstart#, float xmax #placeholderend##placeholderstart#, float ymin #placeholderend##placeholderstart#, float ymax #placeholderend#)#placeholderstart# ; #placeholderend#

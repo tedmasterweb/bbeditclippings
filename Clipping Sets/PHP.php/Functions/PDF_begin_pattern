@@ -1,0 +1,2 @@
+#indent#
+PDF_begin_pattern(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float width #placeholderend##placeholderstart#, float height #placeholderend##placeholderstart#, float xstep #placeholderend##placeholderstart#, float ystep #placeholderend##placeholderstart#, int painttype #placeholderend#)#placeholderstart# ; #placeholderend#

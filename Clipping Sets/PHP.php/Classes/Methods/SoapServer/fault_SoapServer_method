@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapServer #placeholderend#->fault(#placeholderstart# string code #placeholderend##placeholderstart#, string string #placeholderend##placeholderstart#[, string actor ]#placeholderend##placeholderstart#[, string details ]#placeholderend##placeholderstart#[, string name ]#placeholderend#)#placeholderstart# ; #placeholderend#

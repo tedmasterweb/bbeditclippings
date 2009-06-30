@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->motionBlurImage(#placeholderstart# float radius #placeholderend##placeholderstart#, float sigma #placeholderend##placeholderstart#, float angle #placeholderend##placeholderstart#[, int channel ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+imagefilter(#placeholderstart# resource image #placeholderend##placeholderstart#, int filtertype #placeholderend##placeholderstart#[, int arg1 ]#placeholderend##placeholderstart#[, int arg2 ]#placeholderend##placeholderstart#[, int arg3 ]#placeholderend##placeholderstart#[, int arg4 ]#placeholderend#)#placeholderstart# ; #placeholderend#

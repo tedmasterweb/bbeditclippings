@@ -1,0 +1,2 @@
+#indent#
+apache_getenv(#placeholderstart# string variable #placeholderend##placeholderstart#[, bool walk_to_top ]#placeholderend#)#placeholderstart# ; #placeholderend#

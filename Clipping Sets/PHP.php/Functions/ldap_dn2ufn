@@ -1,0 +1,2 @@
+#indent#
+ldap_dn2ufn(#placeholderstart# string dn #placeholderend#)#placeholderstart# ; #placeholderend#

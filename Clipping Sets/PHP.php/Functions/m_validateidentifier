@@ -1,0 +1,2 @@
+#indent#
+m_validateidentifier(#placeholderstart# resource conn #placeholderend##placeholderstart#, int tf #placeholderend#)#placeholderstart# ; #placeholderend#

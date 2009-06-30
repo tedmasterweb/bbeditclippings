@@ -1,0 +1,2 @@
+#indent#
+hw_close(#placeholderstart# int connection #placeholderend#)#placeholderstart# ; #placeholderend#

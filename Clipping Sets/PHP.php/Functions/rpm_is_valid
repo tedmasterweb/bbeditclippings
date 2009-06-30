@@ -1,0 +1,2 @@
+#indent#
+rpm_is_valid(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

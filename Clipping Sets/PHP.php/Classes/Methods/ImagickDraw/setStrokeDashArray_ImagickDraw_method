@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setStrokeDashArray(#placeholderstart# array dashArray #placeholderend#)#placeholderstart# ; #placeholderend#

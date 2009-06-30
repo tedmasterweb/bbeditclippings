@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMEntityReference #placeholderend#->cloneNode(#placeholderstart#[ bool deep ]#placeholderend#)#placeholderstart# ; #placeholderend#

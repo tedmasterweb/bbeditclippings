@@ -1,0 +1,2 @@
+#indent#
+swf_polarview(#placeholderstart# float dist #placeholderend##placeholderstart#, float azimuth #placeholderend##placeholderstart#, float incidence #placeholderend##placeholderstart#, float twist #placeholderend#)#placeholderstart# ; #placeholderend#

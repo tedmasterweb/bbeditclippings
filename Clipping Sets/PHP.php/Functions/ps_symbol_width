@@ -1,0 +1,2 @@
+#indent#
+ps_symbol_width(#placeholderstart# resource psdoc #placeholderend##placeholderstart#, int ord #placeholderend##placeholderstart#[, int fontid ]#placeholderend##placeholderstart#[, float size ]#placeholderend#)#placeholderstart# ; #placeholderend#

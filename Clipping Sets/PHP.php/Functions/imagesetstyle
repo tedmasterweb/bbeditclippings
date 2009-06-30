@@ -1,0 +1,2 @@
+#indent#
+imagesetstyle(#placeholderstart# resource image #placeholderend##placeholderstart#, array style #placeholderend#)#placeholderstart# ; #placeholderend#

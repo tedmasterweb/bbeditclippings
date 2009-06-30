@@ -1,0 +1,2 @@
+#indent#
+yaz_record(#placeholderstart# resource id #placeholderend##placeholderstart#, int pos #placeholderend##placeholderstart#, string type #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+enchant_broker_dict_exists(#placeholderstart# resource broker #placeholderend##placeholderstart#, string tag #placeholderend#)#placeholderstart# ; #placeholderend#

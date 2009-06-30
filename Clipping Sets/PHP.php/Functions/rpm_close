@@ -1,0 +1,2 @@
+#indent#
+rpm_close(#placeholderstart# resource rpmr #placeholderend#)#placeholderstart# ; #placeholderend#

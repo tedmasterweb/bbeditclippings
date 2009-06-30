@@ -1,0 +1,2 @@
+#indent#
+hw_docbyanchor(#placeholderstart# int connection #placeholderend##placeholderstart#, int anchorID #placeholderend#)#placeholderstart# ; #placeholderend#

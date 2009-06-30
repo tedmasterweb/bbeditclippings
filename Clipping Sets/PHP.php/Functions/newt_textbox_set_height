@@ -1,0 +1,2 @@
+#indent#
+newt_textbox_set_height(#placeholderstart# resource textbox #placeholderend##placeholderstart#, int height #placeholderend#)#placeholderstart# ; #placeholderend#

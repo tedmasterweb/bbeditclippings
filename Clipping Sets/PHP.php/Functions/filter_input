@@ -1,0 +1,2 @@
+#indent#
+filter_input(#placeholderstart# int type #placeholderend##placeholderstart#, string variable_name #placeholderend##placeholderstart#[, int filter ]#placeholderend##placeholderstart#[, mixed options ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+kadm5_get_principals(#placeholderstart# resource handle #placeholderend#)#placeholderstart# ; #placeholderend#

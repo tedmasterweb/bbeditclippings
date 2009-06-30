@@ -1,0 +1,2 @@
+#indent#
+domxml_open_file(#placeholderstart# string filename #placeholderend##placeholderstart#[, int mode ]#placeholderend##placeholderstart#[, array error ]#placeholderend#)#placeholderstart# ; #placeholderend#

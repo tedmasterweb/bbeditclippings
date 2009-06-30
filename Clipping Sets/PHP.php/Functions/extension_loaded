@@ -1,0 +1,2 @@
+#indent#
+extension_loaded(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

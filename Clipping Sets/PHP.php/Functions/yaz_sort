@@ -1,0 +1,2 @@
+#indent#
+yaz_sort(#placeholderstart# resource id #placeholderend##placeholderstart#, string criteria #placeholderend#)#placeholderstart# ; #placeholderend#

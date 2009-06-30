@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcached #placeholderend#->setMulti(#placeholderstart# array items #placeholderend##placeholderstart#[, int expiration ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+openal_buffer_loadwav(#placeholderstart# resource buffer #placeholderend##placeholderstart#, string wavfile #placeholderend#)#placeholderstart# ; #placeholderend#

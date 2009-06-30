@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HttpQueryString #placeholderend#->__construct(#placeholderstart#[ bool global ]#placeholderend##placeholderstart#[, mixed add ]#placeholderend#)#placeholderstart# ; #placeholderend#

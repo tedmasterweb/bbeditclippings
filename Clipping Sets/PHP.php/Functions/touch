@@ -1,0 +1,2 @@
+#indent#
+touch(#placeholderstart# string filename #placeholderend##placeholderstart#[, int time ]#placeholderend##placeholderstart#[, int atime ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+mqseries_close(#placeholderstart# resource hconn #placeholderend##placeholderstart#, resource hobj #placeholderend##placeholderstart#, int options #placeholderend##placeholderstart#, resource compCode #placeholderend##placeholderstart#, resource reason #placeholderend#)#placeholderstart# ; #placeholderend#

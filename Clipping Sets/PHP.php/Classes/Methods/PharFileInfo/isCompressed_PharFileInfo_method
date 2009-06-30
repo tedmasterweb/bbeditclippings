@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# PharFileInfo #placeholderend#->isCompressed(#placeholderstart#[ int compression_type ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+date_sunset(#placeholderstart# int timestamp #placeholderend##placeholderstart#[, int format ]#placeholderend##placeholderstart#[, float latitude ]#placeholderend##placeholderstart#[, float longitude ]#placeholderend##placeholderstart#[, float zenith ]#placeholderend##placeholderstart#[, float gmt_offset ]#placeholderend#)#placeholderstart# ; #placeholderend#

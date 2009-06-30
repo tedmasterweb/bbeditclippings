@@ -1,0 +1,2 @@
+#indent#
+fstat(#placeholderstart# resource handle #placeholderend#)#placeholderstart# ; #placeholderend#

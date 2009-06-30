@@ -1,0 +1,2 @@
+#indent#
+PDF_open_ccitt(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend##placeholderstart#, int BitReverse #placeholderend##placeholderstart#, int k #placeholderend##placeholderstart#, int Blackls1 #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+stats_rand_setall(#placeholderstart# int iseed1 #placeholderend##placeholderstart#, int iseed2 #placeholderend#)#placeholderstart# ; #placeholderend#

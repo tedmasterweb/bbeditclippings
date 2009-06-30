@@ -1,0 +1,2 @@
+#indent#
+imap_undelete(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, int msg_number #placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

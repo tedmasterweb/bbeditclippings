@@ -1,0 +1,2 @@
+#indent#
+openssl_x509_export_to_file(#placeholderstart# mixed x509 #placeholderend##placeholderstart#, string outfilename #placeholderend##placeholderstart#[, bool notext ]#placeholderend#)#placeholderstart# ; #placeholderend#

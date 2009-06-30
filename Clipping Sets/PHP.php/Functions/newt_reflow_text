@@ -1,0 +1,2 @@
+#indent#
+newt_reflow_text(#placeholderstart# string text #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int flex_down #placeholderend##placeholderstart#, int flex_up #placeholderend##placeholderstart#, int actual_width #placeholderend##placeholderstart#, int actual_height #placeholderend#)#placeholderstart# ; #placeholderend#

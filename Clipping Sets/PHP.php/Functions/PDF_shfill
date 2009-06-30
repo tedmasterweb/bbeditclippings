@@ -1,0 +1,2 @@
+#indent#
+PDF_shfill(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int shading #placeholderend#)#placeholderstart# ; #placeholderend#

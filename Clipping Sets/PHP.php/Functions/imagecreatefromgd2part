@@ -1,0 +1,2 @@
+#indent#
+imagecreatefromgd2part(#placeholderstart# string filename #placeholderend##placeholderstart#, int srcX #placeholderend##placeholderstart#, int srcY #placeholderend##placeholderstart#, int width #placeholderend##placeholderstart#, int height #placeholderend#)#placeholderstart# ; #placeholderend#

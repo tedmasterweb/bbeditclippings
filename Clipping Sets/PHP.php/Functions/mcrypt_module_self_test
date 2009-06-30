@@ -1,0 +1,2 @@
+#indent#
+mcrypt_module_self_test(#placeholderstart# string algorithm #placeholderend##placeholderstart#[, string lib_dir ]#placeholderend#)#placeholderstart# ; #placeholderend#

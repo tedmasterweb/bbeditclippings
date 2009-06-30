@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Imagick #placeholderend#->getResource(#placeholderstart# int type #placeholderend#)#placeholderstart# ; #placeholderend#

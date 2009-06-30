@@ -1,0 +1,2 @@
+#indent#
+highlight_file(#placeholderstart# string filename #placeholderend##placeholderstart#[, bool return ]#placeholderend#)#placeholderstart# ; #placeholderend#

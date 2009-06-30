@@ -1,0 +1,2 @@
+#indent#
+gethostbyname(#placeholderstart# string hostname #placeholderend#)#placeholderstart# ; #placeholderend#

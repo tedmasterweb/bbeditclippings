@@ -1,0 +1,2 @@
+#indent#
+call_user_func(#placeholderstart# callback function #placeholderend##placeholderstart#[, mixed parameter ]#placeholderend##placeholderstart#[, mixed ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

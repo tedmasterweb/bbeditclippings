@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapClient #placeholderend#->__setSoapHeaders(#placeholderstart#[ mixed soapheaders ]#placeholderend#)#placeholderstart# ; #placeholderend#

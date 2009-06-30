@@ -1,0 +1,2 @@
+#indent#
+svn_update(#placeholderstart# string path #placeholderend##placeholderstart#[, int revno ]#placeholderend##placeholderstart#[, bool recurse ]#placeholderend#)#placeholderstart# ; #placeholderend#

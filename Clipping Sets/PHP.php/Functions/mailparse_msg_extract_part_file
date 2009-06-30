@@ -1,0 +1,2 @@
+#indent#
+mailparse_msg_extract_part_file(#placeholderstart# resource mimemail #placeholderend##placeholderstart#, mixed filename #placeholderend##placeholderstart#[, callback callbackfunc ]#placeholderend#)#placeholderstart# ; #placeholderend#

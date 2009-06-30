@@ -1,0 +1,2 @@
+#indent#
+xpath_eval_expression(#placeholderstart# XPathContext xpath_context #placeholderend##placeholderstart#, string expression #placeholderend##placeholderstart#[, domnode contextnode ]#placeholderend#)#placeholderstart# ; #placeholderend#

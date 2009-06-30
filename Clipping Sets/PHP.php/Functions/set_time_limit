@@ -1,0 +1,2 @@
+#indent#
+set_time_limit(#placeholderstart# int seconds #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+gmp_intval(#placeholderstart# resource gmpnumber #placeholderend#)#placeholderstart# ; #placeholderend#

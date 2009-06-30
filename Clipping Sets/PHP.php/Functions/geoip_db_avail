@@ -1,0 +1,2 @@
+#indent#
+geoip_db_avail(#placeholderstart# int database #placeholderend#)#placeholderstart# ; #placeholderend#

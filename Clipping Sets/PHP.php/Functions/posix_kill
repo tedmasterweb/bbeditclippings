@@ -1,0 +1,2 @@
+#indent#
+posix_kill(#placeholderstart# int pid #placeholderend##placeholderstart#, int sig #placeholderend#)#placeholderstart# ; #placeholderend#

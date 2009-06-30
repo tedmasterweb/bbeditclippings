@@ -1,0 +1,2 @@
+#indent#
+PDF_circle(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, float x #placeholderend##placeholderstart#, float y #placeholderend##placeholderstart#, float r #placeholderend#)#placeholderstart# ; #placeholderend#

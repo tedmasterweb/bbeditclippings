@@ -1,0 +1,2 @@
+#indent#
+newt_label_set_text(#placeholderstart# resource label #placeholderend##placeholderstart#, string text #placeholderend#)#placeholderstart# ; #placeholderend#

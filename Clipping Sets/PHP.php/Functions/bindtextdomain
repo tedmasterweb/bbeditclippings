@@ -1,0 +1,2 @@
+#indent#
+bindtextdomain(#placeholderstart# string domain #placeholderend##placeholderstart#, string directory #placeholderend#)#placeholderstart# ; #placeholderend#

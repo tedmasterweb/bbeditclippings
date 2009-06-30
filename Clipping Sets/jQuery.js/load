@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").load( #placeholderstart#String url#placeholderend##placeholderstart#, Map data#placeholderend##placeholderstart#, Callback callback#placeholderend# )

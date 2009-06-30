@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->startElement(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

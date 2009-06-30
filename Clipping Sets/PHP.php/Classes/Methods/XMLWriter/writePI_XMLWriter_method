@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XMLWriter #placeholderend#->writePI(#placeholderstart# string target #placeholderend##placeholderstart#, string content #placeholderend#)#placeholderstart# ; #placeholderend#

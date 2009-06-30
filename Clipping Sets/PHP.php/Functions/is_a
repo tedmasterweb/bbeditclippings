@@ -1,0 +1,2 @@
+#indent#
+is_a(#placeholderstart# object object #placeholderend##placeholderstart#, string class_name #placeholderend#)#placeholderstart# ; #placeholderend#

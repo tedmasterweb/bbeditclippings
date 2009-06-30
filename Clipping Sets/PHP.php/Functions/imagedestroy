@@ -1,0 +1,2 @@
+#indent#
+imagedestroy(#placeholderstart# resource image #placeholderend#)#placeholderstart# ; #placeholderend#

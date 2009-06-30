@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DomElement #placeholderend#->remove_attribute(#placeholderstart# string name #placeholderend#)#placeholderstart# ; #placeholderend#

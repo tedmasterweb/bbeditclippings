@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFButton #placeholderend#->addASound(#placeholderstart# SWFSound sound #placeholderend##placeholderstart#, int flags #placeholderend#)#placeholderstart# ; #placeholderend#

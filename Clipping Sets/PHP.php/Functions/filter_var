@@ -1,0 +1,2 @@
+#indent#
+filter_var(#placeholderstart# mixed variable #placeholderend##placeholderstart#[, int filter ]#placeholderend##placeholderstart#[, mixed options ]#placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+rewind(#placeholderstart# resource handle #placeholderend#)#placeholderstart# ; #placeholderend#

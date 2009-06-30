@@ -1,0 +1,2 @@
+#indent#
+$("#selstart#Selector#selend#").one( #placeholderstart#String type#placeholderend##placeholderstart#, Object data#placeholderend##placeholderstart#, Function fn#placeholderend# )

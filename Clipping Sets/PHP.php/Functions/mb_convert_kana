@@ -1,0 +1,2 @@
+#indent#
+mb_convert_kana(#placeholderstart# string str #placeholderend##placeholderstart#[, string option ]#placeholderend##placeholderstart#[, string encoding ]#placeholderend#)#placeholderstart# ; #placeholderend#

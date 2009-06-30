@@ -1,0 +1,2 @@
+#indent#
+openal_source_get(#placeholderstart# resource source #placeholderend##placeholderstart#, int property #placeholderend#)#placeholderstart# ; #placeholderend#

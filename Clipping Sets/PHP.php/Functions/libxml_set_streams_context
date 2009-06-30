@@ -1,0 +1,2 @@
+#indent#
+libxml_set_streams_context(#placeholderstart# resource streams_context #placeholderend#)#placeholderstart# ; #placeholderend#

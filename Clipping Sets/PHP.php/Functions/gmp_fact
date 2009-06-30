@@ -1,0 +1,2 @@
+#indent#
+gmp_fact(#placeholderstart# int a #placeholderend#)#placeholderstart# ; #placeholderend#

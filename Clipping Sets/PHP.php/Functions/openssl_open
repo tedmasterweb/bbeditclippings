@@ -1,0 +1,2 @@
+#indent#
+openssl_open(#placeholderstart# string sealed_data #placeholderend##placeholderstart#, string open_data #placeholderend##placeholderstart#, string env_key #placeholderend##placeholderstart#, mixed priv_key_id #placeholderend#)#placeholderstart# ; #placeholderend#

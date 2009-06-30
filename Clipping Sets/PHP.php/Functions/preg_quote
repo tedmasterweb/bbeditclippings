@@ -1,0 +1,2 @@
+#indent#
+preg_quote(#placeholderstart# string str #placeholderend##placeholderstart#[, string delimiter ]#placeholderend#)#placeholderstart# ; #placeholderend#

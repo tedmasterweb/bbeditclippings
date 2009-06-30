@@ -1,0 +1,2 @@
+#indent#
+win32_stop_service(#placeholderstart# string servicename #placeholderend##placeholderstart#[, string machine ]#placeholderend#)#placeholderstart# ; #placeholderend#

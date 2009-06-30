@@ -1,0 +1,2 @@
+#indent#
+bcompiler_write_constant(#placeholderstart# resource filehandle #placeholderend##placeholderstart#, string constantName #placeholderend#)#placeholderstart# ; #placeholderend#

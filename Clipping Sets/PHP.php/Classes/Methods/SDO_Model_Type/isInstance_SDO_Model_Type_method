@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_Model_Type #placeholderend#->isInstance(#placeholderstart# SDO_DataObject data_object #placeholderend#)#placeholderstart# ; #placeholderend#

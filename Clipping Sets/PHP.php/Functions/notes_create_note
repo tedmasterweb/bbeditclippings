@@ -1,0 +1,2 @@
+#indent#
+notes_create_note(#placeholderstart# string database_name #placeholderend##placeholderstart#, string form_name #placeholderend#)#placeholderstart# ; #placeholderend#

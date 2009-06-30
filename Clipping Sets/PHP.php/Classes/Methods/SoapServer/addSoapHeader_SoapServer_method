@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapServer #placeholderend#->addSoapHeader(#placeholderstart# string object #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+str_word_count(#placeholderstart# string string #placeholderend##placeholderstart#[, int format ]#placeholderend##placeholderstart#[, string charlist ]#placeholderend#)#placeholderstart# ; #placeholderend#

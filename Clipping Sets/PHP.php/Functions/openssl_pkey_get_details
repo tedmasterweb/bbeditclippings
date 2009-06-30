@@ -1,0 +1,2 @@
+#indent#
+openssl_pkey_get_details(#placeholderstart# resource key #placeholderend#)#placeholderstart# ; #placeholderend#

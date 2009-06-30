@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_XML #placeholderend#->addTypes(#placeholderstart# string xsd_file #placeholderend#)#placeholderstart# ; #placeholderend#

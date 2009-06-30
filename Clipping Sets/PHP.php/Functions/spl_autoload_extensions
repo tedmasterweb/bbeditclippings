@@ -1,0 +1,2 @@
+#indent#
+spl_autoload_extensions(#placeholderstart#[ string file_extensions ]#placeholderend#)#placeholderstart# ; #placeholderend#

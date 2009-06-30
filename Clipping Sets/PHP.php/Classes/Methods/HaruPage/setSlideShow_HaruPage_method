@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# HaruPage #placeholderend#->setSlideShow(#placeholderstart# int type #placeholderend##placeholderstart#, float disp_time #placeholderend##placeholderstart#, float trans_time #placeholderend#)#placeholderstart# ; #placeholderend#

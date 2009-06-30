@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SWFShape #placeholderend#->drawGlyph(#placeholderstart# SWFFont font #placeholderend##placeholderstart#, string character #placeholderend##placeholderstart#[, int size ]#placeholderend#)#placeholderstart# ; #placeholderend#

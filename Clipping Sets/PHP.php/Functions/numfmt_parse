@@ -1,0 +1,2 @@
+#indent#
+numfmt_parse(#placeholderstart# NumberFormatter fmt #placeholderend##placeholderstart#, string value #placeholderend##placeholderstart#[, int type ]#placeholderend##placeholderstart#[, int position ]#placeholderend#)#placeholderstart# ; #placeholderend#

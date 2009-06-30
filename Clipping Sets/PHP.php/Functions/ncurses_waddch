@@ -1,0 +1,2 @@
+#indent#
+ncurses_waddch(#placeholderstart# resource window #placeholderend##placeholderstart#, int ch #placeholderend#)#placeholderstart# ; #placeholderend#

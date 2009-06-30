@@ -1,0 +1,2 @@
+#indent#
+unicode_set_error_mode(#placeholderstart# int direction #placeholderend##placeholderstart#, int mode #placeholderend#)#placeholderstart# ; #placeholderend#

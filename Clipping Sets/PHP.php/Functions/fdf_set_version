@@ -1,0 +1,2 @@
+#indent#
+fdf_set_version(#placeholderstart# resource fdf_document #placeholderend##placeholderstart#, string version #placeholderend#)#placeholderstart# ; #placeholderend#

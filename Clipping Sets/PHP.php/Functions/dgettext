@@ -1,0 +1,2 @@
+#indent#
+dgettext(#placeholderstart# string domain #placeholderend##placeholderstart#, string message #placeholderend#)#placeholderstart# ; #placeholderend#

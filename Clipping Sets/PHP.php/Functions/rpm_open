@@ -1,0 +1,2 @@
+#indent#
+rpm_open(#placeholderstart# string filename #placeholderend#)#placeholderstart# ; #placeholderend#

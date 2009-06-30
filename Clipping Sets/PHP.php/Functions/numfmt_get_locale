@@ -1,0 +1,2 @@
+#indent#
+numfmt_get_locale(#placeholderstart# NumberFormatter fmt #placeholderend##placeholderstart#[, int type ]#placeholderend#)#placeholderstart# ; #placeholderend#

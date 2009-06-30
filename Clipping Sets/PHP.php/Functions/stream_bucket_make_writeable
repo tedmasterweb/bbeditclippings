@@ -1,0 +1,2 @@
+#indent#
+stream_bucket_make_writeable(#placeholderstart# resource brigade #placeholderend#)#placeholderstart# ; #placeholderend#

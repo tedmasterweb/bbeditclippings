@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# DOMImplementation #placeholderend#->createDocument(#placeholderstart#[ string namespaceURI ]#placeholderend##placeholderstart#[, string qualifiedName ]#placeholderend##placeholderstart#[, DOMDocumentType doctype ]#placeholderend#)#placeholderstart# ; #placeholderend#

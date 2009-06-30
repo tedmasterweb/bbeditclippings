@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SAMConnection #placeholderend#->subscribe(#placeholderstart# string targetTopic #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# Memcache #placeholderend#->decrement(#placeholderstart# string key #placeholderend##placeholderstart#[, int value ]#placeholderend#)#placeholderstart# ; #placeholderend#

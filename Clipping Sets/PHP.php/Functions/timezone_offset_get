@@ -1,0 +1,2 @@
+#indent#
+timezone_offset_get(#placeholderstart# DateTimeZone object #placeholderend##placeholderstart#, DateTime datetime #placeholderend#)#placeholderstart# ; #placeholderend#

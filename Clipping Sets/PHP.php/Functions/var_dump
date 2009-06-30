@@ -1,0 +1,2 @@
+#indent#
+var_dump(#placeholderstart# mixed expression #placeholderend##placeholderstart#[, mixed expression ]#placeholderend##placeholderstart#[,  ... ]#placeholderend#)#placeholderstart# ; #placeholderend#

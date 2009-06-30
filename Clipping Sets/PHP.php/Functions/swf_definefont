@@ -1,0 +1,2 @@
+#indent#
+swf_definefont(#placeholderstart# int fontid #placeholderend##placeholderstart#, string fontname #placeholderend#)#placeholderstart# ; #placeholderend#

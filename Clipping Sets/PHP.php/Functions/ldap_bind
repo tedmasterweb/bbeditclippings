@@ -1,0 +1,2 @@
+#indent#
+ldap_bind(#placeholderstart# resource link_identifier #placeholderend##placeholderstart#[, string bind_rdn ]#placeholderend##placeholderstart#[, string bind_password ]#placeholderend#)#placeholderstart# ; #placeholderend#

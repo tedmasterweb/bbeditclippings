@@ -1,0 +1,2 @@
+#indent#
+shell_exec(#placeholderstart# string cmd #placeholderend#)#placeholderstart# ; #placeholderend#

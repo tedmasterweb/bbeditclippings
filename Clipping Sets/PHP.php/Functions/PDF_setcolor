@@ -1,0 +1,2 @@
+#indent#
+PDF_setcolor(#placeholderstart# resource p #placeholderend##placeholderstart#, string fstype #placeholderend##placeholderstart#, string colorspace #placeholderend##placeholderstart#, float c1 #placeholderend##placeholderstart#, float c2 #placeholderend##placeholderstart#, float c3 #placeholderend##placeholderstart#, float c4 #placeholderend#)#placeholderstart# ; #placeholderend#

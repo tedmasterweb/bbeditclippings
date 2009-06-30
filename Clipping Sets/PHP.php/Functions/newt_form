@@ -1,0 +1,2 @@
+#indent#
+newt_form(#placeholderstart#[ resource vert_bar ]#placeholderend##placeholderstart#[, string help ]#placeholderend##placeholderstart#[, int flags ]#placeholderend#)#placeholderstart# ; #placeholderend#

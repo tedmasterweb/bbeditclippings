@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# XPathContext #placeholderend#->xptr_eval(#placeholderstart# string eval_str #placeholderend##placeholderstart#[, domnode contextnode ]#placeholderend#)#placeholderstart# ; #placeholderend#

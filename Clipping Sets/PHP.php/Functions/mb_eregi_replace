@@ -1,0 +1,2 @@
+#indent#
+mb_eregi_replace(#placeholderstart# string pattern #placeholderend##placeholderstart#, string replace #placeholderend##placeholderstart#, string string #placeholderend##placeholderstart#[, string option ]#placeholderend#)#placeholderstart# ; #placeholderend#

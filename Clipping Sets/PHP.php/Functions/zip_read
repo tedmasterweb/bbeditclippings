@@ -1,0 +1,2 @@
+#indent#
+zip_read(#placeholderstart# resource zip #placeholderend#)#placeholderstart# ; #placeholderend#

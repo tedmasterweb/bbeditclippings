@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickDraw #placeholderend#->setClipUnits(#placeholderstart# int clip_units #placeholderend#)#placeholderstart# ; #placeholderend#

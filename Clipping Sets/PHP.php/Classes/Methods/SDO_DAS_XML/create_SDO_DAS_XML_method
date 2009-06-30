@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SDO_DAS_XML #placeholderend#->create(#placeholderstart#[ mixed xsd_file ]#placeholderend##placeholderstart#[, string key ]#placeholderend#)#placeholderstart# ; #placeholderend#

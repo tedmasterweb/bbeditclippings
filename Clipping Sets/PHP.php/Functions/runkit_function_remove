@@ -1,0 +1,2 @@
+#indent#
+runkit_function_remove(#placeholderstart# string funcname #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+ssh2_sftp_readlink(#placeholderstart# resource sftp #placeholderend##placeholderstart#, string link #placeholderend#)#placeholderstart# ; #placeholderend#

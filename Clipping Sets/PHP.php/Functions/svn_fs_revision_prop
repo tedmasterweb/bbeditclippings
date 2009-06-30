@@ -1,0 +1,2 @@
+#indent#
+svn_fs_revision_prop(#placeholderstart# resource fs #placeholderend##placeholderstart#, int revnum #placeholderend##placeholderstart#, string propname #placeholderend#)#placeholderstart# ; #placeholderend#

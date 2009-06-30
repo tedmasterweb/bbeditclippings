@@ -1,0 +1,2 @@
+#indent#
+radius_get_attr(#placeholderstart# resource radius_handle #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+PDF_resume_page(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string optlist #placeholderend#)#placeholderstart# ; #placeholderend#

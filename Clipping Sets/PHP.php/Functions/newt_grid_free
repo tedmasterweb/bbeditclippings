@@ -1,0 +1,2 @@
+#indent#
+newt_grid_free(#placeholderstart# resource grid #placeholderend##placeholderstart#, bool recurse #placeholderend#)#placeholderstart# ; #placeholderend#

@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# ImagickPixelIterator #placeholderend#->setIteratorRow(#placeholderstart# int row #placeholderend#)#placeholderstart# ; #placeholderend#

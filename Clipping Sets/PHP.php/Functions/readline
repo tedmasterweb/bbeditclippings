@@ -1,0 +1,2 @@
+#indent#
+readline(#placeholderstart#[ string prompt ]#placeholderend#)#placeholderstart# ; #placeholderend#

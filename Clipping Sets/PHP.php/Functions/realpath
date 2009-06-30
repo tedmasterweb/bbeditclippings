@@ -1,0 +1,2 @@
+#indent#
+realpath(#placeholderstart# string path #placeholderend#)#placeholderstart# ; #placeholderend#

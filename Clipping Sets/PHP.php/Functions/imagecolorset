@@ -1,0 +1,2 @@
+#indent#
+imagecolorset(#placeholderstart# resource image #placeholderend##placeholderstart#, int index #placeholderend##placeholderstart#, int red #placeholderend##placeholderstart#, int green #placeholderend##placeholderstart#, int blue #placeholderend#)#placeholderstart# ; #placeholderend#

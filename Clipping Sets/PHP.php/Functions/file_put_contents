@@ -1,0 +1,2 @@
+#indent#
+file_put_contents(#placeholderstart# string filename #placeholderend##placeholderstart#, mixed data #placeholderend##placeholderstart#[, int flags ]#placeholderend##placeholderstart#[, resource context ]#placeholderend#)#placeholderstart# ; #placeholderend#

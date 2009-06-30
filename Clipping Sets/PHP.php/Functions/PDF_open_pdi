@@ -1,0 +1,2 @@
+#indent#
+PDF_open_pdi(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, string filename #placeholderend##placeholderstart#, string optlist #placeholderend##placeholderstart#, int len #placeholderend#)#placeholderstart# ; #placeholderend#

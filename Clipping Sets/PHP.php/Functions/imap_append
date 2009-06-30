@@ -1,0 +1,2 @@
+#indent#
+imap_append(#placeholderstart# resource imap_stream #placeholderend##placeholderstart#, string mailbox #placeholderend##placeholderstart#, string message #placeholderend##placeholderstart#[, string options ]#placeholderend#)#placeholderstart# ; #placeholderend#

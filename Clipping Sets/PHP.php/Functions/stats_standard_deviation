@@ -1,0 +1,2 @@
+#indent#
+stats_standard_deviation(#placeholderstart# array a #placeholderend##placeholderstart#[, bool sample ]#placeholderend#)#placeholderstart# ; #placeholderend#

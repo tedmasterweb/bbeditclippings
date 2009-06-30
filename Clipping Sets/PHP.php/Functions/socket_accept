@@ -1,0 +1,2 @@
+#indent#
+socket_accept(#placeholderstart# resource socket #placeholderend#)#placeholderstart# ; #placeholderend#

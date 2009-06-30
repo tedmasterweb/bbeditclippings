@@ -1,0 +1,2 @@
+#indent#
+socket_strerror(#placeholderstart# int errno #placeholderend#)#placeholderstart# ; #placeholderend#

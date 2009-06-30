@@ -1,0 +1,2 @@
+#indent#
+imagewbmp(#placeholderstart# resource image #placeholderend##placeholderstart#[, string filename ]#placeholderend##placeholderstart#[, int foreground ]#placeholderend#)#placeholderstart# ; #placeholderend#

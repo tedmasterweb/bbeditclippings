@@ -1,0 +1,2 @@
+#indent#
+#placeholderstart# SoapFault #placeholderend#->__construct(#placeholderstart# string faultcode #placeholderend##placeholderstart#, string faultstring #placeholderend##placeholderstart#[, string faultactor ]#placeholderend##placeholderstart#[, string detail ]#placeholderend##placeholderstart#[, string faultname ]#placeholderend##placeholderstart#[, string headerfault ]#placeholderend#)#placeholderstart# ; #placeholderend#

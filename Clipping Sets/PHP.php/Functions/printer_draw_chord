@@ -1,0 +1,2 @@
+#indent#
+printer_draw_chord(#placeholderstart# resource printer_handle #placeholderend##placeholderstart#, int rec_x #placeholderend##placeholderstart#, int rec_y #placeholderend##placeholderstart#, int rec_x1 #placeholderend##placeholderstart#, int rec_y1 #placeholderend##placeholderstart#, int rad_x #placeholderend##placeholderstart#, int rad_y #placeholderend##placeholderstart#, int rad_x1 #placeholderend##placeholderstart#, int rad_y1 #placeholderend#)#placeholderstart# ; #placeholderend#

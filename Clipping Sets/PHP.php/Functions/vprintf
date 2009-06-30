@@ -1,0 +1,2 @@
+#indent#
+vprintf(#placeholderstart# string format #placeholderend##placeholderstart#, array args #placeholderend#)#placeholderstart# ; #placeholderend#

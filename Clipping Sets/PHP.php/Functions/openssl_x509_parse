@@ -1,0 +1,2 @@
+#indent#
+openssl_x509_parse(#placeholderstart# mixed x509cert #placeholderend##placeholderstart#[, bool shortnames ]#placeholderend#)#placeholderstart# ; #placeholderend#

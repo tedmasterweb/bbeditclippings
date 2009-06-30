@@ -1,0 +1,2 @@
+#indent#
+radius_put_addr(#placeholderstart# resource radius_handle #placeholderend##placeholderstart#, int type #placeholderend##placeholderstart#, string addr #placeholderend#)#placeholderstart# ; #placeholderend#

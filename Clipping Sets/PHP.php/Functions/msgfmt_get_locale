@@ -1,0 +1,2 @@
+#indent#
+msgfmt_get_locale(#placeholderstart# NumberFormatter formatter #placeholderend#)#placeholderstart# ; #placeholderend#

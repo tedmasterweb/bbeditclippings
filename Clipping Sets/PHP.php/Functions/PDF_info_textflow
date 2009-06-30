@@ -1,0 +1,2 @@
+#indent#
+PDF_info_textflow(#placeholderstart# resource pdfdoc #placeholderend##placeholderstart#, int textflow #placeholderend##placeholderstart#, string keyword #placeholderend#)#placeholderstart# ; #placeholderend#

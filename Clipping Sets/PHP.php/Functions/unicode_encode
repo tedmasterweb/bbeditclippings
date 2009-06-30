@@ -1,0 +1,2 @@
+#indent#
+unicode_encode(#placeholderstart# unicode input #placeholderend##placeholderstart#, string encoding #placeholderend##placeholderstart#[, int errmode ]#placeholderend#)#placeholderstart# ; #placeholderend#

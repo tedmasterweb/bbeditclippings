@@ -1,0 +1,2 @@
+#indent#
+nl_langinfo(#placeholderstart# int item #placeholderend#)#placeholderstart# ; #placeholderend#

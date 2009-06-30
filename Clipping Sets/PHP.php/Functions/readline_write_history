@@ -1,0 +1,2 @@
+#indent#
+readline_write_history(#placeholderstart#[ string filename ]#placeholderend#)#placeholderstart# ; #placeholderend#
