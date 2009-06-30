@@ -1,0 +1,25 @@
+=head2 #script ask_and_store_string_field.scpt#
+
+Getter for the #script read_stored_string.scpt# value.
+
+=cut
+
+sub #script read_stored_string.scpt# {
+	my $self = shift;
+	return $self->{#script read_stored_string.scpt#};
+}
+
+
+=head2 set_#script read_stored_string.scpt#
+
+Setter for the #script read_stored_string.scpt# value. Returns the receiver.
+
+=cut
+
+sub set_#script read_stored_string.scpt# {
+	my ($self, $value) = @_;
+	$self->{#script read_stored_string.scpt#} = $value;
+	return $self;
+}
+
+

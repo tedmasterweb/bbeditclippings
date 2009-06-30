@@ -1,0 +1,1 @@
+#indent#can_ok(<#expression#>, qw(<#method names#>));

@@ -1,0 +1,1 @@
+#indent#croak "Value must be of type #script ask_and_store_string_class.scpt#" unless (eval{$value->isa('#script read_stored_string.scpt#')});

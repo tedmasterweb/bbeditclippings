@@ -1,0 +1,5 @@
+#INDENT#sub #placeholderstart#name#placeholderend# {
+	my (#placeholderstart#parameters#placeholderend#) = @_;
+	<#code#>
+	return undef;
+}

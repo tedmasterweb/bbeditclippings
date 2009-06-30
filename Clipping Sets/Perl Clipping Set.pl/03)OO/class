@@ -1,0 +1,87 @@
+package #placeholderstart#class name#placeholderend#;
+#use base qw(#placeholderstart#superclass#placeholderend#);
+
+use version 0.74; our $VERSION = qv('1.0.0');
+
+use strict;
+use warnings;
+
+use Hash::Util ();
+
+
+
+
+=head1 NAME
+
+#placeholderstart#class name#placeholderend# - #placeholderstart#1 line summary#placeholderend#
+
+=head1 SYNOPSIS
+
+    use #placeholderstart#class name#placeholderend#;
+    #placeholderstart#code exampe#placeholderend#
+
+=head1 DESCRIPTION
+
+#placeholderstart#short description#placeholderend#
+
+=head1 METHODS
+
+=head2 new
+
+The constructor.
+
+=head3 Parameters
+
+This method expects key/value parameters.
+
+=over
+
+=item <#parameter key#>
+
+<#parameter value description, use the "item" clipping to add more items...#>
+
+=back
+
+=head3 Result
+
+Returns an object reference if successful, undef otherwise.
+
+=cut
+
+sub new {
+	my $self = shift;
+	my %args = @_;
+	
+	my $class = ref($self) || $self;
+	$self = bless \%args, $class;
+	$self->init();
+	Hash::Util::lock_keys(%$self);
+	
+	return $self;
+}
+
+sub init {
+	my $self = shift;
+	<#initialize fields#>
+}
+
+
+
+=head1 EXAMPLES
+
+=head1 SEE ALSO
+
+=head1 BUGS
+
+=head1 AUTHOR
+
+#placeholderstart#You#placeholderend#
+
+=head1 COPYRIGHT
+
+(c) 200#placeholderstart#year#placeholderend# #placeholderstart#Your name#placeholderend#
+
+=cut
+
+1;
+

@@ -1,0 +1,38 @@
+#!/usr/bin/perl
+#
+# #placeholderstart#comments#placeholderend#
+#
+
+use strict;
+use warnings;
+
+use Data::Dumper;
+use Carp;
+
+exit Tool->new(@ARGV)->run();
+
+
+package Tool;
+
+sub new {
+	my $self = shift;
+	my %args = @_;
+	
+	my $class = ref($self) || $self;
+	$self = bless \%args, $class;
+	$self->init();
+	return $self;
+}
+
+sub init {
+	my $self = shift;
+	<#initialize fields, check arguments#>
+}
+
+sub run {
+	my $self = shift;
+	<#code#>
+	return 0;
+}
+
+

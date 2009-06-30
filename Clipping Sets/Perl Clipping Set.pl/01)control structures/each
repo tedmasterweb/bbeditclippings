@@ -1,0 +1,1 @@
+﻿#INDENT#while (my ($key, $value) = each %<#hash#>) {	<#code#>}

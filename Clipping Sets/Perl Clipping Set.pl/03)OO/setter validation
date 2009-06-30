@@ -1,0 +1,1 @@
+#indent#croak "<#invalid value message#> '$value'" unless (<#value check#>);

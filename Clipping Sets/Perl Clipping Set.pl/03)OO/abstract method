@@ -1,0 +1,3 @@
+#INDENT#sub #placeholderstart#method name#placeholderend# {
+	confess "subclasses must override this method";
+}

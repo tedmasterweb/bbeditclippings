@@ -1,0 +1,17 @@
+
+sub new {
+	my $self = shift;
+	my %args = @_;
+	
+	my $class = ref($self) || $self;
+	$self = bless \%args, $class;
+	$self->init();
+	Hash::Util::lock_keys(%$self);
+	
+	return $self;
+}
+
+sub init {
+	my $self = shift;
+	<#initialize fields#>
+}

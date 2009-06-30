@@ -1,0 +1,4 @@
+#INDENT#my $partitions = [[], []];
+push @{$partitions->[!!<#true/false test#> || 0]}, $_ foreach <#list#>;
+my @a = @{$partitions->[1]};
+my @b = @{$partitions->[0]};

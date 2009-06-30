@@ -1,0 +1,28 @@
+=head2 #script ask_and_store_string_method.scpt#
+
+<#method description#>
+
+=head3 Parameters
+
+This method expects <#key/value|positional#> parameters.
+
+=over
+
+=item <#parameter key#>
+
+<#parameter value description, use the "item" clipping to add more items...#>
+
+=back
+
+=head3 Result
+
+<#return value description#>
+
+=cut
+
+sub #script read_stored_string.scpt# {
+	my $self = shift;
+	my %args = @_;
+
+	<#method body#>
+}

@@ -1,0 +1,1 @@
+#indent#croak "Argument '<#key#>' must be of type #script ask_and_store_string_class.scpt#" unless (eval{$args{<#key#>}->isa('#script read_stored_string.scpt#')});

@@ -1,0 +1,3 @@
+#INDENT#my %then;
+@then{qw(year month day hour minute second)} = split(/\D/, <#isodate string#>);
+my $date = DateTime->new(%then);

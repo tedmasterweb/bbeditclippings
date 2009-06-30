@@ -1,0 +1,4 @@
+#INDENT#sub <#method name#> {
+	my $self = shift;
+	<#method body#>
+}
