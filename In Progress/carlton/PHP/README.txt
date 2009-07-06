@@ -4,11 +4,11 @@ Contents
 --------
 
 * DocBlocks.
+* Class Contstruction clippings.
 
 TODO
 ----
 
 * "Apply DocBlock Formatting" Script.
 * Guide to DocBlock clipping usage.
-* Class Contstruction clippings.
 * Control Structures clippings. 
