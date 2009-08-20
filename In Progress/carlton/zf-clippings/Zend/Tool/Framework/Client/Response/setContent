@@ -1,0 +1,1 @@
+setContent(#placeholderstart#content#placeholderend##placeholderstart#, [decoratorOptions]#placeholderend#)#placeholderstart#;#placeholderend#

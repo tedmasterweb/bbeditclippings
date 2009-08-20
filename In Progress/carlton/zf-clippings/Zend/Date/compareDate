@@ -1,0 +1,1 @@
+compareDate(#placeholderstart#date#placeholderend##placeholderstart#, [format]#placeholderend##placeholderstart#, [locale]#placeholderend#)#placeholderstart#;#placeholderend#

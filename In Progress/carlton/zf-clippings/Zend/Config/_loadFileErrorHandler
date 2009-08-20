@@ -1,0 +1,1 @@
+_loadFileErrorHandler(#placeholderstart#errno#placeholderend#, #placeholderstart#errstr#placeholderend#, #placeholderstart#errfile#placeholderend#, #placeholderstart#errline#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+bundle(#placeholderstart#instanceId#placeholderend#, #placeholderstart#s3Bucket#placeholderend#, #placeholderstart#s3Prefix#placeholderend##placeholderstart#, [uploadExpiration]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+bindParam(#placeholderstart#param#placeholderend#, #placeholderstart#variable#placeholderend#)#placeholderstart#;#placeholderend#

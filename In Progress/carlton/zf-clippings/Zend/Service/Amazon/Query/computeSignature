@@ -1,0 +1,1 @@
+computeSignature(#placeholderstart#baseUri#placeholderend#, #placeholderstart#secretKey#placeholderend#, #placeholderstart#options#placeholderend#)#placeholderstart#;#placeholderend#

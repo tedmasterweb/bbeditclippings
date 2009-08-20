@@ -1,0 +1,1 @@
+deleteMessage(#placeholderstart#queue_url#placeholderend#, #placeholderstart#handle#placeholderend#)#placeholderstart#;#placeholderend#

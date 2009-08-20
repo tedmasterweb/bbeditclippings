@@ -1,0 +1,1 @@
+bindColumn(#placeholderstart#column#placeholderend#, #placeholderstart#param#placeholderend##placeholderstart#, [type]#placeholderend#)#placeholderstart#;#placeholderend#

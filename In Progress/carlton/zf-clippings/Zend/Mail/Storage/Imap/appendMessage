@@ -1,0 +1,1 @@
+appendMessage(#placeholderstart#message#placeholderend##placeholderstart#, [folder]#placeholderend##placeholderstart#, [flags]#placeholderend#)#placeholderstart#;#placeholderend#

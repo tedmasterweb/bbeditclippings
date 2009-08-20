@@ -1,0 +1,1 @@
+wordWrap(#placeholderstart#string#placeholderend##placeholderstart#, [width]#placeholderend##placeholderstart#, [break]#placeholderend##placeholderstart#, [cut]#placeholderend##placeholderstart#, [charset]#placeholderend#)#placeholderstart#;#placeholderend#

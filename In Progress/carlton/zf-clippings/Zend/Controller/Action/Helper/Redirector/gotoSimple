@@ -1,0 +1,1 @@
+gotoSimple(#placeholderstart#action#placeholderend##placeholderstart#, [controller]#placeholderend##placeholderstart#, [module]#placeholderend##placeholderstart#, [params]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+searchEntries(#placeholderstart#filter#placeholderend##placeholderstart#, [basedn]#placeholderend##placeholderstart#, [scope]#placeholderend##placeholderstart#, [attributes]#placeholderend##placeholderstart#, [sort]#placeholderend#)#placeholderstart#;#placeholderend#

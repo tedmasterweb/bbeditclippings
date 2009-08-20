@@ -1,0 +1,1 @@
+readStringUTF16(#placeholderstart#byteCount#placeholderend##placeholderstart#, [byteOrder]#placeholderend##placeholderstart#, [characterSet]#placeholderend#)#placeholderstart#;#placeholderend#

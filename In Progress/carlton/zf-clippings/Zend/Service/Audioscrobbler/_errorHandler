@@ -1,0 +1,1 @@
+_errorHandler(#placeholderstart#errno#placeholderend#, #placeholderstart#errstr#placeholderend#, #placeholderstart#errfile#placeholderend#, #placeholderstart#errline#placeholderend#, #placeholderstart#errcontext#placeholderend#)#placeholderstart#;#placeholderend#

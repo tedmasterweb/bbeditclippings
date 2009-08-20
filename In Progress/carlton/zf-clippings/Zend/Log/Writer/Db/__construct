@@ -1,0 +1,1 @@
+__construct(#placeholderstart#db#placeholderend#, #placeholderstart#table#placeholderend##placeholderstart#, [columnMap]#placeholderend#)#placeholderstart#;#placeholderend#

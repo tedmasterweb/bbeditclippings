@@ -1,0 +1,1 @@
+lookupNamespace(#placeholderstart#prefix#placeholderend##placeholderstart#, [majorVersion]#placeholderend##placeholderstart#, [minorVersion]#placeholderend#)#placeholderstart#;#placeholderend#

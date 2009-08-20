@@ -1,0 +1,1 @@
+mktime(#placeholderstart#hour#placeholderend#, #placeholderstart#minute#placeholderend#, #placeholderstart#second#placeholderend#, #placeholderstart#month#placeholderend#, #placeholderstart#day#placeholderend#, #placeholderstart#year#placeholderend##placeholderstart#, [gmt]#placeholderend#)#placeholderstart#;#placeholderend#

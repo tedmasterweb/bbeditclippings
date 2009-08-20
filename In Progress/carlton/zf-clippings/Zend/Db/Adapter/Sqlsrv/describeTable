@@ -1,0 +1,1 @@
+describeTable(#placeholderstart#tableName#placeholderend##placeholderstart#, [schemaName]#placeholderend#)#placeholderstart#;#placeholderend#

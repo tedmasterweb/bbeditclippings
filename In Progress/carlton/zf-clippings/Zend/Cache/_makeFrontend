@@ -1,0 +1,1 @@
+_makeFrontend(#placeholderstart#frontend#placeholderend##placeholderstart#, [frontendOptions]#placeholderend##placeholderstart#, [customFrontendNaming]#placeholderend##placeholderstart#, [autoload]#placeholderend#)#placeholderstart#;#placeholderend#

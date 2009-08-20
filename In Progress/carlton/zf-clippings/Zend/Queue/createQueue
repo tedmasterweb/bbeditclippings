@@ -1,0 +1,1 @@
+createQueue(#placeholderstart#name#placeholderend##placeholderstart#, [timeout]#placeholderend#)#placeholderstart#;#placeholderend#

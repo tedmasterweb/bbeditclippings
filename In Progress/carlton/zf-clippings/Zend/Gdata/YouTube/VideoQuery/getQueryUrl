@@ -1,0 +1,1 @@
+getQueryUrl(#placeholderstart#[majorProtocolVersion]#placeholderend##placeholderstart#, [minorProtocolVersion]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+respondWithErrorMessage(#placeholderstart#errorMessage#placeholderend##placeholderstart#, [exception]#placeholderend#)#placeholderstart#;#placeholderend#

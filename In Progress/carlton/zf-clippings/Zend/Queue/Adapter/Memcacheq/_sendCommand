@@ -1,0 +1,1 @@
+_sendCommand(#placeholderstart#command#placeholderend#, #placeholderstart#terminator#placeholderend##placeholderstart#, [include_term]#placeholderend#)#placeholderstart#;#placeholderend#

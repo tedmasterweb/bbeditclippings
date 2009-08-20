@@ -1,0 +1,1 @@
+registerNamespace(#placeholderstart#prefix#placeholderend#, #placeholderstart#namespaceUri#placeholderend##placeholderstart#, [majorVersion]#placeholderend##placeholderstart#, [minorVersion]#placeholderend#)#placeholderstart#;#placeholderend#

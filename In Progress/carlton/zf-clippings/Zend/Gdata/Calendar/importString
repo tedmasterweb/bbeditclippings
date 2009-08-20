@@ -1,0 +1,1 @@
+importString(#placeholderstart#string#placeholderend##placeholderstart#, [className]#placeholderend##placeholderstart#, [majorProtocolVersion]#placeholderend##placeholderstart#, [minorProtocolVersion]#placeholderend#)#placeholderstart#;#placeholderend#

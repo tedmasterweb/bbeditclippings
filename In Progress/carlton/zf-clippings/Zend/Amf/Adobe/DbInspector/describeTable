@@ -1,0 +1,1 @@
+describeTable(#placeholderstart#dbType#placeholderend#, #placeholderstart#dbDescription#placeholderend#, #placeholderstart#tableName#placeholderend#)#placeholderstart#;#placeholderend#

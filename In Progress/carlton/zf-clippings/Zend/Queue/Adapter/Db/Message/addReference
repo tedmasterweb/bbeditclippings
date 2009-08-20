@@ -1,0 +1,1 @@
+addReference(#placeholderstart#ruleKey#placeholderend#, #placeholderstart#columns#placeholderend#, #placeholderstart#refTableClass#placeholderend#, #placeholderstart#refColumns#placeholderend##placeholderstart#, [onDelete]#placeholderend##placeholderstart#, [onUpdate]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+send(#placeholderstart#queue_url#placeholderend#, #placeholderstart#message#placeholderend#)#placeholderstart#;#placeholderend#

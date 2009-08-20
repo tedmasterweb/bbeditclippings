@@ -1,0 +1,1 @@
+create(#placeholderstart#name#placeholderend##placeholderstart#, [controllerName]#placeholderend##placeholderstart#, [viewIncluded]#placeholderend##placeholderstart#, [module]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+createApplicationResource(#placeholderstart#profile#placeholderend#, #placeholderstart#controllerName#placeholderend#, #placeholderstart#actionName#placeholderend##placeholderstart#, [moduleName]#placeholderend#)#placeholderstart#;#placeholderend#

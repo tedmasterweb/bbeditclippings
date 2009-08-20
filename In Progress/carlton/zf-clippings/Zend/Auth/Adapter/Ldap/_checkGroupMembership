@@ -1,0 +1,1 @@
+_checkGroupMembership(#placeholderstart#ldap#placeholderend#, #placeholderstart#canonicalName#placeholderend#, #placeholderstart#dn#placeholderend#, #placeholderstart#adapterOptions#placeholderend#)#placeholderstart#;#placeholderend#

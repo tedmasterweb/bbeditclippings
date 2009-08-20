@@ -1,0 +1,1 @@
+fetchCol(#placeholderstart#sql#placeholderend##placeholderstart#, [bind]#placeholderend#)#placeholderstart#;#placeholderend#

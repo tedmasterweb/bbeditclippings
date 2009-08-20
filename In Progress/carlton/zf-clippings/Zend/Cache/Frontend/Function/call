@@ -1,0 +1,1 @@
+call(#placeholderstart#name#placeholderend##placeholderstart#, [parameters]#placeholderend##placeholderstart#, [tags]#placeholderend##placeholderstart#, [specificLifetime]#placeholderend##placeholderstart#, [priority]#placeholderend#)#placeholderstart#;#placeholderend#

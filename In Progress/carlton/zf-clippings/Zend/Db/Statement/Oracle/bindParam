@@ -1,0 +1,1 @@
+bindParam(#placeholderstart#parameter#placeholderend#, #placeholderstart#variable#placeholderend##placeholderstart#, [type]#placeholderend##placeholderstart#, [length]#placeholderend##placeholderstart#, [options]#placeholderend#)#placeholderstart#;#placeholderend#

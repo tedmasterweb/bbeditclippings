@@ -1,0 +1,1 @@
+getAuthSubTokenUri(#placeholderstart#next#placeholderend#, #placeholderstart#scope#placeholderend##placeholderstart#, [secure]#placeholderend##placeholderstart#, [session]#placeholderend##placeholderstart#, [request_uri]#placeholderend#)#placeholderstart#;#placeholderend#

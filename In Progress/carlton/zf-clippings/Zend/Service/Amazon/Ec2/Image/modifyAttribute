@@ -1,0 +1,1 @@
+modifyAttribute(#placeholderstart#imageId#placeholderend#, #placeholderstart#attribute#placeholderend##placeholderstart#, [operationType]#placeholderend##placeholderstart#, [userId]#placeholderend##placeholderstart#, [userGroup]#placeholderend##placeholderstart#, [productCode]#placeholderend#)#placeholderstart#;#placeholderend#

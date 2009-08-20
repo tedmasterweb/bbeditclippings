@@ -1,0 +1,1 @@
+createActionMethod(#placeholderstart#controllerPath#placeholderend#, #placeholderstart#actionName#placeholderend##placeholderstart#, [body]#placeholderend#)#placeholderstart#;#placeholderend#

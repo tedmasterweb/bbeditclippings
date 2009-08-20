@@ -1,0 +1,1 @@
+copy(#placeholderstart#from#placeholderend#, #placeholderstart#to#placeholderend##placeholderstart#, [recursively]#placeholderend#)#placeholderstart#;#placeholderend#

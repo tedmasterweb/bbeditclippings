@@ -1,0 +1,1 @@
+fetchAll(#placeholderstart#[where]#placeholderend##placeholderstart#, [order]#placeholderend##placeholderstart#, [count]#placeholderend##placeholderstart#, [offset]#placeholderend#)#placeholderstart#;#placeholderend#

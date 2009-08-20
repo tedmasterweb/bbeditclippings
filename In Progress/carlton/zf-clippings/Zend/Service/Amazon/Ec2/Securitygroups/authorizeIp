@@ -1,0 +1,1 @@
+authorizeIp(#placeholderstart#name#placeholderend#, #placeholderstart#ipProtocol#placeholderend#, #placeholderstart#fromPort#placeholderend#, #placeholderstart#toPort#placeholderend#, #placeholderstart#cidrIp#placeholderend#)#placeholderstart#;#placeholderend#

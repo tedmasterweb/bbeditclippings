@@ -1,0 +1,1 @@
+addResourceType(#placeholderstart#type#placeholderend#, #placeholderstart#path#placeholderend##placeholderstart#, [namespace]#placeholderend#)#placeholderstart#;#placeholderend#

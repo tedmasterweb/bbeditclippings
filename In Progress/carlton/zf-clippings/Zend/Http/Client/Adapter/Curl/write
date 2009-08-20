@@ -1,0 +1,1 @@
+write(#placeholderstart#method#placeholderend#, #placeholderstart#uri#placeholderend##placeholderstart#, [http_ver]#placeholderend##placeholderstart#, [headers]#placeholderend##placeholderstart#, [body]#placeholderend#)#placeholderstart#;#placeholderend#

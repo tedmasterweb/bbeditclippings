@@ -1,0 +1,1 @@
+encodeAuthHeader(#placeholderstart#user#placeholderend#, #placeholderstart#password#placeholderend##placeholderstart#, [type]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,0 +1,1 @@
+paginationControl(#placeholderstart#[paginator]#placeholderend##placeholderstart#, [scrollingStyle]#placeholderend##placeholderstart#, [partial]#placeholderend##placeholderstart#, [params]#placeholderend#)#placeholderstart#;#placeholderend#

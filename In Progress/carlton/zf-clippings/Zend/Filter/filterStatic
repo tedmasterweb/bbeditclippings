@@ -1,0 +1,1 @@
+filterStatic(#placeholderstart#value#placeholderend#, #placeholderstart#classBaseName#placeholderend##placeholderstart#, [args]#placeholderend##placeholderstart#, [namespaces]#placeholderend#)#placeholderstart#;#placeholderend#
