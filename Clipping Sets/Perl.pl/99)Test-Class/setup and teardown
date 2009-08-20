@@ -1,0 +1,9 @@
+#INDENT#sub <#method name#> : Test(setup) {
+	my $self = shift;
+	<#method body#>
+}
+
+#INDENT#sub <#method name#> : Test(teardown) {
+	my $self = shift;
+	<#method body#>
+}

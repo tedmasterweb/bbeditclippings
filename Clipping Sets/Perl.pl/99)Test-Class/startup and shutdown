@@ -1,0 +1,9 @@
+#INDENT#sub <#method name#> : Test(startup) {
+	my $self = shift;
+	<#method body#>
+}
+
+#INDENT#sub <#method name#> : Test(shutdown) {
+	my $self = shift;
+	<#method body#>
+}

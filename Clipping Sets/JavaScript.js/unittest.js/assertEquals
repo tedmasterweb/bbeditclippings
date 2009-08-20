@@ -1,0 +1,1 @@
+#indent#assertEqual(<#value#>, <#actual#>, <#message#>);

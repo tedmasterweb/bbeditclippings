@@ -1,0 +1,8 @@
+#indent#<#class name#> = Class.create(<#superclass#>, {
+
+	initialize: function(<#constructor args#>) {
+		<#code#>
+	},
+	
+	<#methods#>
+};

@@ -1,0 +1,16 @@
+#indent#new Test.Unit.Runner({
+    setup: function() {
+
+    },
+    
+    teardown: function() {
+
+    },
+
+    test<#test function#>: function() { with(this) {
+        assertNothingRaised(function() {
+        	<#code#>
+        });
+    }}
+});
+
