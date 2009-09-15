@@ -1,1 +1,0 @@
-deny(#placeholderstart#[roles]#placeholderend##placeholderstart#, [resources]#placeholderend##placeholderstart#, [privileges]#placeholderend##placeholderstart#, [assert]#placeholderend#)#placeholderstart#;#placeholderend#

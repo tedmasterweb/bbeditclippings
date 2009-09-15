@@ -1,1 +1,0 @@
-__construct(#placeholderstart#zendDb#placeholderend##placeholderstart#, [tableName]#placeholderend##placeholderstart#, [identityColumn]#placeholderend##placeholderstart#, [credentialColumn]#placeholderend##placeholderstart#, [credentialTreatment]#placeholderend#)#placeholderstart#;#placeholderend#

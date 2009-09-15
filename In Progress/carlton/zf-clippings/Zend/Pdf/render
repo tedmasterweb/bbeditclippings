@@ -1,1 +1,0 @@
-render(#placeholderstart#[newSegmentOnly]#placeholderend##placeholderstart#, [outputStream]#placeholderend#)#placeholderstart#;#placeholderend#

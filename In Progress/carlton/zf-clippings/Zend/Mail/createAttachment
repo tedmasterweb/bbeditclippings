@@ -1,1 +1,0 @@
-createAttachment(#placeholderstart#body#placeholderend##placeholderstart#, [mimeType]#placeholderend##placeholderstart#, [disposition]#placeholderend##placeholderstart#, [encoding]#placeholderend##placeholderstart#, [filename]#placeholderend#)#placeholderstart#;#placeholderend#

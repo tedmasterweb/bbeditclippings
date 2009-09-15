@@ -1,1 +1,0 @@
-encode(#placeholderstart#valueToEncode#placeholderend##placeholderstart#, [cycleCheck]#placeholderend##placeholderstart#, [options]#placeholderend#)#placeholderstart#;#placeholderend#

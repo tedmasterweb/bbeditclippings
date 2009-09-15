@@ -1,1 +1,0 @@
-fromXml(#placeholderstart#xmlStringContents#placeholderend##placeholderstart#, [ignoreXmlAttributes]#placeholderend#)#placeholderstart#;#placeholderend#

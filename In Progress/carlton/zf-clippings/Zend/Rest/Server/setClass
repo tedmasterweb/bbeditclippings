@@ -1,1 +1,0 @@
-setClass(#placeholderstart#classname#placeholderend##placeholderstart#, [namespace]#placeholderend##placeholderstart#, [argv]#placeholderend#)#placeholderstart#;#placeholderend#

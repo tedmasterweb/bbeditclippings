@@ -1,1 +1,0 @@
-receive(#placeholderstart#[maxMessages]#placeholderend##placeholderstart#, [timeout]#placeholderend##placeholderstart#, [queue]#placeholderend#)#placeholderstart#;#placeholderend#

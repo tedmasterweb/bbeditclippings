@@ -1,1 +1,0 @@
-setAttribute(#placeholderstart#data#placeholderend#, #placeholderstart#attribName#placeholderend#, #placeholderstart#value#placeholderend##placeholderstart#, [append]#placeholderend#)#placeholderstart#;#placeholderend#

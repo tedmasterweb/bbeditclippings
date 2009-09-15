@@ -1,1 +1,0 @@
-connect(#placeholderstart#host#placeholderend##placeholderstart#, [port]#placeholderend##placeholderstart#, [secure]#placeholderend#)#placeholderstart#;#placeholderend#

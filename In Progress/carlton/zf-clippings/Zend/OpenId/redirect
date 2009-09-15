@@ -1,1 +1,0 @@
-redirect(#placeholderstart#url#placeholderend##placeholderstart#, [params]#placeholderend##placeholderstart#, [response]#placeholderend##placeholderstart#, [method]#placeholderend#)#placeholderstart#;#placeholderend#

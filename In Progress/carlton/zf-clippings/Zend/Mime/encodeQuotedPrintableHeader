@@ -1,1 +1,0 @@
-encodeQuotedPrintableHeader(#placeholderstart#str#placeholderend#, #placeholderstart#charset#placeholderend##placeholderstart#, [lineLength]#placeholderend##placeholderstart#, [lineEnd]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,1 +1,0 @@
-append(#placeholderstart#folder#placeholderend#, #placeholderstart#message#placeholderend##placeholderstart#, [flags]#placeholderend##placeholderstart#, [date]#placeholderend#)#placeholderstart#;#placeholderend#

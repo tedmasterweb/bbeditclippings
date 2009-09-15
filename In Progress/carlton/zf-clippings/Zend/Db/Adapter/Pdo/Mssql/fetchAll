@@ -1,1 +1,0 @@
-fetchAll(#placeholderstart#sql#placeholderend##placeholderstart#, [bind]#placeholderend##placeholderstart#, [fetchMode]#placeholderend#)#placeholderstart#;#placeholderend#

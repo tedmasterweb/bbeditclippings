@@ -1,1 +1,0 @@
-decrypt(#placeholderstart#encryptedData#placeholderend#, #placeholderstart#privateKey#placeholderend##placeholderstart#, [password]#placeholderend##placeholderstart#, [padding]#placeholderend#)#placeholderstart#;#placeholderend#

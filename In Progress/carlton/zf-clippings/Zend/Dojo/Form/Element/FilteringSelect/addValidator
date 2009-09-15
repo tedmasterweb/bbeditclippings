@@ -1,1 +1,0 @@
-addValidator(#placeholderstart#validator#placeholderend##placeholderstart#, [breakChainOnFailure]#placeholderend##placeholderstart#, [options]#placeholderend#)#placeholderstart#;#placeholderend#

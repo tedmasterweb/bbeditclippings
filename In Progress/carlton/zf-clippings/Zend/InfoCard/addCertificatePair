@@ -1,1 +1,0 @@
-addCertificatePair(#placeholderstart#private_key_file#placeholderend#, #placeholderstart#public_key_file#placeholderend##placeholderstart#, [type]#placeholderend##placeholderstart#, [password]#placeholderend#)#placeholderstart#;#placeholderend#

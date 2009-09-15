@@ -1,1 +1,0 @@
-_getS3UploadPolicy(#placeholderstart#bucketName#placeholderend#, #placeholderstart#prefix#placeholderend##placeholderstart#, [expireInMinutes]#placeholderend#)#placeholderstart#;#placeholderend#

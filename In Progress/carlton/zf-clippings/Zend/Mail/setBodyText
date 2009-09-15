@@ -1,1 +1,0 @@
-setBodyText(#placeholderstart#txt#placeholderend##placeholderstart#, [charset]#placeholderend##placeholderstart#, [encoding]#placeholderend#)#placeholderstart#;#placeholderend#

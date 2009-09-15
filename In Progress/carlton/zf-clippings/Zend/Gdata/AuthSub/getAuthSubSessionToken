@@ -1,1 +1,0 @@
-getAuthSubSessionToken(#placeholderstart#token#placeholderend##placeholderstart#, [client]#placeholderend##placeholderstart#, [request_uri]#placeholderend#)#placeholderstart#;#placeholderend#

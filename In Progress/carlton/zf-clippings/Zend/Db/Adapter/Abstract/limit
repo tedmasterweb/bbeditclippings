@@ -1,1 +1,0 @@
-limit(#placeholderstart#sql#placeholderend#, #placeholderstart#count#placeholderend##placeholderstart#, [offset]#placeholderend#)#placeholderstart#;#placeholderend#

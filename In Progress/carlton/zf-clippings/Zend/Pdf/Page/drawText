@@ -1,1 +1,0 @@
-drawText(#placeholderstart#text#placeholderend#, #placeholderstart#x#placeholderend#, #placeholderstart#y#placeholderend##placeholderstart#, [charEncoding]#placeholderend#)#placeholderstart#;#placeholderend#

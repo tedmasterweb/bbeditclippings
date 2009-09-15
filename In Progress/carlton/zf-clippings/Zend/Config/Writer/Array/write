@@ -1,1 +1,0 @@
-write(#placeholderstart#[filename]#placeholderend##placeholderstart#, [config]#placeholderend##placeholderstart#, [exclusiveLock]#placeholderend#)#placeholderstart#;#placeholderend#

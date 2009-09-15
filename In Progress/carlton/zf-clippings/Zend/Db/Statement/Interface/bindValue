@@ -1,1 +1,0 @@
-bindValue(#placeholderstart#parameter#placeholderend#, #placeholderstart#value#placeholderend##placeholderstart#, [type]#placeholderend#)#placeholderstart#;#placeholderend#

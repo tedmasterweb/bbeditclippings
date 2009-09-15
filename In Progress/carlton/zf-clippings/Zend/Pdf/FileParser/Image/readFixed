@@ -1,1 +1,0 @@
-readFixed(#placeholderstart#mantissaBits#placeholderend#, #placeholderstart#fractionBits#placeholderend##placeholderstart#, [byteOrder]#placeholderend#)#placeholderstart#;#placeholderend#

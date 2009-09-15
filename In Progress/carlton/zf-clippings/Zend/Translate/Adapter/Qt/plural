@@ -1,1 +1,0 @@
-plural(#placeholderstart#singular#placeholderend#, #placeholderstart#plural#placeholderend#, #placeholderstart#number#placeholderend##placeholderstart#, [locale]#placeholderend#)#placeholderstart#;#placeholderend#

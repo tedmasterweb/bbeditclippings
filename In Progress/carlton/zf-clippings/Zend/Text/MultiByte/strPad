@@ -1,1 +1,0 @@
-strPad(#placeholderstart#input#placeholderend#, #placeholderstart#padLength#placeholderend##placeholderstart#, [padString]#placeholderend##placeholderstart#, [padType]#placeholderend##placeholderstart#, [charset]#placeholderend#)#placeholderstart#;#placeholderend#

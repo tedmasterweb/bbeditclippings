@@ -1,1 +1,0 @@
-addConnection(#placeholderstart#scheme#placeholderend#, #placeholderstart#host#placeholderend#, #placeholderstart#port#placeholderend##placeholderstart#, [class]#placeholderend#)#placeholderstart#;#placeholderend#

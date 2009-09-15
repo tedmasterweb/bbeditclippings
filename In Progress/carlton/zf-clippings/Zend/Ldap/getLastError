@@ -1,1 +1,0 @@
-getLastError(#placeholderstart#[errorCode]#placeholderend##placeholderstart#, [errorMessages]#placeholderend#)#placeholderstart#;#placeholderend#

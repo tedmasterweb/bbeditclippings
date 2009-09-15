@@ -1,1 +1,0 @@
-splitMessageStruct(#placeholderstart#message#placeholderend#, #placeholderstart#boundary#placeholderend##placeholderstart#, [EOL]#placeholderend#)#placeholderstart#;#placeholderend#

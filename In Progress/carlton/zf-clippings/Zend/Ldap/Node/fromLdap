@@ -1,1 +1,0 @@
-fromLdap(#placeholderstart#dn#placeholderend#, #placeholderstart#ldap#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,1 +1,0 @@
-sendHealthNotice(#placeholderstart#subject#placeholderend#, #placeholderstart#body#placeholderend##placeholderstart#, [bodyType]#placeholderend##placeholderstart#, [ccrXML]#placeholderend#)#placeholderstart#;#placeholderend#

@@ -1,1 +1,0 @@
-assert(#placeholderstart#acl#placeholderend##placeholderstart#, [role]#placeholderend##placeholderstart#, [resource]#placeholderend##placeholderstart#, [privilege]#placeholderend#)#placeholderstart#;#placeholderend#

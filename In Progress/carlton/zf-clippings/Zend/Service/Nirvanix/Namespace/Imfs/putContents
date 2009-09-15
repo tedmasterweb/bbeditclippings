@@ -1,1 +1,0 @@
-putContents(#placeholderstart#filePath#placeholderend#, #placeholderstart#data#placeholderend##placeholderstart#, [mimeType]#placeholderend#)#placeholderstart#;#placeholderend#
